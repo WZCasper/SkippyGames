@@ -9,7 +9,7 @@
 // либо через https://vk.com/dev/community_messages (там же берётся и код).
 // Alias группы для обычных ссылок (кнопки в шапке/футере) — vk.com/skippygames.
 var VK_GROUP_ALIAS = 'skippygames';
-var VK_GROUP_NUMERIC_ID = 0; // <-- замените на реальный числовой ID сообщества (например 123456789)
+var VK_GROUP_NUMERIC_ID = 195484236; // <-- замените на реальный числовой ID сообщества (например 123456789)
 
 var GAMES_JSON_URL = 'games.json';
 
