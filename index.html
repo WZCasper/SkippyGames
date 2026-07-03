@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SkippyGames — Магазин игр и внутриигровой валюты</title>
+<meta name="description" content="SkippyGames — покупка игр Steam, PlayStation и Xbox, а также внутриигровой валюты. Быстро, удобно, с оплатой через ВКонтакте.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700;800&family=Orbitron:wght@700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">S</span>
+      Skippy<span class="logo-accent">Games</span>
+    </a>
+    <div class="header-social">
+      <a class="social-btn" href="https://www.youtube.com/@SkippyGames" target="_blank" rel="noopener" title="YouTube">
+        <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8ZM9.6 15.6V8.4L15.8 12l-6.2 3.6Z"/></svg>
+      </a>
+      <a class="social-btn" href="https://www.twitch.tv/shadowskippy" target="_blank" rel="noopener" title="Twitch">
+        <svg viewBox="0 0 24 24"><path d="M4.3 2 2 6.9v13.8h5.1V23l3.5-2.3h4.3L21 14.5V2H4.3Zm14.9 11.6-3 3H12l-2.6 2.6v-2.6H6.3V3.7h12.9v9.9Z"/><path d="M15.9 6.9h1.7v5.2h-1.7zM11.1 6.9h1.7v5.2h-1.7z"/></svg>
+      </a>
+    </div>
+    <button class="mobile-menu-btn btn btn-secondary">Меню</button>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <h1>Твой <span>арсенал</span> игр<br>уже здесь</h1>
+    <p>Steam, PlayStation и Xbox — лицензионные ключи и аккаунты с быстрой доставкой через ВКонтакте.</p>
+  </div>
+</section>
+
+<section class="controls">
+  <div class="container">
+    <div class="search-row">
+      <div class="search-input-wrap">
+        <svg viewBox="0 0 24 24"><path d="M21 21l-4.35-4.35m1.85-5.15a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input type="text" id="search-input" placeholder="Поиск игр по названию...">
+      </div>
+      <button class="filters-toggle" id="filters-toggle">
+        Фильтры <span class="count-badge" id="filters-count">0</span>
+      </button>
+    </div>
+
+    <div class="filters-panel" id="filters-panel">
+      <div class="filter-group">
+        <h3>Платформа</h3>
+        <div class="checkbox-grid" id="platform-checkboxes">
+          <label class="check-item"><input type="checkbox" value="PC" checked><span>Steam (PC)</span></label>
+          <label class="check-item"><input type="checkbox" value="PlayStation"><span>PlayStation</span></label>
+          <label class="check-item"><input type="checkbox" value="Xbox"><span>Xbox</span></label>
+        </div>
+      </div>
+
+      <div class="filter-group genres">
+        <h3>Жанры</h3>
+        <div class="checkbox-grid" id="genre-checkboxes"></div>
+      </div>
+
+      <div class="filters-actions">
+        <button class="btn-reset" id="filters-reset">Сбросить всё</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="games-section">
+  <div class="container">
+    <div class="section-heading">
+      <h2>Каталог игр</h2>
+      <span class="results-count" id="results-count"></span>
+    </div>
+    <div class="games-grid" id="games-grid">
+      <div class="empty-state"><h3>Загрузка каталога...</h3></div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px; width:100%;">
+    <span>© SkippyGames — Андрей «ShadowSkip»</span>
+    <div class="footer-social">
+      <a href="https://www.youtube.com/@SkippyGames" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://www.twitch.tv/shadowskippy" target="_blank" rel="noopener">Twitch</a>
+      <a href="https://vk.com/skippygames" target="_blank" rel="noopener">ВКонтакте</a>
+    </div>
+  </div>
+</footer>
+
+<div class="toast-container" id="toast-container"></div>
+
+<div id="vk-chat-container">
+  <div id="vk-widget-panel">
+    <div class="vk-widget-header">
+      <img id="vk-manager-avatar" src="" alt="Дежурный менеджер">
+      <div class="who">
+        <strong id="vk-manager-name">Дежурный менеджер</strong>
+        <span>Онлайн</span>
+      </div>
+      <button class="close-btn" id="vk-widget-close">×</button>
+    </div>
+    <div id="vk_community_messages"></div>
+  </div>
+  <button class="vk-chat-toggle" id="vk-chat-toggle" title="Написать в чат">
+    <img id="vk-toggle-avatar" src="" alt="Написать нам">
+    <span class="online-dot"></span>
+  </button>
+</div>
+
+<script src="script.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    initVkWidget();
+    loadGamesData().then(function () {
+      renderGenreCheckboxes();
+      applyFiltersAndRender();
+      initSearchAndFilters();
+    });
+  });
+</script>
+</body>
+</html>

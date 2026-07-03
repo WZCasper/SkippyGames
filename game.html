@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="page-title">SkippyGames — Карточка игры</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700;800&family=Orbitron:wght@700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">S</span>
+      Skippy<span class="logo-accent">Games</span>
+    </a>
+    <div class="header-social">
+      <a class="social-btn" href="https://www.youtube.com/@SkippyGames" target="_blank" rel="noopener" title="YouTube">
+        <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8ZM9.6 15.6V8.4L15.8 12l-6.2 3.6Z"/></svg>
+      </a>
+      <a class="social-btn" href="https://www.twitch.tv/shadowskippy" target="_blank" rel="noopener" title="Twitch">
+        <svg viewBox="0 0 24 24"><path d="M4.3 2 2 6.9v13.8h5.1V23l3.5-2.3h4.3L21 14.5V2H4.3Zm14.9 11.6-3 3H12l-2.6 2.6v-2.6H6.3V3.7h12.9v9.9Z"/><path d="M15.9 6.9h1.7v5.2h-1.7zM11.1 6.9h1.7v5.2h-1.7z"/></svg>
+      </a>
+    </div>
+  </div>
+</header>
+
+<main class="game-detail">
+  <div class="container" id="game-container">
+    <p class="breadcrumb"><a href="index.html">Каталог</a> / <span id="breadcrumb-title">Загрузка...</span></p>
+    <div id="game-content"></div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px; width:100%;">
+    <span>© SkippyGames — Андрей «ShadowSkip»</span>
+    <div class="footer-social">
+      <a href="https://www.youtube.com/@SkippyGames" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://www.twitch.tv/shadowskippy" target="_blank" rel="noopener">Twitch</a>
+      <a href="https://vk.com/skippygames" target="_blank" rel="noopener">ВКонтакте</a>
+    </div>
+  </div>
+</footer>
+
+<div class="toast-container" id="toast-container"></div>
+
+<div id="vk-chat-container">
+  <div id="vk-widget-panel">
+    <div class="vk-widget-header">
+      <img id="vk-manager-avatar" src="" alt="Дежурный менеджер">
+      <div class="who">
+        <strong id="vk-manager-name">Дежурный менеджер</strong>
+        <span>Онлайн</span>
+      </div>
+      <button class="close-btn" id="vk-widget-close">×</button>
+    </div>
+    <div id="vk_community_messages"></div>
+  </div>
+  <button class="vk-chat-toggle" id="vk-chat-toggle" title="Написать в чат">
+    <img id="vk-toggle-avatar" src="" alt="Написать нам">
+    <span class="online-dot"></span>
+  </button>
+</div>
+
+<script src="script.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    initVkWidget();
+    loadGamesData().then(function () {
+      renderGameDetail();
+    });
+  });
+</script>
+</body>
+</html>
