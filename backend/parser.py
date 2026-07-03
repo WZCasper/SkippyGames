@@ -1,26 +1,32 @@
 #!/usr/bin/env python3
 """
-SkippyGames — сборщик данных о играх.
+SkippyGames — сборщик данных о играх (v2).
 
-Скрипт делает следующее:
-1. Получает список популярных игр Steam (топ продаж, cc=ua) и объединяет
-   его со списком кастомных appid из backend/custom_ids.txt.
-2. Для каждой игры запрашивает подробности через Steam Store API
-   (appdetails, cc=ua, l=russian): название, обложку, описание, жанры,
-   платформы, цену в UAH, ссылку на трейлер YouTube (если есть).
-3. Дополняет жанры детальными тегами сообщества через SteamSpy API и
-   сопоставляет их с русским списком жанров сайта.
-4. Получает текущий курс UAH -> RUB через open.er-api.com.
-5. Конвертирует цену UAH -> RUB и прибавляет фиксированную наценку +500 RUB.
-6. Сохраняет итоговый массив в games.json в корне репозитория.
+Особенности версии 2, по сравнению с первой:
+- Каталог растёт ИНКРЕМЕНТАЛЬНО: каждый прогон не пересобирает всё заново,
+  а (1) обновляет цены у "устаревших" карточек (у которых давно не было
+  refresh) и (2) добавляет новые игры из полного списка приложений Steam,
+  пока не исчерпан лимит времени/запросов на один прогон. Так каталог может
+  вырасти до 10 000+ игр за несколько дней/недель без блокировки по
+  rate-limit и без превышения таймаута GitHub Actions (6 часов на job).
+- Полные (нетронутые) описания игр (detailed_description), а не короткие.
+- Изображения высокого разрешения: капсула 616x353 и hero-баннер 1920x620
+  вместо низкого header_image (460x215); скриншоты берутся в разрешении
+  path_full, а не path_thumbnail.
+- DLC / дополнения / внутриигровая валюта — отдельным списком с ценами.
+- ID приложений, которые оказались НЕ играми (DLC, саундтреки, софт),
+  запоминаются в backend/skipped_ids.json, чтобы не тратить на них
+  запросы повторно на следующих прогонах.
 
 Запуск: python backend/parser.py
 """
 
 import json
 import os
+import re
 import sys
 import time
+import html
 import logging
 from pathlib import Path
 
@@ -33,16 +39,20 @@ logging.basicConfig(
 log = logging.getLogger("skippygames.parser")
 
 # ---------------------------------------------------------------------------
-# Константы
+# Константы / конфигурация
 # ---------------------------------------------------------------------------
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-CUSTOM_IDS_FILE = Path(__file__).resolve().parent / "custom_ids.txt"
+BACKEND_DIR = Path(__file__).resolve().parent
+CUSTOM_IDS_FILE = BACKEND_DIR / "custom_ids.txt"
+SKIPPED_IDS_FILE = BACKEND_DIR / "skipped_ids.json"
 OUTPUT_FILE = REPO_ROOT / "games.json"
 
+STEAM_APPLIST_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
 STEAM_FEATURED_URL = "https://store.steampowered.com/api/featuredcategories/"
 STEAM_TOPSELLERS_SEARCH_URL = "https://store.steampowered.com/api/storesearch/"
 STEAM_APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
+STEAM_CDN_BASE = "https://cdn.cloudflare.steamstatic.com/steam/apps"
 STEAMSPY_APPDETAILS_URL = "https://steamspy.com/api.php"
 EXCHANGE_RATE_URL = "https://open.er-api.com/v6/latest/UAH"
 
@@ -50,14 +60,23 @@ REGION_CC = "ua"
 REGION_LANG = "russian"
 
 MARKUP_RUB = 500
-MAX_TOP_GAMES = 1000
 REQUEST_TIMEOUT = 15
-REQUEST_DELAY = 1.0  # пауза между запросами appdetails, чтобы не словить rate-limit
+REQUEST_DELAY = 0.6
 MAX_RETRIES = 3
 
+# Целевой размер каталога и бюджеты одного прогона. Подобраны так, чтобы
+# один запуск гарантированно укладывался в лимит GitHub Actions (6 часов)
+# и не долбил Steam API слишком агрессивно (у него есть неофициальный
+# rate-limit — примерно 200 запросов appdetails за 5 минут на IP).
+TARGET_CATALOG_SIZE = 10000
+MAX_RUNTIME_SECONDS = 55 * 60          # жёсткий потолок одного прогона — 55 минут
+REFRESH_STALE_AFTER_DAYS = 3           # обновлять цену, если старше N дней
+MAX_REFRESH_PER_RUN = 1200             # сколько существующих карточек обновить за прогон
+MAX_NEW_GAMES_PER_RUN = 600            # сколько новых игр добавить за прогон
+
+RUN_STARTED_AT = time.monotonic()
+
 # Сопоставление тегов SteamSpy/Steam с русским списком жанров сайта.
-# Ключ — тег в нижнем регистре, как он приходит от SteamSpy, значение —
-# соответствующая русская категория, используемая в фильтрах сайта.
 TAG_MAP = {
     "action": "Экшен",
     "fps": "Шутеры от первого лица (FPS)",
@@ -130,17 +149,24 @@ STEAM_GENRE_FALLBACK = {
 }
 
 session = requests.Session()
-session.headers.update({"User-Agent": "SkippyGamesBot/1.0 (+https://github.com)"})
+session.headers.update({"User-Agent": "SkippyGamesBot/2.0 (+https://github.com)"})
+
+
+def time_budget_left():
+    return MAX_RUNTIME_SECONDS - (time.monotonic() - RUN_STARTED_AT)
 
 
 def http_get(url, params=None, retries=MAX_RETRIES):
-    """GET-запрос с повторными попытками при сетевых ошибках."""
     last_exc = None
     for attempt in range(1, retries + 1):
         try:
             resp = session.get(url, params=params, timeout=REQUEST_TIMEOUT)
             if resp.status_code == 200:
                 return resp
+            if resp.status_code == 429:
+                log.warning("429 Too Many Requests, пауза 30с")
+                time.sleep(30)
+                continue
             log.warning("HTTP %s от %s (попытка %s/%s)", resp.status_code, url, attempt, retries)
         except requests.RequestException as exc:
             last_exc = exc
@@ -151,9 +177,45 @@ def http_get(url, params=None, retries=MAX_RETRIES):
     return None
 
 
+def http_head_ok(url):
+    try:
+        resp = session.head(url, timeout=8)
+        return resp.status_code == 200
+    except requests.RequestException:
+        return False
+
+
 # ---------------------------------------------------------------------------
-# Сбор списка appid
+# Персистентное состояние: уже собранный каталог и список "не игр"
 # ---------------------------------------------------------------------------
+
+def load_existing_catalog():
+    if OUTPUT_FILE.exists():
+        try:
+            data = json.loads(OUTPUT_FILE.read_text(encoding="utf-8"))
+            games = data.get("games", [])
+            log.info("Загружен существующий games.json: %s игр", len(games))
+            return {g["id"]: g for g in games}
+        except (ValueError, KeyError) as exc:
+            log.warning("Не удалось прочитать существующий games.json: %s", exc)
+    return {}
+
+
+def load_skipped_ids():
+    if SKIPPED_IDS_FILE.exists():
+        try:
+            return set(json.loads(SKIPPED_IDS_FILE.read_text(encoding="utf-8")))
+        except ValueError:
+            return set()
+    return set()
+
+
+def save_skipped_ids(skipped):
+    SKIPPED_IDS_FILE.write_text(
+        json.dumps(sorted(skipped), ensure_ascii=False),
+        encoding="utf-8",
+    )
+
 
 def load_custom_ids():
     ids = []
@@ -165,14 +227,24 @@ def load_custom_ids():
             digits = "".join(ch for ch in line.split()[0] if ch.isdigit())
             if digits:
                 ids.append(int(digits))
-    else:
-        log.warning("Файл %s не найден, кастомный список пуст", CUSTOM_IDS_FILE)
-    log.info("Загружено %s кастомных appid", len(ids))
     return ids
 
 
-def load_top_appids(limit=MAX_TOP_GAMES):
-    """Собирает популярные appid через featuredcategories + storesearch."""
+def load_full_applist():
+    """Полный список appid+name всех приложений Steam (без деталей)."""
+    resp = http_get(STEAM_APPLIST_URL)
+    if resp is None:
+        return []
+    try:
+        data = resp.json()
+        apps = data.get("applist", {}).get("apps", [])
+        return [(a["appid"], a.get("name", "")) for a in apps if a.get("name")]
+    except (ValueError, KeyError) as exc:
+        log.warning("Не удалось разобрать GetAppList: %s", exc)
+        return []
+
+
+def load_top_appids(limit=1000):
     appids = []
     resp = http_get(STEAM_FEATURED_URL, params={"cc": REGION_CC, "l": REGION_LANG})
     if resp is not None:
@@ -187,22 +259,14 @@ def load_top_appids(limit=MAX_TOP_GAMES):
         except (ValueError, KeyError) as exc:
             log.warning("Не удалось разобрать featuredcategories: %s", exc)
 
-    # Дополняем через постраничный поиск магазина, пока не наберём лимит
     page = 0
-    while len(appids) < limit:
-        params = {
-            "term": "",
-            "l": REGION_LANG,
-            "cc": REGION_CC,
-            "start": page * 100,
-            "count": 100,
-        }
+    while len(appids) < limit and time_budget_left() > 60:
+        params = {"term": "", "l": REGION_LANG, "cc": REGION_CC, "start": page * 100, "count": 100}
         resp = http_get(STEAM_TOPSELLERS_SEARCH_URL, params=params)
         if resp is None:
             break
         try:
-            data = resp.json()
-            items = data.get("items", [])
+            items = resp.json().get("items", [])
         except ValueError:
             break
         if not items:
@@ -214,9 +278,8 @@ def load_top_appids(limit=MAX_TOP_GAMES):
         page += 1
         if page > (limit // 100 + 2):
             break
-        time.sleep(0.5)
+        time.sleep(0.4)
 
-    # Убираем дубликаты, сохраняя порядок
     seen = set()
     unique = []
     for aid in appids:
@@ -227,8 +290,27 @@ def load_top_appids(limit=MAX_TOP_GAMES):
 
 
 # ---------------------------------------------------------------------------
-# Обогащение данными
+# Обогащение данными об одной игре
 # ---------------------------------------------------------------------------
+
+STRIP_TAGS_RE = re.compile(r"<[^>]+>")
+COLLAPSE_WS_RE = re.compile(r"[ \t]+")
+COLLAPSE_NL_RE = re.compile(r"\n{3,}")
+
+
+def clean_full_description(raw_html):
+    """Полная (не обрезанная) очистка detailed_description от HTML-разметки."""
+    if not raw_html:
+        return ""
+    text = raw_html.replace("<br>", "\n").replace("<br/>", "\n").replace("<br />", "\n")
+    text = text.replace("</p>", "\n\n").replace("</li>", "\n")
+    text = text.replace("<li>", "• ")
+    text = STRIP_TAGS_RE.sub("", text)
+    text = html.unescape(text)
+    text = COLLAPSE_WS_RE.sub(" ", text)
+    text = COLLAPSE_NL_RE.sub("\n\n", text)
+    return text.strip()
+
 
 def fetch_steamspy_tags(appid):
     resp = http_get(STEAMSPY_APPDETAILS_URL, params={"request": "appdetails", "appid": appid})
@@ -241,7 +323,6 @@ def fetch_steamspy_tags(appid):
     tags_obj = data.get("tags")
     if not isinstance(tags_obj, dict):
         return []
-    # SteamSpy отдаёт теги вида {"Tag Name": 1234, ...}, сортируем по весу
     sorted_tags = sorted(tags_obj.items(), key=lambda kv: kv[1], reverse=True)
     return [t[0].lower() for t in sorted_tags]
 
@@ -265,27 +346,50 @@ def map_genres(steamspy_tags, steam_genres):
 
 
 def extract_platforms(platforms_obj):
-    result = []
     if not platforms_obj:
         return ["PC"]
     if platforms_obj.get("windows") or platforms_obj.get("mac") or platforms_obj.get("linux"):
-        result.append("PC")
-    return result or ["PC"]
+        return ["PC"]
+    return ["PC"]
 
 
-def extract_trailer(movies):
-    if not movies:
-        return None
-    first = movies[0]
-    webm = first.get("webm", {})
-    mp4 = first.get("mp4", {})
-    # На сторе трейлеры хранятся не как YouTube-ссылки, а как video-файлы Steam CDN.
-    # Возвращаем прямую ссылку на видео Steam, пригодную для встраивания через <video>,
-    # а также формируем резервную ссылку на поиск трейлера на YouTube.
-    return {
-        "steam_video": mp4.get("max") or mp4.get("480") or webm.get("max"),
-        "youtube_search": None,
-    }
+def build_hires_images(appid, api_header_image, api_background):
+    """Собирает изображения высокого разрешения из Steam CDN, с фолбэками."""
+    capsule = f"{STEAM_CDN_BASE}/{appid}/capsule_616x353.jpg"
+    hero = f"{STEAM_CDN_BASE}/{appid}/library_hero.jpg"
+
+    cover = capsule if http_head_ok(capsule) else (api_header_image or capsule)
+    hero_final = hero if http_head_ok(hero) else (api_background or api_header_image or cover)
+    return cover, hero_final
+
+
+def fetch_dlc_upsells(dlc_ids, uah_to_rub):
+    """Для каждого DLC (в т.ч. паков внутриигровой валюты) достаём имя и цену."""
+    upsells = []
+    for dlc_id in dlc_ids[:12]:  # ограничиваем, чтобы не раздувать время прогона
+        resp = http_get(STEAM_APPDETAILS_URL, params={"appids": dlc_id, "cc": REGION_CC, "l": REGION_LANG})
+        if resp is None:
+            continue
+        try:
+            entry = resp.json().get(str(dlc_id))
+        except ValueError:
+            continue
+        if not entry or not entry.get("success"):
+            continue
+        d = entry.get("data", {})
+        price_overview = d.get("price_overview")
+        if not price_overview:
+            continue
+        price_uah = price_overview.get("final", 0) / 100.0
+        price_rub = round(price_uah * uah_to_rub) + MARKUP_RUB
+        upsells.append({
+            "id": dlc_id,
+            "name": d.get("name", "Дополнение"),
+            "price_rub": price_rub,
+            "cover": d.get("header_image", ""),
+        })
+        time.sleep(0.3)
+    return upsells
 
 
 def fetch_appdetails(appid):
@@ -294,18 +398,18 @@ def fetch_appdetails(appid):
         params={"appids": appid, "cc": REGION_CC, "l": REGION_LANG, "filters": ""},
     )
     if resp is None:
-        return None
+        return None, "network_error"
     try:
         data = resp.json()
     except ValueError:
-        return None
+        return None, "bad_json"
 
     entry = data.get(str(appid))
     if not entry or not entry.get("success"):
-        return None
+        return None, "not_found"
     d = entry.get("data", {})
     if d.get("type") != "game":
-        return None
+        return None, "not_a_game"
 
     price_overview = d.get("price_overview")
     if price_overview and not d.get("is_free"):
@@ -313,36 +417,39 @@ def fetch_appdetails(appid):
     elif d.get("is_free"):
         price_uah = 0.0
     else:
-        # Игра без цены (не продаётся в регионе) — пропускаем
-        return None
-
-    steam_genres = [g.get("description") for g in d.get("genres", []) if g.get("description")]
-    movies = d.get("movies", [])
-    trailer = extract_trailer(movies)
-
-    header_image = d.get("header_image", "")
-    # На основе header_image формируем youtube-поиск как запасной вариант трейлера
-    youtube_search_url = (
-        "https://www.youtube.com/results?search_query="
-        + "+".join((d.get("name", "").split())) + "+trailer"
-    )
-    if trailer is not None:
-        trailer["youtube_search"] = youtube_search_url
-    else:
-        trailer = {"steam_video": None, "youtube_search": youtube_search_url}
+        return None, "not_sold_in_region"
 
     return {
         "id": appid,
         "title": d.get("name", "Без названия"),
-        "cover": header_image,
-        "description": (d.get("short_description") or "").strip(),
-        "steam_genres": steam_genres,
+        "header_image": d.get("header_image", ""),
+        "background": d.get("background_raw") or d.get("background", ""),
+        "description_short": (d.get("short_description") or "").strip(),
+        "description_full": clean_full_description(d.get("detailed_description", "")),
+        "steam_genres": [g.get("description") for g in d.get("genres", []) if g.get("description")],
         "platforms_raw": d.get("platforms", {}),
         "price_uah": round(price_uah, 2),
         "is_free": bool(d.get("is_free")),
-        "trailer": trailer,
-        "screenshots": [s.get("path_thumbnail") for s in d.get("screenshots", [])[:5]],
-    }
+        "movies": d.get("movies", []),
+        "screenshots": [s.get("path_full") for s in d.get("screenshots", []) if s.get("path_full")][:8],
+        "dlc_ids": d.get("dlc", []) or [],
+    }, "ok"
+
+
+def extract_trailer(movies):
+    if not movies:
+        return None
+    best = None
+    best_size = -1
+    for movie in movies:
+        mp4 = movie.get("mp4", {})
+        candidate = mp4.get("max") or mp4.get("480")
+        if candidate:
+            size_hint = 1 if mp4.get("max") else 0
+            if size_hint > best_size:
+                best = candidate
+                best_size = size_hint
+    return best
 
 
 def fetch_exchange_rate():
@@ -362,93 +469,160 @@ def fetch_exchange_rate():
     return 2.35
 
 
-# ---------------------------------------------------------------------------
-# Основной пайплайн
-# ---------------------------------------------------------------------------
-
 def build_game_record(appid, uah_to_rub):
-    details = fetch_appdetails(appid)
+    details, status = fetch_appdetails(appid)
     if details is None:
-        return None
+        return None, status
 
     tags = fetch_steamspy_tags(appid)
     genres_ru = map_genres(tags, details["steam_genres"])
     platforms = extract_platforms(details["platforms_raw"])
+    cover, hero = build_hires_images(appid, details["header_image"], details["background"])
+    trailer_video = extract_trailer(details["movies"])
 
-    # Дополняем платформы: если появляется в кастомном списке PlayStation/Xbox
-    # каталог собирается отдельно на фронтенде (curated catalog), здесь всегда PC.
     if details["is_free"]:
         price_rub = 0
     else:
         price_rub = round(details["price_uah"] * uah_to_rub) + MARKUP_RUB
 
+    upsells = []
+    if details["dlc_ids"] and time_budget_left() > 120:
+        upsells = fetch_dlc_upsells(details["dlc_ids"], uah_to_rub)
+
     record = {
         "id": details["id"],
         "title": details["title"],
-        "cover": details["cover"],
-        "description": details["description"],
+        "cover": cover,
+        "hero": hero,
+        "description": details["description_full"] or details["description_short"],
+        "description_short": details["description_short"],
         "genres": genres_ru,
         "platforms": platforms,
         "price_rub": price_rub,
         "is_free": details["is_free"],
-        "trailer_video": details["trailer"].get("steam_video"),
-        "trailer_youtube_search": details["trailer"].get("youtube_search"),
+        "trailer_video": trailer_video,
         "screenshots": details["screenshots"],
+        "upsells": upsells,
         "source": "steam",
+        "updated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
     }
-    return record
+    return record, "ok"
 
+
+# ---------------------------------------------------------------------------
+# Основной пайплайн
+# ---------------------------------------------------------------------------
 
 def main():
-    log.info("=== SkippyGames parser: старт ===")
+    log.info("=== SkippyGames parser v2: старт ===")
 
-    custom_ids = load_custom_ids()
-    top_ids = load_top_appids(MAX_TOP_GAMES)
-    log.info("Получено %s топовых appid из Steam", len(top_ids))
-
-    all_ids = []
-    seen = set()
-    for aid in custom_ids + top_ids:
-        if aid not in seen:
-            seen.add(aid)
-            all_ids.append(aid)
-
-    log.info("Итого уникальных appid к обработке: %s", len(all_ids))
-
+    catalog = load_existing_catalog()          # {id: record}
+    skipped_ids = load_skipped_ids()            # set(id) — точно не игры
     uah_to_rub = fetch_exchange_rate()
 
-    games = []
-    total = len(all_ids)
-    for idx, appid in enumerate(all_ids, start=1):
+    processed = 0
+    added = 0
+    refreshed = 0
+
+    # --- Этап 1: обновляем цену/данные у самых "старых" карточек -----------
+    now = time.time()
+    stale_threshold = now - REFRESH_STALE_AFTER_DAYS * 86400
+
+    def parse_ts(record):
         try:
-            record = build_game_record(appid, uah_to_rub)
-            if record:
-                games.append(record)
-                log.info("[%s/%s] OK: %s (%s ₽)", idx, total, record["title"], record["price_rub"])
-            else:
-                log.info("[%s/%s] Пропущено appid=%s (нет данных/не продаётся)", idx, total, appid)
-        except Exception as exc:  # noqa: BLE001 — не прерываем весь прогон из-за одной игры
-            log.error("[%s/%s] Ошибка обработки appid=%s: %s", idx, total, appid, exc)
+            return time.mktime(time.strptime(record.get("updated_at", ""), "%Y-%m-%dT%H:%M:%SZ"))
+        except (ValueError, TypeError):
+            return 0
+
+    stale_ids = sorted(
+        [gid for gid, rec in catalog.items() if parse_ts(rec) < stale_threshold],
+        key=lambda gid: parse_ts(catalog[gid]),
+    )[:MAX_REFRESH_PER_RUN]
+
+    log.info("К обновлению (устаревшие): %s из %s карточек в каталоге", len(stale_ids), len(catalog))
+
+    for appid in stale_ids:
+        if time_budget_left() < 60:
+            log.warning("Бюджет времени исчерпан на этапе обновления, переходим к сохранению")
+            break
+        record, status = build_game_record(appid, uah_to_rub)
+        processed += 1
+        if record:
+            catalog[appid] = record
+            refreshed += 1
+            log.info("[refresh %s] OK: %s (%s ₽)", refreshed, record["title"], record["price_rub"])
+        elif status in ("not_a_game", "not_sold_in_region"):
+            log.info("[refresh] appid=%s более недоступен (%s), удаляем из каталога", appid, status)
+            catalog.pop(appid, None)
+            skipped_ids.add(appid)
         time.sleep(REQUEST_DELAY)
 
-    if not games:
-        log.error("Список игр пуст — прерываем запись, чтобы не затирать games.json пустым файлом")
+    # --- Этап 2: добавляем новые игры --------------------------------------
+    custom_ids = load_custom_ids()
+    candidate_ids = []
+    for aid in custom_ids:
+        if aid not in catalog and aid not in skipped_ids:
+            candidate_ids.append(aid)
+
+    if len(catalog) < TARGET_CATALOG_SIZE and time_budget_left() > 120:
+        top_ids = load_top_appids(2000)
+        for aid in top_ids:
+            if aid not in catalog and aid not in skipped_ids and aid not in candidate_ids:
+                candidate_ids.append(aid)
+
+    if len(catalog) + len(candidate_ids) < TARGET_CATALOG_SIZE and time_budget_left() > 120:
+        log.info("Догружаем полный список приложений Steam для расширения каталога...")
+        full_list = load_full_applist()
+        log.info("В полном списке Steam: %s приложений", len(full_list))
+        for aid, _name in full_list:
+            if aid not in catalog and aid not in skipped_ids and aid not in candidate_ids:
+                candidate_ids.append(aid)
+            if len(candidate_ids) >= MAX_NEW_GAMES_PER_RUN * 3:
+                break  # достаточно кандидатов с запасом на отсев не-игр
+
+    log.info("Кандидатов на добавление: %s", len(candidate_ids))
+
+    for appid in candidate_ids:
+        if added >= MAX_NEW_GAMES_PER_RUN:
+            log.info("Достигнут лимит новых игр за прогон (%s)", MAX_NEW_GAMES_PER_RUN)
+            break
+        if time_budget_left() < 60:
+            log.warning("Бюджет времени исчерпан на этапе добавления новых игр")
+            break
+
+        record, status = build_game_record(appid, uah_to_rub)
+        processed += 1
+        if record:
+            catalog[appid] = record
+            added += 1
+            log.info("[new %s/%s] OK: %s (%s ₽)", added, MAX_NEW_GAMES_PER_RUN, record["title"], record["price_rub"])
+        else:
+            skipped_ids.add(appid)
+        time.sleep(REQUEST_DELAY)
+
+    # --- Сохранение ----------------------------------------------------------
+    if not catalog:
+        log.error("Каталог пуст — прерываем запись, чтобы не затирать games.json пустым файлом")
         sys.exit(1)
 
+    games_list = sorted(catalog.values(), key=lambda g: g["title"])
     payload = {
         "generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "uah_to_rub_rate": uah_to_rub,
         "markup_rub": MARKUP_RUB,
-        "count": len(games),
-        "games": games,
+        "target_catalog_size": TARGET_CATALOG_SIZE,
+        "count": len(games_list),
+        "games": games_list,
     }
 
-    OUTPUT_FILE.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2),
-        encoding="utf-8",
+    OUTPUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    save_skipped_ids(skipped_ids)
+
+    log.info(
+        "Итого: обработано=%s, обновлено=%s, добавлено новых=%s, всего в каталоге=%s (цель %s)",
+        processed, refreshed, added, len(games_list), TARGET_CATALOG_SIZE,
     )
-    log.info("Сохранено %s игр в %s", len(games), OUTPUT_FILE)
-    log.info("=== SkippyGames parser: завершено ===")
+    log.info("=== SkippyGames parser v2: завершено ===")
 
 
 if __name__ == "__main__":
