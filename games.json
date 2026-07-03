@@ -1,91 +1,1335 @@
 {
-  "generated_at": "2026-07-03T00:00:00Z",
-  "uah_to_rub_rate": 2.35,
+  "generated_at": "2026-07-03T12:13:48Z",
+  "uah_to_rub_rate": 1.736022,
   "markup_rub": 500,
-  "count": 6,
+  "count": 52,
   "games": [
     {
       "id": 730,
       "title": "Counter-Strike 2",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-      "description": "Легендарный командный шутер от первого лица. Соревнуйтесь в тактических перестрелках 5 на 5 на культовых картах.",
-      "genres": ["Шутеры от первого лица (FPS)", "Тактические шутеры"],
-      "platforms": ["PC"],
-      "price_rub": 500,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1780435263",
+      "description": "Более двух десятилетий Counter-Strike служит примером первоклассной соревновательной игры, путь развития которой определяют миллионы игроков со всего мира. Теперь пришло время нового этапа — Counter-Strike 2.",
+      "genres": [
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
       "is_free": true,
       "trailer_video": null,
       "trailer_youtube_search": "https://www.youtube.com/results?search_query=Counter-Strike+2+trailer",
-      "screenshots": [],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_796601d9d67faf53486eeb26d0724347cea67ddc.600x338.jpg?t=1780435263",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.600x338.jpg?t=1780435263",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1780435263",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1780435263",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1780435263"
+      ],
       "source": "steam"
     },
     {
       "id": 570,
       "title": "Dota 2",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
-      "description": "Многопользовательская арена сражений с сотней уникальных героев и глубокой тактикой.",
-      "genres": ["MOBA"],
-      "platforms": ["PC"],
-      "price_rub": 500,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
+      "description": "Ежедневно миллионы игроков по всему миру сражаются от лица одного из более сотни героев Dota 2, и даже после тысячи часов в ней есть чему научиться. Благодаря регулярным обновлениям игра живёт своей жизнью: геймплей, возможности и герои постоянно преображаются.",
+      "genres": [
+        "MOBA",
+        "Экшен",
+        "Стратегии в реальном времени (RTS)",
+        "Башенная защита (Tower Defense)",
+        "Экшен-РПГ (Action-RPG)",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
       "is_free": true,
       "trailer_video": null,
       "trailer_youtube_search": "https://www.youtube.com/results?search_query=Dota+2+trailer",
-      "screenshots": [],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.600x338.jpg?t=1769535998",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.600x338.jpg?t=1769535998",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.600x338.jpg?t=1769535998",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.600x338.jpg?t=1769535998",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_27b6345f22243bd6b885cc64c5cda74e4bd9c3e8.600x338.jpg?t=1769535998"
+      ],
       "source": "steam"
     },
     {
       "id": 1091500,
       "title": "Cyberpunk 2077",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
-      "description": "Экшен-РПГ в открытом мире Найт-Сити, где вы играете наёмником, ищущим импланты бессмертия.",
-      "genres": ["Экшен-РПГ (Action-RPG)", "Иммерсивные симуляторы (Immersive Sim)"],
-      "platforms": ["PC", "PlayStation", "Xbox"],
-      "price_rub": 2800,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
+      "description": "Cyberpunk 2077 — приключенческая ролевая игра с открытым миром, действие которой происходит в футуристическом мегаполисе Найт-Сити, где выше всего ценятся власть, роскошь и модификации тела.",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Экшен-РПГ (Action-RPG)",
+        "Приключения",
+        "Иммерсивные симуляторы (Immersive Sim)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1227,
       "is_free": false,
       "trailer_video": null,
       "trailer_youtube_search": "https://www.youtube.com/results?search_query=Cyberpunk+2077+trailer",
-      "screenshots": [],
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.600x338.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.600x338.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4eb068b1cf52c91b57157b84bed18a186ed7714b.600x338.jpg?t=1769690377"
+      ],
       "source": "steam"
     },
     {
       "id": 1245620,
-      "title": "Elden Ring",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
-      "description": "Фэнтезийная экшен-РПГ в открытом мире от создателей Dark Souls и автора Джорджа Мартина.",
-      "genres": ["Экшен-РПГ (Action-RPG)", "Песочницы (Sandbox)"],
-      "platforms": ["PC", "PlayStation", "Xbox"],
-      "price_rub": 3400,
+      "title": "ELDEN RING",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716",
+      "description": "НОВЫЙ ФЭНТЕЗИЙНЫЙ РОЛЕВОЙ БОЕВИК. Восстань, погасшая душа! Междуземье ждёт своего повелителя. Пусть благодать приведёт тебя к Кольцу Элден.",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Экшен-РПГ (Action-RPG)",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3623,
       "is_free": false,
       "trailer_video": null,
-      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Elden+Ring+trailer",
-      "screenshots": [],
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=ELDEN+RING+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_943bf6fe62352757d9070c1d33e50b92fe8539f1.600x338.jpg?t=1767883716",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.600x338.jpg?t=1767883716",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_3c41384a24d86dddd58a8f61db77f9dc0bfda8b5.600x338.jpg?t=1767883716",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_e0316c76f8197405c1312d072b84331dd735d60b.600x338.jpg?t=1767883716",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_ef61b771ee6b269b1f0cb484233e07a0bfb5f81b.600x338.jpg?t=1767883716"
+      ],
       "source": "steam"
     },
     {
-      "id": 271590,
-      "title": "Grand Theft Auto V",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
-      "description": "Криминальная сага в открытом мире Лос-Сантоса с тремя playable-персонажами и онлайн-режимом.",
-      "genres": ["Экшен-адвенчуры", "Песочницы (Sandbox)"],
-      "platforms": ["PC", "PlayStation", "Xbox"],
-      "price_rub": 1900,
+      "id": 1174180,
+      "title": "Red Dead Redemption 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "description": "Артур Морган и другие подручные Датча ван дер Линде вынуждены пуститься в бега. Их преследуют федеральные агенты и охотники за головами. Чтобы выжить, банде придется участвовать в кражах, грабежах и перестрелках в самом сердце Америки.",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Шутеры от третьего лица (TPS)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1627,
       "is_free": false,
       "trailer_video": null,
-      "trailer_youtube_search": "https://www.youtube.com/results?search_query=GTA+V+trailer",
-      "screenshots": [],
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Red+Dead+Redemption+2+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.600x338.jpg?t=1759502961",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.600x338.jpg?t=1759502961",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.600x338.jpg?t=1759502961",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.600x338.jpg?t=1759502961",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.600x338.jpg?t=1759502961"
+      ],
       "source": "steam"
     },
     {
       "id": 292030,
-      "title": "The Witcher 3: Wild Hunt",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
-      "description": "Эпическая ролевая игра о ведьмаке Геральте в тёмном фэнтезийном мире, полном чудовищ и интриг.",
-      "genres": ["Классические ролевые игры (CRPG)", "Экшен-РПГ (Action-RPG)"],
-      "platforms": ["PC", "PlayStation", "Xbox"],
-      "price_rub": 1500,
+      "title": "Ведьмак 3: Дикая Охота",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/47273f809e429a272f35c252b49d9bba83e2cf30/header_russian.jpg?t=1768303991",
+      "description": "Вы — Геральт из Ривии, наемный убийца чудовищ. Вы путешествуете по миру, в котором бушует война и на каждом шагу подстерегают чудовища. Вам предстоит выполнить заказ и найти Цири — Дитя Предназначения, живое оружие, способное изменить облик этого мира.",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Экшен",
+        "Экшен-РПГ (Action-RPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 663,
       "is_free": false,
       "trailer_video": null,
-      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Witcher+3+trailer",
-      "screenshots": [],
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Ведьмак+3:+Дикая+Охота+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.600x338.jpg?t=1768303991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.600x338.jpg?t=1768303991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_112b1e176c1bd271d8a565eacb6feaf90f240bb2.600x338.jpg?t=1768303991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d1b73b18cbcd5e9e412c7a1dead3c5cd7303d2ad.600x338.jpg?t=1768303991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_107600c1337accc09104f7a8aa7f275f23cad096.600x338.jpg?t=1768303991"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 582010,
+      "title": "Monster Hunter: World",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1773328926",
+      "description": "Добро пожаловать в новый мир! Отправляйтесь на незабываемую охоту в продолжении серии Monster Hunter: World, используйте любые подручные средства, выслеживайте чудовищ в новом мире, полном сюрпризов и ярких впечатлений.",
+      "genres": [
+        "Экшен",
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Экшен-РПГ (Action-RPG)",
+        "Слэшеры",
+        "Японские ролевые игры (JRPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 927,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Monster+Hunter:+World+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_a262c53b8629de7c6547933dc0b49d31f4e1b1f1.600x338.jpg?t=1773328926",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_6b4986a37c7b5c185a796085c002febcdd5357b5.600x338.jpg?t=1773328926",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_0dfb20f6f09c196bfc317bd517dc430ed6e6a2a4.600x338.jpg?t=1773328926",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_25902a9ae6977d6d10ebff20b87e8739e51c5b8b.600x338.jpg?t=1773328926",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_681cc5358ec55a997aee9f757ffe8b418dc79a32.600x338.jpg?t=1773328926"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4704690,
+      "title": "MECCHA CHAMELEON",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
+      "description": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 769,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=MECCHA+CHAMELEON+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/6c0a47cc2fba1b160901d1553637a764198bdc98/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/0383a711ed93bf8edd848df4b63b331fc44f3ad5/ss_0383a711ed93bf8edd848df4b63b331fc44f3ad5.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/51b0a906d1767b1b5abde623350dec64c6877c93/ss_51b0a906d1767b1b5abde623350dec64c6877c93.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/0a8a562016b13a349349e685f7a4d5a6cbccef3e/ss_0a8a562016b13a349349e685f7a4d5a6cbccef3e.600x338.jpg?t=1782561846",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9/ss_2764a4a42c24a88d0bbb9b67e5c2bde979a24ac9.600x338.jpg?t=1782561846"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 32470,
+      "title": "STAR WARS™ Empire at War - Gold Pack",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/header.jpg?t=1741729002",
+      "description": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
+      "genres": [
+        "Стратегии в реальном времени (RTS)",
+        "Тактические шутеры",
+        "Экшен",
+        "Технические симуляторы",
+        "Глобальные стратегии (4X)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 752,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=STAR+WARS™+Empire+at+War+-+Gold+Pack+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/ss_ee2e12d1db94d052c2466b3e8dbfe0ecb293ce73.600x338.jpg?t=1741729002",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/ss_cb3bea25446cb324e2dd21905415f5ef3536b070.600x338.jpg?t=1741729002",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/ss_09fd64efb464c8007033d4da88ad5e3631220472.600x338.jpg?t=1741729002",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/ss_73f5df52840def6e2cfc4491fbd618e8158dc4fd.600x338.jpg?t=1741729002",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32470/ss_d5b13fb694e1909a7e7379c716464902c92b1b74.600x338.jpg?t=1741729002"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 3240220,
+      "title": "Grand Theft Auto V Enhanced",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "description": "Погрузитесь в хиты – Grand Theft Auto V и Grand Theft Auto Online – улучшенные для нового поколения. Потрясающая графика, ускоренная загрузка, 3D-звук и многое другое, а также эксклюзивные материалы для игроков GTA Online.",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Приключения",
+        "Гоночные симуляторы (Simracing)",
+        "Шутеры от третьего лица (TPS)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1670,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Grand+Theft+Auto+V+Enhanced+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.600x338.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.600x338.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.600x338.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/6959cc5d64cce82cb68a27457cfa46fb4d50f897/ss_6959cc5d64cce82cb68a27457cfa46fb4d50f897.600x338.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/0231bf16835cd4f6d83523d76aa8d91cb2dfef9b/ss_0231bf16835cd4f6d83523d76aa8d91cb2dfef9b.600x338.jpg?t=1781187782"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 1326470,
+      "title": "Sons Of The Forest",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+      "description": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+      "genres": [
+        "Выживание (Survival)",
+        "Песочницы (Sandbox)",
+        "Хорроры на выживание (Survival Horror)",
+        "Психологические хорроры",
+        "Шутеры от первого лица (FPS)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 812,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Sons+Of+The+Forest+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_e6e3ab1badfb287a77fb6eef7b1589a35371496b.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_4fa5d260318f0aa37754b00c5dc10d1b7b9b9b1d.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2b67491ca913adea6953429e1a567824aaa0ed54.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_ba2c1f6e69c6c7d69f7965cbd4b78da59ec59d55.600x338.jpg?t=1708624856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2c537a8c689dd6b21643b8054a64646334ef7391.600x338.jpg?t=1708624856"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 1086940,
+      "title": "Baldur's Gate 3",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "description": "Соберите отряд и вернитесь в Забытые Королевства. Вас ждет история о дружбе и предательстве, выживании и самопожертвовании, о сладком зове абсолютной власти.",
+      "genres": [
+        "Классические ролевые игры (CRPG)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1670,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Baldur's+Gate+3+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.600x338.jpg?t=1777363040",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.600x338.jpg?t=1777363040",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.600x338.jpg?t=1777363040",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.600x338.jpg?t=1777363040",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_6b8faba0f6831a406ce015648958da9612d14dbb.600x338.jpg?t=1777363040"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 413150,
+      "title": "Stardew Valley",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+      "description": "Вам досталась старая дедушкина ферма в долине Стардью. С горстью монет в кармане и старыми инструментами в руках вы начинаете новую жизнь. Сможете ли вы превратить пустырь в цветущий сад?",
+      "genres": [
+        "Симуляторы жизни",
+        "Технические симуляторы",
+        "Песочницы (Sandbox)",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 738,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Stardew+Valley+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.600x338.jpg?t=1754692865",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_9ac899fe2cda15d48b0549bba77ef8c4a090a71c.600x338.jpg?t=1754692865",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_4fa0866709ede3753fdf2745349b528d5e8c4054.600x338.jpg?t=1754692865",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_d836f0a5b0447fb6a2bdb0a6ac5f954949d3c41e.600x338.jpg?t=1754692865",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_1812b87f1fbbdf7205e8b8e2559c834e8ce2f323.600x338.jpg?t=1754692865"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 814380,
+      "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+      "description": "Игра года - The Game Awards 2019 Лучший боевик 2019 г. - IGN Составляйте и воплощайте собственные планы мести в удостоенном множества наград боевике от студии FromSoftware, создавшей Bloodborne и серию Dark Souls. Отомстите врагам. Верните свою честь. Освойте искусство убивать.",
+      "genres": [
+        "Экшен",
+        "Стелс-экшен",
+        "Приключения",
+        "Песочницы (Sandbox)",
+        "Слэшеры",
+        "Ритм-игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 2266,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Sekiro™:+Shadows+Die+Twice+-+GOTY+Edition+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_0f7b0f8ed9ffc49aba26f9328caa9a1d59ad60f0.600x338.jpg?t=1762888662",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_2685dd844a2a523b6c7ec207d46a538db6a908cd.600x338.jpg?t=1762888662",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_15f0e9982621aed44900215ad283811af0779b1d.600x338.jpg?t=1762888662",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_1e6f5540866a5564d65df915c22fe1e57e336a6f.600x338.jpg?t=1762888662",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_3d6b38c382c0eafb02dc90d22f33fd292e4e5cf3.600x338.jpg?t=1762888662"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 2001120,
+      "title": "Split Fiction",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
+      "description": "Испытайте ошеломительные моменты, погружаясь в разнообразные миры Split Fiction, новаторского совместного приключения.",
+      "genres": [
+        "Экшен-адвенчуры",
+        "Приключения",
+        "Экшен",
+        "Платформеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1965,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Split+Fiction+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5e3f5393e455fad3b5fa3f2fe469d9ad6b519069/ss_5e3f5393e455fad3b5fa3f2fe469d9ad6b519069.600x338.jpg?t=1763484567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/c631eecc779a528b0f5d5eb6c0400f700cc12a79/ss_c631eecc779a528b0f5d5eb6c0400f700cc12a79.600x338.jpg?t=1763484567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/be41de926028f953325b2374fad06b9c8c7abb43/ss_be41de926028f953325b2374fad06b9c8c7abb43.600x338.jpg?t=1763484567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/77070a9b5767e83d8482ab88b6ee7b881734ea8e/ss_77070a9b5767e83d8482ab88b6ee7b881734ea8e.600x338.jpg?t=1763484567",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/361876a377c0d42cad396ee08b84d753f28a217c/ss_361876a377c0d42cad396ee08b84d753f28a217c.600x338.jpg?t=1763484567"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 1144200,
+      "title": "Ready or Not",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931",
+      "description": "Возглавьте элитный отряд спецназа и наведите порядок в городе, погрязшем в беззаконии.",
+      "genres": [
+        "Тактические шутеры",
+        "Шутеры от первого лица (FPS)",
+        "Психологические хорроры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1042,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Ready+or+Not+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/88aec4ee3fba8860070370032495e0c9ff87a607/ss_88aec4ee3fba8860070370032495e0c9ff87a607.600x338.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/8003fd0791fbaaef24bb3da768603eca92449a4d/ss_8003fd0791fbaaef24bb3da768603eca92449a4d.600x338.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_795edc39907b6c6aba8db40fcb34cc0eb27f5547.600x338.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/29c4fc0ed7925fb34a32cbc95c4519311420f439/ss_29c4fc0ed7925fb34a32cbc95c4519311420f439.600x338.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e/ss_bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e.600x338.jpg?t=1781703931"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4845540,
+      "title": "Hold My Hand (Or Let Go)",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845540/e784ed8b48d86aa0d067ac23c199a5bb2b36b894/header.jpg?t=1783078635",
+      "description": "A free Visual Novel about unrequited love, envy, friendship and forgiveness. Experience the story of Charlie, a completely normal Swedish college student that’s graduating next week. But before he does that, he has to say goodbye to all the friends that he made during his three years in town.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Hold+My+Hand+(Or+Let+Go)+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845540/b57cec7cfc3d38923fe85b5787ec634e7de306fc/ss_b57cec7cfc3d38923fe85b5787ec634e7de306fc.600x338.jpg?t=1783078635",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845540/7b12d3538d13647c17df0e2199acd9f3fea88c17/ss_7b12d3538d13647c17df0e2199acd9f3fea88c17.600x338.jpg?t=1783078635",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845540/e423a2983aadf99fc1b36f4fdb31d106113d7775/ss_e423a2983aadf99fc1b36f4fdb31d106113d7775.600x338.jpg?t=1783078635",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845540/d6f885815ec391691b300ffca3d7a77d791239e7/ss_d6f885815ec391691b300ffca3d7a77d791239e7.600x338.jpg?t=1783078635",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845540/e8140f74a9293befe75288a8432bdc8c21e67938/ss_e8140f74a9293befe75288a8432bdc8c21e67938.600x338.jpg?t=1783078635"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4760660,
+      "title": "Selena's Charm 2: Enchanted Garden",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/9cf0fc4f297e0e880ec417dd3e9d7cee8ef9a74e/header.jpg?t=1783072332",
+      "description": "Бесплатная стартовая версия головоломки «три в ряд» с восстановлением сада и экстерьера. Пройдите первые 20 уровней, помогите Селене начать возвращать поместье к жизни и откройте полную версию через DLC.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Selena's+Charm+2:+Enchanted+Garden+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/0a3db692e01136e7a60669f75319152fc1d64939/ss_0a3db692e01136e7a60669f75319152fc1d64939.600x338.jpg?t=1783072332",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/3632134df2f4b9a6ac1395f5c7d9caaa7a58abe5/ss_3632134df2f4b9a6ac1395f5c7d9caaa7a58abe5.600x338.jpg?t=1783072332",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/cb52fd76b98da0ed83f6557127fc9ddbf5ad4270/ss_cb52fd76b98da0ed83f6557127fc9ddbf5ad4270.600x338.jpg?t=1783072332",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/46143dd876b0d568556a889e58d428ea0875598e/ss_46143dd876b0d568556a889e58d428ea0875598e.600x338.jpg?t=1783072332",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/31f6ba641c0acd9bcdd1077021b471eb842d027b/ss_31f6ba641c0acd9bcdd1077021b471eb842d027b.600x338.jpg?t=1783072332"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 1778510,
+      "title": "Sending my Pet Rock to Heaven",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778510/07f6d1da12b655ce4dee3469509ffaed548d1645/header.jpg?t=1783069647",
+      "description": "Your Pet Rock has decided to see if god is real. Bounce your way up to get to Heaven.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 656,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Sending+my+Pet+Rock+to+Heaven+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778510/726460e4c832f3cd15a20e55b6fc2cd3a78220dc/ss_726460e4c832f3cd15a20e55b6fc2cd3a78220dc.600x338.jpg?t=1783069647",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778510/156c97e155ac7845fe035e69ab0974969e562e47/ss_156c97e155ac7845fe035e69ab0974969e562e47.600x338.jpg?t=1783069647",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778510/b02eb24e1fa550f28b21f361b144694d936081c3/ss_b02eb24e1fa550f28b21f361b144694d936081c3.600x338.jpg?t=1783069647",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778510/5ac53ce529d7cf9782d42b89d5516a47acdbc2a2/ss_5ac53ce529d7cf9782d42b89d5516a47acdbc2a2.600x338.jpg?t=1783069647",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778510/3d66f950fda3e75b0a16ab7bcf3e75a01c186918/ss_3d66f950fda3e75b0a16ab7bcf3e75a01c186918.600x338.jpg?t=1783069647"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4842490,
+      "title": "Fleck & Grus",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/8f9043d17c2cc404594de5d4805e9666f59c6feb/header.jpg?t=1783068506",
+      "description": "Help Grus escort his friend Fleck safely back to his hometown in this fast-paced precision platformer. Navigate tight levels packed with tricky jumps, bouncing mechanics, and deadly hazards. Stay sharp, react quickly, and master each challenge to survive the journey.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Fleck+&+Grus+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/dd3b5e83ffc6ae67d903c35a123e0f138cb15be2/ss_dd3b5e83ffc6ae67d903c35a123e0f138cb15be2.600x338.jpg?t=1783068506",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/c9ee0594025a5a6539309f05ae4ef74f321c3368/ss_c9ee0594025a5a6539309f05ae4ef74f321c3368.600x338.jpg?t=1783068506",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/d65f3bc1971f7f06484ca2b42767f79fb277f0d5/ss_d65f3bc1971f7f06484ca2b42767f79fb277f0d5.600x338.jpg?t=1783068506",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/45a85d6a7e56608a85ae092cec6ed8bd750cef0a/ss_45a85d6a7e56608a85ae092cec6ed8bd750cef0a.600x338.jpg?t=1783068506",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/af2a1b6a990aa3faadc713dbb22a53cd58b5909d/ss_af2a1b6a990aa3faadc713dbb22a53cd58b5909d.600x338.jpg?t=1783068506"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4446120,
+      "title": "Keepy UP",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/295efd53200f492f3f47948023df105eea69454c/header.jpg?t=1783068038",
+      "description": "Push yourself ever higher in this challenging reimagining of a classic childhood game. Guide your balloon through a vertical gauntlet of seagulls, ghosts, UFOs and more! Your balloon is your only friend, and gravity is your greatest foe. Are you skilful enough to Keepy UP?",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 828,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Keepy+UP+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/f12b00b465abc0f369d4a25a07c4ee0e7d4caabf/ss_f12b00b465abc0f369d4a25a07c4ee0e7d4caabf.600x338.jpg?t=1783068038",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/36b1264dc18894c1fff04c68860e0a03bdd3f0b7/ss_36b1264dc18894c1fff04c68860e0a03bdd3f0b7.600x338.jpg?t=1783068038",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/7fab900828ae254846cf1d1af4a078f34fadc1f6/ss_7fab900828ae254846cf1d1af4a078f34fadc1f6.600x338.jpg?t=1783068038",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/606e8cc8f3013120557896d938e89818da5b7a11/ss_606e8cc8f3013120557896d938e89818da5b7a11.600x338.jpg?t=1783068038",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/241f1e0ea2165b09b073b61b1a96d2c787cc8379/ss_241f1e0ea2165b09b073b61b1a96d2c787cc8379.600x338.jpg?t=1783068038"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4860510,
+      "title": "Recognition",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/44a8a8c23cad93cf981b19f02c9c5339dc166c10/header.jpg?t=1783066048",
+      "description": "Recognition is a fast-paced cyberpunk boomer shooter. After waking in a chop shop with your memory wiped, you become the target of the ruthless Kurasawa Corporation. Blast your way through hordes of cyborg assassins and deadly mechs as you search for the truth behind your missing past.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 792,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Recognition+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/ed1393a206a47af69a6d3bda764e06a3ad355b52/ss_ed1393a206a47af69a6d3bda764e06a3ad355b52.600x338.jpg?t=1783066048",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/b630805e00a3727924a8f1428082f03998d7ffcb/ss_b630805e00a3727924a8f1428082f03998d7ffcb.600x338.jpg?t=1783066048",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/6722a74319ef3c7d50cbac2400334d600932598b/ss_6722a74319ef3c7d50cbac2400334d600932598b.600x338.jpg?t=1783066048",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/6a64ac8607ddb964436107f6d1f37ab04f9dead6/ss_6a64ac8607ddb964436107f6d1f37ab04f9dead6.600x338.jpg?t=1783066048",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/a8e158bd65d3758f0943fcca8a8b44a4c946ac42/ss_a8e158bd65d3758f0943fcca8a8b44a4c946ac42.600x338.jpg?t=1783066048"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4849330,
+      "title": "SYSCALL: RING ZERO",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/99c2d7fe79098157e632b86e4f9528536e15aa4f/header.jpg?t=1783065584",
+      "description": "Reverse-engineer a private 1990s BBS. Read disassembly, patch broken checks, optimize a nine-core rack, and write assembly firmware that locks onto live scope traces. With 200+ puzzles, full controller support and offline play, you can refine your assembly skills on all your devices!",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 993,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=SYSCALL:+RING+ZERO+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/fc1f86c87c20ea4c3133c1d2118c0a91664f77be/ss_fc1f86c87c20ea4c3133c1d2118c0a91664f77be.600x338.jpg?t=1783065584",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/ba2bb96d4ece794e6e62340d260e1fcfc58fc32a/ss_ba2bb96d4ece794e6e62340d260e1fcfc58fc32a.600x338.jpg?t=1783065584",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/ca51ce6546d80c5559e8802cd7b2127c8c70f2f8/ss_ca51ce6546d80c5559e8802cd7b2127c8c70f2f8.600x338.jpg?t=1783065584",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/8f594601ed298cababd429b4b483669bb4fd1658/ss_8f594601ed298cababd429b4b483669bb4fd1658.600x338.jpg?t=1783065584",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/deaccf7c32e1a891994b5aa4ad658dec5c8a924d/ss_deaccf7c32e1a891994b5aa4ad658dec5c8a924d.600x338.jpg?t=1783065584"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4634510,
+      "title": "Close The Straits!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634510/1880713843716d76c192e8e4f92aea2c08bce598/header.jpg?t=1783063844",
+      "description": "You're an underpaid naval officer juggling a paranoid Supreme Leader's daily ship blacklists, President Orange's unhinged tweets, and ridiculous family's &quot;non-negotiable&quot; demands. Blow up the wrong tanker? Congratulations, you've started an international incident. Again.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 903,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Close+The+Straits!+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634510/4f52e51f007da67cd0ea98fa60e107125a0e9aa1/ss_4f52e51f007da67cd0ea98fa60e107125a0e9aa1.600x338.jpg?t=1783063844",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634510/2cb78bb8f748fa65376ee15db77a57d8ae0872e2/ss_2cb78bb8f748fa65376ee15db77a57d8ae0872e2.600x338.jpg?t=1783063844",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634510/9d35e981c84ad412413a623124f7e192c775a425/ss_9d35e981c84ad412413a623124f7e192c775a425.600x338.jpg?t=1783063844",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634510/e03a3fbaae5fe88ad4e964e1f288a1725021d2da/ss_e03a3fbaae5fe88ad4e964e1f288a1725021d2da.600x338.jpg?t=1783063844",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634510/6112dcdd94caaaa17d9fd2922cc3487553ad1bd7/ss_6112dcdd94caaaa17d9fd2922cc3487553ad1bd7.600x338.jpg?t=1783063844"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4847000,
+      "title": "WinGrid",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847000/e425bf61e236624dd4cc160ef3db3fe4f5a3696b/header.jpg?t=1783063191",
+      "description": "WinGrid is a Windows utility for precise window layout and display scaling. Select any window and move, resize, stretch, add cinematic black bars, or enlarge it — bound to hotkeys, with saved profiles. For custom borderless and stretched-style setups. No drivers, no injection.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 691,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=WinGrid+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847000/30e435d7fc2bbca4516bf58df50ace84ad8aa1cf/ss_30e435d7fc2bbca4516bf58df50ace84ad8aa1cf.600x338.jpg?t=1783063191",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847000/721a16a00469f7420d06eb5e7c70750d706d40e0/ss_721a16a00469f7420d06eb5e7c70750d706d40e0.600x338.jpg?t=1783063191",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847000/626c9e18a24427a4ec45941fd2136bdfc67434c6/ss_626c9e18a24427a4ec45941fd2136bdfc67434c6.600x338.jpg?t=1783063191",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847000/b23f69d1b7253d9fa1db77448068d29634ecb00f/ss_b23f69d1b7253d9fa1db77448068d29634ecb00f.600x338.jpg?t=1783063191",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847000/e3af949d6b396895a9d08e5409d4618924bc5fb7/ss_e3af949d6b396895a9d08e5409d4618924bc5fb7.600x338.jpg?t=1783063191"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4453320,
+      "title": "Laballatory",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453320/d70dee9c527695a37671a7af11216e95d5b07a99/header.jpg?t=1783060238",
+      "description": "A casual, incremental physics sandbox game where you operate a Newton's Cradle to earn high (possibly game breaking) scores to fund your escape from an experimental lab. Hit balls, earn money, upgrade your strategy, and unlock machines to help you escape.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 726,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Laballatory+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453320/b001e1a2655aac5bdb66a72e7ff2d4e34e379a00/ss_b001e1a2655aac5bdb66a72e7ff2d4e34e379a00.600x338.jpg?t=1783060238",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453320/fc00925071e2cbba91bc213bafeeba28ae6c69b9/ss_fc00925071e2cbba91bc213bafeeba28ae6c69b9.600x338.jpg?t=1783060238",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453320/ce39942b3c3e294a7eefc3dff4dfeea4116e79bd/ss_ce39942b3c3e294a7eefc3dff4dfeea4116e79bd.600x338.jpg?t=1783060238",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453320/a8d0c656a646ed229526f4dce433097a57e4dd5b/ss_a8d0c656a646ed229526f4dce433097a57e4dd5b.600x338.jpg?t=1783060238",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453320/15eccfaff0185f79ca6a09397711255d136f9913/ss_15eccfaff0185f79ca6a09397711255d136f9913.600x338.jpg?t=1783060238"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4570060,
+      "title": "Myth's and monster's",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570060/9ca2a1029c63b3663704836bd0254553ad5f2b16/header.jpg?t=1783054879",
+      "description": "A classic style JRPG featuring party based turn-based combat open world exploration and a mature dark fantasy story.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 819,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Myth's+and+monster's+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570060/7eaa30017018f11f353a1cbef2c8ff6ea5ab2e53/ss_7eaa30017018f11f353a1cbef2c8ff6ea5ab2e53.600x338.jpg?t=1783054879",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570060/b9b306fc37b1aa231a47a7e149b6793e5c7d95c8/ss_b9b306fc37b1aa231a47a7e149b6793e5c7d95c8.600x338.jpg?t=1783054879",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570060/a49780347b2c1f84bc4455ecb19761d7058240dc/ss_a49780347b2c1f84bc4455ecb19761d7058240dc.600x338.jpg?t=1783054879",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570060/0c2d67d22a7f0077e0db34926efd544a32154909/ss_0c2d67d22a7f0077e0db34926efd544a32154909.600x338.jpg?t=1783054879",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570060/cbba041c25521b970abd2c262e4584d38a35ed9c/ss_cbba041c25521b970abd2c262e4584d38a35ed9c.600x338.jpg?t=1783054879"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4744610,
+      "title": "無限草刈り",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744610/ccd65c9f6bb9d9d8928a0ae5658be2f6138c9572/header.jpg?t=1783054837",
+      "description": "&quot;Infinity Grass Cutting&quot; is a top-down action game with roguelite elements. Take on the role of a lawn-mowing robot tasked with clearing a wild, overgrown garden.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 580,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=無限草刈り+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744610/7850e7735562e9feb25d76533355b7a0c7b2f354/ss_7850e7735562e9feb25d76533355b7a0c7b2f354.600x338.jpg?t=1783054837",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744610/9fa4a9ffad22c0b61e2330ee31fccb9e55f941ba/ss_9fa4a9ffad22c0b61e2330ee31fccb9e55f941ba.600x338.jpg?t=1783054837",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744610/0d290c9ddd3edda3283b671669f987445b62fec1/ss_0d290c9ddd3edda3283b671669f987445b62fec1.600x338.jpg?t=1783054837",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744610/20e17942e4091c21b3ded96af81e4870e3792d4c/ss_20e17942e4091c21b3ded96af81e4870e3792d4c.600x338.jpg?t=1783054837",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744610/e241a86ce4b64ba0c5b88f70a04dd6935967bab2/ss_e241a86ce4b64ba0c5b88f70a04dd6935967bab2.600x338.jpg?t=1783054837"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 3871550,
+      "title": "Little Immortal Cultivator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/88b0bec0f64bddc078893a77a376a684814cbbb0/header.jpg?t=1783054694",
+      "description": "This is a Rogue-like card-building game set in a world of cultivation and immortality. Choose a core path such as sword, magic, or sorcery, and combine it with auxiliary styles like alchemy, forging, and merchant to create a unique deck to challenge bosses!",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 792,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Little+Immortal+Cultivator+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/e0b1e0764c591cd685dcefcec1891da4df51ec6d/ss_e0b1e0764c591cd685dcefcec1891da4df51ec6d.600x338.jpg?t=1783054694",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/8edffe68572584a2edccab89ee4caafa992f7b33/ss_8edffe68572584a2edccab89ee4caafa992f7b33.600x338.jpg?t=1783054694",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/126578e287eb63a4d7bc5e4900b54ee4368bed85/ss_126578e287eb63a4d7bc5e4900b54ee4368bed85.600x338.jpg?t=1783054694",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/31725ac519109310690519678810e4c6aa30c12a/ss_31725ac519109310690519678810e4c6aa30c12a.600x338.jpg?t=1783054694",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/7970b7b34ee2ffe8c147f6f2cb5fbcf822e71800/ss_7970b7b34ee2ffe8c147f6f2cb5fbcf822e71800.600x338.jpg?t=1783054694"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4634490,
+      "title": "Master Healer Kale with useless party",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
+      "description": "A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 639,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Master+Healer+Kale+with+useless+party+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/65e640eb83efba72f1e31908931f285f35a0edb4/ss_65e640eb83efba72f1e31908931f285f35a0edb4.600x338.jpg?t=1783051217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/59276824182552d12926342f790be0c55c6c0429/ss_59276824182552d12926342f790be0c55c6c0429.600x338.jpg?t=1783051217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/9159d09ea1e4e3893454fcbfaebd9516aa6cba77/ss_9159d09ea1e4e3893454fcbfaebd9516aa6cba77.600x338.jpg?t=1783051217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/c22be6466b9b035acd19116116e06fd0af61c5e3/ss_c22be6466b9b035acd19116116e06fd0af61c5e3.600x338.jpg?t=1783051217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/b259c4b840e4f3d0ed1dc2ca8bf1eae40535b179/ss_b259c4b840e4f3d0ed1dc2ca8bf1eae40535b179.600x338.jpg?t=1783051217"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4855380,
+      "title": "Idle Regenerator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855380/d7cba9d361c82a8675c5a6f0ad696269634cc76e/header.jpg?t=1783048050",
+      "description": "Idle RPG с более чем 125 силами, глубокой системой ковки снаряжения, отрядом помощников, подземельями, созвездиями, сбросами Prestige и офлайн-прогрессом. Никаких таймеров энергии. Никакого pay-to-win. Только глубина.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 779,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Idle+Regenerator+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855380/4656c0a8d92696198a64b858aba80f565af92ec8/ss_4656c0a8d92696198a64b858aba80f565af92ec8.600x338.jpg?t=1783048050",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855380/3195bb43626ac40590c607f959a7644514bac3a7/ss_3195bb43626ac40590c607f959a7644514bac3a7.600x338.jpg?t=1783048050",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855380/ab6e309e2dc130a9e473a5d12faf41ac0ac9031e/ss_ab6e309e2dc130a9e473a5d12faf41ac0ac9031e.600x338.jpg?t=1783048050",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855380/a4be064bff6b7e55bb8ea26567aaff48073d0730/ss_a4be064bff6b7e55bb8ea26567aaff48073d0730.600x338.jpg?t=1783048050",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855380/e19ab55020de85d52bf4369b9a4c0086f20505e2/ss_e19ab55020de85d52bf4369b9a4c0086f20505e2.600x338.jpg?t=1783048050"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4710190,
+      "title": "NULL DUN",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710190/226902daf0e6a3a6511c27897b14dd31f69201e1/header.jpg?t=1783044781",
+      "description": "Roguelike в связке с колодостроительной RPG. Исследуйте процедурно генерируемые подземелья, оттачивайте колоду из множества разнообразных карт и сражайтесь. Поддержка Steam Workshop позволяет свободно создавать и делиться собственными подземельями. Но женщин, плененных щупальцами в Пустотном подземелье, ждет участь «питательного ложа»...",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 837,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=NULL+DUN+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710190/762894ae3abd60c440b77e231ef3fa49b04a3426/ss_762894ae3abd60c440b77e231ef3fa49b04a3426.600x338.jpg?t=1783044781",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710190/ff8469c98a8f00934b6515b1a8a2f616e5e0c547/ss_ff8469c98a8f00934b6515b1a8a2f616e5e0c547.600x338.jpg?t=1783044781",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710190/01343760160cf1a623fb9e2495d2b1c0b21c9d0d/ss_01343760160cf1a623fb9e2495d2b1c0b21c9d0d.600x338.jpg?t=1783044781",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710190/ac0a3bddd4063e648b5d514e7abcea3c1454be32/ss_ac0a3bddd4063e648b5d514e7abcea3c1454be32.600x338.jpg?t=1783044781",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710190/a34cc4c23e808682a5ceb5ee5f8de6bf4e7d3aa8/ss_a34cc4c23e808682a5ceb5ee5f8de6bf4e7d3aa8.600x338.jpg?t=1783044781"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 3076910,
+      "title": "UNDERGROUNDED",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076910/header.jpg?t=1783047437",
+      "description": "UNDERGROUNDED is a puzzle adventure game that takes you through nostalgic landscapes of America's past. Help a young man travel through an underground maze looking for a lost ring, using the mysterious power of... retro games.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1172,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=UNDERGROUNDED+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076910/0c5b842b2d7084134abcb247872cc7fed7be1bab/ss_0c5b842b2d7084134abcb247872cc7fed7be1bab.600x338.jpg?t=1783047437",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076910/a17cf48f127463c2402d49f3331e5995b65aa6e7/ss_a17cf48f127463c2402d49f3331e5995b65aa6e7.600x338.jpg?t=1783047437",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076910/4e3f48a9dabe77c4244a749112ccf0b2823498d4/ss_4e3f48a9dabe77c4244a749112ccf0b2823498d4.600x338.jpg?t=1783047437",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076910/6aa3cf4930ba550a6b6595d94f5c05c4e89a19cd/ss_6aa3cf4930ba550a6b6595d94f5c05c4e89a19cd.600x338.jpg?t=1783047437",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3076910/5a5ec5f599a40169f2fd642c9e6f3c3f060f4624/ss_5a5ec5f599a40169f2fd642c9e6f3c3f060f4624.600x338.jpg?t=1783047437"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4818580,
+      "title": "삼국지 클래식 (Three Kingdoms Classic)",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818580/8e5a25ca3a94aa7149feb0aff1ff458f4a6df999/header.jpg?t=1783080128",
+      "description": "Lead a Three Kingdoms warlord in a turn-based grand strategy simulation focused on logistics, diplomacy, officer management, and large-scale warfare.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 910,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=삼국지+클래식+(Three+Kingdoms+Classic)+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818580/140703adecd8f2d5c15b6c24b85350014482a447/ss_140703adecd8f2d5c15b6c24b85350014482a447.600x338.jpg?t=1783080128",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818580/72ca31d6434cd4a09c83f6f1c1922f6d836033eb/ss_72ca31d6434cd4a09c83f6f1c1922f6d836033eb.600x338.jpg?t=1783080128",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818580/fd65ce5b4e343e46924ec764cf98a28ceee10a32/ss_fd65ce5b4e343e46924ec764cf98a28ceee10a32.600x338.jpg?t=1783080128",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818580/2768c43c0d6777540b2c32da75137b1b68847dde/ss_2768c43c0d6777540b2c32da75137b1b68847dde.600x338.jpg?t=1783080128",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818580/dca2a9a6028f7985e37848484465b2a0fa8fc318/ss_dca2a9a6028f7985e37848484465b2a0fa8fc318.600x338.jpg?t=1783080128"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4847800,
+      "title": "DeadboySkeleton",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847800/18d263d804a4b98638eb24c395c98b6d0a0128d9/header.jpg?t=1783036738",
+      "description": "A third-person action game from beyond the grave. Wake up dead and explore multiple maps, hunt for hidden items, and smash undead corpses out of your way. Inspired by TeamSesh as a love letter to the team and the fans.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 726,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=DeadboySkeleton+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847800/ad75dd3624c62bc5793ca02b6a5cedd700c31963/ss_ad75dd3624c62bc5793ca02b6a5cedd700c31963.600x338.jpg?t=1783036738",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847800/4eae2d850ac754b00e0578c3e389748ffc8ea8ad/ss_4eae2d850ac754b00e0578c3e389748ffc8ea8ad.600x338.jpg?t=1783036738",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847800/04220560e80615c7ad8dc4046ef2eb16b35bbe0a/ss_04220560e80615c7ad8dc4046ef2eb16b35bbe0a.600x338.jpg?t=1783036738",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847800/d30338ac40c5cced2ace284e70ab93dcc8498992/ss_d30338ac40c5cced2ace284e70ab93dcc8498992.600x338.jpg?t=1783036738",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847800/37f6bce2c86a93e5dee01ab0694668975b9fbeff/ss_37f6bce2c86a93e5dee01ab0694668975b9fbeff.600x338.jpg?t=1783036738"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4591270,
+      "title": "Lunyatic Invaders",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591270/9ce2d9b6996efd493994bcf1a71f5aa2c2e4e7d5/header.jpg?t=1783035575",
+      "description": "What is that... a cat!? A mysterious enemy has invaded from outer space. Break through a storm of bullets in your super fighter in this unique full-scale shooting game.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Lunyatic+Invaders+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591270/e92fc4005043fdba1cac34b65c7931e20e805b9a/ss_e92fc4005043fdba1cac34b65c7931e20e805b9a.600x338.jpg?t=1783035575",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591270/acdac18542f08e8c0daab36399ef2fccb6610b4d/ss_acdac18542f08e8c0daab36399ef2fccb6610b4d.600x338.jpg?t=1783035575",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591270/e3f67c07f3dbc96e8f2899f4bfc15bff74bb3f52/ss_e3f67c07f3dbc96e8f2899f4bfc15bff74bb3f52.600x338.jpg?t=1783035575",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591270/3ad768bbaee45db2bd3a51cda2e76f96e2649f37/ss_3ad768bbaee45db2bd3a51cda2e76f96e2649f37.600x338.jpg?t=1783035575",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591270/3cce6a28da7880e7babba037debc261248c9de6c/ss_3cce6a28da7880e7babba037debc261248c9de6c.600x338.jpg?t=1783035575"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4776760,
+      "title": "Signal Zero",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776760/9adcaf1ba8e4b211cb133e06d22f70525c0931ea/header.jpg?t=1783033378",
+      "description": "A tense emergency dispatch simulation. Route police, fire, and EMS units across a city that never stops. Pick the right unit, beat the clock, keep your reputation above zero — or the city finds a new dispatcher.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 681,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Signal+Zero+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776760/6331da567f9d5055d36ac6bcd9e474d59d0204ea/ss_6331da567f9d5055d36ac6bcd9e474d59d0204ea.600x338.jpg?t=1783033378",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776760/befeec246764a02cf14cbac20acbbc6df946f06a/ss_befeec246764a02cf14cbac20acbbc6df946f06a.600x338.jpg?t=1783033378",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776760/2fdc7dafa3da41e4bba41d4423680e4ce76e454c/ss_2fdc7dafa3da41e4bba41d4423680e4ce76e454c.600x338.jpg?t=1783033378",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776760/74200099ca73201a936403f9afe590837a786e53/ss_74200099ca73201a936403f9afe590837a786e53.600x338.jpg?t=1783033378",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776760/9eda11ad916e180063f78fb39ea552365f4a57ae/ss_9eda11ad916e180063f78fb39ea552365f4a57ae.600x338.jpg?t=1783033378"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4840340,
+      "title": "Royale Battle",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840340/86817801d248303dc71afba2e378b7e9ac901593/header.jpg?t=1783069789",
+      "description": "Get ready for a legendary battle royale experience set in the Middle Ages!",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 779,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Royale+Battle+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840340/c84686d4cca29bae5771bdea93c965092e464523/ss_c84686d4cca29bae5771bdea93c965092e464523.600x338.jpg?t=1783069789",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840340/5b354c67243d0afc15f9b14079c954cdb094f3bf/ss_5b354c67243d0afc15f9b14079c954cdb094f3bf.600x338.jpg?t=1783069789",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840340/40c74ddedee3d969ebf2fafdc889881de57f0244/ss_40c74ddedee3d969ebf2fafdc889881de57f0244.600x338.jpg?t=1783069789",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840340/53149d973c744d70f1626b6b8029be29e6b195b8/ss_53149d973c744d70f1626b6b8029be29e6b195b8.600x338.jpg?t=1783069789",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840340/5479e2f765f8bcc1a81cc195b40ce1ced175310c/ss_5479e2f765f8bcc1a81cc195b40ce1ced175310c.600x338.jpg?t=1783069789"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 3835680,
+      "title": "梦壳",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3835680/3ebc17b5a68dea2d931f4094e6c17b0e5cbd6afb/header.jpg?t=1783025252",
+      "description": "Dream Shell is a shooter puzzle RPG set in 2084. You play a seasoned dream psychologist who dives into patients’ minds via advanced brain–computer interfaces, using weapons, skills, and judgment to heal the fractured souls of a lost era.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 842,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=梦壳+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3835680/36c5878ad8313854743b88fdc9c78622dbc94f95/ss_36c5878ad8313854743b88fdc9c78622dbc94f95.600x338.jpg?t=1783025252",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3835680/ce044d93e2e524dab0d39b25dc6dddbee6677aef/ss_ce044d93e2e524dab0d39b25dc6dddbee6677aef.600x338.jpg?t=1783025252",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3835680/a271a0d684d2bccb110b28004687ad58243069be/ss_a271a0d684d2bccb110b28004687ad58243069be.600x338.jpg?t=1783025252",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3835680/c7538a3ffa427627b276b7177803d0a1bc0209b9/ss_c7538a3ffa427627b276b7177803d0a1bc0209b9.600x338.jpg?t=1783025252",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3835680/91e7e7eec2f4ccbdfe68340f01afcf9add492842/ss_91e7e7eec2f4ccbdfe68340f01afcf9add492842.600x338.jpg?t=1783025252"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4370720,
+      "title": "Echoes of the Dark Tomb",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370720/407fa87ef37edd254e0d00a839af5157fa6e7b65/header.jpg?t=1783023546",
+      "description": "Explore an ancient Egyptian tomb in search of hidden treasure. Solve puzzles, avoid deadly traps, and survive hostile entities guarding its secrets in this tense first-person horror exploration experience.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 891,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Echoes+of+the+Dark+Tomb+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370720/d19af96219f823a9c5ab5294315d551a0c818db1/ss_d19af96219f823a9c5ab5294315d551a0c818db1.600x338.jpg?t=1783023546",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370720/d659d8dc339633c541e58f9ecfc51011dd972e03/ss_d659d8dc339633c541e58f9ecfc51011dd972e03.600x338.jpg?t=1783023546",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370720/705d269386bb9ee57866de7e59efbaef76e1b7bc/ss_705d269386bb9ee57866de7e59efbaef76e1b7bc.600x338.jpg?t=1783023546",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370720/d63b191d539d6617e38b3c83b8a66c3610a2d705/ss_d63b191d539d6617e38b3c83b8a66c3610a2d705.600x338.jpg?t=1783023546",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370720/3362dee5da65d3c4aed4a16691e70f75defdb484/ss_3362dee5da65d3c4aed4a16691e70f75defdb484.600x338.jpg?t=1783023546"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4021370,
+      "title": "Everglen",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021370/34312c25eef79a11d10f2c414bb36fbeb1cf2087/header.jpg?t=1783021000",
+      "description": "Build your dream farm in a cozy pixel RPG. Grow crops, fish, mine, and explore a charming island full of secrets. Meet unique NPCs, craft and trade items, and uncover magical surprises at your own pace. Relax, explore, and create your story in this farming adventure.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 672,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Everglen+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021370/0c5817835201d7964c339d18dec969f40c8e48cf/ss_0c5817835201d7964c339d18dec969f40c8e48cf.600x338.jpg?t=1783021000",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021370/cc90e3c39abdbb539a0f259c76acb8219622c2cf/ss_cc90e3c39abdbb539a0f259c76acb8219622c2cf.600x338.jpg?t=1783021000",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021370/08a9631c80f4a3fbd4e7309964147e28837c47a8/ss_08a9631c80f4a3fbd4e7309964147e28837c47a8.600x338.jpg?t=1783021000",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021370/2b87ac41a142a9e6d195457bfaf2164f6b444c45/ss_2b87ac41a142a9e6d195457bfaf2164f6b444c45.600x338.jpg?t=1783021000",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021370/3b0ca8ead278b29a86fce3417a849eb11c7a806c/ss_3b0ca8ead278b29a86fce3417a849eb11c7a806c.600x338.jpg?t=1783021000"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4828030,
+      "title": "Astrelght",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828030/6c27c6dab28f06bb2f8ad08b3aa65e2a8c4b68d8/header.jpg?t=1783020956",
+      "description": "Исследуйте загадочные руины Астрелта и раскройте тайну Куба. Выполняйте странные поручения, встречайте необычных персонажей, изучайте аномалии и проходите мультиплеерные испытания в сюрреалистичном мире между реальностью и симуляцией.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 625,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Astrelght+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828030/595f15d975c54c501015a4b2dc24b3abcc6238b7/ss_595f15d975c54c501015a4b2dc24b3abcc6238b7.600x338.jpg?t=1783020956",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828030/d9913713765ad56b78e2fe5009361306279c2c8f/ss_d9913713765ad56b78e2fe5009361306279c2c8f.600x338.jpg?t=1783020956",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828030/ede37f75ad9ff5e65d40f596bb65665ebeb7dbbf/ss_ede37f75ad9ff5e65d40f596bb65665ebeb7dbbf.600x338.jpg?t=1783020956",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828030/dbd20b9a40368336bd474bbd8ac9b114d52340b6/ss_dbd20b9a40368336bd474bbd8ac9b114d52340b6.600x338.jpg?t=1783020956",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828030/beb6f73e242e3728414509557532dd549bd064f0/ss_beb6f73e242e3728414509557532dd549bd064f0.600x338.jpg?t=1783020956"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4779520,
+      "title": "Moe Mekuri - Красавица и Чудовище -",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779520/71fef01293bbe8bca7c287251829a383635200a0/header.jpg?t=1783013856",
+      "description": "В игре множество иллюстраций с их эротическими моментами! Для каждого уровня сложности подготовлены разные иллюстрации. Задействуйте интуицию и воображение, решайте головоломки и собирайте соблазнительные иллюстрации!",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1783,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Moe+Mekuri+-+Красавица+и+Чудовище+-+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779520/f987476830125532a7e057905fe4e3af754a7a07/ss_f987476830125532a7e057905fe4e3af754a7a07.600x338.jpg?t=1783013856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779520/01c9d3a58310344a38437836862be873d32e3173/ss_01c9d3a58310344a38437836862be873d32e3173.600x338.jpg?t=1783013856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779520/a2193015b2621582428dfed052ccc7dada850725/ss_a2193015b2621582428dfed052ccc7dada850725.600x338.jpg?t=1783013856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779520/356134113252b187efcda1a240164c27b8f359fb/ss_356134113252b187efcda1a240164c27b8f359fb.600x338.jpg?t=1783013856",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779520/765e63a80c1b9b3447733bb1df3def9ad3718f92/ss_765e63a80c1b9b3447733bb1df3def9ad3718f92.600x338.jpg?t=1783013856"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4845510,
+      "title": "Tense Parking 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845510/403d94984c6e4075b7ba675554c2f66c37963b84/header.jpg?t=1783013128",
+      "description": "Tense Parking 2 – это вторая часть захватывающего парковочного симулятора, которая отправляет вас в яркий и солнечный мегаполис!",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 601,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Tense+Parking+2+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845510/233434b0a5239ca87f61836ea793e4c08dc70f68/ss_233434b0a5239ca87f61836ea793e4c08dc70f68.600x338.jpg?t=1783013128",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845510/b4df886c17a8f27d10bed7ee3bd9678551b4f4f7/ss_b4df886c17a8f27d10bed7ee3bd9678551b4f4f7.600x338.jpg?t=1783013128",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845510/14d880784ba1102349c218ed1c027ffa11e2ff6d/ss_14d880784ba1102349c218ed1c027ffa11e2ff6d.600x338.jpg?t=1783013128",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845510/a948750c4579c27258b29502c47ff2e9a32905d4/ss_a948750c4579c27258b29502c47ff2e9a32905d4.600x338.jpg?t=1783013128",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845510/920a17f11142b1570999e3307c75665db05cf666/ss_920a17f11142b1570999e3307c75665db05cf666.600x338.jpg?t=1783013128"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4293630,
+      "title": "Assault On Sector 12",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293630/db2e038208bead0907465e5fd75b21c2e11b5919/header.jpg?t=1783013027",
+      "description": "A turn-based, squad-focused tactical defense game where your squad holds the line against advancing enemy waves.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 719,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Assault+On+Sector+12+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293630/4dda0d0dcf21407b3f5e8923e6b48d5f0240111f/ss_4dda0d0dcf21407b3f5e8923e6b48d5f0240111f.600x338.jpg?t=1783013027",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293630/624665e2bc275206c1475fb33fed102c624d37e2/ss_624665e2bc275206c1475fb33fed102c624d37e2.600x338.jpg?t=1783013027",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293630/36aadf161ef34c95d13c8b0e43388c244860e5fa/ss_36aadf161ef34c95d13c8b0e43388c244860e5fa.600x338.jpg?t=1783013027",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293630/9aae0df0bac74994d8a6b36e7ff28e6232b970b8/ss_9aae0df0bac74994d8a6b36e7ff28e6232b970b8.600x338.jpg?t=1783013027",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293630/99cd1dff70175668e300b3ef52b89f5f227cabb4/ss_99cd1dff70175668e300b3ef52b89f5f227cabb4.600x338.jpg?t=1783013027"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 4824310,
+      "title": "Vermin Protocol",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824310/71d7dffab2edbfcd60a6a430722e99db2912849e/header.jpg?t=1783011850",
+      "description": "Take on pest control contracts and hunt infestations across farms. Track, eliminate, and contain the vermin before they spread.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 804,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Vermin+Protocol+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824310/411e751b05eaf2e683fdb81cae0025d888f8fe71/ss_411e751b05eaf2e683fdb81cae0025d888f8fe71.600x338.jpg?t=1783011850",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824310/1d65623e463307b8114df5a1d0ac39cd71677cc4/ss_1d65623e463307b8114df5a1d0ac39cd71677cc4.600x338.jpg?t=1783011850",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824310/e5bf00abe726787bd2c6625e7d14be0c2af5f2eb/ss_e5bf00abe726787bd2c6625e7d14be0c2af5f2eb.600x338.jpg?t=1783011850",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824310/7ea4fe66559a4c634a61754e55efd09013cd2e26/ss_7ea4fe66559a4c634a61754e55efd09013cd2e26.600x338.jpg?t=1783011850",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824310/46ce4aa31f898693c750c06a23a846f3c3fda16a/ss_46ce4aa31f898693c750c06a23a846f3c3fda16a.600x338.jpg?t=1783011850"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 2767030,
+      "title": "Marvel Rivals",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4a41f0888ee8d13bd2aa84a4fa2bf5a4e3e7dc39/header.jpg?t=1781255145",
+      "description": "Marvel Rivals — это командный PVP-шутер, где супергерои сражаются плечом к плечу! Соберите команду мечты из героев Marvel, разработайте уникальные стратегии, объединив силы в невероятные командные навыки, и сразитесь на разрушаемых полях боя в постоянно развивающейся вселенной Marvel!",
+      "genres": [
+        "Геройские шутеры",
+        "Шутеры от третьего лица (TPS)",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "MOBA"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Marvel+Rivals+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/1c1c765a7655599e3cf15c8934217ff60a1410ed/ss_1c1c765a7655599e3cf15c8934217ff60a1410ed.600x338.jpg?t=1781255145",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/a2dd685d83dbcc0779bf3db013aef99679abb944/ss_a2dd685d83dbcc0779bf3db013aef99679abb944.600x338.jpg?t=1781255145",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/212718a69989b3ffe5b7647c53bb827b7ed2329e/ss_212718a69989b3ffe5b7647c53bb827b7ed2329e.600x338.jpg?t=1781255145",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4aa8355a56a75f44f365db8a6cbff0eec5a7265a/ss_4aa8355a56a75f44f365db8a6cbff0eec5a7265a.600x338.jpg?t=1781255145",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/896a2342ddb3515f291f88adf991f77f1f484663/ss_896a2342ddb3515f291f88adf991f77f1f484663.600x338.jpg?t=1781255145"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 1172470,
+      "title": "Apex Legends™",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778502442",
+      "description": "Apex Legends — удостоенный наградами бесплатный геройский шутер от Respawn Entertainment. Освойте все тонкости игры за легендарных персонажей, число которых продолжает расти, и используйте их мощные умения в стратегии своего отряда. Это новое слово в геройских шутерах и «королевских битвах».",
+      "genres": [
+        "Королевская битва (Battle Royale)",
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Геройские шутеры",
+        "Тактические шутеры",
+        "Выживание (Survival)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Apex+Legends™+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0ae2c002aa75d0b7309955960181fe402327d330/ss_0ae2c002aa75d0b7309955960181fe402327d330.600x338.jpg?t=1778502442",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/c07b405c6272c5dc2f6f25b76591c93ed8711c1d/ss_c07b405c6272c5dc2f6f25b76591c93ed8711c1d.600x338.jpg?t=1778502442",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3/ss_96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3.600x338.jpg?t=1778502442",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/899528308ad54733c8fc1ae825adb57195bface1/ss_899528308ad54733c8fc1ae825adb57195bface1.600x338.jpg?t=1778502442",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88/ss_736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88.600x338.jpg?t=1778502442"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 252490,
+      "title": "Rust",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+      "description": "Единственная цель в Rust — выживание. Дикая природа острова, его обитатели, окружение, другие выжившие — всё вокруг хочет твоей смерти. Делай всё, что в твоих силах, чтобы пережить ещё одну ночь.",
+      "genres": [
+        "Выживание (Survival)",
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1175,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Rust+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.600x338.jpg?t=1781536981",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.600x338.jpg?t=1781536981",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.600x338.jpg?t=1781536981",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69dc23d53163b755e809a562a377bd276154c70e/ss_69dc23d53163b755e809a562a377bd276154c70e.600x338.jpg?t=1781536981",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_1c2d0d1eefee54f0c67626c74eb21699bbb0ef52.600x338.jpg?t=1781536981"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 578080,
+      "title": "PUBG: BATTLEGROUNDS",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1781659328",
+      "description": "PUBG: BATTLEGROUNDS — культовый шутер, пробудивший интерес к жанру «королевская битва», теперь бесплатный! Высаживайтесь на разные карты, добывайте уникальное оружие и припасы и постарайтесь выжить в постоянно сужающейся зоне, где опасность подстерегает вас за каждым углом.",
+      "genres": [
+        "Выживание (Survival)",
+        "Шутеры от первого лица (FPS)",
+        "Королевская битва (Battle Royale)",
+        "Шутеры от третьего лица (TPS)",
+        "Экшен",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=PUBG:+BATTLEGROUNDS+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.600x338.jpg?t=1781659328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.600x338.jpg?t=1781659328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.600x338.jpg?t=1781659328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.600x338.jpg?t=1781659328",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.600x338.jpg?t=1781659328"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 2483190,
+      "title": "Forza Horizon 6",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
+      "description": "Исследуйте потрясающие пейзажи Японии за рулем любой из более чем 550 реальных машин и станьте настоящей легендой фестиваля Horizon в самом масштабном гоночном приключении в открытом мире.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4491,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Forza+Horizon+6+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.600x338.jpg?t=1782238812",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.600x338.jpg?t=1782238812",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.600x338.jpg?t=1782238812",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.600x338.jpg?t=1782238812",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/945a08124625ffa26ec0077761fcbe19df07dad5/ss_945a08124625ffa26ec0077761fcbe19df07dad5.600x338.jpg?t=1782238812"
+      ],
+      "source": "steam"
+    },
+    {
+      "id": 381210,
+      "title": "Dead by Daylight",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782395976",
+      "description": "10 лет ужаса. 10 лет дрожи от внезапного испуга и рискованных моментов. 10 лет жестоких жертвоприношений и захватывающих дух побегов. Застряв во владениях неумолимого зла, где даже смерть не дарует избавление, четверо решительных выживших сталкиваются с кровожадным убийцей.",
+      "genres": [
+        "Психологические хорроры",
+        "Хорроры на выживание (Survival Horror)",
+        "Выживание (Survival)",
+        "Стелс-экшен",
+        "Шутеры от первого лица (FPS)",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 797,
+      "is_free": false,
+      "trailer_video": null,
+      "trailer_youtube_search": "https://www.youtube.com/results?search_query=Dead+by+Daylight+trailer",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1782395976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1782395976"
+      ],
       "source": "steam"
     }
   ]
