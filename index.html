@@ -1,128 +1,856 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SkippyGames — Магазин игр и внутриигровой валюты</title>
-<meta name="description" content="SkippyGames — покупка игр Steam, PlayStation и Xbox, а также внутриигровой валюты. Быстро, удобно, с оплатой через ВКонтакте.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700;800&family=Orbitron:wght@700;800;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkippyGames | Магазин Игр</title>
+    <meta name="description" content="SkippyGames — покупка игр Steam, PlayStation, Xbox и Nintendo Switch, а также внутриигровой валюты.">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #121212;
+            color: #e5e5e5;
+            overflow-x: hidden;
+        }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #1e1e1e; }
+        ::-webkit-scrollbar-thumb { background: #eab308; border-radius: 10px; }
+
+        .card-container { perspective: 1000px; }
+        .card-3d {
+            transition: transform 0.1s ease, box-shadow 0.1s ease;
+            transform-style: preserve-3d;
+            will-change: transform;
+        }
+        .card-3d:hover {
+            box-shadow: 0 20px 30px rgba(0, 0, 0, 0.5), 0 0 20px rgba(234, 179, 8, 0.2);
+            z-index: 10;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: -100px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(135deg, #eab308, #ca8a04);
+            color: #121212;
+            padding: 16px 24px;
+            border-radius: 999px;
+            font-weight: 600;
+            box-shadow: 0 10px 25px rgba(234, 179, 8, 0.4);
+            transition: bottom 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .toast.show { bottom: 40px; }
+
+        .fade-enter {
+            opacity: 0;
+            transform: translateY(10px);
+            animation: fadeIn 0.4s forwards;
+        }
+        @keyframes fadeIn { to { opacity: 1; transform: translateY(0); } }
+
+        #chat-widget {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-origin: bottom right;
+        }
+        #chat-widget.closed {
+            opacity: 0;
+            pointer-events: none;
+            transform: scale(0.9) translateY(20px);
+        }
+
+        /* Лайтбокс скриншотов */
+        #lightbox {
+            transition: opacity 0.25s ease;
+        }
+        #lightbox.hidden-lightbox {
+            opacity: 0;
+            pointer-events: none;
+        }
+        #lightbox img {
+            transition: transform 0.2s ease;
+        }
+
+        .screenshot-thumb {
+            cursor: zoom-in;
+            transition: transform 0.15s ease, filter 0.15s ease;
+        }
+        .screenshot-thumb:hover {
+            transform: scale(1.03);
+            filter: brightness(1.1);
+        }
+
+        .genre-scroll::-webkit-scrollbar { width: 6px; }
+
+        .pagination-btn.active {
+            background: #eab308;
+            color: #121212;
+        }
+    </style>
 </head>
-<body>
+<body class="antialiased min-h-screen flex flex-col">
 
-<header class="site-header">
-  <div class="container">
-    <a href="index.html" class="logo">
-      <span class="logo-mark">S</span>
-      Skippy<span class="logo-accent">Games</span>
-    </a>
-    <div class="header-social">
-      <a class="social-btn" href="https://www.youtube.com/@SkippyGames" target="_blank" rel="noopener" title="YouTube">
-        <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8ZM9.6 15.6V8.4L15.8 12l-6.2 3.6Z"/></svg>
-      </a>
-      <a class="social-btn" href="https://www.twitch.tv/shadowskippy" target="_blank" rel="noopener" title="Twitch">
-        <svg viewBox="0 0 24 24"><path d="M4.3 2 2 6.9v13.8h5.1V23l3.5-2.3h4.3L21 14.5V2H4.3Zm14.9 11.6-3 3H12l-2.6 2.6v-2.6H6.3V3.7h12.9v9.9Z"/><path d="M15.9 6.9h1.7v5.2h-1.7zM11.1 6.9h1.7v5.2h-1.7z"/></svg>
-      </a>
-    </div>
-    <button class="mobile-menu-btn btn btn-secondary">Меню</button>
-  </div>
-</header>
+    <header class="sticky top-0 z-50 bg-[#18181b] border-b border-neutral-800 shadow-lg">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+            <div class="flex items-center gap-3 cursor-pointer" onclick="goHome()">
+                <div class="w-10 h-10 bg-yellow-500 rounded-xl flex items-center justify-center shadow-[0_0_15px_rgba(234,179,8,0.4)]">
+                    <i class="fa-solid fa-gamepad text-neutral-900 text-xl"></i>
+                </div>
+                <h1 class="text-2xl font-extrabold tracking-tight text-white">Skippy<span class="text-yellow-500">Games</span></h1>
+            </div>
 
-<section class="hero">
-  <div class="container">
-    <h1>Твой <span>арсенал</span> игр<br>уже здесь</h1>
-    <p>Steam, PlayStation и Xbox — лицензионные ключи и аккаунты с быстрой доставкой через ВКонтакте.</p>
-  </div>
-</section>
-
-<section class="controls">
-  <div class="container">
-    <div class="search-row">
-      <div class="search-input-wrap">
-        <svg viewBox="0 0 24 24"><path d="M21 21l-4.35-4.35m1.85-5.15a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-        <input type="text" id="search-input" placeholder="Поиск игр по названию...">
-      </div>
-      <button class="filters-toggle" id="filters-toggle">
-        Фильтры <span class="count-badge" id="filters-count">0</span>
-      </button>
-    </div>
-
-    <div class="filters-panel" id="filters-panel">
-      <div class="filter-group">
-        <h3>Платформа</h3>
-        <div class="checkbox-grid" id="platform-checkboxes">
-          <label class="check-item"><input type="checkbox" value="PC" checked><span>Steam (PC)</span></label>
-          <label class="check-item"><input type="checkbox" value="PlayStation"><span>PlayStation</span></label>
-          <label class="check-item"><input type="checkbox" value="Xbox"><span>Xbox</span></label>
+            <div class="flex items-center gap-4">
+                <a href="https://vk.com/skippygames" target="_blank" rel="noopener" class="w-10 h-10 rounded-full bg-neutral-800 flex items-center justify-center text-blue-500 hover:bg-blue-500 hover:text-white transition-colors">
+                    <i class="fa-brands fa-vk text-xl"></i>
+                </a>
+                <a href="https://www.youtube.com/@SkippyGames" target="_blank" rel="noopener" class="w-10 h-10 rounded-full bg-neutral-800 flex items-center justify-center text-red-500 hover:bg-red-500 hover:text-white transition-colors">
+                    <i class="fa-brands fa-youtube text-xl"></i>
+                </a>
+                <a href="https://www.twitch.tv/shadowskippy" target="_blank" rel="noopener" class="w-10 h-10 rounded-full bg-neutral-800 flex items-center justify-center text-purple-500 hover:bg-purple-500 hover:text-white transition-colors">
+                    <i class="fa-brands fa-twitch text-xl"></i>
+                </a>
+                <a href="https://t.me/SKIPPYManager" target="_blank" rel="noopener" class="w-10 h-10 rounded-full bg-neutral-800 flex items-center justify-center text-sky-400 hover:bg-sky-500 hover:text-white transition-colors">
+                    <i class="fa-brands fa-telegram text-xl"></i>
+                </a>
+            </div>
         </div>
-      </div>
+    </header>
 
-      <div class="filter-group genres">
-        <h3>Жанры</h3>
-        <div class="checkbox-grid" id="genre-checkboxes"></div>
-      </div>
+    <!-- ==================== КАТАЛОГ ==================== -->
+    <main id="view-catalog" class="flex-grow max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8 fade-enter">
 
-      <div class="filters-actions">
-        <button class="btn-reset" id="filters-reset">Сбросить всё</button>
-      </div>
+        <div class="bg-gradient-to-r from-neutral-800 to-neutral-900 rounded-3xl p-8 mb-8 border border-neutral-700 relative overflow-hidden flex flex-col md:flex-row items-center justify-between">
+            <div class="absolute -right-20 -top-20 w-64 h-64 bg-yellow-500/10 rounded-full blur-3xl"></div>
+            <div class="relative z-10 md:w-2/3">
+                <h2 class="text-3xl md:text-5xl font-extrabold text-white mb-4">Все игры Steam, PS и Xbox<br>в одном месте.</h2>
+                <p class="text-neutral-400 text-lg mb-6">Автоматические обновления цен каждый день. Быстрая доставка через поддержку ВКонтакте и Telegram.</p>
+                <div class="relative w-full max-w-md">
+                    <input type="text" id="searchInput" placeholder="Найти игру (например, Cyberpunk)..." class="w-full bg-neutral-950 border border-neutral-700 rounded-xl py-3 pl-12 pr-4 text-white focus:outline-none focus:border-yellow-500 focus:ring-1 focus:ring-yellow-500 transition-all">
+                    <i class="fa-solid fa-search absolute left-4 top-3.5 text-neutral-500"></i>
+                </div>
+                <p class="text-neutral-500 text-sm mt-3" id="catalogStats">Загрузка каталога...</p>
+            </div>
+        </div>
+
+        <div class="flex flex-col md:flex-row gap-8">
+            <aside class="w-full md:w-64 shrink-0">
+                <div class="bg-neutral-800/50 rounded-2xl p-6 border border-neutral-700/50">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-lg font-bold text-white">Платформы</h3>
+                    </div>
+                    <div class="space-y-2 mb-6" id="platformFilters"></div>
+
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="text-lg font-bold text-white">Жанры</h3>
+                        <button onclick="resetFilters()" class="text-xs text-neutral-500 hover:text-yellow-400 transition-colors">Сбросить</button>
+                    </div>
+                    <div class="space-y-2 h-80 overflow-y-auto pr-2 genre-scroll" id="genreFilters"></div>
+                </div>
+            </aside>
+
+            <div class="flex-grow">
+                <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"></div>
+                <div id="noResults" class="hidden text-center py-20 text-neutral-500">
+                    <i class="fa-solid fa-ghost text-4xl mb-3"></i>
+                    <p class="text-lg">Игры не найдены. Попробуйте изменить фильтры.</p>
+                </div>
+
+                <!-- Пагинация: рендерим только текущую страницу, чтобы каталог
+                     из тысяч игр не тормозил браузер -->
+                <div id="pagination" class="flex items-center justify-center gap-2 mt-10 flex-wrap"></div>
+            </div>
+        </div>
+    </main>
+
+    <!-- ==================== СТРАНИЦА ИГРЫ ==================== -->
+    <main id="view-game" class="hidden flex-grow max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8">
+        <button onclick="goHome()" class="text-neutral-400 hover:text-yellow-400 mb-6 flex items-center gap-2 transition-colors font-semibold">
+            <i class="fa-solid fa-arrow-left"></i> Вернуться в каталог
+        </button>
+
+        <div class="bg-neutral-800 rounded-3xl overflow-hidden border border-neutral-700 shadow-2xl mb-8">
+            <div class="flex flex-col lg:flex-row">
+                <!-- Трейлер -->
+                <div id="detail-media" class="lg:w-7/12 relative bg-black aspect-video flex items-center justify-center overflow-hidden"></div>
+
+                <!-- Инфо об игре -->
+                <div class="lg:w-5/12 p-8 lg:p-12 flex flex-col">
+                    <h2 id="detail-title" class="text-3xl lg:text-4xl font-extrabold text-white mb-2">Название игры</h2>
+                    <p id="detail-genres" class="text-yellow-500 font-semibold mb-4">Жанры</p>
+                    <div class="flex gap-2 mb-6" id="detail-platforms"></div>
+
+                    <div id="detail-desc" class="text-neutral-300 leading-relaxed mb-8 flex-grow whitespace-pre-line max-h-80 overflow-y-auto pr-2"></div>
+
+                    <div class="bg-neutral-900 rounded-2xl p-6 border border-neutral-800 mb-6">
+                        <p class="text-neutral-400 text-sm mb-1">Финальная цена:</p>
+                        <div class="flex items-end gap-3">
+                            <span id="detail-price" class="text-4xl font-extrabold text-white">0 ₽</span>
+                        </div>
+                    </div>
+
+                    <button onclick="buyGame()" class="w-full bg-yellow-500 hover:bg-yellow-400 text-neutral-900 text-xl font-bold py-4 px-6 rounded-2xl transition-all shadow-[0_0_20px_rgba(234,179,8,0.3)] hover:shadow-[0_0_30px_rgba(234,179,8,0.5)] transform hover:-translate-y-1 active:translate-y-0 flex justify-center items-center gap-3">
+                        <i class="fa-solid fa-basket-shopping"></i> Купить игру
+                    </button>
+                    <p class="text-center text-neutral-500 text-xs mt-4">Оплата происходит через менеджера ВКонтакте или Telegram</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Скриншоты -->
+        <div id="detail-screens-block" class="bg-neutral-800 rounded-3xl p-6 lg:p-8 border border-neutral-700 mb-8 hidden">
+            <h3 class="text-xl font-bold text-white mb-4"><i class="fa-solid fa-images text-yellow-500 mr-2"></i>Скриншоты</h3>
+            <div id="detail-screens" class="grid grid-cols-2 md:grid-cols-4 gap-3"></div>
+        </div>
+
+        <!-- Дополнительные покупки / внутриигровая валюта -->
+        <div id="detail-upsells-block" class="bg-neutral-800 rounded-3xl p-6 lg:p-8 border border-neutral-700 mb-8 hidden">
+            <h3 class="text-xl font-bold text-white mb-1"><i class="fa-solid fa-coins text-yellow-500 mr-2"></i>Дополнения и внутриигровая валюта</h3>
+            <p class="text-neutral-500 text-sm mb-5">Дополнительный контент для этой игры, доступный к покупке отдельно.</p>
+            <div id="detail-upsells" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+        </div>
+    </main>
+
+    <!-- ==================== ЛАЙТБОКС СКРИНШОТОВ ==================== -->
+    <div id="lightbox" class="hidden-lightbox fixed inset-0 bg-black/90 z-[9998] flex items-center justify-center p-4 sm:p-10">
+        <button onclick="closeLightbox()" class="absolute top-5 right-5 w-11 h-11 rounded-full bg-neutral-800/80 hover:bg-yellow-500 hover:text-neutral-900 text-white flex items-center justify-center text-xl transition-colors z-10">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+        <button onclick="lightboxNav(-1)" class="absolute left-3 sm:left-6 w-11 h-11 rounded-full bg-neutral-800/80 hover:bg-yellow-500 hover:text-neutral-900 text-white flex items-center justify-center text-xl transition-colors">
+            <i class="fa-solid fa-chevron-left"></i>
+        </button>
+        <img id="lightbox-img" src="" alt="Screenshot" class="max-w-full max-h-full rounded-xl shadow-2xl object-contain">
+        <button onclick="lightboxNav(1)" class="absolute right-3 sm:right-6 w-11 h-11 rounded-full bg-neutral-800/80 hover:bg-yellow-500 hover:text-neutral-900 text-white flex items-center justify-center text-xl transition-colors">
+            <i class="fa-solid fa-chevron-right"></i>
+        </button>
+        <div id="lightbox-counter" class="absolute bottom-6 left-1/2 -translate-x-1/2 text-neutral-400 text-sm"></div>
     </div>
-  </div>
-</section>
 
-<section class="games-section">
-  <div class="container">
-    <div class="section-heading">
-      <h2>Каталог игр</h2>
-      <span class="results-count" id="results-count"></span>
+    <!-- ==================== ФУТЕР ==================== -->
+    <footer class="bg-[#18181b] border-t border-neutral-800 mt-auto">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col md:flex-row items-center justify-between gap-4">
+            <div class="text-neutral-400 text-sm text-center md:text-left">
+                <p>© <span id="footer-year"></span> SkippyGames — все права защищены.</p>
+                <p class="mt-1">
+                    Владелец: <span class="text-white font-semibold">Андрей «ShadowSkip»</span> ·
+                    <a href="https://t.me/SKIPPYManager" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 transition-colors">
+                        <i class="fa-brands fa-telegram"></i> @SKIPPYManager
+                    </a>
+                </p>
+            </div>
+            <div class="flex items-center gap-4">
+                <a href="https://vk.com/skippygames" target="_blank" rel="noopener" class="text-neutral-500 hover:text-blue-400 transition-colors"><i class="fa-brands fa-vk text-lg"></i></a>
+                <a href="https://www.youtube.com/@SkippyGames" target="_blank" rel="noopener" class="text-neutral-500 hover:text-red-400 transition-colors"><i class="fa-brands fa-youtube text-lg"></i></a>
+                <a href="https://www.twitch.tv/shadowskippy" target="_blank" rel="noopener" class="text-neutral-500 hover:text-purple-400 transition-colors"><i class="fa-brands fa-twitch text-lg"></i></a>
+                <a href="https://t.me/SKIPPYManager" target="_blank" rel="noopener" class="text-neutral-500 hover:text-sky-400 transition-colors"><i class="fa-brands fa-telegram text-lg"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Toast -->
+    <div id="toast" class="toast">
+        <i class="fa-solid fa-circle-check text-2xl"></i>
+        <div>
+            <p class="text-sm" id="toast-title">Текст скопирован!</p>
+            <p class="text-xs font-normal opacity-90" id="toast-text">Нажмите Ctrl+V (Вставить) в чате.</p>
+        </div>
     </div>
-    <div class="games-grid" id="games-grid">
-      <div class="empty-state"><h3>Загрузка каталога...</h3></div>
+
+    <!-- Кнопка чата -->
+    <button onclick="toggleChat()" class="fixed bottom-6 right-6 w-16 h-16 bg-blue-600 hover:bg-blue-500 rounded-full shadow-2xl flex items-center justify-center text-white text-2xl z-40 transition-transform hover:scale-110 active:scale-95 overflow-hidden">
+        <img id="chat-toggle-avatar" src="" alt="" class="w-full h-full object-cover">
+    </button>
+
+    <!-- Окно чата (реальный виджет ВКонтакте) -->
+    <div id="chat-widget" class="closed fixed bottom-24 right-6 w-[350px] h-[520px] bg-white rounded-2xl shadow-2xl z-50 flex flex-col overflow-hidden border border-neutral-200">
+        <div class="bg-blue-600 p-4 flex items-center justify-between text-white">
+            <div class="flex items-center gap-3">
+                <div class="relative">
+                    <img id="chat-avatar" src="" alt="Avatar" class="w-10 h-10 rounded-full object-cover border-2 border-white/20">
+                    <div class="absolute bottom-0 right-0 w-3 h-3 bg-green-400 border-2 border-blue-600 rounded-full"></div>
+                </div>
+                <div>
+                    <p class="font-bold text-sm leading-tight" id="chat-manager-name">Дежурный менеджер</p>
+                    <p class="text-xs text-blue-200">Онлайн · ВКонтакте</p>
+                </div>
+            </div>
+            <button onclick="toggleChat()" class="text-white hover:text-neutral-200">
+                <i class="fa-solid fa-xmark text-xl"></i>
+            </button>
+        </div>
+        <!-- Сюда монтируется официальный виджет VK.Widgets.CommunityMessages -->
+        <div id="vk_community_messages" class="flex-grow bg-[#f5f5f5]"></div>
     </div>
-  </div>
-</section>
 
-<footer class="site-footer">
-  <div class="container" style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px; width:100%;">
-    <span>© SkippyGames — Андрей «ShadowSkip»</span>
-    <div class="footer-social">
-      <a href="https://www.youtube.com/@SkippyGames" target="_blank" rel="noopener">YouTube</a>
-      <a href="https://www.twitch.tv/shadowskippy" target="_blank" rel="noopener">Twitch</a>
-      <a href="https://vk.com/skippygames" target="_blank" rel="noopener">ВКонтакте</a>
-    </div>
-  </div>
-</footer>
+    <script>
+        /* =====================================================================
+           КОНФИГУРАЦИЯ
+           ===================================================================== */
 
-<div class="toast-container" id="toast-container"></div>
+        // Числовой ID сообщества ВКонтакте для виджета "Сообщения сообщества".
+        var VK_GROUP_NUMERIC_ID = 195484236;
 
-<div id="vk-chat-container">
-  <div id="vk-widget-panel">
-    <div class="vk-widget-header">
-      <img id="vk-manager-avatar" src="" alt="Дежурный менеджер">
-      <div class="who">
-        <strong id="vk-manager-name">Дежурный менеджер</strong>
-        <span>Онлайн</span>
-      </div>
-      <button class="close-btn" id="vk-widget-close">×</button>
-    </div>
-    <div id="vk_community_messages"></div>
-  </div>
-  <button class="vk-chat-toggle" id="vk-chat-toggle" title="Написать в чат">
-    <img id="vk-toggle-avatar" src="" alt="Написать нам">
-    <span class="online-dot"></span>
-  </button>
-</div>
+        var GAMES_JSON_URL = 'games.json';
+        var GAMES_PER_PAGE = 24;
 
-<script src="script.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    initVkWidget();
-    loadGamesData().then(function () {
-      renderGenreCheckboxes();
-      applyFiltersAndRender();
-      initSearchAndFilters();
-    });
-  });
-</script>
+        var allGenres = [
+            'Экшен', 'Шутеры от первого лица (FPS)', 'Шутеры от третьего лица (TPS)',
+            'Тактические шутеры', 'Геройские шутеры', 'Файтинги', 'Слэшеры',
+            "Beat 'em up", 'Платформеры', 'Королевская битва (Battle Royale)',
+            'Классические ролевые игры (CRPG)', 'Экшен-РПГ (Action-RPG)',
+            'Японские ролевые игры (JRPG)', 'MMORPG', 'Стратегии в реальном времени (RTS)',
+            'Пошаговые стратегии (TBS)', 'Глобальные стратегии (4X)', 'MOBA',
+            'Башенная защита (Tower Defense)', 'Автобатлеры', 'Приключения',
+            'Квесты (Point-and-Click)', 'Интерактивное кино', 'Визуальные новеллы',
+            'Головоломки', 'Градостроительные симуляторы', 'Экономические симуляторы',
+            'Симуляторы жизни', 'Технические симуляторы', 'Иммерсивные симуляторы (Immersive Sim)',
+            'Спортивные симуляторы', 'Гоночные симуляторы (Simracing)', 'Аркадные гонки',
+            'Выживание (Survival)', 'Хорроры на выживание (Survival Horror)',
+            'Психологические хорроры', 'Экшен-адвенчуры', 'Песочницы (Sandbox)',
+            'Рогалики (Roguelike/Roguelite)', 'Метроидвании', 'Стелс-экшен',
+            'Ритм-игры', 'Казуальные игры'
+        ];
+
+        var allPlatforms = ['PC', 'PlayStation', 'Xbox', 'Nintendo Switch'];
+        var platformIcons = {
+            'PC': { icon: 'fa-steam', color: 'text-neutral-400' },
+            'PlayStation': { icon: 'fa-playstation', color: 'text-blue-400' },
+            'Xbox': { icon: 'fa-xbox', color: 'text-green-400' },
+            'Nintendo Switch': { icon: 'fa-gamepad', color: 'text-red-400' }
+        };
+        var platformLabels = { 'PC': 'Steam (PC)', 'PlayStation': 'PlayStation', 'Xbox': 'Xbox', 'Nintendo Switch': 'Nintendo Switch' };
+
+        var MANAGER_AVATARS = [
+            { name: 'Дежурный №1', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=01' },
+            { name: 'Дежурный №2', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=02' },
+            { name: 'Дежурный №3', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=03' },
+            { name: 'Дежурный №4', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=04' },
+            { name: 'Дежурный №5', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=05' },
+            { name: 'Дежурный №6', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=06' },
+            { name: 'Дежурный №7', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=07' }
+        ];
+
+        /* =====================================================================
+           СОСТОЯНИЕ
+           ===================================================================== */
+
+        var allGames = [];
+        var filteredGames = [];
+        var activeFilters = { platforms: [], genres: [] };
+        var searchQuery = '';
+        var currentGame = null;
+        var currentPage = 1;
+        var searchDebounceTimer = null;
+
+        var lightboxImages = [];
+        var lightboxIndex = 0;
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('footer-year').textContent = new Date().getFullYear();
+            setupChatAvatar();
+            renderFilters();
+            setupSearch();
+            loadGames();
+            document.addEventListener('keydown', handleLightboxKeys);
+        });
+
+        /* =====================================================================
+           ЗАГРУЗКА ДАННЫХ
+           ===================================================================== */
+
+        function loadGames() {
+            fetch(GAMES_JSON_URL, { cache: 'no-store' })
+                .then(resp => {
+                    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                    return resp.json();
+                })
+                .then(payload => {
+                    allGames = Array.isArray(payload.games) ? payload.games : [];
+                    filteredGames = allGames.slice();
+                    document.getElementById('catalogStats').textContent =
+                        allGames.length.toLocaleString('ru-RU') + ' игр в каталоге' +
+                        (payload.target_catalog_size ? ' · цель: ' + payload.target_catalog_size.toLocaleString('ru-RU') : '');
+                    renderGames();
+                    maybeOpenGameFromUrl();
+                })
+                .catch(err => {
+                    console.error('Не удалось загрузить games.json:', err);
+                    document.getElementById('catalogStats').textContent = 'Каталог временно недоступен';
+                    document.getElementById('gamesGrid').innerHTML =
+                        '<div class="col-span-full text-center py-20 text-neutral-500"><i class="fa-solid fa-triangle-exclamation text-4xl mb-3"></i><p>Не удалось загрузить games.json. Попробуйте обновить страницу позже.</p></div>';
+                });
+        }
+
+        function maybeOpenGameFromUrl() {
+            var params = new URLSearchParams(window.location.search);
+            var id = params.get('id');
+            if (id) {
+                var game = allGames.find(g => String(g.id) === String(id));
+                if (game) openGame(game.id, false);
+            }
+        }
+
+        /* =====================================================================
+           ФИЛЬТРЫ / ПОИСК / ПАГИНАЦИЯ
+           ===================================================================== */
+
+        function renderFilters() {
+            const pContainer = document.getElementById('platformFilters');
+            allPlatforms.forEach(p => {
+                pContainer.innerHTML += `
+                    <label class="flex items-center gap-3 text-neutral-300 hover:text-white cursor-pointer group">
+                        <div class="relative flex items-center justify-center">
+                            <input type="checkbox" value="${p}" onchange="toggleFilter('platforms', '${p}')" class="peer appearance-none w-5 h-5 border border-neutral-600 rounded bg-neutral-900 checked:bg-yellow-500 checked:border-yellow-500 transition-all cursor-pointer">
+                            <i class="fa-solid fa-check absolute text-black text-xs opacity-0 peer-checked:opacity-100 pointer-events-none"></i>
+                        </div>
+                        <span class="text-sm select-none">${platformLabels[p]}</span>
+                    </label>
+                `;
+            });
+
+            const gContainer = document.getElementById('genreFilters');
+            allGenres.forEach(g => {
+                gContainer.innerHTML += `
+                    <label class="flex items-center gap-3 text-neutral-300 hover:text-white cursor-pointer group">
+                        <div class="relative flex items-center justify-center">
+                            <input type="checkbox" value="${g}" onchange="toggleFilter('genres', '${g}')" class="peer appearance-none w-5 h-5 border border-neutral-600 rounded bg-neutral-900 checked:bg-yellow-500 checked:border-yellow-500 transition-all cursor-pointer">
+                            <i class="fa-solid fa-check absolute text-black text-xs opacity-0 peer-checked:opacity-100 pointer-events-none"></i>
+                        </div>
+                        <span class="text-sm select-none">${g}</span>
+                    </label>
+                `;
+            });
+        }
+
+        function toggleFilter(type, value) {
+            const index = activeFilters[type].indexOf(value);
+            if (index > -1) activeFilters[type].splice(index, 1);
+            else activeFilters[type].push(value);
+            currentPage = 1;
+            applyFilters();
+        }
+
+        function resetFilters() {
+            activeFilters = { platforms: [], genres: [] };
+            document.querySelectorAll('#platformFilters input, #genreFilters input').forEach(cb => cb.checked = false);
+            currentPage = 1;
+            applyFilters();
+        }
+
+        function setupSearch() {
+            document.getElementById('searchInput').addEventListener('input', (e) => {
+                clearTimeout(searchDebounceTimer);
+                const value = e.target.value;
+                searchDebounceTimer = setTimeout(() => {
+                    searchQuery = value.toLowerCase().trim();
+                    currentPage = 1;
+                    applyFilters();
+                }, 200);
+            });
+        }
+
+        function applyFilters() {
+            filteredGames = allGames.filter(game => {
+                const matchSearch = !searchQuery || game.title.toLowerCase().includes(searchQuery);
+                const matchPlatform = activeFilters.platforms.length === 0 || activeFilters.platforms.some(p => game.platforms.includes(p));
+                const matchGenre = activeFilters.genres.length === 0 || activeFilters.genres.some(g => game.genres.includes(g));
+                return matchSearch && matchPlatform && matchGenre;
+            });
+            renderGames();
+        }
+
+        function renderGames() {
+            const grid = document.getElementById('gamesGrid');
+            const noRes = document.getElementById('noResults');
+            const paginationEl = document.getElementById('pagination');
+            grid.innerHTML = '';
+
+            if (filteredGames.length === 0) {
+                grid.classList.add('hidden');
+                noRes.classList.remove('hidden');
+                paginationEl.innerHTML = '';
+                return;
+            }
+
+            grid.classList.remove('hidden');
+            noRes.classList.add('hidden');
+
+            const totalPages = Math.max(1, Math.ceil(filteredGames.length / GAMES_PER_PAGE));
+            currentPage = Math.min(currentPage, totalPages);
+            const start = (currentPage - 1) * GAMES_PER_PAGE;
+            const pageItems = filteredGames.slice(start, start + GAMES_PER_PAGE);
+
+            pageItems.forEach(game => {
+                let platHTML = game.platforms.map(p => {
+                    const cfg = platformIcons[p];
+                    if (!cfg) return '';
+                    return `<i class="fa-brands ${cfg.icon} ${cfg.color}"></i>`;
+                }).join('');
+
+                const priceLabel = game.is_free ? 'Бесплатно' : `${game.price_rub.toLocaleString('ru-RU')} ₽`;
+
+                const cardHTML = `
+                    <div class="card-container cursor-pointer" onclick="openGame(${game.id})">
+                        <div class="card-3d bg-neutral-800 rounded-2xl overflow-hidden border border-neutral-700 h-full flex flex-col">
+                            <div class="relative h-48 w-full">
+                                <img src="${game.cover}" alt="${escapeHtml(game.title)}" loading="lazy" class="w-full h-full object-cover">
+                                <div class="absolute inset-0 bg-gradient-to-t from-neutral-800 to-transparent"></div>
+                                <div class="absolute bottom-3 left-4 flex gap-2 text-sm">${platHTML}</div>
+                                <div class="absolute top-3 right-3 bg-neutral-900/80 backdrop-blur-sm px-2 py-1 rounded-lg border border-neutral-700 text-xs text-yellow-400 font-bold">
+                                    ${escapeHtml(game.genres[0] || '')}
+                                </div>
+                            </div>
+                            <div class="p-5 flex-grow flex flex-col justify-between">
+                                <div>
+                                    <h3 class="font-bold text-lg text-white mb-1 line-clamp-2">${escapeHtml(game.title)}</h3>
+                                </div>
+                                <div class="mt-4 flex items-end justify-between">
+                                    <span class="text-2xl font-extrabold text-white">${priceLabel}</span>
+                                    <div class="w-10 h-10 rounded-xl bg-yellow-500 flex items-center justify-center text-neutral-900">
+                                        <i class="fa-solid fa-cart-shopping"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                grid.innerHTML += cardHTML;
+            });
+
+            document.querySelectorAll('.card-container').forEach(container => {
+                const card = container.querySelector('.card-3d');
+                container.addEventListener('mousemove', (e) => {
+                    const rect = container.getBoundingClientRect();
+                    const x = e.clientX - rect.left;
+                    const y = e.clientY - rect.top;
+                    const centerX = rect.width / 2;
+                    const centerY = rect.height / 2;
+                    const rotateX = ((y - centerY) / centerY) * -15;
+                    const rotateY = ((x - centerX) / centerX) * 15;
+                    card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+                });
+                container.addEventListener('mouseleave', () => {
+                    card.style.transform = `rotateX(0deg) rotateY(0deg)`;
+                });
+            });
+
+            renderPagination(totalPages);
+        }
+
+        function renderPagination(totalPages) {
+            const el = document.getElementById('pagination');
+            el.innerHTML = '';
+            if (totalPages <= 1) return;
+
+            const makeBtn = (label, page, isActive, disabled) => {
+                const btn = document.createElement('button');
+                btn.className = 'pagination-btn px-4 py-2 rounded-lg bg-neutral-800 border border-neutral-700 text-neutral-300 text-sm font-semibold hover:border-yellow-500 transition-colors disabled:opacity-40 disabled:cursor-not-allowed' + (isActive ? ' active' : '');
+                btn.textContent = label;
+                btn.disabled = !!disabled;
+                btn.addEventListener('click', () => { currentPage = page; renderGames(); window.scrollTo({ top: document.getElementById('gamesGrid').offsetTop - 100, behavior: 'smooth' }); });
+                return btn;
+            };
+
+            el.appendChild(makeBtn('«', Math.max(1, currentPage - 1), false, currentPage === 1));
+
+            const windowSize = 2;
+            for (let p = 1; p <= totalPages; p++) {
+                if (p === 1 || p === totalPages || Math.abs(p - currentPage) <= windowSize) {
+                    el.appendChild(makeBtn(String(p), p, p === currentPage, false));
+                } else if (Math.abs(p - currentPage) === windowSize + 1) {
+                    const dots = document.createElement('span');
+                    dots.className = 'text-neutral-600 px-1';
+                    dots.textContent = '…';
+                    el.appendChild(dots);
+                }
+            }
+
+            el.appendChild(makeBtn('»', Math.min(totalPages, currentPage + 1), false, currentPage === totalPages));
+        }
+
+        /* =====================================================================
+           СТРАНИЦА ИГРЫ
+           ===================================================================== */
+
+        function openGame(id, pushUrl) {
+            currentGame = allGames.find(g => g.id === id);
+            if (!currentGame) return;
+
+            document.getElementById('view-catalog').classList.add('hidden');
+            const viewGame = document.getElementById('view-game');
+            viewGame.classList.remove('hidden');
+            viewGame.classList.add('fade-enter');
+
+            document.getElementById('detail-title').innerText = currentGame.title;
+            const priceLabel = currentGame.is_free ? 'Бесплатно' : `${currentGame.price_rub.toLocaleString('ru-RU')} ₽`;
+            document.getElementById('detail-price').innerText = priceLabel;
+            document.getElementById('detail-desc').innerText = currentGame.description || currentGame.description_short || 'Описание пока недоступно.';
+            document.getElementById('detail-genres').innerText = (currentGame.genres || []).join(' • ');
+
+            renderDetailMedia(currentGame);
+            renderDetailPlatforms(currentGame);
+            renderDetailScreenshots(currentGame);
+            renderDetailUpsells(currentGame);
+
+            if (pushUrl !== false) {
+                const url = new URL(window.location);
+                url.searchParams.set('id', id);
+                window.history.pushState({}, '', url);
+            }
+
+            window.scrollTo(0, 0);
+        }
+
+        function renderDetailMedia(game) {
+            const media = document.getElementById('detail-media');
+            if (game.trailer_video) {
+                media.innerHTML = `
+                    <video controls preload="metadata" poster="${game.hero || game.cover}" class="w-full h-full object-cover">
+                        <source src="${game.trailer_video}" type="video/mp4">
+                        Ваш браузер не поддерживает встроенное видео.
+                    </video>
+                `;
+            } else {
+                media.innerHTML = `
+                    <img src="${game.hero || game.cover}" alt="${escapeHtml(game.title)}" class="absolute inset-0 w-full h-full object-cover opacity-70">
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
+                    <div class="relative z-10 text-center px-6">
+                        <i class="fa-solid fa-clapperboard text-4xl text-neutral-500 mb-2"></i>
+                        <p class="text-neutral-400 text-sm">Трейлер для этой игры пока недоступен в Steam</p>
+                    </div>
+                `;
+            }
+        }
+
+        function renderDetailPlatforms(game) {
+            let platHTML = (game.platforms || []).map(p => {
+                const cfg = platformIcons[p] || { icon: 'fa-gamepad', color: 'text-white' };
+                let bg = 'bg-neutral-800';
+                if (p === 'PC') bg = 'bg-black';
+                if (p === 'PlayStation') bg = 'bg-blue-600';
+                if (p === 'Xbox') bg = 'bg-green-600';
+                if (p === 'Nintendo Switch') bg = 'bg-red-600';
+                return `<div class="${bg} px-3 py-1.5 rounded-lg flex items-center gap-2 border border-white/20"><i class="fa-brands ${cfg.icon} text-white"></i><span class="text-xs font-bold text-white">${platformLabels[p] || p}</span></div>`;
+            }).join('');
+            document.getElementById('detail-platforms').innerHTML = platHTML;
+        }
+
+        function renderDetailScreenshots(game) {
+            const block = document.getElementById('detail-screens-block');
+            const container = document.getElementById('detail-screens');
+            const screenshots = game.screenshots || [];
+            if (screenshots.length === 0) {
+                block.classList.add('hidden');
+                container.innerHTML = '';
+                return;
+            }
+            block.classList.remove('hidden');
+            container.innerHTML = screenshots.map((src, idx) => `
+                <img src="${src}" alt="Скриншот ${idx + 1}" loading="lazy"
+                     class="screenshot-thumb w-full h-28 md:h-36 object-cover rounded-xl border border-neutral-700"
+                     onclick="openLightbox(${idx})">
+            `).join('');
+            lightboxImages = screenshots;
+        }
+
+        function renderDetailUpsells(game) {
+            const block = document.getElementById('detail-upsells-block');
+            const container = document.getElementById('detail-upsells');
+            const upsells = game.upsells || [];
+            if (upsells.length === 0) {
+                block.classList.add('hidden');
+                container.innerHTML = '';
+                return;
+            }
+            block.classList.remove('hidden');
+            container.innerHTML = upsells.map(item => `
+                <div class="bg-neutral-900 rounded-2xl p-4 border border-neutral-700 flex items-center gap-4">
+                    ${item.cover ? `<img src="${item.cover}" alt="${escapeHtml(item.name)}" class="w-16 h-16 rounded-lg object-cover shrink-0">` : ''}
+                    <div class="flex-grow min-w-0">
+                        <p class="text-sm font-bold text-white truncate">${escapeHtml(item.name)}</p>
+                        <p class="text-yellow-500 font-extrabold">${item.price_rub.toLocaleString('ru-RU')} ₽</p>
+                    </div>
+                    <button onclick='buyUpsell(${JSON.stringify(item.name)}, ${item.price_rub})' class="shrink-0 w-10 h-10 rounded-xl bg-yellow-500 hover:bg-yellow-400 flex items-center justify-center text-neutral-900 transition-colors">
+                        <i class="fa-solid fa-cart-plus"></i>
+                    </button>
+                </div>
+            `).join('');
+        }
+
+        function goHome() {
+            document.getElementById('view-game').classList.add('hidden');
+            document.getElementById('view-catalog').classList.remove('hidden');
+            const url = new URL(window.location);
+            url.searchParams.delete('id');
+            window.history.pushState({}, '', url);
+        }
+
+        /* =====================================================================
+           ЛАЙТБОКС СКРИНШОТОВ
+           ===================================================================== */
+
+        function openLightbox(index) {
+            lightboxIndex = index;
+            updateLightboxImage();
+            document.getElementById('lightbox').classList.remove('hidden-lightbox');
+        }
+
+        function closeLightbox() {
+            document.getElementById('lightbox').classList.add('hidden-lightbox');
+        }
+
+        function lightboxNav(delta) {
+            if (lightboxImages.length === 0) return;
+            lightboxIndex = (lightboxIndex + delta + lightboxImages.length) % lightboxImages.length;
+            updateLightboxImage();
+        }
+
+        function updateLightboxImage() {
+            document.getElementById('lightbox-img').src = lightboxImages[lightboxIndex];
+            document.getElementById('lightbox-counter').textContent = (lightboxIndex + 1) + ' / ' + lightboxImages.length;
+        }
+
+        function handleLightboxKeys(e) {
+            const lb = document.getElementById('lightbox');
+            if (lb.classList.contains('hidden-lightbox')) return;
+            if (e.key === 'Escape') closeLightbox();
+            if (e.key === 'ArrowLeft') lightboxNav(-1);
+            if (e.key === 'ArrowRight') lightboxNav(1);
+        }
+
+        /* =====================================================================
+           ПОКУПКА (копирование в буфер + открытие чата + toast)
+           ===================================================================== */
+
+        function buyGame() {
+            if (!currentGame) return;
+            const priceLabel = currentGame.is_free ? 'бесплатно' : `${currentGame.price_rub.toLocaleString('ru-RU')} ₽`;
+            const platformsLabel = (currentGame.platforms || []).map(p => platformLabels[p] || p).join('/');
+            const text = `Здравствуйте! Хочу купить игру ${currentGame.title} на платформу ${platformsLabel} (${priceLabel}).`;
+            completePurchaseFlow(text);
+        }
+
+        function buyUpsell(name, price) {
+            if (!currentGame) return;
+            const text = `Здравствуйте! Хочу купить «${name}» для игры ${currentGame.title} за ${price.toLocaleString('ru-RU')} ₽.`;
+            completePurchaseFlow(text);
+        }
+
+        function completePurchaseFlow(text) {
+            copyToClipboard(text);
+            showToast('Текст заказа скопирован!', 'Нажмите Ctrl+V (или «Вставить») в открывшемся чате, чтобы отправить заказ администратору.');
+            const chatWidget = document.getElementById('chat-widget');
+            if (chatWidget.classList.contains('closed')) toggleChat();
+        }
+
+        function copyToClipboard(text) {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(text).catch(() => fallbackCopy(text));
+            } else {
+                fallbackCopy(text);
+            }
+        }
+
+        function fallbackCopy(text) {
+            const tempInput = document.createElement('textarea');
+            tempInput.value = text;
+            tempInput.style.position = 'fixed';
+            tempInput.style.opacity = '0';
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            try { document.execCommand('copy'); } catch (e) { /* нечего сделать без буфера обмена */ }
+            document.body.removeChild(tempInput);
+        }
+
+        function showToast(title, text) {
+            document.getElementById('toast-title').textContent = title;
+            document.getElementById('toast-text').textContent = text;
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 5000);
+        }
+
+        /* =====================================================================
+           ЧАТ ВКОНТАКТЕ (реальный виджет)
+           ===================================================================== */
+
+        var vkWidgetMounted = false;
+
+        function toggleChat() {
+            const chatWidget = document.getElementById('chat-widget');
+            chatWidget.classList.toggle('closed');
+            if (!chatWidget.classList.contains('closed')) {
+                mountVkWidget();
+            }
+        }
+
+        function mountVkWidget() {
+            if (vkWidgetMounted) return;
+            vkWidgetMounted = true;
+            loadVkScript(() => {
+                if (window.VK && window.VK.Widgets && window.VK.Widgets.CommunityMessages) {
+                    window.VK.Widgets.CommunityMessages('vk_community_messages', VK_GROUP_NUMERIC_ID, {
+                        expandTimeout: 200,
+                        tooltipButtonText: 'Написать нам'
+                    });
+                } else {
+                    document.getElementById('vk_community_messages').innerHTML =
+                        '<div class="p-6 text-center text-neutral-500 text-sm">Не удалось загрузить виджет ВКонтакте. Напишите нам напрямую: <a class="text-blue-600 font-semibold" href="https://vk.com/skippygames" target="_blank" rel="noopener">vk.com/skippygames</a></div>';
+                }
+            });
+        }
+
+        function loadVkScript(callback) {
+            if (window.VK && window.VK.Widgets) {
+                callback();
+                return;
+            }
+            const script = document.createElement('script');
+            script.src = 'https://vk.com/js/api/openapi.js?169';
+            script.async = true;
+            script.onload = callback;
+            script.onerror = callback;
+            document.head.appendChild(script);
+        }
+
+        function setupChatAvatar() {
+            const dayOfWeek = new Date().getDay();
+            const manager = MANAGER_AVATARS[dayOfWeek % MANAGER_AVATARS.length];
+            document.getElementById('chat-avatar').src = manager.url;
+            document.getElementById('chat-toggle-avatar').src = manager.url;
+            document.getElementById('chat-manager-name').textContent = manager.name;
+        }
+
+        /* =====================================================================
+           УТИЛИТЫ
+           ===================================================================== */
+
+        function escapeHtml(str) {
+            if (str === null || str === undefined) return '';
+            return String(str)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+        }
+
+        window.addEventListener('popstate', () => {
+            const params = new URLSearchParams(window.location.search);
+            const id = params.get('id');
+            if (id) {
+                const game = allGames.find(g => String(g.id) === String(id));
+                if (game) { openGame(game.id, false); return; }
+            }
+            goHome();
+        });
+    </script>
 </body>
 </html>
