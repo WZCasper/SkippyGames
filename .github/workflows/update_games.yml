@@ -2,8 +2,10 @@ name: Update games.json
 
 on:
   schedule:
-    # Ежедневно в 03:00 UTC (06:00 по Киеву/Москве летом, проверьте при переходе на зиму)
-    - cron: '0 3 * * *'
+    # Каждые 6 часов: парсер работает инкрементально (см. backend/parser.py),
+    # поэтому частые короткие прогоны быстрее доводят каталог до целевого
+    # размера (10 000+ игр), чем один длинный прогон раз в сутки.
+    - cron: '0 */6 * * *'
   workflow_dispatch: {}
   push:
     paths:
@@ -20,7 +22,7 @@ concurrency:
 jobs:
   update-games:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 65
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -44,7 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add games.json
+          git add games.json backend/skipped_ids.json
           if git diff --cached --quiet; then
             echo "Нет изменений в games.json — коммит не нужен."
           else
