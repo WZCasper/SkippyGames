@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-04T12:54:57Z",
+  "generated_at": "2026-07-04T18:51:28Z",
   "uah_to_rub_rate": 1.732174,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 84,
+  "count": 91,
   "games": [
     {
       "id": 4310730,
@@ -76,6 +76,19 @@
       "is_free": true
     },
     {
+      "id": 3751950,
+      "title": "Assassin's Creed Black Flag Resynced",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1782753569",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3616,
+      "is_free": false
+    },
+    {
       "id": 1086940,
       "title": "Baldur's Gate 3",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_616x353.jpg",
@@ -139,6 +152,19 @@
         "PC"
       ],
       "price_rub": 576,
+      "is_free": false
+    },
+    {
+      "id": 1087090,
+      "title": "Brick Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/35fbc4b392b4d98c47ad8b1ca5c6594df849b7f5/header.jpg?t=1783166885",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 976,
       "is_free": false
     },
     {
@@ -539,6 +565,19 @@
       "is_free": false
     },
     {
+      "id": 4757640,
+      "title": "JULPAE",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757640/982686772ee7db4a91a4cf45d4adc6d7c65fdc33/header.jpg?t=1783180124",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4446120,
       "title": "Keepy UP",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/295efd53200f492f3f47948023df105eea69454c/header.jpg?t=1783068038",
@@ -562,6 +601,19 @@
         "PC"
       ],
       "price_rub": 960,
+      "is_free": false
+    },
+    {
+      "id": 4822430,
+      "title": "Last Guest at Sunset",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822430/9159014f798ea25bf48b83ddd28a1af69d669867/header.jpg?t=1783141571",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1080,
       "is_free": false
     },
     {
@@ -972,6 +1024,19 @@
       "is_free": false
     },
     {
+      "id": 4840320,
+      "title": "Sex Passion and Lust",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840320/838a1d56c264957b65688aecf1567bbb3b48e2dc/header.jpg?t=1783153653",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1667,
+      "is_free": false
+    },
+    {
       "id": 4845500,
       "title": "Snow Route",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845500/a3a5e9f5fc7f2df1a9d32c802ba1e3dc41b365bf/header.jpg?t=1783095273",
@@ -1178,6 +1243,32 @@
         "PC"
       ],
       "price_rub": 677,
+      "is_free": false
+    },
+    {
+      "id": 4365090,
+      "title": "五行策(WuXing Card)",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365090/b582a32ccc42f4aac50415ae2c68fb4a8a04a5e1/header.jpg?t=1783181730",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 604,
+      "is_free": false
+    },
+    {
+      "id": 4840120,
+      "title": "文物修复师 Relic Restorer",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840120/51ef72fcf1db0479eb845dd34110a1add01f5e8a/header.jpg?t=1783152228",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 590,
       "is_free": false
     },
     {

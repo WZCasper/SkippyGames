@@ -1,0 +1,29 @@
+{
+  "id": 1087090,
+  "title": "Brick Game",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/35fbc4b392b4d98c47ad8b1ca5c6594df849b7f5/header.jpg?t=1783166885",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1087090?t=1783166885",
+  "description": "Brick Game is a classic arcade-style brick breaker game and a love letter to early video games from the 1970s. It is designed for fast-paced action and can be paired with an analog paddle controller for an authentic nostalgic experience. Originally developed for the GameTank 8-bit console, this release comes packaged with a built-in emulator for seamless play on modern platforms.",
+  "description_short": "A retro-inspired classic arcade brick-breaker",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 976,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "MsY3plQLgOg",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/305eb4af6084b75442c3ba7772fa9fad6231136c/ss_305eb4af6084b75442c3ba7772fa9fad6231136c.1920x1080.jpg?t=1783166885",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/6b66f6e68549f49b2da1757894ff4d587bad4c5b/ss_6b66f6e68549f49b2da1757894ff4d587bad4c5b.1920x1080.jpg?t=1783166885",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/7704378f525d27fc51d048a08f21b9c6ae0f3262/ss_7704378f525d27fc51d048a08f21b9c6ae0f3262.1920x1080.jpg?t=1783166885",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/7ce20444fa7c499bca73cf3908b09e97944c899e/ss_7ce20444fa7c499bca73cf3908b09e97944c899e.1920x1080.jpg?t=1783166885",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/4a31bdbaa1bcea9fccc7312774eb05fb844c71ba/ss_4a31bdbaa1bcea9fccc7312774eb05fb844c71ba.1920x1080.jpg?t=1783166885",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/964efcd83bf0ff929554feae37f608869cf8c7d8/ss_964efcd83bf0ff929554feae37f608869cf8c7d8.1920x1080.jpg?t=1783166885"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-04T18:51:22Z"
+}
