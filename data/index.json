@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-04T08:42:11Z",
+  "generated_at": "2026-07-04T12:54:57Z",
   "uah_to_rub_rate": 1.732174,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 78,
+  "count": 84,
   "games": [
     {
       "id": 4310730,
@@ -139,6 +139,19 @@
         "PC"
       ],
       "price_rub": 576,
+      "is_free": false
+    },
+    {
+      "id": 4755900,
+      "title": "CHIPSTACK",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755900/d7be78b9abcb094f3ded87a1ca2e970859251605/header.jpg?t=1783134423",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 765,
       "is_free": false
     },
     {
@@ -342,6 +355,23 @@
       "is_free": true
     },
     {
+      "id": 2191410,
+      "title": "For the Crown",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2191410/capsule_616x353.jpg",
+      "genres": [
+        "Головоломки",
+        "Казуальные игры",
+        "Песочницы (Sandbox)",
+        "Градостроительные симуляторы",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 694,
+      "is_free": false
+    },
+    {
       "id": 2483190,
       "title": "Forza Horizon 6",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
@@ -386,6 +416,19 @@
         "PC"
       ],
       "price_rub": 1670,
+      "is_free": false
+    },
+    {
+      "id": 4864200,
+      "title": "Grandpa's Euchre",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/aa16b35aebb4c372f307a5be26bd8f3066aa99e7/header.jpg?t=1783151896",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 632,
       "is_free": false
     },
     {
@@ -1018,6 +1061,19 @@
       "is_free": false
     },
     {
+      "id": 1988930,
+      "title": "Syndeo-Complex",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1988930/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4856190,
       "title": "Tech Store & Repair Simulator",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856190/24fdf546a763f17baa87d8cd3ae2df85450a1f51/header.jpg?t=1783090808",
@@ -1084,6 +1140,32 @@
       ],
       "price_rub": 1500,
       "is_free": false
+    },
+    {
+      "id": 4409090,
+      "title": "TravelRoute Studio",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409090/a450fd4c73699de7d64b8bb057ad6f1e41514676/header.jpg?t=1783164334",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4367370,
+      "title": "Visionaire Studio",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/862f4f747af0acee5bb3eb586d3300a7c8d2748b/header.jpg?t=1783153113",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4787490,
