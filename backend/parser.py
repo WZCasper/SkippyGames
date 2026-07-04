@@ -1,6 +1,16 @@
 #!/usr/bin/env python3
 """
-SkippyGames — сборщик данных о играх (v2).
+SkippyGames — сборщик данных о играх (v3).
+
+Новое в версии 3:
+- Каталог хранится не в одном games.json, а как набор файлов:
+  data/index.json (лёгкий индекс для каталога/поиска/фильтров) и
+  data/games/{id}.json (полные данные одной игры — описание, скриншоты,
+  трейлер, DLC). Фронтенд подгружает полные данные игры лениво, только
+  когда пользователь открывает её карточку.
+- Если у игры нет трейлера в Steam, парсер один раз ищет подходящее видео
+  через официальный YouTube Data API v3 (нужен ключ в переменной окружения
+  YOUTUBE_API_KEY) и сохраняет его videoId в trailer_youtube_id.
 
 Особенности версии 2, по сравнению с первой:
 - Каталог растёт ИНКРЕМЕНТАЛЬНО: каждый прогон не пересобирает всё заново,
@@ -46,7 +56,19 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 BACKEND_DIR = Path(__file__).resolve().parent
 CUSTOM_IDS_FILE = BACKEND_DIR / "custom_ids.txt"
 SKIPPED_IDS_FILE = BACKEND_DIR / "skipped_ids.json"
-OUTPUT_FILE = REPO_ROOT / "games.json"
+
+# Каталог хранится НЕ одним огромным games.json, а как "мини-база данных"
+# на файловой системе: один JSON-файл на игру (data/games/{id}.json,
+# полные данные — описание, скриншоты, трейлер, DLC) плюс один лёгкий
+# сводный индекс (data/index.json — только id/название/обложка/цена/жанры/
+# платформы), который фронтенд загружает целиком для каталога и поиска, а
+# полные данные конкретной игры подгружает только при открытии её карточки.
+# Это и есть "ленивая загрузка" на статическом хостинге (GitHub Pages) —
+# там нет настоящей базы данных и серверных запросов, поэтому масштабируемая
+# структура строится на файлах.
+DATA_DIR = REPO_ROOT / "data"
+GAMES_DIR = DATA_DIR / "games"
+INDEX_FILE = DATA_DIR / "index.json"
 
 STEAM_APPLIST_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
 STEAM_FEATURED_URL = "https://store.steampowered.com/api/featuredcategories/"
@@ -55,6 +77,14 @@ STEAM_APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
 STEAM_CDN_BASE = "https://cdn.cloudflare.steamstatic.com/steam/apps"
 STEAMSPY_APPDETAILS_URL = "https://steamspy.com/api.php"
 EXCHANGE_RATE_URL = "https://open.er-api.com/v6/latest/UAH"
+YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
+
+# Ключ YouTube Data API v3 (бесплатный, лимит 10 000 "units"/день, поиск
+# стоит 100 units => максимум 100 запросов поиска в день на этот ключ).
+# Берётся из переменной окружения/секрета GitHub Actions, чтобы не хранить
+# его в коде. Если ключ не задан — фолбэк на YouTube просто не работает,
+# и на сайте вместо видео покажется честная ссылка "Искать на YouTube".
+YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 
 REGION_CC = "ua"
 REGION_LANG = "russian"
@@ -190,15 +220,32 @@ def http_head_ok(url):
 # ---------------------------------------------------------------------------
 
 def load_existing_catalog():
-    if OUTPUT_FILE.exists():
+    """Читает уже собранный каталог из data/games/*.json (по одному файлу
+    на игру). При первом запуске (или миграции со старой версии, где всё
+    хранилось в одном games.json в корне репозитория) каталог будет пуст —
+    это нормально, парсер соберёт его заново инкрементально."""
+    catalog = {}
+    if not GAMES_DIR.exists():
+        legacy_file = REPO_ROOT / "games.json"
+        if legacy_file.exists():
+            log.info("Обнаружен старый games.json — мигрируем данные в data/games/*.json")
+            try:
+                legacy_data = json.loads(legacy_file.read_text(encoding="utf-8"))
+                for rec in legacy_data.get("games", []):
+                    catalog[rec["id"]] = rec
+            except (ValueError, KeyError) as exc:
+                log.warning("Не удалось прочитать старый games.json: %s", exc)
+        return catalog
+
+    for path in GAMES_DIR.glob("*.json"):
         try:
-            data = json.loads(OUTPUT_FILE.read_text(encoding="utf-8"))
-            games = data.get("games", [])
-            log.info("Загружен существующий games.json: %s игр", len(games))
-            return {g["id"]: g for g in games}
-        except (ValueError, KeyError) as exc:
-            log.warning("Не удалось прочитать существующий games.json: %s", exc)
-    return {}
+            rec = json.loads(path.read_text(encoding="utf-8"))
+            catalog[rec["id"]] = rec
+        except (ValueError, KeyError, OSError) as exc:
+            log.warning("Не удалось прочитать %s: %s", path, exc)
+
+    log.info("Загружен существующий каталог: %s игр (data/games/*.json)", len(catalog))
+    return catalog
 
 
 def load_skipped_ids():
@@ -452,6 +499,49 @@ def extract_trailer(movies):
     return best
 
 
+def fetch_youtube_trailer_id(title):
+    """Ищет трейлер игры на YouTube через официальный YouTube Data API v3.
+
+    Вызывается ТОЛЬКО когда у игры нет собственного трейлера в Steam —
+    это сделано на бэкенде (а не в браузере пользователя), потому что
+    поисковый запрос YouTube Data API стоит 100 "units" из дневного лимита
+    в 10 000, то есть с одного ключа доступно всего ~100 поисков в сутки.
+    Если бы поиск шёл с фронтенда, лимит исчерпал бы первый десяток
+    посетителей сайта. Найденный videoId сохраняется в games.json и
+    переиспользуется при каждом обновлении карточки, пока Steam не
+    предоставит собственный трейлер.
+    """
+    if not YOUTUBE_API_KEY:
+        return None
+
+    params = {
+        "part": "snippet",
+        "q": f"{title} official trailer",
+        "type": "video",
+        "videoEmbeddable": "true",
+        "maxResults": 1,
+        "safeSearch": "moderate",
+        "key": YOUTUBE_API_KEY,
+    }
+    resp = http_get(YOUTUBE_SEARCH_URL, params=params, retries=1)
+    if resp is None:
+        return None
+    try:
+        data = resp.json()
+    except ValueError:
+        return None
+
+    if "error" in data:
+        log.warning("YouTube API вернул ошибку: %s", data["error"].get("message", "unknown"))
+        return None
+
+    items = data.get("items", [])
+    if not items:
+        return None
+    video_id = items[0].get("id", {}).get("videoId")
+    return video_id
+
+
 def fetch_exchange_rate():
     resp = http_get(EXCHANGE_RATE_URL)
     if resp is None:
@@ -480,6 +570,10 @@ def build_game_record(appid, uah_to_rub):
     cover, hero = build_hires_images(appid, details["header_image"], details["background"])
     trailer_video = extract_trailer(details["movies"])
 
+    trailer_youtube_id = None
+    if not trailer_video and time_budget_left() > 60:
+        trailer_youtube_id = fetch_youtube_trailer_id(details["title"])
+
     if details["is_free"]:
         price_rub = 0
     else:
@@ -501,6 +595,7 @@ def build_game_record(appid, uah_to_rub):
         "price_rub": price_rub,
         "is_free": details["is_free"],
         "trailer_video": trailer_video,
+        "trailer_youtube_id": trailer_youtube_id,
         "screenshots": details["screenshots"],
         "upsells": upsells,
         "source": "steam",
@@ -602,21 +697,70 @@ def main():
 
     # --- Сохранение ----------------------------------------------------------
     if not catalog:
-        log.error("Каталог пуст — прерываем запись, чтобы не затирать games.json пустым файлом")
+        log.error("Каталог пуст — прерываем запись, чтобы не затирать данные пустым каталогом")
         sys.exit(1)
 
+    GAMES_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Полные данные — по одному файлу на игру. Файл перезаписывается, только
+    # если содержимое реально изменилось (иначе git-диффы на 10 000 игр были
+    # бы огромными и бессмысленными при каждом прогоне).
+    written = 0
+    for gid, record in catalog.items():
+        game_path = GAMES_DIR / f"{gid}.json"
+        new_content = json.dumps(record, ensure_ascii=False, indent=2)
+        if game_path.exists() and game_path.read_text(encoding="utf-8") == new_content:
+            continue
+        game_path.write_text(new_content, encoding="utf-8")
+        written += 1
+
+    # Удаляем файлы игр, которые больше не в каталоге (были исключены как
+    # "не игра" на этапе обновления).
+    existing_ids = set(catalog.keys())
+    removed = 0
+    for path in GAMES_DIR.glob("*.json"):
+        try:
+            file_id = int(path.stem)
+        except ValueError:
+            continue
+        if file_id not in existing_ids:
+            path.unlink()
+            removed += 1
+
+    # Лёгкий сводный индекс для каталога/поиска/фильтров на фронтенде —
+    # только те поля, которые реально нужны для списка и фильтрации.
     games_list = sorted(catalog.values(), key=lambda g: g["title"])
-    payload = {
+    index_payload = {
         "generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "uah_to_rub_rate": uah_to_rub,
         "markup_rub": MARKUP_RUB,
         "target_catalog_size": TARGET_CATALOG_SIZE,
         "count": len(games_list),
-        "games": games_list,
+        "games": [
+            {
+                "id": g["id"],
+                "title": g["title"],
+                "cover": g["cover"],
+                "genres": g["genres"],
+                "platforms": g["platforms"],
+                "price_rub": g["price_rub"],
+                "is_free": g["is_free"],
+            }
+            for g in games_list
+        ],
     }
-
-    OUTPUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    INDEX_FILE.write_text(json.dumps(index_payload, ensure_ascii=False, indent=2), encoding="utf-8")
     save_skipped_ids(skipped_ids)
+
+    # Старый монолитный games.json в корне репозитория больше не используется
+    # фронтендом — удаляем его, чтобы не вводить в заблуждение (если остался
+    # от предыдущей версии сайта).
+    legacy_file = REPO_ROOT / "games.json"
+    if legacy_file.exists():
+        legacy_file.unlink()
+        log.info("Удалён устаревший games.json (заменён на data/index.json + data/games/*.json)")
+
+    log.info("Записано/обновлено файлов игр: %s, удалено: %s", written, removed)
 
     log.info(
         "Итого: обработано=%s, обновлено=%s, добавлено новых=%s, всего в каталоге=%s (цель %s)",
