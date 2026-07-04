@@ -1,10 +1,172 @@
 {
-  "generated_at": "2026-07-04T00:00:00Z",
-  "uah_to_rub_rate": 2.35,
+  "generated_at": "2026-07-04T08:42:11Z",
+  "uah_to_rub_rate": 1.732174,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 6,
+  "count": 78,
   "games": [
+    {
+      "id": 4310730,
+      "title": "100 Summer Cats",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/720f0fd9636d8d72d058ec4c41f9a18e2448b654/header.jpg?t=1783086136",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 552,
+      "is_free": false
+    },
+    {
+      "id": 4801960,
+      "title": "ABC Music Maker",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801960/6f1863fc3ef0a0ea9a5038547d28f7f5795394ab/header.jpg?t=1783083639",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1246,
+      "is_free": false
+    },
+    {
+      "id": 4794320,
+      "title": "AR Basketball",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794320/947406f288d8121dda20ad4ba9d52ef006a579d7/header.jpg?t=1783115238",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1245,
+      "is_free": false
+    },
+    {
+      "id": 4671050,
+      "title": "American Revolutionary War",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/b85799323dfcc3d880b07f458eb10711f9b58b7a/header.jpg?t=1783104005",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3441,
+      "is_free": false
+    },
+    {
+      "id": 1172470,
+      "title": "Apex Legends™",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
+      "genres": [
+        "Королевская битва (Battle Royale)",
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Геройские шутеры",
+        "Тактические шутеры",
+        "Выживание (Survival)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 1086940,
+      "title": "Baldur's Gate 3",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_616x353.jpg",
+      "genres": [
+        "Классические ролевые игры (CRPG)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1670,
+      "is_free": false
+    },
+    {
+      "id": 3462790,
+      "title": "Battle For Embolia",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3462790/dd8affd6f6fb5b9294870b3b0914ad2a043b6f67/header.jpg?t=1783098442",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4819850,
+      "title": "Beat Pet",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819850/3cd552a247232913fdcfe57f280c1a0dbcc73699/header.jpg?t=1783137375",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 547,
+      "is_free": false
+    },
+    {
+      "id": 4798810,
+      "title": "Bepe War",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/dddb6a55145b67c6fdb3acc720b2de3d3860d039/header.jpg?t=1783103656",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 824,
+      "is_free": false
+    },
+    {
+      "id": 4305620,
+      "title": "Brazzante",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305620/c713580c60ce5d67aefa34ea7964ebef193f6eaf/header.jpg?t=1783087863",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 576,
+      "is_free": false
+    },
+    {
+      "id": 4306650,
+      "title": "Cicadia",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/3c24bf060e65d3a8e081ce581b09bccee2b1f230/header.jpg?t=1783103360",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4084160,
+      "title": "Conqueror's Stage",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/dddf6f89c43e9e21e61e99cdea3d361964be39e0/header.jpg?t=1783098054",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 770,
+      "is_free": false
+    },
     {
       "id": 730,
       "title": "Counter-Strike 2",
@@ -20,17 +182,17 @@
       "is_free": true
     },
     {
-      "id": 570,
-      "title": "Dota 2",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_616x353.jpg",
+      "id": 4765540,
+      "title": "Crosshair King",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/c5827f6a2b5fae8241dc5302c6dadf414ca776c2/header.jpg?t=1783114364",
       "genres": [
-        "MOBA"
+        "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 500,
-      "is_free": true
+      "price_rub": 583,
+      "is_free": false
     },
     {
       "id": 1091500,
@@ -49,6 +211,82 @@
       "is_free": false
     },
     {
+      "id": 1671210,
+      "title": "DELTARUNE",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1671210/capsule_616x353.jpg",
+      "genres": [
+        "Экшен-РПГ (Action-RPG)",
+        "Японские ролевые игры (JRPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1193,
+      "is_free": false
+    },
+    {
+      "id": 4557030,
+      "title": "DRUMP SIMULATOR",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783128063",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 604,
+      "is_free": false
+    },
+    {
+      "id": 978280,
+      "title": "Damn Zombies",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/978280/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Шутеры от первого лица (FPS)",
+        "Выживание (Survival)",
+        "Песочницы (Sandbox)",
+        "Экшен-адвенчуры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 939,
+      "is_free": false
+    },
+    {
+      "id": 381210,
+      "title": "Dead by Daylight",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_616x353.jpg",
+      "genres": [
+        "Психологические хорроры",
+        "Хорроры на выживание (Survival Horror)",
+        "Выживание (Survival)",
+        "Стелс-экшен",
+        "Шутеры от первого лица (FPS)",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 797,
+      "is_free": false
+    },
+    {
+      "id": 570,
+      "title": "Dota 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_616x353.jpg",
+      "genres": [
+        "MOBA"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 500,
+      "is_free": true
+    },
+    {
       "id": 1245620,
       "title": "Elden Ring",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
@@ -62,6 +300,58 @@
         "Xbox"
       ],
       "price_rub": 3400,
+      "is_free": false
+    },
+    {
+      "id": 4291890,
+      "title": "Fascist",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291890/6ea630263dbb849a3a5b614f9b72cea322421217/header.jpg?t=1783078201",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 632,
+      "is_free": false
+    },
+    {
+      "id": 4709940,
+      "title": "Final Legal Move",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709940/bdffd1b60ef5d5acbf76da2b973799ca97659fba/header.jpg?t=1783069466",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 589,
+      "is_free": false
+    },
+    {
+      "id": 4842490,
+      "title": "Fleck & Grus",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/8f9043d17c2cc404594de5d4805e9666f59c6feb/header.jpg?t=1783068506",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 2483190,
+      "title": "Forza Horizon 6",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4491,
       "is_free": false
     },
     {
@@ -81,6 +371,705 @@
       "is_free": false
     },
     {
+      "id": 3240220,
+      "title": "Grand Theft Auto V Enhanced",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Приключения",
+        "Гоночные симуляторы (Simracing)",
+        "Шутеры от третьего лица (TPS)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1670,
+      "is_free": false
+    },
+    {
+      "id": 4854240,
+      "title": "Hentai Clicker: Nazumi is streaming",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854240/7759791b9e4b028bd4a3c9eb4254d437202fbd5f/header.jpg?t=1783067445",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 587,
+      "is_free": false
+    },
+    {
+      "id": 4845540,
+      "title": "Hold My Hand (Or Let Go)",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845540/e784ed8b48d86aa0d067ac23c199a5bb2b36b894/header.jpg?t=1783078635",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 450540,
+      "title": "Hot Dogs, Horseshoes & Hand Grenades",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/450540/capsule_616x353.jpg",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Шутеры от первого лица (FPS)",
+        "Технические симуляторы",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 983,
+      "is_free": false
+    },
+    {
+      "id": 3164460,
+      "title": "Hyper_Sea_5000",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/e1a66f973d1b6a317b4f3fcc0a0f640d2636e346/header.jpg?t=1783106815",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 671,
+      "is_free": false
+    },
+    {
+      "id": 4486140,
+      "title": "IDLE: Intergalactic Defense League Exterminators",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486140/a7ac4dbe60649c1d0cff4c5734ef46733421e2ab/header.jpg?t=1783090530",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 687,
+      "is_free": false
+    },
+    {
+      "id": 4806210,
+      "title": "Ian's Rocket",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/94ef77249930b89631e25983b22f7a909b25a75c/header.jpg?t=1783099498",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1420,
+      "is_free": false
+    },
+    {
+      "id": 4634080,
+      "title": "Ice Cream Man",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634080/cce7f67616a00b63cc8c1b1d227b65fb5bd275ad/header.jpg?t=1783091554",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 681,
+      "is_free": false
+    },
+    {
+      "id": 3721820,
+      "title": "Important People of History: Presidents - George Washington",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3721820/efa04c3834f211b80865a83d923bc63a59840c86/header.jpg?t=1783102892",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 859,
+      "is_free": false
+    },
+    {
+      "id": 4446120,
+      "title": "Keepy UP",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/295efd53200f492f3f47948023df105eea69454c/header.jpg?t=1783068038",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 828,
+      "is_free": false
+    },
+    {
+      "id": 4841780,
+      "title": "LIVORA",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841780/43e38e85c6809274b5efd362680a0cd8fe8b9433/header.jpg?t=1783094635",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 960,
+      "is_free": false
+    },
+    {
+      "id": 4016570,
+      "title": "Lythium",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/5d9a9794b0296675aa054944b1191ce86f9aae9d/header.jpg?t=1783089258",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 951,
+      "is_free": false
+    },
+    {
+      "id": 4704690,
+      "title": "MECCHA CHAMELEON",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 769,
+      "is_free": false
+    },
+    {
+      "id": 4775240,
+      "title": "Mandate of Heaven : Dynasty Breakout Idle",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775240/2051a3181e822bf6008d3fb07e4452df7aafa6ba/header.jpg?t=1783085643",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 569,
+      "is_free": false
+    },
+    {
+      "id": 4828230,
+      "title": "Marshmallow Story: in Marshmallow Village",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828230/741d0654bd8185c3b458fcec721e42cbd431f726/header.jpg?t=1783095773",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 2767030,
+      "title": "Marvel Rivals",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/capsule_616x353.jpg",
+      "genres": [
+        "Геройские шутеры",
+        "Шутеры от третьего лица (TPS)",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "MOBA"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 2651280,
+      "title": "Marvel Человек-Паук 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
+      "genres": [
+        "Экшен",
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Экшен-адвенчуры",
+        "Стелс-экшен",
+        "Beat 'em up"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 2476,
+      "is_free": false
+    },
+    {
+      "id": 582010,
+      "title": "Monster Hunter: World",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Экшен-РПГ (Action-RPG)",
+        "Слэшеры",
+        "Японские ролевые игры (JRPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 927,
+      "is_free": false
+    },
+    {
+      "id": 4815350,
+      "title": "Never Gives Up Her Dead",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/1d18e661c097d0111c33a998f904abcc26fb68c1/header.jpg?t=1783089859",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 977,
+      "is_free": false
+    },
+    {
+      "id": 4469500,
+      "title": "Ninety Nine Dungeons",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469500/ed5fd835206a57ed0366a8b19248e24685643dbd/header.jpg?t=1783079955",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 703,
+      "is_free": false
+    },
+    {
+      "id": 548800,
+      "title": "OFS",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1783126288",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 668,
+      "is_free": false
+    },
+    {
+      "id": 4436080,
+      "title": "Olga Doesn't Die",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436080/8af8a5cf3662eaaaa57b42403594df40ac5b989d/header.jpg?t=1783097979",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4480550,
+      "title": "Operation Moon Walker",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480550/c9ed377c6bc919032c218c39532c99f85c471121/header.jpg?t=1783087047",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 590,
+      "is_free": false
+    },
+    {
+      "id": 578080,
+      "title": "PUBG: BATTLEGROUNDS",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_616x353.jpg",
+      "genres": [
+        "Выживание (Survival)",
+        "Шутеры от первого лица (FPS)",
+        "Королевская битва (Battle Royale)",
+        "Шутеры от третьего лица (TPS)",
+        "Экшен",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 1623730,
+      "title": "Palworld",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_616x353.jpg",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Выживание (Survival)",
+        "Приключения",
+        "Шутеры от третьего лица (TPS)",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1228,
+      "is_free": false
+    },
+    {
+      "id": 4005740,
+      "title": "Ploy Co.",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005740/72eb62d13445b923e488b681db3ba012c683221d/header.jpg?t=1783132064",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 715,
+      "is_free": false
+    },
+    {
+      "id": 4834090,
+      "title": "Purrfect Slide",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834090/6a35392dd3ae34ebc2a21eb4d5b56831bb00e897/header.jpg?t=1783106910",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 635,
+      "is_free": false
+    },
+    {
+      "id": 4804430,
+      "title": "Re:メタモルフォーゼ・キャンディーナ",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/9d7090196190e582c13c2c0f1e3d5eaff584f741/header.jpg?t=1783095607",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 673,
+      "is_free": false
+    },
+    {
+      "id": 1144200,
+      "title": "Ready or Not",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_616x353.jpg",
+      "genres": [
+        "Тактические шутеры",
+        "Шутеры от первого лица (FPS)",
+        "Психологические хорроры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1040,
+      "is_free": false
+    },
+    {
+      "id": 4860510,
+      "title": "Recognition",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/44a8a8c23cad93cf981b19f02c9c5339dc166c10/header.jpg?t=1783066048",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 792,
+      "is_free": false
+    },
+    {
+      "id": 1174180,
+      "title": "Red Dead Redemption 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Шутеры от третьего лица (TPS)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1627,
+      "is_free": false
+    },
+    {
+      "id": 4797790,
+      "title": "Rescue Dogs vs Aliens Tower Defense",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797790/002d3de51366d399f2f1ce2f8b9dae1feb5e2f1a/header.jpg?t=1783133271",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 794,
+      "is_free": false
+    },
+    {
+      "id": 1374490,
+      "title": "RuneScape: Dragonwilds",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1783074967",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Выживание (Survival)",
+        "Приключения",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1470,
+      "is_free": false
+    },
+    {
+      "id": 32470,
+      "title": "STAR WARS™ Empire at War - Gold Pack",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/32470/capsule_616x353.jpg",
+      "genres": [
+        "Стратегии в реальном времени (RTS)",
+        "Тактические шутеры",
+        "Экшен",
+        "Технические симуляторы",
+        "Глобальные стратегии (4X)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 752,
+      "is_free": false
+    },
+    {
+      "id": 4849330,
+      "title": "SYSCALL: RING ZERO",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/99c2d7fe79098157e632b86e4f9528536e15aa4f/header.jpg?t=1783065584",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 993,
+      "is_free": false
+    },
+    {
+      "id": 4821350,
+      "title": "Secret Cats - Independence Day",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/5b16a25b2a405afc29ce8ecf61f59dc07abd87ee/header.jpg?t=1783098277",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 538,
+      "is_free": false
+    },
+    {
+      "id": 814380,
+      "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Стелс-экшен",
+        "Приключения",
+        "Песочницы (Sandbox)",
+        "Слэшеры",
+        "Ритм-игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 2266,
+      "is_free": false
+    },
+    {
+      "id": 4760660,
+      "title": "Selena's Charm 2: Enchanted Garden",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/9cf0fc4f297e0e880ec417dd3e9d7cee8ef9a74e/header.jpg?t=1783072332",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 1778510,
+      "title": "Sending my Pet Rock to Heaven",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778510/07f6d1da12b655ce4dee3469509ffaed548d1645/header.jpg?t=1783069647",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 656,
+      "is_free": false
+    },
+    {
+      "id": 4845500,
+      "title": "Snow Route",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845500/a3a5e9f5fc7f2df1a9d32c802ba1e3dc41b365bf/header.jpg?t=1783095273",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 600,
+      "is_free": false
+    },
+    {
+      "id": 1326470,
+      "title": "Sons Of The Forest",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/capsule_616x353.jpg",
+      "genres": [
+        "Выживание (Survival)",
+        "Песочницы (Sandbox)",
+        "Хорроры на выживание (Survival Horror)",
+        "Психологические хорроры",
+        "Шутеры от первого лица (FPS)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 812,
+      "is_free": false
+    },
+    {
+      "id": 4800130,
+      "title": "SoundRelay",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800130/bc1a1d01e0d38c62aacf70618b2279cc38b1c8a7/header.jpg?t=1783139410",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 725,
+      "is_free": false
+    },
+    {
+      "id": 4621990,
+      "title": "Special Request: Chapter 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621990/93cde142e4943c563b41606bee2a7066c8d3721a/header.jpg?t=1783098042",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1208,
+      "is_free": false
+    },
+    {
+      "id": 2001120,
+      "title": "Split Fiction",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
+      "genres": [
+        "Экшен-адвенчуры",
+        "Приключения",
+        "Экшен",
+        "Платформеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1962,
+      "is_free": false
+    },
+    {
+      "id": 413150,
+      "title": "Stardew Valley",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_616x353.jpg",
+      "genres": [
+        "Симуляторы жизни",
+        "Технические симуляторы",
+        "Песочницы (Sandbox)",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 738,
+      "is_free": false
+    },
+    {
+      "id": 4856190,
+      "title": "Tech Store & Repair Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856190/24fdf546a763f17baa87d8cd3ae2df85450a1f51/header.jpg?t=1783090808",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 604,
+      "is_free": false
+    },
+    {
+      "id": 4668560,
+      "title": "The Hollow Road: Prologue",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/01bf2a215a6ea4ebe68df01943ff5e0c0176d807/header.jpg?t=1783106217",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 656,
+      "is_free": false
+    },
+    {
+      "id": 4849960,
+      "title": "The Laws of Probability",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/e001fac164d8b02dd2bca089e61cfa6f061cb27d/header.jpg?t=1783103157",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 3802740,
+      "title": "The Mine Room",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802740/cbcd8fb124b90ca91b2645e7bb187da2c03c4fae/header.jpg?t=1783076201",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 733,
+      "is_free": false
+    },
+    {
       "id": 292030,
       "title": "The Witcher 3: Wild Hunt",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
@@ -94,6 +1083,32 @@
         "Xbox"
       ],
       "price_rub": 1500,
+      "is_free": false
+    },
+    {
+      "id": 4787490,
+      "title": "Роман в Прямом Эфире",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/5c2792611bb4a074c4dbe3bf4ac3b2a0abb1efff/header.jpg?t=1783102583",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 677,
+      "is_free": false
+    },
+    {
+      "id": 4824410,
+      "title": "简易日式麻将",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824410/452f26231078d071ae750af0623b0c9be06bb9af/header.jpg?t=1783148587",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 859,
       "is_free": false
     }
   ]
