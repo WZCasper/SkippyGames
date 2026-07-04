@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-03T19:10:00Z",
-  "uah_to_rub_rate": 1.736022,
+  "generated_at": "2026-07-04T01:30:49Z",
+  "uah_to_rub_rate": 1.732174,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 52,
+  "count": 67,
   "games": [
     {
       "id": 4310730,
@@ -74,6 +74,36 @@
       "upsells": [],
       "source": "steam",
       "updated_at": "2026-07-03T19:09:28Z"
+    },
+    {
+      "id": 4671050,
+      "title": "American Revolutionary War",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/b85799323dfcc3d880b07f458eb10711f9b58b7a/header.jpg?t=1783104005",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/275751da857213b87acfd8382101ae629ca42de7/page_bg_raw.jpg?t=1783104005",
+      "description": "American Revolutionary War\n\nFight across the battlefields of the American War of Independence in American Revolutionary War, a detailed tactical wargame covering major campaigns, battles, and skirmishes of the conflict between Britain, the American colonies, and their allies.\n\nFrom Lexington and Concord to Bunker Hill, Saratoga, Camden, Cowpens, and Yorktown, American Revolutionary War places you in command of the forces that fought for control of the colonies. What began as a political crisis inside the British Empire became a continent-wide war involving regular armies, militia, Loyalists, German auxiliaries, Native allies, French forces, and frontier fighters.\n\nTake command in American Revolutionary War, where detailed tactical maps and historically grounded orders of battle place you in control of armies fighting across cities, farms, forests, rivers, forts, and frontier settlements. Every battle is shaped by the realities of the age: militia reliability, disciplined regulars, light infantry tactics, mounted raids, fatigue, supply, command, and the constant challenge of holding ground in difficult terrain.\n\nCommand the Armies of the RevolutionRecreate the major campaigns of the American Revolutionary War from either side of the conflict.\n\nLead the American forces, including:\n\n• Continental infantry\n\n• State troops\n\n• Local militia\n\n• Minutemen\n\n• Riflemen\n\n• Light infantry\n\n• Light dragoons\n\n• Frontier and partisan forces\n\nOr take command of Britain and its allies, including:\n\n• British regulars\n\n• Loyalist provincial troops\n\n• Highland regiments\n\n• German auxiliaries\n\n• Jägers\n\n• Light Infantry\n\n• Grenadiers\n\n• Native allied forces\n\nAs the war expands, French forces also enter the fight, bringing professional troops, naval support, and new operational possibilities.\n\nThe historically accurate Order of Battle reflects the many forces that fought across the war. American forces range from trained militia to reformed Continental troops, while British, Loyalist, German, Native, and French units each bring their own battlefield strengths and limitations.\n\nThree Theaters of WarAmerican Revolutionary War covers the full scope of the conflict across its major theaters.\n\nFight in the northern theater, where the struggle for Boston, New York, Canada, and the Hudson Valley shaped the early war and led to the decisive American victory at Saratoga.\n\nBattle across the frontier, where forts, raids, settlements, river routes, and Native alliances made the war harsher, less formal, and deeply tied to control of the continent’s interior.\n\nCommand forces in the southern theater, where British hopes for Loyalist support led to a brutal war of maneuver, raids, and attrition across Georgia and the Carolinas.\n\nTactical Warfare in North AmericaThe American Revolution was fought across difficult and varied terrain. Dense woods, fences, rivers, towns, roads, and broken ground forced armies to adapt.\n\nFight across battlefields where:\n\n• Open order and close order formations matter\n\n• Woods and rough terrain shape movement and combat\n\n• Militia may stand firm or collapse under pressure\n\n• Regulars bring discipline, firepower, and staying power\n\n• Light infantry, riflemen, Jägers, and Native allied forces excel in challenging terrain for broken ground\n\n• Cavalry and mounted troops can scout, raid, and exploit openings\n\nThe game models the differences between early-war militia, Continental regulars, British professionals, Loyalist formations, German auxiliaries, Highland troops, Native allied forces, and French expeditionary troops.\n\n148 Detailed ScenariosAmerican Revolutionary War includes 148 standalone scenarios covering engagements of all sizes, including:\n\n• Three tutorial scenarios\n\n• Major historical battles\n\n• Smaller skirmishes and frontier actions\n\n• Variant scenarios\n\n• Specialized versions for both head-to-head play and play against the AI\n\nThe game covers famous and lesser-known actions from across the war, including:\n\n• Concord\n\n• Lexington\n\n• Bunker Hill\n\n• Ninety Six\n\n• Quebec\n\n• Long Island\n\n• Harlem Heights\n\n• White Plains\n\n• Trenton\n\n• Princeton\n\n• Bennington\n\n• Brandywine\n\n• Germantown\n\n• Freeman’s Farm\n\n• Bemis Heights\n\n• Monmouth\n\n• Savannah\n\n• Ramseur’s Mill\n\n• Camden\n\n• Kings Mountain\n\n• Cowpens\n\n• Hobkirk’s Hill\n\nAnd many more.\n\nFour CampaignsFour dedicated campaigns containing 37 additional scenarios allow players to make strategic decisions to shape the tactical battles and impact the flow of the campaigns or follow the war through connected operations and strategic decisions.\n\nExperience the conflict as more than isolated battles, with choices and battle outcomes having repercussions throughout the campaign.\n\nExtensive Maps and Revolutionary War DetailA range of historically accurate maps are included, covering the significant locations fought over during the war along with many lesser-known battlefields. Most maps are larger than the historic battlefields, allowing players to explore and create their own scenarios.\n\nThe game also includes extensive 3D unit graphics representing the major armies involved, including American, British, Loyalist, German, Native allied, and French forces.\n\nDesign notes, campaign notes, and a bibliography provide additional historical background on the production of the game and the sources used by the design team.\n\nPowerful Editing ToolsCustomize and expand your experience with a full suite of editors, including:\n\n• Campaign editor\n\n• Scenario editor\n\n• Sub-map editor\n\nUse these tools to modify existing content, create new engagements, or subdivide larger maps into smaller battlefield segments for custom scenario design.\n\nMultiple Ways to PlayMultiple play options include:\n\n• Play against the computer AI\n\n• Play-By-Email\n\n• LAN and live Internet play\n\n• Two-player Hot Seat mode",
+      "description_short": "Fight through the American War of Independence in a tactical wargame of field battles, frontier warfare, fortified positions, and campaigns for control of the colonies. Command American, British, Loyalist, German, Native allied, and French forces across 148 scenarios and four campaigns.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3441,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/bd615ee9efde42e595bc9de5220602abe63f8d90/ss_bd615ee9efde42e595bc9de5220602abe63f8d90.1920x1080.jpg?t=1783104005",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/c3528a7abfd96508f8373c2d1cb5f0d5fc90dc05/ss_c3528a7abfd96508f8373c2d1cb5f0d5fc90dc05.1920x1080.jpg?t=1783104005",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/37abb8f5e20f40f30800d0d2fa010e24a614af15/ss_37abb8f5e20f40f30800d0d2fa010e24a614af15.1920x1080.jpg?t=1783104005",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/d664f973850c5f157e83bc076c44f48127914b49/ss_d664f973850c5f157e83bc076c44f48127914b49.1920x1080.jpg?t=1783104005",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/7912f00fc2074080def83ce70346d594108f1860/ss_7912f00fc2074080def83ce70346d594108f1860.1920x1080.jpg?t=1783104005",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/2e26eab2a338b9a82d8499798e890ccf1f6b0f74/ss_2e26eab2a338b9a82d8499798e890ccf1f6b0f74.1920x1080.jpg?t=1783104005",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/2e49ebe88050d7f3761bcc51881668738603cd98/ss_2e49ebe88050d7f3761bcc51881668738603cd98.1920x1080.jpg?t=1783104005",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671050/0902c635532097c6d12dce467a03ca5df6f77cab/ss_0902c635532097c6d12dce467a03ca5df6f77cab.1920x1080.jpg?t=1783104005"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:38Z"
     },
     {
       "id": 1172470,
@@ -174,6 +204,35 @@
       "updated_at": "2026-07-03T19:09:10Z"
     },
     {
+      "id": 4798810,
+      "title": "Bepe War",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/dddb6a55145b67c6fdb3acc720b2de3d3860d039/header.jpg?t=1783103656",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/d8c75bc7b17ee27bc2da47a65822184d4cc8ab46/page_bg_raw.jpg?t=1783103656",
+      "description": "Bepe War is a chaotic war simulator with unique missions and a sandbox mode. Drive any vehicle you can imagine, enable wild mutators, and enjoy brutal ragdolls!\n\nKEY FEATURES\n\n• Complete challenging missions.\n\n• Destroy your enemies using tanks, planes, jeeps, boats, helicopters, or even horses.\n\n• Experience advanced ragdoll physics with flying heads, arms, and legs.\n\n• Choose your loadout from a huge variety of weapons.\n\n• Fight across many different maps.\n\n• Customize your soldiers with different hats and weapon skins.\n\n• Enable wild mutators and completely change the rules of war.\n\n• Enjoy bright, colorful, and stylized graphics!",
+      "description_short": "Bepe War is a chaotic war simulator with unique missions and a sandbox mode. Drive any vehicle you can imagine, enable wild mutators, and enjoy brutal ragdolls!",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 824,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/0273b258f117c362301cfa6383e349eb1c8bf76e/ss_0273b258f117c362301cfa6383e349eb1c8bf76e.1920x1080.jpg?t=1783103656",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/5114a62e5478060d19b55c665d40fe0b5577d976/ss_5114a62e5478060d19b55c665d40fe0b5577d976.1920x1080.jpg?t=1783103656",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/7e19f28ab3849ae1dc6ad28c52acf76e146456af/ss_7e19f28ab3849ae1dc6ad28c52acf76e146456af.1920x1080.jpg?t=1783103656",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/a2f7761fa85c36260f1360643c293fba967b950d/ss_a2f7761fa85c36260f1360643c293fba967b950d.1920x1080.jpg?t=1783103656",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/b3838355310afc14c991687385de0a7fd4b6f066/ss_b3838355310afc14c991687385de0a7fd4b6f066.1920x1080.jpg?t=1783103656",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/ce9483d25410d8d164c0953e8d2f6d2dcb027841/ss_ce9483d25410d8d164c0953e8d2f6d2dcb027841.1920x1080.jpg?t=1783103656",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/1ccf7865826db31f76a7735021a8b2d12310029d/ss_1ccf7865826db31f76a7735021a8b2d12310029d.1920x1080.jpg?t=1783103656"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:39Z"
+    },
+    {
       "id": 4305620,
       "title": "Brazzante",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305620/c713580c60ce5d67aefa34ea7964ebef193f6eaf/header.jpg?t=1783087863",
@@ -201,6 +260,65 @@
       "updated_at": "2026-07-03T19:09:23Z"
     },
     {
+      "id": 4306650,
+      "title": "Cicadia",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/3c24bf060e65d3a8e081ce581b09bccee2b1f230/header.jpg?t=1783103360",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/eb023fc5506c36f0d5b006e34f651f5c33acff45/page_bg_raw.jpg?t=1783103360",
+      "description": "Cicadia is a sci-fi FPS roguelike that sends you delving deep into the temples of the Cicadians. An advanced alien species that spread their wretched bug spawn to the corners of the galaxy, chirping their awful tune, signaling their vast motherships.\n\nIn this shooter game, you will explore the procedurally generated labyrinth of ancient handcrafted rooms. As you do you will have to fight countless swarms of mutated alien insects, gathering their bile as you do. Bile can be spent at upgrade terminals to genetically engineer yourself in real time, building a set of skills perfect for the items you happen to stumble upon in your journey of rooms and floor ever increasing in difficulty. \n\nAs you explore the tombs of this buried galactic empire, you will retrieve Lore tablets, and once you complete your library you may be able to learn what happened to this ancient race, and why those Cicada calls go unanswered today.",
+      "description_short": "Cicadia is a free rogue-like first person shooter indie game. Kill bugs and collect Bile as you uncover the hidden truth of a self-forsaken empire. Challenge bosses, cull swarms, and build an unstoppable loadout in Cicadia!",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/0e854817da366017e92c69b1b6e1daa2d56c375e/ss_0e854817da366017e92c69b1b6e1daa2d56c375e.1920x1080.jpg?t=1783103360",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/6360a13df90e1b9aaaeff7a9ca61e1e919347eec/ss_6360a13df90e1b9aaaeff7a9ca61e1e919347eec.1920x1080.jpg?t=1783103360",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/adc40e3019765ea456ae0c4b58dd713ff70f5bcc/ss_adc40e3019765ea456ae0c4b58dd713ff70f5bcc.1920x1080.jpg?t=1783103360",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/103b4d65745fef91e8bdc85631b7cc28b3cdd75a/ss_103b4d65745fef91e8bdc85631b7cc28b3cdd75a.1920x1080.jpg?t=1783103360",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/4e68ec05ccdc376ebac0048c9162f4aebb427231/ss_4e68ec05ccdc376ebac0048c9162f4aebb427231.1920x1080.jpg?t=1783103360",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/ace99573d3af1e8b841bcb6b247a766f10a2de8f/ss_ace99573d3af1e8b841bcb6b247a766f10a2de8f.1920x1080.jpg?t=1783103360",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/a5f8bcb8208acf05d72b9e85ba9a59d2ba31e3d3/ss_a5f8bcb8208acf05d72b9e85ba9a59d2ba31e3d3.1920x1080.jpg?t=1783103360",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/9049e92d6710f5fafd08bfec14aae5c2cc46be36/ss_9049e92d6710f5fafd08bfec14aae5c2cc46be36.1920x1080.jpg?t=1783103360"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:40Z"
+    },
+    {
+      "id": 4084160,
+      "title": "Conqueror's Stage",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/dddf6f89c43e9e21e61e99cdea3d361964be39e0/header.jpg?t=1783098054",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/5725b4d440f85bd4030abadf140cb24ee8a3b5c3/page_bg_raw.jpg?t=1783098054",
+      "description": "CARVE YOUR EMPIRE. SHAPE THE AGES. CLAIM THE WORLD.Conqueror's Stage is a real-time grand strategy game about building an empire across a new world every campaign. Lead one of eight factions from scattered tribes to imperial armies, expand across procedurally generated continents, research technologies, negotiate alliances, and conquer your rivals until the map is yours.\n\nNo fixed maps. No scripted history. Every campaign begins on a new landmass shaped by terrain, borders, rivers, mountains, and strategic choke points.\n\nA NEW WORLD EVERY CAMPAIGNThere are no hand-crafted historical maps here. Every playthrough generates a fresh continental landscape with its own terrain, coastlines, mountains, rivers, and strategic choke points. Your enemies start where the world places them. Your borders are shaped by the land itself, not by a history book.\n\nNo two campaigns will ever feel the same.\n\nFIVE AGES OF WARFAREAdvance your civilization through five historical ages:\n\n• The First Age - scattered tribes, early settlements, and the first struggle for survival\n\n• The Ancient Age - organized armies, early military structure, and expanding territories\n\n• The Medieval Age - stronger settlements, disciplined forces, and territorial pressure\n\n• The Renaissance Age - improved tactics, stronger economies, and more complex rivalries\n\n• The Imperial Age - disciplined armies, military science, and the final push for domination\n\nEvery age changes the shape of your campaign. Research unlocks new possibilities, strengthens your economy, improves your military capacity, and forces you to choose what kind of empire you want to build.\n\nBUILD. EXPAND. HOLD.Establish settlements in neutral land and grow them into stronger cities. Every settlement produces income, every soldier demands upkeep, and every expansion decision changes the balance of your campaign.\n\nExpand too fast and your economy may collapse. Expand too slowly and your rivals may outpace you. Conqueror's Stage is about finding the right rhythm between growth, defense, diplomacy, and war.\n\nRESEARCH SHAPES YOUR CAMPAIGNEach age offers technologies that shape your strategy. Some strengthen your economy. Some improve military efficiency. Others support expansion, movement, or settlement development.\n\nYou cannot do everything at once. Every research decision opens one path while delaying another.\n\nDIPLOMACY HAS CONSEQUENCESWar is not accidental. Combat only happens between factions that have formally declared war. Neutral armies can pass without bloodshed, but declared enemies will fight when they meet.\n\nForge alliances, declare wars, negotiate peace, and use your strength at the diplomatic table. Every relationship matters, and every conflict can reshape the map.\n\nREAL-TIME GRAND STRATEGYThe world moves in real time, but you control the tempo. Adjust the game speed, pause when needed, and make decisions without waiting for turns.\n\nArmies move freely across the map. No hex grids. No fixed movement rails. Positioning, timing, and expansion pressure define the campaign.\n\nTOTAL CONQUEST VICTORYThere is only one victory condition: control every city on the map.\n\nNo point victories. No partial wins. No time limits. Your rivals will not surrender easily. The question is not whether you will fight - it is whether you will be the last conqueror standing.\n\nKEY FEATURES• Procedural Worlds - Each campaign takes place on a newly generated continent with unique terrain, borders, coastlines, and strategic positions.\n\n• Five Ages of Warfare - Guide your faction from primitive beginnings to imperial armies across one continuous campaign.\n\n• Streamlined Grand Strategy - Focused economy, clear military decisions, and meaningful strategic choices without unnecessary micromanagement.\n\n• Free-Form Army Movement - Move armies freely across the map without hex grids or fixed paths.\n\n• Diplomacy with Consequences - Declare war, propose alliances, negotiate peace, and manage rival factions through shifting power relations.\n\n• Meaningful Technology Choices - Research technologies that shape your economy, military strength, expansion speed, and long-term strategy.\n\n• Settlement Growth - Found settlements, train soldiers, manage income, and decide when to expand or consolidate.\n\n• Real-Time with Pause - Command the campaign in real time, change the speed, and pause whenever the situation demands it.\n\n• Eight-Faction Campaigns - Lead one faction against up to seven AI opponents across a contested procedural world.\n\n• Total Conquest - Control every city and become the final power on the map.\n\nWHO IS THIS FOR?Built for grand strategy lovers who want to finish a campaign in an evening, not a season.\n\nConqueror's Stage is built for players who enjoy the scale of grand strategy but want a cleaner, more focused campaign experience. If you like building an empire, managing expansion, researching technologies, navigating diplomacy, and watching the map change through your decisions, this is your battlefield.\n\nSingle-player only. No online requirements. No gacha. Just you, the map, and the will to shape history.\n\nFive Ages. One Conqueror.",
+      "description_short": "No fixed maps. No scripted history. No tutorial treadmill. Conqueror's Stage is a real-time grand strategy across five ages - where every decision trades against another. Grand strategy, finally designed to be finished.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 770,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/83058f9170480b0b26f676fa77e47c38b6c36bfe/ss_83058f9170480b0b26f676fa77e47c38b6c36bfe.1920x1080.jpg?t=1783098054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/30b33b758a8e6caa6b63b1d39dd5504bb32d0a66/ss_30b33b758a8e6caa6b63b1d39dd5504bb32d0a66.1920x1080.jpg?t=1783098054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/cdae1c533200ace898f2c83cef5b22fb0233b70c/ss_cdae1c533200ace898f2c83cef5b22fb0233b70c.1920x1080.jpg?t=1783098054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/7a0625868aa64f03de1bd60cd4d98584c9ef8250/ss_7a0625868aa64f03de1bd60cd4d98584c9ef8250.1920x1080.jpg?t=1783098054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/3da384c185337a0df05eb22e382456b0f1c0791c/ss_3da384c185337a0df05eb22e382456b0f1c0791c.1920x1080.jpg?t=1783098054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/67c7e2f121083d1cfc8b4d5a88cb6bf9facbb112/ss_67c7e2f121083d1cfc8b4d5a88cb6bf9facbb112.1920x1080.jpg?t=1783098054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/0d6be95ff27be0dec5fdc03d3bbda0e1cc95936a/ss_0d6be95ff27be0dec5fdc03d3bbda0e1cc95936a.1920x1080.jpg?t=1783098054"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:46Z"
+    },
+    {
       "id": 730,
       "title": "Counter-Strike 2",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_616x353.jpg",
@@ -221,6 +339,34 @@
       "upsells": [],
       "source": "steam",
       "updated_at": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 4765540,
+      "title": "Crosshair King",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/c5827f6a2b5fae8241dc5302c6dadf414ca776c2/header.jpg?t=1783114364",
+      "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4765540?t=1783114364",
+      "description": "Rule Your Aim. Dominate Every Game.Crosshair King is a premium crosshair overlay tool for Windows, built for serious FPS players who refuse to settle for default crosshairs.20 Crosshairs. 4 Categories. Total Control.Classic — Timeless crosshair shapes trusted by pros for years.\nPro / Competitive — Precision-tuned designs for ranked and tournament play.\nTactical — Crosshairs built for methodical, map-aware players.\nSpecial — Unique styles to express your playstyle and stand out.Full Customization at Your Fingertips• Choose any color with full RGB control\n\n• Adjust size, thickness, and opacity to the pixel\n\n• Fine-tune X/Y position for perfect centering on any monitor\n\n• 4 built-in presets: King, Sniper, Assault, Stealth\n\n• Toggle settings instantly with the Insert key\nWorks Where Others Don'tCrosshair King overlays cleanly in Borderless Windowed Mode — the standard for competitive play. No game files touched. No bans. Just aim.Built for Competitors• Works with any FPS in Borderless Windowed Mode\n\nDeveloped by PM7Productions — Rule Your Aim.",
+      "description_short": "The ultimate crosshair overlay for competitive FPS players. 20 customizable crosshairs, 4 presets, works in any borderless windowed game. Rule Your Aim.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 583,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/339bbde9032747290fc79f9c710b12b36337d42c/ss_339bbde9032747290fc79f9c710b12b36337d42c.1920x1080.jpg?t=1783114364",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/f6e869e055f742ee10b11ecc6d040508c50902b5/ss_f6e869e055f742ee10b11ecc6d040508c50902b5.1920x1080.jpg?t=1783114364",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/b470c7e034fb0f7498e2b6dbf4a86da07f377988/ss_b470c7e034fb0f7498e2b6dbf4a86da07f377988.1920x1080.jpg?t=1783114364",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/af62aec4bd13813ddf505af168be5bcd379fe2e1/ss_af62aec4bd13813ddf505af168be5bcd379fe2e1.1920x1080.jpg?t=1783114364",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/f87c3d7cdbfafca18c6a7e634d133a3408616ccb/ss_f87c3d7cdbfafca18c6a7e634d133a3408616ccb.1920x1080.jpg?t=1783114364",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/9169940767d8a8a9f21e56c04c856ebf579b8550/ss_9169940767d8a8a9f21e56c04c856ebf579b8550.1920x1080.jpg?t=1783114364"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:36Z"
     },
     {
       "id": 1091500,
@@ -283,6 +429,36 @@
       ],
       "source": "steam",
       "updated_at": "2026-07-03T19:09:07Z"
+    },
+    {
+      "id": 4557030,
+      "title": "DRUMP SIMULATOR",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783128063",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/3d8aab9c8c427b739751f5e9857cff057ca9e318/page_bg_raw.jpg?t=1783128063",
+      "description": "DRUMP SIMULATOR is a satirical game where you make choices as a completely fictional American President named Tonald Drump.\n\nMAKE QUESTIONABLE CHOICES\n\nEach month in your term, one of your trusted advisers will present you with a dilemma that you must resolve with your HUGE wisdom. Avoid losing the support of the voters during your term to escape the wrath of the public and reach the end to crown yourself the greatest President of all time!\n\nWHACK-SOME-TARIFFS \n\nThey were warned, but they did not listen! Now its time for them to feel the wrath of the tariff! Use your presidential power to slap some tariffs like only a real patriot can!\n\nHAIR FORCE ONE\n\nTweet past the enemy's defenses to connect with your voters! No other bird can flap like this!\n\nUSE THE WAR MACHINE\n\nEngage in brilliant millitary action using your presidential war machine! Can you be quick enough?!\n\nLOADS MORE MINI-GAMES!17 mini-games and 5 special endings await you in the office, Mr. President. Are you ready to lead the nation?\n\nPLUS AN ARCADE MODE!Endless Arcade mode, complete with an official Steam Leaderboard to show everyone you mean business!",
+      "description_short": "A satirical game where you make choices and play mini-games as the American President Tonald Drump.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 604,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/b8ef3d9a29ac30f6c5e01e2a06a73a2114d183b4/ss_b8ef3d9a29ac30f6c5e01e2a06a73a2114d183b4.1920x1080.jpg?t=1783128063",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/080f372644184fe23a9aba33de413295e62be393/ss_080f372644184fe23a9aba33de413295e62be393.1920x1080.jpg?t=1783128063",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/e5206328c0185d7bf437ea50019a4514d5271619/ss_e5206328c0185d7bf437ea50019a4514d5271619.1920x1080.jpg?t=1783128063",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/a80741c31dcc75f04f4b4e1c3dd5af07b04bbdd1/ss_a80741c31dcc75f04f4b4e1c3dd5af07b04bbdd1.1920x1080.jpg?t=1783128063",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/7636ba661422a315c50340e37f6cc06f4f487e2d/ss_7636ba661422a315c50340e37f6cc06f4f487e2d.1920x1080.jpg?t=1783128063",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/69317046a15a54cece618b33dab4570145fa3786/ss_69317046a15a54cece618b33dab4570145fa3786.1920x1080.jpg?t=1783128063",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/7f1721ae2ec4d41a2fa6ba90bde8407992b5a421/ss_7f1721ae2ec4d41a2fa6ba90bde8407992b5a421.1920x1080.jpg?t=1783128063",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/ed8d2385f6f8cdf83632faab9e36807be4de4bc6/ss_ed8d2385f6f8cdf83632faab9e36807be4de4bc6.1920x1080.jpg?t=1783128063"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:35Z"
     },
     {
       "id": 978280,
@@ -752,6 +928,33 @@
       "upsells": [],
       "source": "steam",
       "updated_at": "2026-07-03T19:09:31Z"
+    },
+    {
+      "id": 3164460,
+      "title": "Hyper_Sea_5000",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/e1a66f973d1b6a317b4f3fcc0a0f640d2636e346/header.jpg?t=1783106815",
+      "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3164460/library_hero.jpg",
+      "description": "WARNING: This game contains flashing lights and an intense learning curve.\n\n-You have been trapped in a warp cube. Every faction of the Cube Federation is out to get you. You are on your own, but you were trapped for a reason. Make them pay.\n\n \n\n-Use your main weapons, a charge shot, incredible speed, mid-air dodging, power crystals dropped occasionally by defeated cubes and crystal fishes, and even the warp cube itself to fight the Cube Federation. \n\n-Fight various \"cubes\", big cubes, weird cubes, and boss \"cubes\" to draw out the most powerful ship in the Federation. \n\n \n\n-After beating the biggest boss of them all, the real game can begin, test your skill in the endless mode and fight tooth and nail to achieve the highest scores possible.",
+      "description_short": "Neo-Retro Arcade Shooter. Trapped in a warp cube, for your crimes against the Cube Federation, you must fly and shoot around, use charge shots, mid-air dodges, and power crystals in the most advance ship in the galaxy and fight a relentless onslaught of various &quot;cubes.&quot;",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 671,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/9e67dd11eac83b28886e25680efe425779b3413a/ss_9e67dd11eac83b28886e25680efe425779b3413a.1920x1080.jpg?t=1783106815",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/177d5ae2067bee6021f8285dee80e1c7eddedcd4/ss_177d5ae2067bee6021f8285dee80e1c7eddedcd4.1920x1080.jpg?t=1783106815",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/9e86d4d37889655e1321e912e5ac8c8da222127e/ss_9e86d4d37889655e1321e912e5ac8c8da222127e.1920x1080.jpg?t=1783106815",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/4f35dd530a85bda4ea30883e2bdd232be73a2bf3/ss_4f35dd530a85bda4ea30883e2bdd232be73a2bf3.1920x1080.jpg?t=1783106815",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/66ec707764ecf69dcfb2123c00252a8d7c29b3fc/ss_66ec707764ecf69dcfb2123c00252a8d7c29b3fc.1920x1080.jpg?t=1783106815"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:44Z"
     },
     {
       "id": 4486140,
@@ -1326,6 +1529,92 @@
       "updated_at": "2026-07-03T19:09:59Z"
     },
     {
+      "id": 4804430,
+      "title": "Re:メタモルフォーゼ・キャンディーナ",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/9d7090196190e582c13c2c0f1e3d5eaff584f741/header.jpg?t=1783095607",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/0426052420294e920c2a3ff25c6fdb624e29d995/page_bg_raw.jpg?t=1783095607",
+      "description": "Description: \n\n＊All girls can transform with candy＊\n\nThis is a story about girls who want to transform their current selves and a mysterious candy shop.\n\nA short branching visual novel where the ending you see changes depending on which visually enticing candy you choose to eat.\n\nFeatures:\n\n• Story and visual effects that recreate psychological horror and trauma based on the creator's personal experiences. \n\n• The gap between simple art with exaggerated cuteness versus psychedelic effects that use glitchy noise and realistic photographs.\n\n• New to the Steam version: Updated visual effects, new art and story along with logs to explain the world of the game and show the way to the truth.\n\nStreaming Guidelines:\n\n• All of the game can be streamed and/or uploaded in gameplay videos.\n\n• However, please add your own unique element to the stream or video, such as your own comments (e.g., through voice or captions) or editing and rearranging the recording of your own game play. Streaming and/or uploading the gameplay as-is without any additional elements is not allowed.\n\n• Please make sure to include a link to the Steam page in the video and/or the video summary.\n\n• There are no restrictions on streaming/video monetization.\n\nFan Work Guidelines:\n\nThere are no specific restrictions on fan works as long as they would not offend public order and morals.",
+      "description_short": "All girls can transform with candy. A short branching visual novel about a mysterious candy shop and the girls who go there. What candy will you choose?",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 673,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/c959711c545b85ec6db9ac72e9157977b18a4086/ss_c959711c545b85ec6db9ac72e9157977b18a4086.1920x1080.jpg?t=1783095607",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/6fc4be846cd23b127aca7d1683bab140699220b0/ss_6fc4be846cd23b127aca7d1683bab140699220b0.1920x1080.jpg?t=1783095607",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/178a03dbaf5c0caf81f0b3008d46236625b25f5d/ss_178a03dbaf5c0caf81f0b3008d46236625b25f5d.1920x1080.jpg?t=1783095607",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/0637ee8352c860e647041fb67c938887471c9ff0/ss_0637ee8352c860e647041fb67c938887471c9ff0.1920x1080.jpg?t=1783095607",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/d54c1a52c8aeddced57c402b99ab237fdee6a148/ss_d54c1a52c8aeddced57c402b99ab237fdee6a148.1920x1080.jpg?t=1783095607",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/0beb9c6265c78e9cb19498f9e3595e326bdaea11/ss_0beb9c6265c78e9cb19498f9e3595e326bdaea11.1920x1080.jpg?t=1783095607"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:47Z"
+    },
+    {
+      "id": 1144200,
+      "title": "Ready or Not",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_616x353.jpg",
+      "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/library_hero.jpg",
+      "description": "Возглавьте элитный отряд спецназа и наведите порядок в городе, погрязшем в беззаконии.\n\nЭкипируйтесь реалистичным снаряжением, выполняйте опасные задания на основе реальных сюжетов и очистите Лос-Суэнос от преступности, пока город не погрузился в анархию.\n\nВашу судьбу определит каждое решение, от выбора бойцов до тактических приемов.\n\nВы готовы?\n\nОСОБЕННОСТИ\n\nВозьмите руководство на себя\n\nReady or Not — захватывающий симулятор бойца спецназа. Экипируйтесь реалистичным снаряжением и выполняйте задания на основе реальных сюжетов. Продумывайте каждый шаг. Пули противников достоверно пробивают стены, мебель и тела, так что смотрите по сторонам.\n\nВес значка\n\nКомандиру спецназа поручено защитить население от беззакония. Вы отвечаете за успех операций, выживание отряда и безопасность заложников. Гибель гражданских и соратников подрывает психику бойцов. Под влиянием стресса они хуже работают или даже бросают службу.\n\nВажность тактики\n\nReady or Not — тактический шутер с напряженными заданиями. Подбирайте отряд и снаряжение по ситуации, тщательно планируйте штурм и вовремя устраняйте угрозы. Действуйте в рамках закона и помните: неудачи бывают только у неподготовленных.\n\nЗадания раскрывают сюжет\n\nReady or Not воссоздает все ужасы криминала: торговлю людьми, сбыт наркотиков, незаконный оборот оружия, экстремизм и терроризм. Худшие преступники Лос-Суэноса не раз поставят вас перед сложным моральным выбором.\n\nКроссплатформенное братство\n\nБоритесь с преступностью вместе с друзьями. Кросс-игра позволяет выполнять задания в команде до пяти игроков с любых платформ. Договаривайтесь и прикрывайте друг друга, чтобы успешно проходить задания.",
+      "description_short": "Возглавьте элитный отряд спецназа и наведите порядок в городе, погрязшем в беззаконии.",
+      "genres": [
+        "Тактические шутеры",
+        "Шутеры от первого лица (FPS)",
+        "Психологические хорроры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1040,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/88aec4ee3fba8860070370032495e0c9ff87a607/ss_88aec4ee3fba8860070370032495e0c9ff87a607.1920x1080.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/8003fd0791fbaaef24bb3da768603eca92449a4d/ss_8003fd0791fbaaef24bb3da768603eca92449a4d.1920x1080.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_795edc39907b6c6aba8db40fcb34cc0eb27f5547.1920x1080.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/29c4fc0ed7925fb34a32cbc95c4519311420f439/ss_29c4fc0ed7925fb34a32cbc95c4519311420f439.1920x1080.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e/ss_bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e.1920x1080.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_f0e0b11fa6f1bf6b436f1e17cd3f72f956180405.1920x1080.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_873f74f54ca8ce5f4ac7d675563129417a1fd0c9.1920x1080.jpg?t=1781703931",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_4b928ab5fa37af0ef9d0cf0727e76d1a2cd5d6c1.1920x1080.jpg?t=1781703931"
+      ],
+      "upsells": [
+        {
+          "id": 4224910,
+          "name": "Ready or Not: Boiling Point",
+          "price_rub": 694,
+          "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224910/e1b801dc894a26c261abdb8f25b30fc83ef0a523/header.jpg?t=1773349381"
+        },
+        {
+          "id": 3174120,
+          "name": "Ready or Not: Dark Waters",
+          "price_rub": 694,
+          "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3174120/header.jpg?t=1733935263"
+        },
+        {
+          "id": 3015760,
+          "name": "Ready or Not: Home Invasion",
+          "price_rub": 694,
+          "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015760/header.jpg?t=1733935500"
+        },
+        {
+          "id": 3089910,
+          "name": "Ready or Not: Official Soundtrack",
+          "price_rub": 661,
+          "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089910/header.jpg?t=1722416403"
+        }
+      ],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:34Z"
+    },
+    {
       "id": 4860510,
       "title": "Recognition",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/44a8a8c23cad93cf981b19f02c9c5339dc166c10/header.jpg?t=1783066048",
@@ -1382,6 +1671,39 @@
       "upsells": [],
       "source": "steam",
       "updated_at": "2026-07-03T19:08:52Z"
+    },
+    {
+      "id": 1374490,
+      "title": "RuneScape: Dragonwilds",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1783074967",
+      "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1374490/library_hero.jpg",
+      "description": "Специальное предложение\n\nОб игре\n\nEmbark on quests, level your skills and explore a beautiful hand-crafted world.\n\nThis all-new adventure blends high-fantasy and iconic RuneScape lore on a brand new continent. RPG systems reward you with unique abilities and spells as you progress through each skill. Battle legendary RuneScape creatures like Zogres, challenge Black Knights and the entirely new and fearsome Garou, all set to a sweeping soundtrack of reorchestrated RuneScape classics and hours of brand new music.\n\nLocate them, throw down the gauntlet and carve your path to the Dragon Queen herself.\n\nYour progress will be under constant threat from the looming shadow of the Dragons, as you arm yourself and prepare to rise to face them. Follow the trail of destruction and uncover the mysteries of the continent to learn not just how to confront the dragons, but how to overcome them. Prepare potions, craft gear and push yourself to do battle with the most powerful force on the continent.\n\nThe smart money's on the dragon. But we do love an underdog!\n\nSummon a spectral axe to fell trees in an instant! Blink away from danger in a cloud of magic. Turn bones into... peaches?\n\nThe Anima-rich landscape of Ashenfall offers you a power unlike any other. Conjure a tornado of fish from a lake! Explode ore veins with a snap of your fingers! Journey through the vibrant regions of Ashenfall, discover why wild magic spills from the fractured lands and harness that power to survive!\n\nLike all RuneScape games, community is at the heart of everything we do.\n\nWe've shaped our entire roadmap based on player feedback, leading us to launch dedicated servers earlier than planned, introduce new combat and new quest content. Working together we're continuing to develop RuneScape: Dragonwilds. Whether you're adventuring with friends or going it alone, every opinion matters, and it's up to you to help us shape the future of our game.\n\nRuneScape: Dragonwilds started Alpha testing in late 2024, and is launching into Early Access in Spring 2025. From here, our humble team of heroes is developing the project with player feedback at the very core.\n\nThis Steam Early Access game is currently not a finished game and may or may not change significantly over the course of development. To learn more about Steam Early Access, please visit the Steam Early Access FAQs.",
+      "description_short": "On RuneScape's forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft in this co-operative survival adventure. Only by mastering survival and uncovering ancient secrets can you hope to face the ferocious Dragon Queen.",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Выживание (Survival)",
+        "Приключения",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1470,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/1684f331a4a3fa142cd8a71bd88f084eae50ba43/ss_1684f331a4a3fa142cd8a71bd88f084eae50ba43.1920x1080.jpg?t=1783074967",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/82c5d5c1bf49162782e0450e4a9ba97f1284aeaa/ss_82c5d5c1bf49162782e0450e4a9ba97f1284aeaa.1920x1080.jpg?t=1783074967",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/365c7159a244b1f7f9b3190f01ee20df7841f3b5/ss_365c7159a244b1f7f9b3190f01ee20df7841f3b5.1920x1080.jpg?t=1783074967",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/c892fbf0bdd4ddd01031fdf7adc6e73fdf04b950/ss_c892fbf0bdd4ddd01031fdf7adc6e73fdf04b950.1920x1080.jpg?t=1783074967",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b2897e311de35e03ec34d9c60db0f7cc6334e30b/ss_b2897e311de35e03ec34d9c60db0f7cc6334e30b.1920x1080.jpg?t=1783074967",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/5b89d29e51783c66557b3a4607ac759a8a25ad64/ss_5b89d29e51783c66557b3a4607ac759a8a25ad64.1920x1080.jpg?t=1783074967",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/884e7f794ee3d1da0c80f075ead84d58ab1fbb61/ss_884e7f794ee3d1da0c80f075ead84d58ab1fbb61.1920x1080.jpg?t=1783074967",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/ae64662c060ee16121ab3783bd39efb21f8827a1/ss_ae64662c060ee16121ab3783bd39efb21f8827a1.1920x1080.jpg?t=1783074967"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:31Z"
     },
     {
       "id": 32470,
@@ -1447,6 +1769,33 @@
       "upsells": [],
       "source": "steam",
       "updated_at": "2026-07-03T19:09:45Z"
+    },
+    {
+      "id": 4821350,
+      "title": "Secret Cats - Independence Day",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/5b16a25b2a405afc29ce8ecf61f59dc07abd87ee/header.jpg?t=1783098277",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/fe616922fe253da60212743bdd4315d88edcca6c/page_bg_raw.jpg?t=1783098277",
+      "description": "Погрузитесь в чарующий мир \"Secret Cats - Independence Day\" игры с поиском скрытых объектов, где ваша миссия найти всех кошек, спрятанных в потрясающих рукописных рисунках. Пусть ваше острое зрение и любопытство направляют вас в этом увлекательном путешествии. \n\n \n\n※ Ключевые особенности:😺 100 скрытых кошек: Найдите 100 скрытых кошек, разбросанных по всему произведению искусства. \n\n💡 Неограниченные подсказки: Застряли? Используйте неограниченные подсказки, чтобы найти скрытых кошек и продолжать игру. \n\n🎵 Настраиваемая музыка: Наслаждайтесь уникальной фоновой музыкой, которая усиливает ваше погружение в произведение искусства. \n\n🕒 Таймер: Следите за тем, сколько времени у вас уходит на прохождение уровня с помощью внутриигрового таймера. \n\n🏅 Таблица лидеров: Отслеживайте свои лучшие времена и бросайте вызов самим себе, чтобы побить их. \n\n \n\n※ Управление:• Перемещайтесь по сценам с помощью мыши, чтобы перетаскивать и перемещаться, и используйте колесо мыши для увеличения/уменьшения масштаба. Нажмите на любую найденную кошку, чтобы собрать её.\n\n \n\n※ Функции доступности:• Режим ночного просмотра для комфортного просмотра\n\n \n\nПрисоединяйтесь к нам в \"Secret Cats - Independence Day\" и наслаждайтесь идеальным сочетанием вызова, очарования и открытий. Сможете ли вы найти всех скрытых кошек? Пусть охота начнётся!",
+      "description_short": "Погрузитесь в чарующий мир &quot;Secret Cats - Independence Day&quot; игры с поиском скрытых объектов, где ваша миссия найти всех кошек, спрятанных в потрясающих рукописных рисунках. Пусть ваше острое зрение и любопытство направляют вас в этом увлекательном путешествии.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 538,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/8938a2bbd053115c632be0170c7470721d669387/ss_8938a2bbd053115c632be0170c7470721d669387.1920x1080.jpg?t=1783098277",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/3eccf871f1b6389fbfb5b7824d8a83e209533e75/ss_3eccf871f1b6389fbfb5b7824d8a83e209533e75.1920x1080.jpg?t=1783098277",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/258cc1dae773cb2eb8d98e7afb00140a213e266f/ss_258cc1dae773cb2eb8d98e7afb00140a213e266f.1920x1080.jpg?t=1783098277",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/b9f71d427220958e17bc4dec5076143c044fae0a/ss_b9f71d427220958e17bc4dec5076143c044fae0a.1920x1080.jpg?t=1783098277",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/c0e6de754294e3da2d987a539b0882eeae23b26f/ss_c0e6de754294e3da2d987a539b0882eeae23b26f.1920x1080.jpg?t=1783098277"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:45Z"
     },
     {
       "id": 814380,
@@ -1541,6 +1890,33 @@
       "upsells": [],
       "source": "steam",
       "updated_at": "2026-07-03T19:09:38Z"
+    },
+    {
+      "id": 4845500,
+      "title": "Snow Route",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845500/a3a5e9f5fc7f2df1a9d32c802ba1e3dc41b365bf/header.jpg?t=1783095273",
+      "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4845500?t=1783095273",
+      "description": "Snow Route — это динамичная автомобильная 3D-игра, где вас ждёт настоящее зимнее приключение! Садитесь за руль грузовика и отправляйтесь в путь по заснеженным трассам к финишу. Демонстрируйте ловкость и водительское мастерство, чтобы преодолевать все препятствия, встречающиеся на дороге. Докажите, что вы настоящий профи в управлении грузовиком, пройдите все этапы и завоюйте звание лучшего водителя на зимних трассах! Вы готовы?\n\n★★★ Особенности ★★★\n\nЯркая и насыщенная графика.\n\nПриятное музыкальное сопровождение.\n\nБольшое количество уровней.",
+      "description_short": "Snow Route — это динамичная автомобильная 3D-игра, где вас ждёт настоящее зимнее приключение! Садитесь за руль грузовика и отправляйтесь в путь по заснеженным трассам к финишу.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 600,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845500/927a0e070ac85923e4801bc69a163a5a33bb0619/ss_927a0e070ac85923e4801bc69a163a5a33bb0619.1920x1080.jpg?t=1783095273",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845500/f96f5eefddb60891db6e1a6d644e46f4dc430001/ss_f96f5eefddb60891db6e1a6d644e46f4dc430001.1920x1080.jpg?t=1783095273",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845500/7b5b929a6848bd953582363436947852d385d311/ss_7b5b929a6848bd953582363436947852d385d311.1920x1080.jpg?t=1783095273",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845500/21dff40d13a72dde11dc40df6c010a82eec613e0/ss_21dff40d13a72dde11dc40df6c010a82eec613e0.1920x1080.jpg?t=1783095273",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845500/10bc268a2c801e62583a709a2623cb684494b49e/ss_10bc268a2c801e62583a709a2623cb684494b49e.1920x1080.jpg?t=1783095273"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:48Z"
     },
     {
       "id": 1326470,
@@ -1678,6 +2054,63 @@
       "updated_at": "2026-07-03T19:09:18Z"
     },
     {
+      "id": 4668560,
+      "title": "The Hollow Road: Prologue",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/01bf2a215a6ea4ebe68df01943ff5e0c0176d807/header.jpg?t=1783106217",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/ebd05bcb07c9e9f1a4c334f29242b8dc7a01b563/page_bg_raw.jpg?t=1783106217",
+      "description": "Developed for modern PC hardware: The game supports current upscaling technologies such as NVIDIA DLSS 4.5, AMD FSR 4.1, and Intel XeSS 3 to enable scalable performance across different systems.\n\nFor the best visual quality and the full graphical potential, powerful hardware is recommended.\n\nABOUT THE GAMEOn the way to a church, you discover a strange house by the roadside. What begins as a brief stop soon turns into a dark descent into fear, guilt, and unsettling secrets. In this psychological horror prologue, reality and nightmare become increasingly blurred.\n\nWHAT AWAITS YOUExplore an ominous environment filled with oppressive atmosphere, disturbing events, and dark hints. With every step, you move closer to a truth that should have remained buried.\n\nFEATURES• Atmospheric psychological horror\n\n• A dark, story-driven experience\n\n• Unsettling locations and intense atmosphere\n\n• Secrets, ominous hints, and disturbing encounters\n\n• Gameplay 20-30 min\n\n•",
+      "description_short": "A psychological horror prologue where a strange house, a silent church, and something lurking in the dark pull you into a waking nightmare. Explore, uncover hidden truths, and survive what waits beyond the last door.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 656,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/9db0679eb343410918bc7f25262ad14b6fe8ddf2/ss_9db0679eb343410918bc7f25262ad14b6fe8ddf2.1920x1080.jpg?t=1783106217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/213195a91e6f3cbe7d24429eae3c3a3773819c2a/ss_213195a91e6f3cbe7d24429eae3c3a3773819c2a.1920x1080.jpg?t=1783106217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/755f0397c8603aa0f52ecb38ec72c06f8a26d925/ss_755f0397c8603aa0f52ecb38ec72c06f8a26d925.1920x1080.jpg?t=1783106217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/db554a5dab1071a9a7c167855dbb4f91b040f43c/ss_db554a5dab1071a9a7c167855dbb4f91b040f43c.1920x1080.jpg?t=1783106217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/24cac4b5c024a311f45adfe52dcb2023db566966/ss_24cac4b5c024a311f45adfe52dcb2023db566966.1920x1080.jpg?t=1783106217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/67d3964f671b19ec44b7335f613740f64efe9ba7/ss_67d3964f671b19ec44b7335f613740f64efe9ba7.1920x1080.jpg?t=1783106217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/8676b667bbdf4e2415eeb62a9164749999047eea/ss_8676b667bbdf4e2415eeb62a9164749999047eea.1920x1080.jpg?t=1783106217",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/a07ec0ce536fcf33d53be8cecf8e680936331363/ss_a07ec0ce536fcf33d53be8cecf8e680936331363.1920x1080.jpg?t=1783106217"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:43Z"
+    },
+    {
+      "id": 4849960,
+      "title": "The Laws of Probability",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/e001fac164d8b02dd2bca089e61cfa6f061cb27d/header.jpg?t=1783103157",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/5c69441052d969a867b14888c183d345f9f6f9e1/page_bg_raw.jpg?t=1783103157",
+      "description": "Poverty is a calculus of losses.The Laws of Probability is a short, intensely gripping narrative experience. You play as 13-year-old Adam. In the kitchen, on a sticky oilcloth, lie a few carefully counted coins. Your younger brother stands in the doorway, waiting for you to divide what little there is.\n\nThere are no sprawling quests or skill trees here. There is only a melancholic, overwhelming reality and the constant calculus of how to survive until evening.\n\nWhat to ExpectInstead of traditional entertainment, this project is a digital exercise in empathy. Classic video game mechanics have been inverted:\n\n• The illusion of choice: Confront an interface that actively locks options and crosses out decisions right before your eyes. Feel the crushing weight of a situation where good intentions are never enough.\n\n• Paralyzing moments: When a sudden, critical situation strikes, you will face a relentless, ticking clock. Experience how overwhelming stress and embarrassment can rob you of your voice, forcing you into the worst possible scenario.\n\n• A silent struggle: Your stats, like Shame and Exhaustion, climb with every minor defeat. The system reacts with micro-shakes to the screen, physically translating the protagonist's mounting psychological tension.\n\nWho This Game Is Not ForI respect your time, so let's be clear. Do not download this title if:\n\n• you are looking for hours of gameplay (this is a self-contained story with meaningful choices, but you will experience it in no more than 10 minutes).\n\n• you expect heroic battles and a \"good ending.\" Poverty rarely writes good endings.\n\n• you are looking for cozy escapism (the game holds up a mirror, and the reflection is intentionally uncomfortable).\n\nBut if you are looking for mature interactive storytelling that tackles uncomfortable themes and stays with you long after you turn off the screen—pull up a chair.",
+      "description_short": "You have exactly 5. Bread is 4, the bus fare to school is 3. What do you give up? In this short narrative experience, you play as 13-year-old Adam. Confront an interface that reacts to a painful reality, and discover that freedom of choice is sometimes nothing but a privilege.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/0e6c3a0a8007d555adaf9863067057830b28bd37/ss_0e6c3a0a8007d555adaf9863067057830b28bd37.1920x1080.jpg?t=1783103157",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/42c2a30dcc79e5ebebc0ece48fddaf1316a95c60/ss_42c2a30dcc79e5ebebc0ece48fddaf1316a95c60.1920x1080.jpg?t=1783103157",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/9ebb25ad1ffe57562ab68f4d76139e842e5fa855/ss_9ebb25ad1ffe57562ab68f4d76139e842e5fa855.1920x1080.jpg?t=1783103157",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/6f3b1bc908c94ad051c08614485e8404b94653d1/ss_6f3b1bc908c94ad051c08614485e8404b94653d1.1920x1080.jpg?t=1783103157",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/48cb0d775d78f386b9365749d5a926edd78e2dc1/ss_48cb0d775d78f386b9365749d5a926edd78e2dc1.1920x1080.jpg?t=1783103157"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:41Z"
+    },
+    {
       "id": 3802740,
       "title": "The Mine Room",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802740/cbcd8fb124b90ca91b2645e7bb187da2c03c4fae/header.jpg?t=1783076201",
@@ -1727,6 +2160,36 @@
       "upsells": [],
       "source": "steam",
       "updated_at": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 4787490,
+      "title": "Роман в Прямом Эфире",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/5c2792611bb4a074c4dbe3bf4ac3b2a0abb1efff/header.jpg?t=1783102583",
+      "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/10ba14ac105a7fcc44a9a05af17c2d92484c7555/page_bg_raw.jpg?t=1783102583",
+      "description": "Роман в Прямом Эфире\nВ последние шесть недель рейтингового вечернего шоу каждый выбор — это обратный отсчет, и каждый поцелуй рискует быть вырезанным из-за нехватки времени.\n\nВы играете за Майлза Хейла, шоураннера и исполнительного продюсера Past Eleven, комедийной институции номер один в 23:35 — отмененной не из-за провала, а в качестве рычага в корпоративном слиянии, которое хочет одного: тишины. До конца осталось шесть записей, а финал находится под юридической осадой. Майлзу предстоит сохранить работу для сорока человек, защитить выходные пособия в условиях жестких сроков и решить, какую правду стоит сказать до того, как отключат микрофон.\n\nСреди черного юмора комнаты сценаристов, холодных люминесцентных ночей студии и гула здания, которое никогда не останавливается, три женщины тянут его в три разных направления — к любви, к верности и к финалу, который он, возможно, не сможет контролировать.Знакомство с персонажами\n\nПрия Ананд — Интеграция\nПрия — исполнительный директор по интеграции Brightwater: уравновешенное, клиническое лицо фракции, демонтирующей Past Eleven, и, как это ни неудобно, та, кто сильнее всех борется за защиту персонала от последствий. Она говорит о сроках, фондах выходных пособий и решениях, \"принятых на одиннадцать этажей выше\", но никогда не лжет о цене. Ее маршрут — это страсть по ту сторону вражеских линий, где близость означает риск, а любовь не останавливает машину — она лишь спрашивает, сможете ли вы отойти от нее.\n\nКамилла Вега — Вернувшаяся Звезда\nКамилла — прорывной талант, ушедшая в огромную стриминговую империю, и теперь возвращающаяся в качестве главной гостьи финала, достаточно безупречная, чтобы превратить любую комнату в съемочную площадку. У нее и Майлза два года невысказанной истории, которая не исчезает просто потому, что пошли титры. Ее маршрут — это второй шанс с зубами: она — победившее будущее, и любить ее — значит решить, последуете ли вы за ней... или останетесь верны миру, который вас создал.\n\nСидни Кэллоуэй — Главный Сценарист\nСидни — ум, стоящий за монологом: острая, быстрая и достаточно смелая, чтобы направлять шутки на тех самых людей, которые пытаются похоронить шоу. Она — творческая вторая половина Майлза, человек, который поддерживал веселье в комнате, пока все разваливалось, и та, в которой он годами притворялся, что не нуждается. Ее маршрут — это медленно разгорающийся роман, построенный из поздних ночей, тяжелой правды и вопроса, от которого вы не сможете уклоняться вечно: когда шоу закончится, кем вы будете без него?Ключевые Особенности• Ветвящийся роман с одним выбором: одна ночь, три конкурирующие просьбы — выберите, кому достанется вечер, и посвятите себя маршруту, сформированному реальными ставками.\n\n• Процедурный сеттинг вечернего шоу: питчинги, читки сценариев, замечания руководства, сетки увольнений и обратный отсчет до прямого эфира — где романтика разворачивается внутри работы, разбивающей всем сердца.\n\n• Три различных романтических маршрута, каждый со своей концовкой к одному и тому же финалу: медленно развивающиеся отношения с коллегой, второй шанс со звездой и запретная страсть из-за корпоративных фракций.\n\n• Темы правды против выживания: боритесь за финал, в котором будет сказано, что произошло, или защитите людей, которые заплатят цену за слишком громкие слова.\n\n• История, которая не отступает: слияние завершается, индустрия идет дальше, слот 23:35 заполняется — потому что суть не в справедливом мире, а в том, что вы выбираете внутри несправедливого.\n\n• Содержит откровенный контент для взрослых во всех трех романтических маршрутах.\nПредупреждение о контентеРоман в Прямом Эфире — это визуальная новелла для взрослых (18+). Она содержит откровенные сексуальные сцены, ненормативную лексику и темы, связанные с давлением на работе, корпоративными интригами, нестабильностью карьеры/увольнениями и эмоционально напряженной динамикой отношений.",
+      "description_short": "Вы Майлз Хейл, шоураннер отмененного вечернего шоу, которому осталось шесть записей. Три женщины тянут вас в трех направлениях: ваш главный сценарист, вернувшаяся звезда и руководитель телеканала, демонтирующая шоу. Визуальная новелла для взрослых с тремя маршрутами и откровенными сценами.",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 677,
+      "is_free": false,
+      "trailer_video": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/683bd2d0a358820996a1dcd2334fa603bde758f4/ss_683bd2d0a358820996a1dcd2334fa603bde758f4.1920x1080.jpg?t=1783102583",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/753f0d3dd684b98775e1746793c073f67a5c64c8/ss_753f0d3dd684b98775e1746793c073f67a5c64c8.1920x1080.jpg?t=1783102583",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/d63731a94234d01077df96f21d584e43a42b6da6/ss_d63731a94234d01077df96f21d584e43a42b6da6.1920x1080.jpg?t=1783102583",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/cc8c78ebecca8bbaf8faea5a4ae8c69018dc2c19/ss_cc8c78ebecca8bbaf8faea5a4ae8c69018dc2c19.1920x1080.jpg?t=1783102583",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/25c90fae5f21a1ca36bb7f9e51e4372be01eb075/ss_25c90fae5f21a1ca36bb7f9e51e4372be01eb075.1920x1080.jpg?t=1783102583",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/80facb1b8d17617209112edec79d9d7addeff10b/ss_80facb1b8d17617209112edec79d9d7addeff10b.1920x1080.jpg?t=1783102583",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/3c9418114723bd4f85f5a26f57c9d5dcc498d312/ss_3c9418114723bd4f85f5a26f57c9d5dcc498d312.1920x1080.jpg?t=1783102583",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/d9610be1ed93d19cfbf0f17c11d6c6dc39ab889f/ss_d9610be1ed93d19cfbf0f17c11d6c6dc39ab889f.1920x1080.jpg?t=1783102583"
+      ],
+      "upsells": [],
+      "source": "steam",
+      "updated_at": "2026-07-04T01:30:42Z"
     }
   ]
 }
