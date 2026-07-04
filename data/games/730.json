@@ -1,0 +1,22 @@
+{
+  "id": 730,
+  "title": "Counter-Strike 2",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_hero.jpg",
+  "description": "Counter-Strike 2 — крупнейшее техническое обновление в истории CS. Игра построена на движке Source 2 и переносит все карты, режимы и оружие в новую эпоху: обновлённые модели дыма с честной физикой, улучшенное освещение и переработанная тактильная отдача оружия. Соревнуйтесь в командных перестрелках 5 на 5 на культовых картах Dust II, Mirage, Inferno и других.",
+  "description_short": "Легендарный командный шутер от первого лица на движке Source 2.",
+  "genres": [
+    "Шутеры от первого лица (FPS)",
+    "Тактические шутеры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 500,
+  "is_free": true,
+  "trailer_video": null,
+  "screenshots": [],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T00:00:00Z"
+}

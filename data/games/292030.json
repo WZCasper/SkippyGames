@@ -1,0 +1,24 @@
+{
+  "id": 292030,
+  "title": "The Witcher 3: Wild Hunt",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_hero.jpg",
+  "description": "Вы — Геральт из Ривии, наёмный убийца чудовищ. Перед вами — война, охватившая Континент. Вам нужно разыскать Дитя Предназначения — ключ к спасению или уничтожению этого мира. Исследуйте открытый мир: непроходимые леса, кишащие бандитами дороги и разрушенные войной города, чтобы найти путь к своей цели.",
+  "description_short": "Эпическая ролевая игра о ведьмаке Геральте.",
+  "genres": [
+    "Классические ролевые игры (CRPG)",
+    "Экшен-РПГ (Action-RPG)"
+  ],
+  "platforms": [
+    "PC",
+    "PlayStation",
+    "Xbox"
+  ],
+  "price_rub": 1500,
+  "is_free": false,
+  "trailer_video": null,
+  "screenshots": [],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T00:00:00Z"
+}

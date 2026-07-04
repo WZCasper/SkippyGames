@@ -1,0 +1,24 @@
+{
+  "id": 1091500,
+  "title": "Cyberpunk 2077",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_hero.jpg",
+  "description": "Cyberpunk 2077 — приключенческая ролевая игра с открытым миром, действие которой происходит в мегаполисе Найт-Сити, где власть, гламур и импланты решают всё. Вы играете за Ви — наёмника, идущего по пути славы. Вам предстоит настроить внешность и стиль игры персонажа, а также прокачать навыки в боях, хакерстве и общении с окружающими, чтобы выжить в этом опасном городе.",
+  "description_short": "Экшен-РПГ в открытом мире Найт-Сити.",
+  "genres": [
+    "Экшен-РПГ (Action-RPG)",
+    "Иммерсивные симуляторы (Immersive Sim)"
+  ],
+  "platforms": [
+    "PC",
+    "PlayStation",
+    "Xbox"
+  ],
+  "price_rub": 2800,
+  "is_free": false,
+  "trailer_video": null,
+  "screenshots": [],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T00:00:00Z"
+}

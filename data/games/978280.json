@@ -1,0 +1,32 @@
+{
+  "id": 978280,
+  "title": "Damn Zombies",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/978280/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/978280/library_hero.jpg",
+  "description": "PURE OLD-SCHOOL MULTIPLAYER ACTIONNo extraction points, no permanent loss, no complicated rules. Just pure, unadulterated arena shooter chaos. Drop into a brutal, fast-paced Deathmatch where your only objective is to out-frag the competition. Hear the gunfire, trust your reflexes, and stay on the move.\n\nTHE CONTAINER MAZEThe entire battlefield is a tight, labyrinth-like industrial facility packed with shipping containers. With long sightlines blocked and vertical flanking routes open, combat is close-quarters, unpredictable, and relentless. Check your corners, listen for footsteps, and use the environment to ambush your foes.\n\nCHOOSE YOUR CLASS & LOADOUTPick your role before spawning into the meat grinder. Dominate the tight corridors as a heavy Stormtrooper with a shotgun, coordinate tactical pushes as an Officer, or hold down the central lanes as a Sniper. Every class comes with unique period-accurate weapons and secondary gear to swing the tide of battle.\n\nNON-STOP RESPAWNSDying is just a temporary setback. With instant respawns, you are thrown right back into the action within seconds. Learn the map layout, master the weapon recoil, and keep your killstreak alive.\n\nKEY FEATURES:• Classic Deathmatch & TDM Modes: Pure arena gameplay focused entirely on shooting skills and map control.\n\n• Claustrophobic Map Design: A tactical maze of containers creating endless close-quarters combat scenarios.\n\n• Instant Action: No waiting around—instant respawns keep the adrenaline pumping non-stop.",
+  "description_short": "Dive into fast-paced, old-school multiplayer arena combat! Battle it out in a tight, claustrophobic maze of industrial shipping containers where danger lurks around every corner. Choose your class, lock and load your arsenal, and rack up frags in non-stop, adrenaline-fueled Deathmatch action.",
+  "genres": [
+    "Экшен",
+    "Приключения",
+    "Шутеры от первого лица (FPS)",
+    "Выживание (Survival)",
+    "Песочницы (Sandbox)",
+    "Экшен-адвенчуры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 939,
+  "is_free": false,
+  "trailer_video": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/6bb784bcd138237b4ec1bc91506846832a81fb65/ss_6bb784bcd138237b4ec1bc91506846832a81fb65.1920x1080.jpg?t=1783102077",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/f6392be1c5f2a765130b4b268af54daddbd05c4b/ss_f6392be1c5f2a765130b4b268af54daddbd05c4b.1920x1080.jpg?t=1783102077",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/9a1dfad73b1162263de2064430df44afe8388868/ss_9a1dfad73b1162263de2064430df44afe8388868.1920x1080.jpg?t=1783102077",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/810e24dce987fdba7918c5e7b1a71c85d3a8ecdc/ss_810e24dce987fdba7918c5e7b1a71c85d3a8ecdc.1920x1080.jpg?t=1783102077",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/2d28709da226d61c43b3d39c678327da42485488/ss_2d28709da226d61c43b3d39c678327da42485488.1920x1080.jpg?t=1783102077"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T19:09:24Z"
+}

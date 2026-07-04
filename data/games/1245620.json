@@ -1,0 +1,24 @@
+{
+  "id": 1245620,
+  "title": "Elden Ring",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_hero.jpg",
+  "description": "THE NEW FANTASY ACTION RPG. Восстаньте, Тарнишед, и пусть вас направляет благодать, чтобы исследовать Междуземье — обширный мир, полный опасностей, созданный Хидетакой Миядзаки, автором Dark Souls, и Джорджем Р. Р. Мартином, автором «Песни Льда и Огня». Отправьтесь в путешествие по бескрайним просторам и подземельям, сразитесь с могучими врагами и раскройте тайны этого мира в одиночку или вместе с другими странниками.",
+  "description_short": "Фэнтезийная экшен-РПГ в открытом мире от создателей Dark Souls.",
+  "genres": [
+    "Экшен-РПГ (Action-RPG)",
+    "Песочницы (Sandbox)"
+  ],
+  "platforms": [
+    "PC",
+    "PlayStation",
+    "Xbox"
+  ],
+  "price_rub": 3400,
+  "is_free": false,
+  "trailer_video": null,
+  "screenshots": [],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T00:00:00Z"
+}

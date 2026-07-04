@@ -1,0 +1,35 @@
+{
+  "id": 578080,
+  "title": "PUBG: BATTLEGROUNDS",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/library_hero.jpg",
+  "description": "ПРИЗЕМЛИТЕСЬ \n\n  \n\nИсследуйте различные карты, которые заставят вас попотеть. Что вы выберете? Пройти по безопасным окраинам, рискуя остаться без добычи? Или сразу ринетесь в бой, высадившись в густонаселенном городе? Каждая высадка — это новый опыт, и только вам решать, как воспользоваться тем, что попадется под руку. \n\nСНАРЯДИТЕСЬ \n\n  \n\nСобирайте уникальное оружие, припасы и особые инструменты, чтобы перехитрить противников. Выбор за вами! Оснастите свое любимое оружие мощными модулями или рискните ради ценных аирдропов, чтобы получить уникальное снаряжение и ключевое преимущество для победы. \n\nУЦЕЛЕЙТЕ \n\n  \n\nЗапастись припасами — лишь первый шаг. Безопасная зона постоянно сужается, увеличивая вероятность столкновений с противниками. Умер — значит проиграл. Превзойдите всех противников в тактике, скорости или меткости, чтобы одержать победу.  \n\nИГРАЙТЕ ПО-РАЗНОМУ \n\n  \n\nРазогрейтесь в режиме «Командный бой насмерть», попробуйте постоянно меняющиеся аркадные режимы, поучаствуйте в последнем сезонном событии или создайте собственное лобби, чтобы бросить вызов друзьям. \n\nКАЖДЫЙ МАТЧ УНИКАЛЕН \n\n  \n\nКаждый матч по-своему уникален — все зависит от того, где вы высадитесь, что найдете и как будете сражаться. Отправляйтесь на поля сражений, где победа зависит от каждого шага и каждого выбора, и сражайтесь, чтобы остаться последним выжившим. \n\nВ игре есть необязательные к покупке внутриигровые товары.",
+  "description_short": "PUBG: BATTLEGROUNDS — культовый шутер, пробудивший интерес к жанру «королевская битва», теперь бесплатный! Высаживайтесь на разные карты, добывайте уникальное оружие и припасы и постарайтесь выжить в постоянно сужающейся зоне, где опасность подстерегает вас за каждым углом.",
+  "genres": [
+    "Выживание (Survival)",
+    "Шутеры от первого лица (FPS)",
+    "Королевская битва (Battle Royale)",
+    "Шутеры от третьего лица (TPS)",
+    "Экшен",
+    "Тактические шутеры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.1920x1080.jpg?t=1781659328",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.1920x1080.jpg?t=1781659328",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.1920x1080.jpg?t=1781659328",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.1920x1080.jpg?t=1781659328",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.1920x1080.jpg?t=1781659328",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/eb19c1ce924ff4689105242257b6d377ffe2e264/ss_eb19c1ce924ff4689105242257b6d377ffe2e264.1920x1080.jpg?t=1781659328",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e4d447065171993f718cab6b5d793f1e03dda581/ss_e4d447065171993f718cab6b5d793f1e03dda581.1920x1080.jpg?t=1781659328",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/dfbecb503265d4ba705f7ffb60eff2460c936d70/ss_dfbecb503265d4ba705f7ffb60eff2460c936d70.1920x1080.jpg?t=1781659328"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T19:09:59Z"
+}

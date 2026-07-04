@@ -1,0 +1,21 @@
+{
+  "id": 570,
+  "title": "Dota 2",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/library_hero.jpg",
+  "description": "Каждый день миллионы игроков сходятся на поле боя как один из более чем ста героев Dota 2. И неважно, сыграли вы уже тысячу матчей или только собираетесь провести свой первый, — Dota 2 всегда бросает вам вызов и вознаграждает за мастерство.",
+  "description_short": "Многопользовательская арена сражений с сотней уникальных героев.",
+  "genres": [
+    "MOBA"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 500,
+  "is_free": true,
+  "trailer_video": null,
+  "screenshots": [],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T00:00:00Z"
+}

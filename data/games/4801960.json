@@ -1,0 +1,27 @@
+{
+  "id": 4801960,
+  "title": "ABC Music Maker",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801960/6f1863fc3ef0a0ea9a5038547d28f7f5795394ab/header.jpg?t=1783083639",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4801960?t=1783083639",
+  "description": "ABC Music Maker is a music creation studio built around ABC notation — a compact, human-readable text format for composing music. Write melodies as plain text, hear them instantly through your MIDI setup, and route live MIDI output to any software or hardware on your system.\n\nAt its core is a MIDI server that sequences and delivers note events with precise timing, connecting to DAWs, virtual instruments, hardware synthesizers, and more.\n\nFeatures:\n\nGUI DAW — A full graphical editor with a piano roll, multi-track mixer, loop regions, undo/redo, and real-time playback\n\nABC Notation Editor — Compose and edit music as human-readable text; no prior music theory required\n\nMulti-Voice Support — Up to 16 simultaneous MIDI channels with per-track instrument assignment using General MIDI programs\n\nMIDI Import — Bring in existing .mid files and edit them as ABC notation\n\nBuilt-in Synthesizer — DX7 FM synthesis engine and SF2 soundfont playback, no external software required\n\nMIDI Routing — Send to Ableton, FL Studio, Logic, hardware synths, or any virtual MIDI cable\n\nPerfect for: musicians who think in text, tracker-style composers, and anyone who wants a lightweight notation-first workflow.",
+  "description_short": "ABC Music Maker is a music creation studio built around ABC notation — a compact, human-readable text format for composing music. Write melodies as plain text, hear them instantly through your MIDI setup, and route live MIDI output to any software or hardware on your system.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 1246,
+  "is_free": false,
+  "trailer_video": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801960/6538afab270aff9d065433fe10baaaceeacdc84a/ss_6538afab270aff9d065433fe10baaaceeacdc84a.1920x1080.jpg?t=1783083639",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801960/1648daf2435abdc6aae1209eaaadb772cf79a6dc/ss_1648daf2435abdc6aae1209eaaadb772cf79a6dc.1920x1080.jpg?t=1783083639",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801960/5766152318535bf46c44843c21eda1ca416e3c93/ss_5766152318535bf46c44843c21eda1ca416e3c93.1920x1080.jpg?t=1783083639",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801960/15554501685d6fb77ca917cae64f7fe72ab998ea/ss_15554501685d6fb77ca917cae64f7fe72ab998ea.1920x1080.jpg?t=1783083639",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801960/400e06502e49add0d83f1661558d834845afab5e/ss_400e06502e49add0d83f1661558d834845afab5e.1920x1080.jpg?t=1783083639"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T19:09:28Z"
+}

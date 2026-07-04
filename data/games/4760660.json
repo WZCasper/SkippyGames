@@ -1,0 +1,35 @@
+{
+  "id": 4760660,
+  "title": "Selena's Charm 2: Enchanted Garden",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/9cf0fc4f297e0e880ec417dd3e9d7cee8ef9a74e/header.jpg?t=1783072332",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4760660?t=1783072332",
+  "description": "Selena’s Charm 2: Enchanted Garden — это бесплатная стартовая версия головоломки «три в ряд», где каждая победа помогает восстановить сад особняка и внешний облик дома. Играйте за Селену, молодую волшебницу, и начните превращать заросшие дорожки, обветшавшие фасады и забытые уголки в яркое, уютное поместье.\n\nЭта бесплатная версия включает:\n\n- Первые 20 уровней «три в ряд»\n\n- Начальную часть восстановления сада и экстерьера\n\n- Основной игровой процесс с головоломками и улучшениями\n\nDLC “Selena’s Charm 2: Enchanted Garden Full Version Unlock” открывает доступ к полной версии игры, включая:\n\n- 200 уровней в общей сложности\n\n- Более 70 улучшений\n\n- Полный прогресс восстановления сада и экстерьера",
+  "description_short": "Бесплатная стартовая версия головоломки «три в ряд» с восстановлением сада и экстерьера. Пройдите первые 20 уровней, помогите Селене начать возвращать поместье к жизни и откройте полную версию через DLC.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/0a3db692e01136e7a60669f75319152fc1d64939/ss_0a3db692e01136e7a60669f75319152fc1d64939.1920x1080.jpg?t=1783072332",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/3632134df2f4b9a6ac1395f5c7d9caaa7a58abe5/ss_3632134df2f4b9a6ac1395f5c7d9caaa7a58abe5.1920x1080.jpg?t=1783072332",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/cb52fd76b98da0ed83f6557127fc9ddbf5ad4270/ss_cb52fd76b98da0ed83f6557127fc9ddbf5ad4270.1920x1080.jpg?t=1783072332",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/46143dd876b0d568556a889e58d428ea0875598e/ss_46143dd876b0d568556a889e58d428ea0875598e.1920x1080.jpg?t=1783072332",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/31f6ba641c0acd9bcdd1077021b471eb842d027b/ss_31f6ba641c0acd9bcdd1077021b471eb842d027b.1920x1080.jpg?t=1783072332",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760660/2a9428b3c96e4e24c45899d532ac51d0ea2cd215/ss_2a9428b3c96e4e24c45899d532ac51d0ea2cd215.1920x1080.jpg?t=1783072332"
+  ],
+  "upsells": [
+    {
+      "id": 4763540,
+      "name": "Selena's Charm 2: Enchanted Garden Full Version Unlock",
+      "price_rub": 899,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763540/938459e2fd5730a3d52bc67075c42a1b413697df/header.jpg?t=1783072351"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-03T19:09:35Z"
+}

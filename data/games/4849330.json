@@ -1,0 +1,30 @@
+{
+  "id": 4849330,
+  "title": "SYSCALL: RING ZERO",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/99c2d7fe79098157e632b86e4f9528536e15aa4f/header.jpg?t=1783065584",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4849330?t=1783065584",
+  "description": "Important: This game expects you to at least have a basic understanding of how the computer works. We encourage you to try the Demo to get an idea of how the game is.\n\nSYSCALLThis is our world now. The world of the electron and the switch.\n\nSYSCALL is a reverse-engineering and assembly optimization puzzle game inside a private 1990s warez BBS. You will be writing assembly programs, reading listings, tracing the machine, changing the code, and shipping the crack.\n\nREAD THE CODE THAT RUNSEvery CRACK release is a small SYSCALL CORE program. You are able to trace programs, inspect assembly instructions, get hints and watch registers move, in order to find the way to TRACE, CRACK and PATCH programs.\n\nFOUR WAYS TO HACK THE NETWORK• CRACK: Read the listing, find the secret input key, and bypass the protection.\n\n• PATCH: Fit the smallest fix into fixed edit slots, then run the test battery.\n\n• WORM: Program a dynamic up to nine-core rack, route values across ports, and cut lines and cycles.\n\n• SCOPE: Write firmware until the live trace locks onto the ghost signal.\n\nSOLVED IS ONLY THE FIRST POSTSYSCALL has 200+ authored puzzles across four modes, but the clear is not the end. The board keeps records. CRACK tracks clean and swift solves. PATCH scores moves. WORM scores lines and cycles against REMOTE posts. SCOPE rewards tight firmware and low power. A working answer gets you in. A clean answer gets your name on the board.\n\nA PRIVATE BOARD WITH REAL TOOLSDial in, pick a node on the NETWORK MAP, read the mail, check the notes, and work the releases. The board has PHILES that teach the SYSCALL CORE, crew messages, NFOs, greets, records, and side tools. CANVAS is a freeform assembly pixel toy. TRACKER is a four-channel chip-tune maker you can set as the board music.\n\nBUILT FOR CONTROLLER, KEYBOARD, AND MOUSEEvery screen is playable with a gamepad, including text entry. You can write assembly on your favorite handheld gaming device or your TV! SYSCALL includes a tuned on-screen keyboard, controller command bars, readable scaling, reduced-motion options, and offline play with no accounts or backend.",
+  "description_short": "Reverse-engineer a private 1990s BBS. Read disassembly, patch broken checks, optimize a nine-core rack, and write assembly firmware that locks onto live scope traces. With 200+ puzzles, full controller support and offline play, you can refine your assembly skills on all your devices!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 993,
+  "is_free": false,
+  "trailer_video": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/fc1f86c87c20ea4c3133c1d2118c0a91664f77be/ss_fc1f86c87c20ea4c3133c1d2118c0a91664f77be.1920x1080.jpg?t=1783065584",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/ba2bb96d4ece794e6e62340d260e1fcfc58fc32a/ss_ba2bb96d4ece794e6e62340d260e1fcfc58fc32a.1920x1080.jpg?t=1783065584",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/ca51ce6546d80c5559e8802cd7b2127c8c70f2f8/ss_ca51ce6546d80c5559e8802cd7b2127c8c70f2f8.1920x1080.jpg?t=1783065584",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/8f594601ed298cababd429b4b483669bb4fd1658/ss_8f594601ed298cababd429b4b483669bb4fd1658.1920x1080.jpg?t=1783065584",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/deaccf7c32e1a891994b5aa4ad658dec5c8a924d/ss_deaccf7c32e1a891994b5aa4ad658dec5c8a924d.1920x1080.jpg?t=1783065584",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/f606dc69c04f8123b8cf48e8a81d61cdadf9a6e7/ss_f606dc69c04f8123b8cf48e8a81d61cdadf9a6e7.1920x1080.jpg?t=1783065584",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/ba1c5f850a53c3312c0de3f816cfe27364e00301/ss_ba1c5f850a53c3312c0de3f816cfe27364e00301.1920x1080.jpg?t=1783065584",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/23dcd8c84d23f03d2201c7d78530128d1cccebb2/ss_23dcd8c84d23f03d2201c7d78530128d1cccebb2.1920x1080.jpg?t=1783065584"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T19:09:45Z"
+}

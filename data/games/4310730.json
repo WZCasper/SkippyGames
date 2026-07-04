@@ -1,0 +1,43 @@
+{
+  "id": 4310730,
+  "title": "100 Summer Cats",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/720f0fd9636d8d72d058ec4c41f9a18e2448b654/header.jpg?t=1783086136",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/d32da7f39595ea8b47a7a12124be0e7d04799e2c/page_bg_raw.jpg?t=1783086136",
+  "description": "🐾 ДОБРО ПОЖАЛОВАТЬ В ОЧЕРЕДНУЮ ИГРУ СЕРИИ 100 КОШЕК 🐈Присоединяйтесь к самому милому приключению в мире, полном кошек! Исследуйте очаровательные нарисованные вручную локации с уникальными тематиками, разыскивая 100 спрятанных котов.\nПроверьте свою внимательность и наблюдательность в этом уютном и увлекательном квесте на поиск скрытых объектов.\nКаждый найденный кот будет радовать вас всё больше и больше!🐈🕵️‍♂️ Сможете найти их всех? 🕵️‍♂️🐈Ключевые особенности• 🎮 1 уровень\n\n• 🐈 100 спрятанных котов\n\n• 🎵 Отличный саундтрек\n\n• 🎨 Высококачественная графика\n\n• 🌗 Настройки яркости\n\n• 💾 Сохранение прогресса\n\n• 🔍 Приближение\n\n• 😺 Реалистичные кошачьи звуки!\n\n• 💥 Счётчик комбо!\n\n• 💡 Подсказки\n\n• 🌐 Без текста",
+  "description_short": "🐾 Присоединяйся к самому милому приключению в тематических локациях, полных котиков! 😻 Исследуй очаровательные нарисованные от руки локации и попробуй найти 100 спрятанных пушистиков по всему миру игры. 🐈🕵️‍♂️ Сможешь найти их всех? 🕵️‍♂️🐈",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 552,
+  "is_free": false,
+  "trailer_video": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/cb5e8f171b7aa6c3b852c78f11fa34e06e30704b/ss_cb5e8f171b7aa6c3b852c78f11fa34e06e30704b.1920x1080.jpg?t=1783086136",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/054ca6cfcd6557c692938742d29c9b502a0464d6/ss_054ca6cfcd6557c692938742d29c9b502a0464d6.1920x1080.jpg?t=1783086136",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/5f0a7c77e145900546d637747b8ab6e58be584d9/ss_5f0a7c77e145900546d637747b8ab6e58be584d9.1920x1080.jpg?t=1783086136",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/57071d7dfbe08ebee5b57f8a6475f37184b49866/ss_57071d7dfbe08ebee5b57f8a6475f37184b49866.1920x1080.jpg?t=1783086136",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/98b7ae565995ad94e9fb446e189a141470bd3c12/ss_98b7ae565995ad94e9fb446e189a141470bd3c12.1920x1080.jpg?t=1783086136",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/caba8b44f26cf69f4eba29f9278a27c955f850c3/ss_caba8b44f26cf69f4eba29f9278a27c955f850c3.1920x1080.jpg?t=1783086136",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/4ad7e84c417d14062e8a11916733e4e3d7def642/ss_4ad7e84c417d14062e8a11916733e4e3d7def642.1920x1080.jpg?t=1783086136",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310730/d884041e4ee0add6a94df050bda7608e347dfb32/ss_d884041e4ee0add6a94df050bda7608e347dfb32.1920x1080.jpg?t=1783086136"
+  ],
+  "upsells": [
+    {
+      "id": 4322830,
+      "name": "100 Summer Cats Soundtrack",
+      "price_rub": 693,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322830/4b947f596e3c35072f64eb4384376920d3c828a8/header.jpg?t=1783086159"
+    },
+    {
+      "id": 4322880,
+      "name": "100 Summer Cats - Artbook",
+      "price_rub": 693,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322880/9adc03bbc745200970fdfafb41bb860663300923/header.jpg?t=1783086162"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-03T19:09:27Z"
+}

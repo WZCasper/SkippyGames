@@ -1,0 +1,32 @@
+{
+  "id": 1172470,
+  "title": "Apex Legends™",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/library_hero.jpg",
+  "description": "Apex Legends: «Перегрузка»\n\nОб игреПобеждайте с характером в Apex Legends™ — бесплатном героическом шутере*, где легендарные персонажи с мощными способностями сражаются за славу и богатства на дальних рубежах Фронтира.\n\nОткройте для себя растущую коллекцию разнообразных легенд, глубокие тактические командные бои и смелые инновации, которые выходят далеко за рамки «Королевской битвы», — и всё это в суровом мире, где возможно всё. Встречайте новую эпоху в жанре геройских шутеров.\n\nКЛЮЧЕВЫЕ ОСОБЕННОСТИ\n\nВ этой игре дополнительно продаётся виртуальная валюта, которую можно использовать для приобретения виртуальных внутриигровых товаров, включая случайный набор виртуальных игровых элементов.",
+  "description_short": "Apex Legends — удостоенный наградами бесплатный геройский шутер от Respawn Entertainment. Освойте все тонкости игры за легендарных персонажей, число которых продолжает расти, и используйте их мощные умения в стратегии своего отряда. Это новое слово в геройских шутерах и «королевских битвах».",
+  "genres": [
+    "Королевская битва (Battle Royale)",
+    "Шутеры от первого лица (FPS)",
+    "Экшен",
+    "Геройские шутеры",
+    "Тактические шутеры",
+    "Выживание (Survival)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0ae2c002aa75d0b7309955960181fe402327d330/ss_0ae2c002aa75d0b7309955960181fe402327d330.1920x1080.jpg?t=1778502442",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/c07b405c6272c5dc2f6f25b76591c93ed8711c1d/ss_c07b405c6272c5dc2f6f25b76591c93ed8711c1d.1920x1080.jpg?t=1778502442",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3/ss_96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3.1920x1080.jpg?t=1778502442",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/899528308ad54733c8fc1ae825adb57195bface1/ss_899528308ad54733c8fc1ae825adb57195bface1.1920x1080.jpg?t=1778502442",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88/ss_736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88.1920x1080.jpg?t=1778502442"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-03T19:09:47Z"
+}

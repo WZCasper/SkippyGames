@@ -1,0 +1,58 @@
+{
+  "id": 1144200,
+  "title": "Ready or Not",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/library_hero.jpg",
+  "description": "Возглавьте элитный отряд спецназа и наведите порядок в городе, погрязшем в беззаконии.\n\nЭкипируйтесь реалистичным снаряжением, выполняйте опасные задания на основе реальных сюжетов и очистите Лос-Суэнос от преступности, пока город не погрузился в анархию.\n\nВашу судьбу определит каждое решение, от выбора бойцов до тактических приемов.\n\nВы готовы?\n\nОСОБЕННОСТИ\n\nВозьмите руководство на себя\n\nReady or Not — захватывающий симулятор бойца спецназа. Экипируйтесь реалистичным снаряжением и выполняйте задания на основе реальных сюжетов. Продумывайте каждый шаг. Пули противников достоверно пробивают стены, мебель и тела, так что смотрите по сторонам.\n\nВес значка\n\nКомандиру спецназа поручено защитить население от беззакония. Вы отвечаете за успех операций, выживание отряда и безопасность заложников. Гибель гражданских и соратников подрывает психику бойцов. Под влиянием стресса они хуже работают или даже бросают службу.\n\nВажность тактики\n\nReady or Not — тактический шутер с напряженными заданиями. Подбирайте отряд и снаряжение по ситуации, тщательно планируйте штурм и вовремя устраняйте угрозы. Действуйте в рамках закона и помните: неудачи бывают только у неподготовленных.\n\nЗадания раскрывают сюжет\n\nReady or Not воссоздает все ужасы криминала: торговлю людьми, сбыт наркотиков, незаконный оборот оружия, экстремизм и терроризм. Худшие преступники Лос-Суэноса не раз поставят вас перед сложным моральным выбором.\n\nКроссплатформенное братство\n\nБоритесь с преступностью вместе с друзьями. Кросс-игра позволяет выполнять задания в команде до пяти игроков с любых платформ. Договаривайтесь и прикрывайте друг друга, чтобы успешно проходить задания.",
+  "description_short": "Возглавьте элитный отряд спецназа и наведите порядок в городе, погрязшем в беззаконии.",
+  "genres": [
+    "Тактические шутеры",
+    "Шутеры от первого лица (FPS)",
+    "Психологические хорроры",
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 1040,
+  "is_free": false,
+  "trailer_video": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/88aec4ee3fba8860070370032495e0c9ff87a607/ss_88aec4ee3fba8860070370032495e0c9ff87a607.1920x1080.jpg?t=1781703931",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/8003fd0791fbaaef24bb3da768603eca92449a4d/ss_8003fd0791fbaaef24bb3da768603eca92449a4d.1920x1080.jpg?t=1781703931",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_795edc39907b6c6aba8db40fcb34cc0eb27f5547.1920x1080.jpg?t=1781703931",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/29c4fc0ed7925fb34a32cbc95c4519311420f439/ss_29c4fc0ed7925fb34a32cbc95c4519311420f439.1920x1080.jpg?t=1781703931",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e/ss_bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e.1920x1080.jpg?t=1781703931",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_f0e0b11fa6f1bf6b436f1e17cd3f72f956180405.1920x1080.jpg?t=1781703931",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_873f74f54ca8ce5f4ac7d675563129417a1fd0c9.1920x1080.jpg?t=1781703931",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_4b928ab5fa37af0ef9d0cf0727e76d1a2cd5d6c1.1920x1080.jpg?t=1781703931"
+  ],
+  "upsells": [
+    {
+      "id": 4224910,
+      "name": "Ready or Not: Boiling Point",
+      "price_rub": 694,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224910/e1b801dc894a26c261abdb8f25b30fc83ef0a523/header.jpg?t=1773349381"
+    },
+    {
+      "id": 3174120,
+      "name": "Ready or Not: Dark Waters",
+      "price_rub": 694,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3174120/header.jpg?t=1733935263"
+    },
+    {
+      "id": 3015760,
+      "name": "Ready or Not: Home Invasion",
+      "price_rub": 694,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015760/header.jpg?t=1733935500"
+    },
+    {
+      "id": 3089910,
+      "name": "Ready or Not: Official Soundtrack",
+      "price_rub": 661,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089910/header.jpg?t=1722416403"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-04T01:30:34Z"
+}
