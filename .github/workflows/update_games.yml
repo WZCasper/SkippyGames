@@ -1,4 +1,4 @@
-name: Update games.json
+name: Update game catalog
 
 on:
   schedule:
@@ -40,16 +40,19 @@ jobs:
           pip install -r backend/requirements.txt
 
       - name: Run parser
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python backend/parser.py
 
-      - name: Commit and push games.json
+      - name: Commit and push data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add games.json backend/skipped_ids.json
+          git add data/ backend/skipped_ids.json
+          git add -u games.json 2>/dev/null || true
           if git diff --cached --quiet; then
-            echo "Нет изменений в games.json — коммит не нужен."
+            echo "Нет изменений — коммит не нужен."
           else
-            git commit -m "chore: автообновление games.json ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git commit -m "chore: автообновление каталога игр ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           fi
