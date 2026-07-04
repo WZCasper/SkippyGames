@@ -297,7 +297,12 @@
         // Числовой ID сообщества ВКонтакте для виджета "Сообщения сообщества".
         var VK_GROUP_NUMERIC_ID = 195484236;
 
-        var GAMES_JSON_URL = 'games.json';
+        // Лёгкий сводный индекс всего каталога (без описаний/скриншотов) —
+        // единственный файл, который грузится целиком при заходе на сайт.
+        var GAMES_INDEX_URL = 'data/index.json';
+        // Полные данные одной игры (описание, скриншоты, трейлер, DLC)
+        // подгружаются лениво отсюда только при открытии её карточки.
+        var GAME_DETAIL_URL = (id) => `data/games/${id}.json`;
         var GAMES_PER_PAGE = 24;
 
         var allGenres = [
@@ -328,13 +333,13 @@
         var platformLabels = { 'PC': 'Steam (PC)', 'PlayStation': 'PlayStation', 'Xbox': 'Xbox', 'Nintendo Switch': 'Nintendo Switch' };
 
         var MANAGER_AVATARS = [
-            { name: 'Дежурный №1', url: 'https://i.pinimg.com/736x/39/31/ef/3931ef8b96d5f94be76cb1d474df50da.jpg' },
-            { name: 'Дежурный №2', url: 'https://i.pinimg.com/originals/61/6e/6a/616e6a730fcabc5a195af55f894fb7ce.jpg?nii=t' },
-            { name: 'Дежурный №3', url: 'https://cdna.artstation.com/p/assets/covers/images/056/113/222/large/dani-tufeld-dani-tufeld-with-overlay-02.jpg?1668495651' },
-            { name: 'Дежурный №4', url: 'https://masterpiecer-images.s3.yandex.net/aa9e8473608e11eeb6e096e999421984:upscaled' },
-            { name: 'Дежурный №5', url: 'https://masterpiecer-images.s3.yandex.net/8d2b9e4e7e2f11ee85d456181a0358a2:upscaled' },
-            { name: 'Дежурный №6', url: 'https://i.pinimg.com/originals/5d/36/19/5d36199af4d71afa6d37719ee15bddc3.jpg' },
-            { name: 'Дежурный №7', url: 'https://i.pinimg.com/736x/41/bb/47/41bb47d9df3230fdf1ebd39711e93a55.jpg' }
+            { name: 'Дежурный №1', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=01' },
+            { name: 'Дежурный №2', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=02' },
+            { name: 'Дежурный №3', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=03' },
+            { name: 'Дежурный №4', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=04' },
+            { name: 'Дежурный №5', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=05' },
+            { name: 'Дежурный №6', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=06' },
+            { name: 'Дежурный №7', url: 'https://placehold.co/100x100/1d4ed8/ffffff?text=07' }
         ];
 
         /* =====================================================================
@@ -352,6 +357,10 @@
         var lightboxImages = [];
         var lightboxIndex = 0;
 
+        // Кэш полных данных игр, уже подгруженных из data/games/{id}.json —
+        // чтобы повторное открытие той же карточки не делало новый запрос.
+        var gameDetailCache = new Map();
+
         document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('footer-year').textContent = new Date().getFullYear();
             setupChatAvatar();
@@ -366,7 +375,12 @@
            ===================================================================== */
 
         function loadGames() {
-            fetch(GAMES_JSON_URL, { cache: 'no-store' })
+            // Загружается только лёгкий индекс (id/название/обложка/цена/жанры/
+            // платформы) — даже при 10 000+ играх это один компактный файл.
+            // Полные данные (описание, скриншоты, трейлер, DLC) каждой игры
+            // подгружаются отдельно и лениво в openGame(), только когда
+            // пользователь реально открывает её карточку.
+            fetch(GAMES_INDEX_URL, { cache: 'no-store' })
                 .then(resp => {
                     if (!resp.ok) throw new Error('HTTP ' + resp.status);
                     return resp.json();
@@ -381,10 +395,25 @@
                     maybeOpenGameFromUrl();
                 })
                 .catch(err => {
-                    console.error('Не удалось загрузить games.json:', err);
+                    console.error('Не удалось загрузить data/index.json:', err);
                     document.getElementById('catalogStats').textContent = 'Каталог временно недоступен';
                     document.getElementById('gamesGrid').innerHTML =
-                        '<div class="col-span-full text-center py-20 text-neutral-500"><i class="fa-solid fa-triangle-exclamation text-4xl mb-3"></i><p>Не удалось загрузить games.json. Попробуйте обновить страницу позже.</p></div>';
+                        '<div class="col-span-full text-center py-20 text-neutral-500"><i class="fa-solid fa-triangle-exclamation text-4xl mb-3"></i><p>Не удалось загрузить каталог. Попробуйте обновить страницу позже.</p></div>';
+                });
+        }
+
+        function fetchGameDetail(id) {
+            if (gameDetailCache.has(id)) {
+                return Promise.resolve(gameDetailCache.get(id));
+            }
+            return fetch(GAME_DETAIL_URL(id), { cache: 'no-store' })
+                .then(resp => {
+                    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                    return resp.json();
+                })
+                .then(detail => {
+                    gameDetailCache.set(id, detail);
+                    return detail;
                 });
         }
 
@@ -580,36 +609,67 @@
            ===================================================================== */
 
         function openGame(id, pushUrl) {
-            currentGame = allGames.find(g => g.id === id);
-            if (!currentGame) return;
+            const indexEntry = allGames.find(g => g.id === id);
+            if (!indexEntry) return;
 
             document.getElementById('view-catalog').classList.add('hidden');
             const viewGame = document.getElementById('view-game');
             viewGame.classList.remove('hidden');
             viewGame.classList.add('fade-enter');
 
-            document.getElementById('detail-title').innerText = currentGame.title;
-            const priceLabel = currentGame.is_free ? 'Бесплатно' : `${currentGame.price_rub.toLocaleString('ru-RU')} ₽`;
+            // Мгновенно показываем то, что уже есть в лёгком индексе
+            // (название, обложка, цена), пока грузятся полные данные.
+            currentGame = indexEntry;
+            document.getElementById('detail-title').innerText = indexEntry.title;
+            const priceLabel = indexEntry.is_free ? 'Бесплатно' : `${indexEntry.price_rub.toLocaleString('ru-RU')} ₽`;
             document.getElementById('detail-price').innerText = priceLabel;
-            document.getElementById('detail-desc').innerText = currentGame.description || currentGame.description_short || 'Описание пока недоступно.';
-            document.getElementById('detail-genres').innerText = (currentGame.genres || []).join(' • ');
-
-            renderDetailMedia(currentGame);
-            renderDetailPlatforms(currentGame);
-            renderDetailScreenshots(currentGame);
-            renderDetailUpsells(currentGame);
+            document.getElementById('detail-genres').innerText = (indexEntry.genres || []).join(' • ');
+            document.getElementById('detail-desc').innerHTML = '<i class="fa-solid fa-spinner fa-spin text-yellow-500 mr-2"></i>Загружаем полное описание...';
+            renderDetailPlatforms(indexEntry);
+            renderDetailMediaLoading(indexEntry);
+            document.getElementById('detail-screens-block').classList.add('hidden');
+            document.getElementById('detail-upsells-block').classList.add('hidden');
 
             if (pushUrl !== false) {
                 const url = new URL(window.location);
                 url.searchParams.set('id', id);
                 window.history.pushState({}, '', url);
             }
-
             window.scrollTo(0, 0);
+
+            // Догружаем полные данные (описание, скриншоты, трейлер, DLC)
+            // лениво — только сейчас, когда пользователь открыл карточку.
+            fetchGameDetail(id)
+                .then(detail => {
+                    if (!currentGame || currentGame.id !== id) return; // пользователь успел уйти на другую игру
+                    currentGame = Object.assign({}, indexEntry, detail);
+                    document.getElementById('detail-desc').innerText = currentGame.description || currentGame.description_short || 'Описание пока недоступно.';
+                    renderDetailMedia(currentGame);
+                    renderDetailScreenshots(currentGame);
+                    renderDetailUpsells(currentGame);
+                })
+                .catch(err => {
+                    console.error('Не удалось загрузить данные игры ' + id + ':', err);
+                    if (!currentGame || currentGame.id !== id) return;
+                    document.getElementById('detail-desc').innerText = indexEntry.description_short || 'Не удалось загрузить полное описание. Попробуйте обновить страницу.';
+                    renderDetailMedia(Object.assign({}, indexEntry, { trailer_video: null, trailer_youtube_id: null }));
+                });
+        }
+
+        function renderDetailMediaLoading(game) {
+            const media = document.getElementById('detail-media');
+            media.innerHTML = `
+                <img src="${game.cover}" alt="${escapeHtml(game.title)}" class="absolute inset-0 w-full h-full object-cover opacity-40 blur-sm">
+                <div class="relative z-10 text-center px-6">
+                    <i class="fa-solid fa-spinner fa-spin text-3xl text-yellow-500"></i>
+                </div>
+            `;
         }
 
         function renderDetailMedia(game) {
             const media = document.getElementById('detail-media');
+
+            // Приоритет 1: собственный трейлер игры в Steam.
             if (game.trailer_video) {
                 media.innerHTML = `
                     <video controls preload="metadata" poster="${game.hero || game.cover}" class="w-full h-full object-cover">
@@ -617,16 +677,40 @@
                         Ваш браузер не поддерживает встроенное видео.
                     </video>
                 `;
-            } else {
+                return;
+            }
+
+            // Приоритет 2: трейлер, найденный через YouTube Data API на
+            // этапе сбора данных (backend/parser.py, fetch_youtube_trailer_id).
+            if (game.trailer_youtube_id) {
                 media.innerHTML = `
-                    <img src="${game.hero || game.cover}" alt="${escapeHtml(game.title)}" class="absolute inset-0 w-full h-full object-cover opacity-70">
-                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
-                    <div class="relative z-10 text-center px-6">
-                        <i class="fa-solid fa-clapperboard text-4xl text-neutral-500 mb-2"></i>
-                        <p class="text-neutral-400 text-sm">Трейлер для этой игры пока недоступен в Steam</p>
+                    <div class="relative w-full h-full">
+                        <iframe class="absolute inset-0 w-full h-full"
+                                src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(game.trailer_youtube_id)}?rel=0"
+                                title="Трейлер ${escapeHtml(game.title)}"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen
+                                loading="lazy"></iframe>
                     </div>
                 `;
+                return;
             }
+
+            // Фолбэк: трейлера не нашлось ни в Steam, ни через YouTube —
+            // честно показываем это и даём прямую ссылку на поиск, а не
+            // подставляем случайное видео, которое может быть не про игру.
+            const searchUrl = 'https://www.youtube.com/results?search_query=' + encodeURIComponent(game.title + ' trailer');
+            media.innerHTML = `
+                <img src="${game.hero || game.cover}" alt="${escapeHtml(game.title)}" class="absolute inset-0 w-full h-full object-cover opacity-70">
+                <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
+                <div class="relative z-10 text-center px-6">
+                    <i class="fa-solid fa-clapperboard text-4xl text-neutral-500 mb-2"></i>
+                    <p class="text-neutral-400 text-sm mb-3">Трейлер для этой игры пока не найден автоматически</p>
+                    <a href="${searchUrl}" target="_blank" rel="noopener" class="inline-flex items-center gap-2 text-sm font-semibold text-yellow-500 hover:text-yellow-400 transition-colors">
+                        <i class="fa-brands fa-youtube"></i> Искать на YouTube
+                    </a>
+                </div>
+            `;
         }
 
         function renderDetailPlatforms(game) {
@@ -782,6 +866,9 @@
            ===================================================================== */
 
         var vkWidgetMounted = false;
+        var vkWidgetCheckTimer = null;
+        var VK_SCRIPT_LOAD_TIMEOUT_MS = 8000;
+        var VK_WIDGET_RENDER_TIMEOUT_MS = 6000;
 
         function toggleChat() {
             const chatWidget = document.getElementById('chat-widget');
@@ -791,32 +878,81 @@
             }
         }
 
+        function renderVkFallback(reason) {
+            document.getElementById('vk_community_messages').innerHTML = `
+                <div class="p-6 text-center text-sm text-neutral-600 flex flex-col items-center gap-3">
+                    <i class="fa-brands fa-vk text-3xl text-blue-600"></i>
+                    <p>Не удалось загрузить чат ВКонтакте${reason ? ' (' + escapeHtml(reason) + ')' : ''}.</p>
+                    <p class="text-neutral-500 text-xs">Обычно причина — домен сайта не добавлен в «Разрешённые домены» виджета в настройках сообщества.</p>
+                    <div class="flex gap-2">
+                        <a href="https://vk.com/skippygames" target="_blank" rel="noopener" class="px-3 py-1.5 rounded-lg bg-blue-600 text-white font-semibold text-xs hover:bg-blue-500 transition-colors">Написать в VK напрямую</a>
+                        <a href="https://t.me/SKIPPYManager" target="_blank" rel="noopener" class="px-3 py-1.5 rounded-lg bg-sky-500 text-white font-semibold text-xs hover:bg-sky-400 transition-colors">Написать в Telegram</a>
+                    </div>
+                    <button onclick="retryVkWidget()" class="text-xs text-neutral-500 hover:text-neutral-800 underline">Попробовать снова</button>
+                </div>
+            `;
+        }
+
+        function retryVkWidget() {
+            vkWidgetMounted = false;
+            document.getElementById('vk_community_messages').innerHTML = '';
+            mountVkWidget();
+        }
+
         function mountVkWidget() {
             if (vkWidgetMounted) return;
             vkWidgetMounted = true;
-            loadVkScript(() => {
-                if (window.VK && window.VK.Widgets && window.VK.Widgets.CommunityMessages) {
+
+            const container = document.getElementById('vk_community_messages');
+            container.innerHTML = '<div class="p-6 text-center text-neutral-500 text-sm"><i class="fa-solid fa-spinner fa-spin mr-2"></i>Подключаем чат ВКонтакте...</div>';
+
+            loadVkScript((loaded) => {
+                if (!loaded || !window.VK || !window.VK.Widgets || !window.VK.Widgets.CommunityMessages) {
+                    renderVkFallback('скрипт VK не загрузился');
+                    return;
+                }
+
+                try {
                     window.VK.Widgets.CommunityMessages('vk_community_messages', VK_GROUP_NUMERIC_ID, {
                         expandTimeout: 200,
                         tooltipButtonText: 'Написать нам'
                     });
-                } else {
-                    document.getElementById('vk_community_messages').innerHTML =
-                        '<div class="p-6 text-center text-neutral-500 text-sm">Не удалось загрузить виджет ВКонтакте. Напишите нам напрямую: <a class="text-blue-600 font-semibold" href="https://vk.com/skippygames" target="_blank" rel="noopener">vk.com/skippygames</a></div>';
+                } catch (err) {
+                    console.error('VK.Widgets.CommunityMessages выбросил ошибку:', err);
+                    renderVkFallback('ошибка инициализации виджета');
+                    return;
                 }
+
+                // VK монтирует свой iframe асинхронно. Если через несколько
+                // секунд его так и не появилось внутри контейнера — почти
+                // наверняка домен сайта не добавлен в "Разрешённые домены"
+                // виджета (см. README), и молча оставлять пустое окно нельзя.
+                clearTimeout(vkWidgetCheckTimer);
+                vkWidgetCheckTimer = setTimeout(() => {
+                    if (!container.querySelector('iframe')) {
+                        console.warn('VK.Widgets.CommunityMessages не создал iframe за ' + VK_WIDGET_RENDER_TIMEOUT_MS + 'мс — проверьте "Разрешённые домены" виджета в настройках сообщества ВК.');
+                        renderVkFallback('домен не подтверждён в настройках VK');
+                    }
+                }, VK_WIDGET_RENDER_TIMEOUT_MS);
             });
         }
 
         function loadVkScript(callback) {
             if (window.VK && window.VK.Widgets) {
-                callback();
+                callback(true);
                 return;
             }
             const script = document.createElement('script');
             script.src = 'https://vk.com/js/api/openapi.js?169';
             script.async = true;
-            script.onload = callback;
-            script.onerror = callback;
+
+            const timeoutId = setTimeout(() => {
+                console.warn('Скрипт VK openapi.js не загрузился за ' + VK_SCRIPT_LOAD_TIMEOUT_MS + 'мс (возможно, заблокирован блокировщиком рекламы или недоступен VK).');
+                callback(false);
+            }, VK_SCRIPT_LOAD_TIMEOUT_MS);
+
+            script.onload = () => { clearTimeout(timeoutId); callback(true); };
+            script.onerror = () => { clearTimeout(timeoutId); callback(false); };
             document.head.appendChild(script);
         }
 
