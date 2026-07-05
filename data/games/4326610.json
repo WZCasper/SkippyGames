@@ -1,0 +1,29 @@
+{
+  "id": 4326610,
+  "title": "RedDot",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326610/9196293ad3b1c7555f9b7b47febd537c72320213/header.jpg?t=1783189305",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4326610?t=1783189305",
+  "description": "RedDot is the best crosshair overlay utility period!Great for use with FPS and RPG games that lack their own crosshair systems completely or simply for hip fire.\n\nNOTE: RedDot is visible with Fullscreen (Exclusive & non-exclusive) and Windowed games. If the game runs in Exclusive mode, ensure you use the D3D11 renderer option. If the game ever seems to hide the RedDot (usually when starting the game) simply cycle the preset.\n\nRedDot Features• Utility for the Visually Impaired\n\n• Cycle colors\n\n• Custom Colors\n\n• Custom Placement\n\n• Custom Hotkeys\n\n• Cycle Shapes\n\n• Scale Shapes\n\n• Presets\n\n• Including Application Aware Presets\n\n• Cycle Presets\n\n• Cycle only the presets for the active game\n\n• Lightweight\n\n• 2.40MB not including Redist\n\n• No Bloat\n\n• Affordable\n\n• Multiple Monitor Support\n\n• Can cycle where the RedDot is displayed. Leaving your other monitors RedDot free.\n\n• Great for use with FPS and RPG games that lack their own crosshair systems completely or simply for hip fire.",
+  "description_short": "RedDot is the best lightweight crosshair overlay utility period! Great for use with FPS and RPG games that lack their own crosshair systems completely or simply for hip fire.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 739,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "t7FwypV69qc",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326610/2993c62f68907c32ae2af02f37356ffb4be3f37b/ss_2993c62f68907c32ae2af02f37356ffb4be3f37b.1920x1080.jpg?t=1783189305",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326610/7389297e67e29656e8e0794a28207b4917a25fff/ss_7389297e67e29656e8e0794a28207b4917a25fff.1920x1080.jpg?t=1783189305",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326610/3dd7e8e3185b9bf548c55e20fa1f61cb79741cef/ss_3dd7e8e3185b9bf548c55e20fa1f61cb79741cef.1920x1080.jpg?t=1783189305",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326610/6e78815754f5d03f7e62bbbbb316f08d04d08565/ss_6e78815754f5d03f7e62bbbbb316f08d04d08565.1920x1080.jpg?t=1783189305",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326610/ab971cb67e7a58ed6083fa12e190ce47f9585da8/ss_ab971cb67e7a58ed6083fa12e190ce47f9585da8.1920x1080.jpg?t=1783189305",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326610/f6fd64fdaf1605c9b52d5b7cbb93fece43600ad6/ss_f6fd64fdaf1605c9b52d5b7cbb93fece43600ad6.1920x1080.jpg?t=1783189305"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-05T01:46:33Z"
+}

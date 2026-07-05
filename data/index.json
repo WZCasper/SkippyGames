@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-04T18:51:28Z",
-  "uah_to_rub_rate": 1.732174,
+  "generated_at": "2026-07-05T01:46:35Z",
+  "uah_to_rub_rate": 1.732343,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 91,
+  "count": 95,
   "games": [
     {
       "id": 4310730,
@@ -848,6 +848,19 @@
       "is_free": false
     },
     {
+      "id": 4825610,
+      "title": "Random Fantasy Defense",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825610/c7a865bca6d5576818333ae5e03678705481b9d0/header.jpg?t=1783149130",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 632,
+      "is_free": false
+    },
+    {
       "id": 4804430,
       "title": "Re:メタモルフォーゼ・キャンディーナ",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804430/9d7090196190e582c13c2c0f1e3d5eaff584f741/header.jpg?t=1783095607",
@@ -907,6 +920,19 @@
       "is_free": false
     },
     {
+      "id": 4326610,
+      "title": "RedDot",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326610/9196293ad3b1c7555f9b7b47febd537c72320213/header.jpg?t=1783189305",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 739,
+      "is_free": false
+    },
+    {
       "id": 4797790,
       "title": "Rescue Dogs vs Aliens Tower Defense",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797790/002d3de51366d399f2f1ce2f8b9dae1feb5e2f1a/header.jpg?t=1783133271",
@@ -917,6 +943,19 @@
         "PC"
       ],
       "price_rub": 794,
+      "is_free": false
+    },
+    {
+      "id": 4478740,
+      "title": "Rootbound Enigma",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478740/bc14c9fbd2046c8f8cf6473936b13ab872924a60/header.jpg?t=1783171921",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 628,
       "is_free": false
     },
     {
@@ -1091,6 +1130,19 @@
         "PC"
       ],
       "price_rub": 1208,
+      "is_free": false
+    },
+    {
+      "id": 3384540,
+      "title": "Spirit of the Dome",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384540/48bd364a2ef567b75494eb9de0a8e09f9e9cddd4/header.jpg?t=1783198918",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 677,
       "is_free": false
     },
     {
