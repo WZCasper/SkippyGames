@@ -1,0 +1,35 @@
+{
+  "id": 108600,
+  "title": "Project Zomboid",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/library_hero.jpg",
+  "description": "Project Zomboid is an open-ended zombie-infested sandbox. It asks one simple question – how will you die? \n\nIn the towns of Muldraugh and West Point, survivors must loot houses, build defences and do their utmost to delay their inevitable death day by day. No help is coming – their continued survival relies on their own cunning, luck and ability to evade a relentless horde.Current Features\n• Hardcore Sandbox Zombie Survival Game with a focus on realistic survival.\n\n• Online multiplayer survival with persistent player run servers. \n\n• Local 4 player split-screen co-op\n\n• Hundreds of zombies with swarm mechanics and in-depth visual and hearing systems. \n\n• Full line of sight system and real-time lighting, sound and visibility mechanics. Hide in the shadows, keep quiet and keep the lights off at night, or at least hang sheets over the windows. \n\n• Vast and growing map (loosely based on a real world location) for you to explore, loot and set up your fortress. Check out Blindcoder’s map project: \n\n• Vehicles with full physics and deep and realistic gameplay mechanics.\n\n• Use tools and items to craft weapons, barricade and cook. You can even build zombie proof forts by chopping trees, sawing wood and scavenging supplies. \n\n• Deal with depression, boredom, hunger, thirst and illness while trying to survive. \n\n• Day turns to night. The electricity falters. Hordes migrate. Winter draws in. Nature gradually starts to take over.\n\n• Farming, fishing, carpentry, cooking, trapping, character customization, skills and perks that develop based on what you do in-game. \n\n• Proper zombies that don’t run. (Unless you tell them to in the sandbox menu).\n\n• A ton of amazing atmospheric music tracks by the prodigy that is Zach Beever. \n\n• Imaginative Challenge scenarios and instant action ‘Last Stand’ mode, on top of regular Sandbox and Survival \n\n• Full, open and powerful Lua modding support. \n\n• Xbox Controller Gamepad support on Windows. (Other gamepads can be set up manually.)\n\nWe’re a small team at the moment, but we’re also committed to providing the following:planned Features:\n\n• The return of our PZ Stories mode that also serves as first ever tutorial actively trying to kill you at every turn. Kate and Baldspot return!\n\n• In-depth and varied NPC encounters driven in a persistent world, powered by a metagame system that turns each play-through into your very own zombie survival movie with emergent narrative gameplay.\n\n• Constant expansion of the countryside and cities around Muldraugh and West Point\n\n• Full wilderness survival systems, animals and hunting for food. \n\n• More items, crafting recipes, weapons and gameplay systems. \n\n• Steam Workshop and Achievements support\n\nFor more details on the game follow us on @theindiestone or visit",
+  "description_short": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+  "genres": [
+    "Выживание (Survival)",
+    "Песочницы (Sandbox)",
+    "Технические симуляторы",
+    "Хорроры на выживание (Survival Horror)",
+    "Приключения"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 982,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "nPbsDmzZ3Oc",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_d4a0f78dc94273c7f0eedc186569efc091387066.1920x1080.jpg?t=1777298596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_eca8be032b3f5508bf5bea74cfbc823a4df047ce.1920x1080.jpg?t=1777298596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_7300ecc70342b6fcbdf39b6f9ff4c408066f8fc2.1920x1080.jpg?t=1777298596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_eb1862af5109e4658e2538d897cbd16b87ad1818.1920x1080.jpg?t=1777298596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_3b21d79855804e2a73468328a8fd18df0d238a2a.1920x1080.jpg?t=1777298596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_0dc0cb896202ecfa344a0af981b695f2349317e1.1920x1080.jpg?t=1777298596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_bb426e3c51a76f0605cef625094a9fbc7efad73a.1920x1080.jpg?t=1777298596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/ss_507e952789822b69868d768e1e4476946f37b1fb.1920x1080.jpg?t=1777298596"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-05T13:02:19Z"
+}
