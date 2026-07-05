@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05T13:02:26Z",
+  "generated_at": "2026-07-05T18:56:51Z",
   "uah_to_rub_rate": 1.732343,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 109,
+  "count": 116,
   "games": [
     {
       "id": 4310730,
@@ -16,6 +16,19 @@
         "PC"
       ],
       "price_rub": 552,
+      "is_free": false
+    },
+    {
+      "id": 4829180,
+      "title": "101 Dogs Hidden in New York",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829180/067664e95c347268974db3ab856b6693f2bce7ea/header.jpg?t=1783268700",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 554,
       "is_free": false
     },
     {
@@ -209,6 +222,19 @@
       "is_free": false
     },
     {
+      "id": 4377340,
+      "title": "Cage Bar: The Hunting Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377340/0fe195e23c2ed3a670c54d644668ba92a2e8d13d/header.jpg?t=1783244636",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 812,
+      "is_free": false
+    },
+    {
       "id": 4306650,
       "title": "Cicadia",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/3c24bf060e65d3a8e081ce581b09bccee2b1f230/header.jpg?t=1783103360",
@@ -380,6 +406,19 @@
         "Xbox"
       ],
       "price_rub": 3400,
+      "is_free": false
+    },
+    {
+      "id": 4294320,
+      "title": "FINIS ACTUS",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294320/9ed2770b92da31b1da94f6ad2cea194377643787/header_russian.jpg?t=1783270812",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 857,
       "is_free": false
     },
     {
@@ -815,6 +854,19 @@
       "is_free": false
     },
     {
+      "id": 4829230,
+      "title": "Nin Ninja RESCUE MISSION",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829230/50cdb5d17f53af866621eac1e42a93fcf602621e/header.jpg?t=1783264310",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 580,
+      "is_free": false
+    },
+    {
       "id": 4469500,
       "title": "Ninety Nine Dungeons",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469500/ed5fd835206a57ed0366a8b19248e24685643dbd/header.jpg?t=1783079955",
@@ -912,6 +964,19 @@
         "PC"
       ],
       "price_rub": 1228,
+      "is_free": false
+    },
+    {
+      "id": 4771430,
+      "title": "Pickel: The Mysterious Mine",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/5b0ee09af3f9907e48ced5db72d829aa6d23320b/header.jpg?t=1783247688",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 618,
       "is_free": false
     },
     {
@@ -1354,6 +1419,19 @@
       "is_free": false
     },
     {
+      "id": 4590610,
+      "title": "The King's Game: Through the Veil",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590610/4fdf9668682273c1e393851a96b76e2f898a8caa/header.jpg?t=1783262377",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 796,
+      "is_free": false
+    },
+    {
       "id": 4849960,
       "title": "The Laws of Probability",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/e001fac164d8b02dd2bca089e61cfa6f061cb27d/header.jpg?t=1783103157",
@@ -1445,6 +1523,19 @@
         "PC"
       ],
       "price_rub": 680,
+      "is_free": false
+    },
+    {
+      "id": 873260,
+      "title": "Wizard Gold",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/873260/0bd988715b3f67340cb942cf351038406dd669e8/header.jpg?t=1783263387",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 769,
       "is_free": false
     },
     {
