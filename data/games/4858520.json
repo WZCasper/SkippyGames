@@ -1,0 +1,28 @@
+{
+  "id": 4858520,
+  "title": "Overlab",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/798ad9862c0d12c11b9c11163c4ba0bd1cc2c88c/page_bg_raw.jpg?t=1783213962",
+  "description": "Overlab is an arcade game where your objective is simple: survive as long as possible.\n\nSpaceships (or cars) arrive with orders for specific molecules. Quickly combine the correct atoms to create the requested molecule and earn extra time to keep your run going.\n\nDeveloped in just three months by a team of two students, Overlab is a school project that challenges your speed, logic, and time-management skills.",
+  "description_short": "Combine atoms to create molecules and fulfill orders to survive as long as possible.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "sDHHAxW1mCo",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/25437e4133f81c93bb52bb74bc087ac8787f6411/ss_25437e4133f81c93bb52bb74bc087ac8787f6411.1920x1080.jpg?t=1783213962",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/134b94150ab7716e4beac6af8bec0289dbe8b8cd/ss_134b94150ab7716e4beac6af8bec0289dbe8b8cd.1920x1080.jpg?t=1783213962",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/0f5a659f4b0479919aad129b9edcc67126cd84c3/ss_0f5a659f4b0479919aad129b9edcc67126cd84c3.1920x1080.jpg?t=1783213962",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/aa2afaef1459a997dfb1543c29dfdb1a7c07fa65/ss_aa2afaef1459a997dfb1543c29dfdb1a7c07fa65.1920x1080.jpg?t=1783213962",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/4063d0136c0cbabd63f38c8d9f0195564fa614ec/ss_4063d0136c0cbabd63f38c8d9f0195564fa614ec.1920x1080.jpg?t=1783213962"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-05T08:36:39Z"
+}

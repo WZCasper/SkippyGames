@@ -1,0 +1,29 @@
+{
+  "id": 4849010,
+  "title": "FOCUS",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4849010?t=1783213208",
+  "description": "MCO | Manifestation Containment OrganizationManifestation Containment Organization\n\nPersonnel Training Program: FOCUS\n\nOrientation Materials / Observer Candidates\n\nAbout This ProgramThe Manifestation Containment Organization (MCO) is the agency with jurisdiction over the observation and containment of manifestations.\n\nThis program, FOCUS, is a personnel training emulator for simulating the observation duties pertaining to containment subject M-256. It is constructed using training data, and its release to the public has been approved by MCO senior administration.\n\nPurpose: Improvement of observer candidate proficiency, and collection of data contributing to the optimization of containment protocols.\n\nContainment Subject: M-256M-256 is a manifestation possessing reality-altering properties. It performs alterations to the logical structure of any system with which it comes into contact. Containment is currently maintained by directing its alteration activity toward a virtual environment constructed on computers under MCO management.\n\nMaintenance of containment requires continuous observation reporting of alteration activity within the virtual environment.\n\nObservation Duty ProtocolSTEP 1: Connection\n\nThe emulator is started, and access to the surveillance feed of the virtual environment is established.\n\nSTEP 2: Observation of Alterations\n\nPoints of alteration within the feed are detected. Alterations progress over a period of 20 seconds.\n\nSTEP 3: Reporting\n\nA report is completed by clicking the location at which an alteration has been detected. A reporting quota is set for each section. Access to the next section is granted upon fulfillment of the quota.\n\nSTEP 4: M-256 Response\n\nM-256 may manifest within the virtual space during a training section. When the subject is detected, observation is to be continued until it disappears. Continued observation maintains the subject's containment status. If containment status is not maintained, M-256 approaches the observer, and its reality-altering properties act upon the observer. In this emulation, the section is forcibly terminated.\n\nSection StructureFive sections in total. Difficulty is set in graduated stages. Sections in which the quota is not fulfilled are repeated.\n\nEstimated Duration: 30–60 minutes\n\nNotices• This emulator is designed for training purposes.\n\n• Certain scenes contain strong visual and auditory stimuli.\n\n• The MCO assumes no responsibility for content experienced by observer candidates during training.\n\nMCO Human Resources Development Division",
+  "description_short": "Surveillance footage is slowly being rewritten. A point-and-click observation horror game where you find what changed and report it.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 647,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "MxCRgtdAuBo",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/261d5cf0deb030d82168cf2b4cdfb210452cef94/ss_261d5cf0deb030d82168cf2b4cdfb210452cef94.1920x1080.jpg?t=1783213208",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/7e039ce43d6a3fc81c07316a8d7446c800c5d696/ss_7e039ce43d6a3fc81c07316a8d7446c800c5d696.1920x1080.jpg?t=1783213208",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/17690c367b580681e4e13f917f58f124793522d8/ss_17690c367b580681e4e13f917f58f124793522d8.1920x1080.jpg?t=1783213208",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/0a44eb018e1e4f520dacd0dc39e8e12555c744d6/ss_0a44eb018e1e4f520dacd0dc39e8e12555c744d6.1920x1080.jpg?t=1783213208",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/0d2e6a9cf47613b764e372b597789fa9273bc130/ss_0d2e6a9cf47613b764e372b597789fa9273bc130.1920x1080.jpg?t=1783213208",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/3f32603aeb88b8642ba3370f4ac36fe50e0dbcd1/ss_3f32603aeb88b8642ba3370f4ac36fe50e0dbcd1.1920x1080.jpg?t=1783213208"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-05T08:36:41Z"
+}

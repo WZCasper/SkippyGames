@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05T01:46:35Z",
+  "generated_at": "2026-07-05T08:36:45Z",
   "uah_to_rub_rate": 1.732343,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 95,
+  "count": 104,
   "games": [
     {
       "id": 4310730,
@@ -58,6 +58,19 @@
       "is_free": false
     },
     {
+      "id": 4394260,
+      "title": "An Adventure in Arabic",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394260/21fb8e738ffd41fc985bdc0a9fd0663388b031cd/header.jpg?t=1783221839",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 1172470,
       "title": "Apex Legends™",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
@@ -100,6 +113,21 @@
         "PC"
       ],
       "price_rub": 1670,
+      "is_free": false
+    },
+    {
+      "id": 371970,
+      "title": "Barony",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/371970/capsule_616x353.jpg",
+      "genres": [
+        "Шутеры от первого лица (FPS)",
+        "Иммерсивные симуляторы (Immersive Sim)",
+        "Экшен-РПГ (Action-RPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 571,
       "is_free": false
     },
     {
@@ -192,6 +220,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4831720,
+      "title": "City Cardz",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831720/64598667100c987145b37ee9cdb5750e62c9160f/header.jpg?t=1783235158",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 656,
+      "is_free": false
     },
     {
       "id": 4084160,
@@ -339,6 +380,19 @@
         "Xbox"
       ],
       "price_rub": 3400,
+      "is_free": false
+    },
+    {
+      "id": 4849010,
+      "title": "FOCUS",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 647,
       "is_free": false
     },
     {
@@ -787,6 +841,19 @@
       "is_free": false
     },
     {
+      "id": 4858520,
+      "title": "Overlab",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 578080,
       "title": "PUBG: BATTLEGROUNDS",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_616x353.jpg",
@@ -1204,6 +1271,20 @@
       "is_free": false
     },
     {
+      "id": 250900,
+      "title": "The Binding of Isaac: Rebirth",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Психологические хорроры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 538,
+      "is_free": false
+    },
+    {
       "id": 4668560,
       "title": "The Hollow Road: Prologue",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/01bf2a215a6ea4ebe68df01943ff5e0c0176d807/header.jpg?t=1783106217",
@@ -1214,6 +1295,19 @@
         "PC"
       ],
       "price_rub": 656,
+      "is_free": false
+    },
+    {
+      "id": 4698340,
+      "title": "The Incident",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698340/c98f62a155b7595c7418021dba8a5c49c7f8d2fb/header.jpg?t=1783202818",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 639,
       "is_free": false
     },
     {
@@ -1240,6 +1334,19 @@
         "PC"
       ],
       "price_rub": 733,
+      "is_free": false
+    },
+    {
+      "id": 4840300,
+      "title": "The Pawn Broker",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840300/bd7baa4d1761ddd14aee45be20f99eab77f758d6/header.jpg?t=1783216601",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 803,
       "is_free": false
     },
     {
@@ -1283,6 +1390,23 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 266410,
+      "title": "iRacing",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/266410/capsule_616x353.jpg",
+      "genres": [
+        "Гоночные симуляторы (Simracing)",
+        "Технические симуляторы",
+        "Спортивные симуляторы",
+        "Шутеры от первого лица (FPS)",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 694,
+      "is_free": false
     },
     {
       "id": 4787490,

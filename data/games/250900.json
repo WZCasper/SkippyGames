@@ -1,0 +1,45 @@
+{
+  "id": 250900,
+  "title": "The Binding of Isaac: Rebirth",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/library_hero.jpg",
+  "description": "Новый дополнительный контент\n\nОб игреWhen Isaac’s mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother. \n\nGameplay\nThe Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.\n\nAbout the Binding Of Isaac: Rebirth\nThe Binding of Isaac: Rebirth is the ultimate of remakes with an all-new highly efficient game engine (expect 60fps on most PCs), all-new hand-drawn pixel style artwork, highly polished visual effects, all-new soundtrack and audio by the the sexy Ridiculon duo Matthias Bossi + Jon Evans. Oh yeah, and hundreds upon hundreds of designs, redesigns and re-tuned enhancements by series creator, Edmund McMillen. Did we mention the poop?Key Features:• Over 500 hours of gameplay\n\n• 4 BILLION Seeded runs!\n\n• 20 Challenge runs\n\n• 450+ items, including 160 new unlockables\n\n• Integrated controller support for popular control pads!\n\n• Analog directional movement and speed\n\n• Tons of feature film quality animated endings\n\n• Over 100 specialized seeds\n\n• 2-Player local co-op\n\n• Over 100 co-op characters\n\n• Dynamic lighting, visual effects and art direction\n\n• All-new game engine @60FPS 24/7\n\n• All-new soundtrack and sound design\n\n• Multiple Save slots\n\n• Poop physics!\n\n• The ultimate roguelike\n\n• A bunch of achievements\n\nUber secrets including: \n• 10 Playable Characters\n\n• 100+ enemies, with new designs\n\n• Over 50 bosses, including tons of new and rare bosses\n\n• Rooms FULL OF POOP!\n\n• Mystic Runes\n\n• Upgradeable shops",
+  "description_short": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+  "genres": [
+    "Экшен",
+    "Психологические хорроры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 538,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "Z6_C2ppkdVc",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_25a4a446a433218d41a7e87e35b60c297e68e7a4.1920x1080.jpg?t=1731977365",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_19ef624e8d97136ba6f928d389b85f7b8130c37a.1920x1080.jpg?t=1731977365",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_9fa4199fa93cb8b1edd8780fa6ce9e80d2bfb503.1920x1080.jpg?t=1731977365",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_008a76bd0ab314c8140dd1a7ec61090c122d1779.1920x1080.jpg?t=1731977365",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_b146a76ac5348e1cf958c3d01834e13b33c4e561.1920x1080.jpg?t=1731977365",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_89aa019b678e96fd13367a5fda6145ed0bc79fce.1920x1080.jpg?t=1731977365",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_8961974abd6a3791efd74fbb6e57b4935e494500.1920x1080.jpg?t=1731977365",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_b6d9427fc6c63f0fe12922ea60609344af241631.1920x1080.jpg?t=1731977365"
+  ],
+  "upsells": [
+    {
+      "id": 401920,
+      "name": "The Binding of Isaac: Afterbirth",
+      "price_rub": 529,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401920/header.jpg?t=1573196132"
+    },
+    {
+      "id": 322660,
+      "name": "The Binding of Isaac: Rebirth - Soundtrack",
+      "price_rub": 810,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322660/header.jpg?t=1617329119"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-05T08:36:45Z"
+}

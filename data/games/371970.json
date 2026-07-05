@@ -1,0 +1,58 @@
+{
+  "id": 371970,
+  "title": "Barony",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/371970/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/371970/library_hero.jpg",
+  "description": "You have entered the Barony of the vile lich Baron Herx!\n\nHis curse has all but destroyed the town of Hamlet, and daring adventurers are the people's only hope. Prepare to face devious dungeons that demand your resourcefulness, wit, and vigilance.\n\nThe dungeons are brutal; Full of vicious monsters and deadly traps, but legendary treasures, magical artifacts, spells and equipment will empower you throughout the adventure.\n\nFeatures:• Put your skills to the test with perma-death, cryptic dungeons, and no handholding\n\n• Cooperate with 1-4 players via split-screen, wireless play between Switch consoles, and the internet including crossplay with other platforms!\n\n• Master 13 classes ranging from familiar warrior, wizard, and rogue classes to unique sexton, joker, and arcanist classes\n\n• Conquer or be killed by surprises around every corner in a new dungeon every time you play\n\n• Learn deep RPG systems with loads of loot and stats to analyze and synergize\n\n• Discover and utilize tons of adventuring weapons, equipment, lore, spells, & legendary artifacts\n\n• Haunt or help your party even after death by spawning as a ghastly ghost with spooky powers\n\n• Experience ongoing free updates from an active team that loves the game and is active in the Barony community\n\n• Go deeper with 3 DLCs offering alternate ways to play with new character classes and monster races which offer even more playstyles!\n\nBarony is a love-note to RPG classics like Ultima Underworld, System Shock, & Daggerfall, created by fans of the classics.",
+  "description_short": "Barony is the premier first-person roguelike with cooperative play! Adventure alone, or gather a party with iconic and unusual RPG classes to face off against the brutal dungeons. Test your resourcefulness, wits, and friendships, on your quest to lift the evil lich's curse!",
+  "genres": [
+    "Шутеры от первого лица (FPS)",
+    "Иммерсивные симуляторы (Immersive Sim)",
+    "Экшен-РПГ (Action-RPG)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 571,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "SwASxX3qpj4",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_e7af10d7351e227b25587547e8f24370cd77891d.1920x1080.jpg?t=1781778772",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_9a2f7cf38056cc47771bd0af9bba80806d2f2dde.1920x1080.jpg?t=1781778772",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_172545b1d8b168ade88305545d4f2b90308ee770.1920x1080.jpg?t=1781778772",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_dca8436c6729dfd31f2cef757a682c7f1e7e075c.1920x1080.jpg?t=1781778772",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_61538cebe5998ed66f69aed95d7109d78478ec52.1920x1080.jpg?t=1781778772",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_14b476e1ca9801b98f2b847e523c00bd848605da.1920x1080.jpg?t=1781778772",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_1098887299cb04e381a17dc71d6ed7fb0f1317bb.1920x1080.jpg?t=1781778772",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_86ac2cb6858a5c559bd2d52125a58e77c88fc9a6.1920x1080.jpg?t=1781778772"
+  ],
+  "upsells": [
+    {
+      "id": 1010822,
+      "name": "Barony: Deserters & Disciples",
+      "price_rub": 824,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010822/5e70ad48c029f04ef0f5bf703807a5a75ba12a42/header.jpg?t=1769703332"
+    },
+    {
+      "id": 1010821,
+      "name": "Barony: Legends & Pariahs",
+      "price_rub": 715,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010821/header.jpg?t=1699064901"
+    },
+    {
+      "id": 1010820,
+      "name": "Barony: Myths & Outcasts",
+      "price_rub": 715,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010820/header.jpg?t=1699064918"
+    },
+    {
+      "id": 470540,
+      "name": "Barony Extended Soundtrack by Chris Kukla",
+      "price_rub": 715,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470540/header.jpg?t=1666992073"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-05T08:36:32Z"
+}
