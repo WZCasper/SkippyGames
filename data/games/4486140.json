@@ -14,6 +14,7 @@
   "price_rub": 687,
   "is_free": false,
   "trailer_video": null,
+  "trailer_youtube_id": "jBMLN-8tkRY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486140/5e8a7b2d5ca5d9b378407c23bc1e963cb126df15/ss_5e8a7b2d5ca5d9b378407c23bc1e963cb126df15.1920x1080.jpg?t=1783090530",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486140/4e3891a89b303f1cc4627678d546af25637f9315/ss_4e3891a89b303f1cc4627678d546af25637f9315.1920x1080.jpg?t=1783090530",
@@ -24,5 +25,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-03T19:09:19Z"
+  "updated_at": "2026-07-06T19:29:17Z"
 }

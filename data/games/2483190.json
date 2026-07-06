@@ -11,9 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 4491,
+  "price_rub": 4488,
   "is_free": false,
   "trailer_video": null,
+  "trailer_youtube_id": "p1wFbZwegpk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.1920x1080.jpg?t=1782238812",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.1920x1080.jpg?t=1782238812",
@@ -28,7 +29,7 @@
     {
       "id": 4520360,
       "name": "Forza Horizon 6 Premium Upgrade Bundle",
-      "price_rub": 4021,
+      "price_rub": 4018,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520360/da0a30ab552b49f79a4a7d072f457460effded19/header.jpg?t=1781040923"
     },
     {
@@ -40,7 +41,7 @@
     {
       "id": 4439790,
       "name": "Forza Horizon 6 Car Pass",
-      "price_rub": 2234,
+      "price_rub": 2233,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439790/b6c79619ca3c8f261a96174e44f79683b3eb0608/header.jpg?t=1783004371"
     },
     {
@@ -52,34 +53,34 @@
     {
       "id": 4439750,
       "name": "Forza Horizon 6 Treasure Map",
-      "price_rub": 681,
+      "price_rub": 680,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439750/acdd2fe38dff373fd9101e2362b5df5fb0dacf65/header.jpg?t=1778818272"
     },
     {
       "id": 4520350,
       "name": "Forza Horizon 6 Expansions Bundle",
-      "price_rub": 3397,
+      "price_rub": 3395,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520350/24e04ba6f54548a0a2ae78ecf40c22ec52780dbf/header.jpg?t=1781214570"
     },
     {
       "id": 4439280,
       "name": "Forza Horizon 6 Time Attack Car Pack",
-      "price_rub": 1106,
+      "price_rub": 1105,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439280/db6bc82bae8b0952304746be42e3afe3b3e33001/header.jpg?t=1779162807"
     },
     {
       "id": 4439800,
       "name": "Forza Horizon 6 1990 Nissan #12 Skyline GT-R (BNR32 Gr.A) JTC",
-      "price_rub": 681,
+      "price_rub": 680,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439800/50d1b0b88a59b6c4c91d78ee2bfc1874400bc563/header.jpg?t=1779162827"
     },
     {
       "id": 4439810,
       "name": "Forza Horizon 6 2024 Koenigsegg Gemera",
-      "price_rub": 681,
+      "price_rub": 680,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439810/9ea9ba289f978e5c1f3a9211a5c4fdd00530257a/header.jpg?t=1779980122"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-03T19:09:58Z"
+  "updated_at": "2026-07-06T19:30:04Z"
 }

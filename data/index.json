@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T14:51:45Z",
+  "generated_at": "2026-07-06T19:30:53Z",
   "uah_to_rub_rate": 1.734629,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 144,
+  "count": 157,
   "games": [
     {
       "id": 4310730,
@@ -84,6 +84,19 @@
       "is_free": true
     },
     {
+      "id": 4853490,
+      "title": "Another Slop Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853490/0205bbef57fcf72d8779bfcd963df5ff829fa3bf/header.jpg?t=1783343070",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 646,
+      "is_free": false
+    },
+    {
       "id": 1172470,
       "title": "Apex Legends™",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
@@ -138,7 +151,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1670,
+      "price_rub": 1669,
       "is_free": false
     },
     {
@@ -326,6 +339,19 @@
       "is_free": false
     },
     {
+      "id": 3722660,
+      "title": "Cosmodrill",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722660/910b19ab03841c54e98c5eaeba83f4948b3c20ff/header.jpg?t=1783357212",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 899,
+      "is_free": false
+    },
+    {
       "id": 730,
       "title": "Counter-Strike 2",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_616x353.jpg",
@@ -382,7 +408,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1193,
+      "price_rub": 1192,
       "is_free": false
     },
     {
@@ -468,6 +494,32 @@
       "is_free": false
     },
     {
+      "id": 2749950,
+      "title": "Esports Manager 2026",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2749950/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1076,
+      "is_free": false
+    },
+    {
+      "id": 4306760,
+      "title": "Evercrown",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306760/2c010514c4f9594dd628d91893e25fd16992b1e7/header.jpg?t=1783338925",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 788,
+      "is_free": false
+    },
+    {
       "id": 4294320,
       "title": "FINIS ACTUS",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294320/9ed2770b92da31b1da94f6ad2cea194377643787/header_russian.jpg?t=1783270812",
@@ -516,7 +568,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 589,
+      "price_rub": 588,
       "is_free": false
     },
     {
@@ -572,8 +624,21 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4491,
+      "price_rub": 4488,
       "is_free": false
+    },
+    {
+      "id": 4246340,
+      "title": "Gorotsuki Paradise",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246340/c35c595d86141f1e701e966d0c491c4aa4f7b0c7/header.jpg?t=1783352874",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 3240220,
@@ -590,7 +655,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1670,
+      "price_rub": 1669,
       "is_free": false
     },
     {
@@ -701,6 +766,19 @@
       "is_free": false
     },
     {
+      "id": 3453040,
+      "title": "INFLATION Inc.",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453040/header.jpg?t=1783343484",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 680,
+      "is_free": false
+    },
+    {
       "id": 4806210,
       "title": "Ian's Rocket",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/94ef77249930b89631e25983b22f7a909b25a75c/header.jpg?t=1783099498",
@@ -710,7 +788,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1420,
+      "price_rub": 1419,
       "is_free": false
     },
     {
@@ -723,7 +801,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 681,
+      "price_rub": 680,
+      "is_free": false
+    },
+    {
+      "id": 4529100,
+      "title": "Idle DeepMiner",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529100/793ecd6052bbc4ea272407c1fd0a25aa5bf98a9c/header.jpg?t=1783347941",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 672,
       "is_free": false
     },
     {
@@ -766,6 +857,19 @@
       "is_free": false
     },
     {
+      "id": 4804440,
+      "title": "JAMBREDREK: PURE DETECTIVE",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804440/606288e2a455feea6adddd35498f2c73c9fe9074/header.jpg?t=1783326963",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 599,
+      "is_free": false
+    },
+    {
       "id": 4757640,
       "title": "JULPAE",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757640/982686772ee7db4a91a4cf45d4adc6d7c65fdc33/header.jpg?t=1783180124",
@@ -777,6 +881,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4412950,
+      "title": "Kamikaze Survivors",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412950/1959cc1026685f220db91146c1c0978dca6e963c/header.jpg?t=1783351271",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 798,
+      "is_free": false
     },
     {
       "id": 4446120,
@@ -927,7 +1044,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2476,
+      "price_rub": 2474,
       "is_free": false
     },
     {
@@ -1079,6 +1196,19 @@
       "is_free": false
     },
     {
+      "id": 4871640,
+      "title": "Ore Shatterer",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871640/a5f80f963cf5f2cfb753108455f1e30203054f34/header.jpg?t=1783325627",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 542,
+      "is_free": false
+    },
+    {
       "id": 4858520,
       "title": "Overlab",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
@@ -1166,6 +1296,19 @@
       "is_free": false
     },
     {
+      "id": 3902930,
+      "title": "Pogo Panic",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902930/7a4394cb6d68802060b1c4860c2f3be3c7855359/header.jpg?t=1783343022",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 602,
+      "is_free": false
+    },
+    {
       "id": 108600,
       "title": "Project Zomboid",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_616x353.jpg",
@@ -1247,7 +1390,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 792,
+      "price_rub": 791,
       "is_free": false
     },
     {
@@ -1264,7 +1407,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1627,
+      "price_rub": 1626,
       "is_free": false
     },
     {
@@ -1443,7 +1586,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2266,
+      "price_rub": 2264,
       "is_free": false
     },
     {
@@ -1496,6 +1639,19 @@
         "PC"
       ],
       "price_rub": 1419,
+      "is_free": false
+    },
+    {
+      "id": 4435420,
+      "title": "Simulation 9",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435420/87cfa2236ec4756baf3b7b3beaf7066581efe157/header.jpg?t=1783361233",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 656,
       "is_free": false
     },
     {
@@ -1578,7 +1734,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1208,
+      "price_rub": 868,
       "is_free": false
     },
     {
@@ -1706,6 +1862,19 @@
       "is_free": false
     },
     {
+      "id": 4133490,
+      "title": "The Last Tale Told: Spam",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133490/b8f687bd0b01cc94892f1ca8ff194c64956d16c5/header.jpg?t=1783357218",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 741,
+      "is_free": false
+    },
+    {
       "id": 4849960,
       "title": "The Laws of Probability",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849960/e001fac164d8b02dd2bca089e61cfa6f061cb27d/header.jpg?t=1783103157",
@@ -1721,14 +1890,14 @@
     {
       "id": 3802740,
       "title": "The Mine Room",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802740/cbcd8fb124b90ca91b2645e7bb187da2c03c4fae/header.jpg?t=1783076201",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802740/cbcd8fb124b90ca91b2645e7bb187da2c03c4fae/header.jpg?t=1783116454",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 732,
       "is_free": false
     },
     {

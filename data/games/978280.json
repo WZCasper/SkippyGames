@@ -19,14 +19,15 @@
   "price_rub": 939,
   "is_free": false,
   "trailer_video": null,
+  "trailer_youtube_id": "U1N1A67vmJU",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/6bb784bcd138237b4ec1bc91506846832a81fb65/ss_6bb784bcd138237b4ec1bc91506846832a81fb65.1920x1080.jpg?t=1783102077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/f6392be1c5f2a765130b4b268af54daddbd05c4b/ss_f6392be1c5f2a765130b4b268af54daddbd05c4b.1920x1080.jpg?t=1783102077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/9a1dfad73b1162263de2064430df44afe8388868/ss_9a1dfad73b1162263de2064430df44afe8388868.1920x1080.jpg?t=1783102077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/810e24dce987fdba7918c5e7b1a71c85d3a8ecdc/ss_810e24dce987fdba7918c5e7b1a71c85d3a8ecdc.1920x1080.jpg?t=1783102077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/2d28709da226d61c43b3d39c678327da42485488/ss_2d28709da226d61c43b3d39c678327da42485488.1920x1080.jpg?t=1783102077"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/6bb784bcd138237b4ec1bc91506846832a81fb65/ss_6bb784bcd138237b4ec1bc91506846832a81fb65.1920x1080.jpg?t=1783238655",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/f6392be1c5f2a765130b4b268af54daddbd05c4b/ss_f6392be1c5f2a765130b4b268af54daddbd05c4b.1920x1080.jpg?t=1783238655",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/9a1dfad73b1162263de2064430df44afe8388868/ss_9a1dfad73b1162263de2064430df44afe8388868.1920x1080.jpg?t=1783238655",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/810e24dce987fdba7918c5e7b1a71c85d3a8ecdc/ss_810e24dce987fdba7918c5e7b1a71c85d3a8ecdc.1920x1080.jpg?t=1783238655",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978280/2d28709da226d61c43b3d39c678327da42485488/ss_2d28709da226d61c43b3d39c678327da42485488.1920x1080.jpg?t=1783238655"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-03T19:09:24Z"
+  "updated_at": "2026-07-06T19:29:23Z"
 }
