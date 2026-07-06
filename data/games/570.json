@@ -3,19 +3,41 @@
   "title": "Dota 2",
   "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_616x353.jpg",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/library_hero.jpg",
-  "description": "Каждый день миллионы игроков сходятся на поле боя как один из более чем ста героев Dota 2. И неважно, сыграли вы уже тысячу матчей или только собираетесь провести свой первый, — Dota 2 всегда бросает вам вызов и вознаграждает за мастерство.",
-  "description_short": "Многопользовательская арена сражений с сотней уникальных героев.",
+  "description": "Самая популярная игра в Steam\nЕжедневно миллионы игроков по всему миру сражаются от лица одного из более сотни героев Dota 2, и даже после тысячи часов в ней есть чему научиться. Благодаря регулярным обновлениям игра живёт своей жизнью: геймплей, возможности и герои постоянно преображаются.\n\nОдно поле боя, неиссякаемые возможности\nИгра может похвастаться бесконечным разнообразием героев, способностей и предметов, благодаря чему каждый матч уникален. Любой герой может исполнять множество ролей, и для каждой нужды найдутся подходящие предметы. Здесь вас ничто не ограничивает — вы сами выбираете, какой стратегии следовать.\n\nВсе герои бесплатны\nРавные соревновательные возможности — главная гордость игры. Чтобы все находились в одинаковом положении, её основа — в частности, обширный список героев — доступна каждому игроку. Если хотите, вы можете коллекционировать предметы, видоизменяющие как героев, так и мир вокруг них, но всё необходимое для вашего первого матча уже есть в игре.\n\nЗовите друзей и играйте вместе\nDota 2 многогранна, и она не стоит на месте, но вступить в игру никогда не поздно. \nНаучитесь основам в матче против ботов. Опробуйте возможности героев. А затем вступайте в битву с игроками вашего уровня и поведения: об этом позаботится система подбора игры.",
+  "description_short": "Ежедневно миллионы игроков по всему миру сражаются от лица одного из более сотни героев Dota 2, и даже после тысячи часов в ней есть чему научиться. Благодаря регулярным обновлениям игра живёт своей жизнью: геймплей, возможности и герои постоянно преображаются.",
   "genres": [
-    "MOBA"
+    "MOBA",
+    "Экшен",
+    "Стратегии в реальном времени (RTS)",
+    "Башенная защита (Tower Defense)",
+    "Экшен-РПГ (Action-RPG)",
+    "Технические симуляторы"
   ],
   "platforms": [
     "PC"
   ],
-  "price_rub": 500,
+  "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "screenshots": [],
-  "upsells": [],
+  "trailer_youtube_id": "-cSFPIwMEq4",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.1920x1080.jpg?t=1769535998",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.1920x1080.jpg?t=1769535998",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.1920x1080.jpg?t=1769535998",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.1920x1080.jpg?t=1769535998",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_27b6345f22243bd6b885cc64c5cda74e4bd9c3e8.1920x1080.jpg?t=1769535998",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_b33a65678dc71cc98df4890e22a89601ee56a918.1920x1080.jpg?t=1769535998",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_d0f973ce376ca5b6c08e081cb035e86ced105fa9.1920x1080.jpg?t=1769535998",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_1f3b5f5ccf8b159294914c3fe028128a787304b6.1920x1080.jpg?t=1769535998"
+  ],
+  "upsells": [
+    {
+      "id": 1241930,
+      "name": "The Dota 2 Official Soundtrack",
+      "price_rub": 557,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241930/header.jpg?t=1676491628"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-03T00:00:00Z"
+  "updated_at": "2026-07-06T01:52:18Z"
 }

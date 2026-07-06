@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05T18:56:51Z",
-  "uah_to_rub_rate": 1.732343,
+  "generated_at": "2026-07-06T01:53:02Z",
+  "uah_to_rub_rate": 1.734629,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 116,
+  "count": 124,
   "games": [
     {
       "id": 4310730,
@@ -183,6 +183,19 @@
       "is_free": false
     },
     {
+      "id": 4723380,
+      "title": "Bounce Ball Clicker",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4723380/14a4e2520102ea307babb5bc747e86cc01179051/header.jpg?t=1783288911",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 637,
+      "is_free": false
+    },
+    {
       "id": 4305620,
       "title": "Brazzante",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305620/c713580c60ce5d67aefa34ea7964ebef193f6eaf/header.jpg?t=1783087863",
@@ -248,6 +261,19 @@
       "is_free": true
     },
     {
+      "id": 4160910,
+      "title": "Cig Walk",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160910/359a86722c3ad292bd369cee11f0385cc5fb2dba/header.jpg?t=1783295870",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 646,
+      "is_free": false
+    },
+    {
       "id": 4831720,
       "title": "City Cardz",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831720/64598667100c987145b37ee9cdb5750e62c9160f/header.jpg?t=1783235158",
@@ -279,12 +305,13 @@
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_616x353.jpg",
       "genres": [
         "Шутеры от первого лица (FPS)",
+        "Экшен",
         "Тактические шутеры"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 500,
+      "price_rub": 0,
       "is_free": true
     },
     {
@@ -305,15 +332,17 @@
       "title": "Cyberpunk 2077",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
       "genres": [
+        "Песочницы (Sandbox)",
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
         "Экшен-РПГ (Action-RPG)",
+        "Приключения",
         "Иммерсивные симуляторы (Immersive Sim)"
       ],
       "platforms": [
-        "PC",
-        "PlayStation",
-        "Xbox"
+        "PC"
       ],
-      "price_rub": 2800,
+      "price_rub": 1227,
       "is_free": false
     },
     {
@@ -384,28 +413,32 @@
       "title": "Dota 2",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_616x353.jpg",
       "genres": [
-        "MOBA"
+        "MOBA",
+        "Экшен",
+        "Стратегии в реальном времени (RTS)",
+        "Башенная защита (Tower Defense)",
+        "Экшен-РПГ (Action-RPG)",
+        "Технические симуляторы"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 500,
+      "price_rub": 0,
       "is_free": true
     },
     {
       "id": 1245620,
-      "title": "Elden Ring",
+      "title": "ELDEN RING",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
       "genres": [
+        "Песочницы (Sandbox)",
         "Экшен-РПГ (Action-RPG)",
-        "Песочницы (Sandbox)"
+        "Экшен"
       ],
       "platforms": [
-        "PC",
-        "PlayStation",
-        "Xbox"
+        "PC"
       ],
-      "price_rub": 3400,
+      "price_rub": 3621,
       "is_free": false
     },
     {
@@ -461,6 +494,19 @@
       "is_free": false
     },
     {
+      "id": 4317130,
+      "title": "FishPond",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317130/43a3dc4037a535b3dbe98859276de2d1695806fa/header.jpg?t=1783265329",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 647,
+      "is_free": false
+    },
+    {
       "id": 4842490,
       "title": "Fleck & Grus",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/8f9043d17c2cc404594de5d4805e9666f59c6feb/header.jpg?t=1783068506",
@@ -501,22 +547,6 @@
         "PC"
       ],
       "price_rub": 4491,
-      "is_free": false
-    },
-    {
-      "id": 271590,
-      "title": "Grand Theft Auto V",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
-      "genres": [
-        "Экшен-адвенчуры",
-        "Песочницы (Sandbox)"
-      ],
-      "platforms": [
-        "PC",
-        "PlayStation",
-        "Xbox"
-      ],
-      "price_rub": 1900,
       "is_free": false
     },
     {
@@ -880,6 +910,19 @@
       "is_free": false
     },
     {
+      "id": 4519490,
+      "title": "Nyctophobia",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519490/262ab9bc9c2fa3e165ccd702420ac9ce05acece6/header.jpg?t=1783294737",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 628,
+      "is_free": false
+    },
+    {
       "id": 548800,
       "title": "OFS",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1783126288",
@@ -977,6 +1020,19 @@
         "PC"
       ],
       "price_rub": 618,
+      "is_free": false
+    },
+    {
+      "id": 4854680,
+      "title": "Pictures at an Exhibition",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854680/140c2d986369ad7c54045210278dde14d155c1f5/header.jpg?t=1783281768",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 838,
       "is_free": false
     },
     {
@@ -1121,6 +1177,19 @@
       "is_free": false
     },
     {
+      "id": 4479130,
+      "title": "Reveal Ball Pit: Defeated by Tentacles",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479130/824bcfaca5b659feb85f43d516478efcab435214/header.jpg?t=1783299259",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 635,
+      "is_free": false
+    },
+    {
       "id": 4478740,
       "title": "Rootbound Enigma",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478740/bc14c9fbd2046c8f8cf6473936b13ab872924a60/header.jpg?t=1783171921",
@@ -1178,6 +1247,24 @@
         "PC"
       ],
       "price_rub": 993,
+      "is_free": false
+    },
+    {
+      "id": 3164500,
+      "title": "Schedule I",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1773974661",
+      "genres": [
+        "Технические симуляторы",
+        "Песочницы (Sandbox)",
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Стелс-экшен",
+        "Экшен-адвенчуры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 932,
       "is_free": false
     },
     {
@@ -1261,6 +1348,19 @@
         "PC"
       ],
       "price_rub": 600,
+      "is_free": false
+    },
+    {
+      "id": 2896750,
+      "title": "Solendara",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2896750/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1246,
       "is_free": false
     },
     {
@@ -1471,22 +1571,6 @@
       "is_free": false
     },
     {
-      "id": 292030,
-      "title": "The Witcher 3: Wild Hunt",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
-      "genres": [
-        "Классические ролевые игры (CRPG)",
-        "Экшен-РПГ (Action-RPG)"
-      ],
-      "platforms": [
-        "PC",
-        "PlayStation",
-        "Xbox"
-      ],
-      "price_rub": 1500,
-      "is_free": false
-    },
-    {
       "id": 4409090,
       "title": "TravelRoute Studio",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409090/a450fd4c73699de7d64b8bb057ad6f1e41514676/header.jpg?t=1783164334",
@@ -1498,6 +1582,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4829070,
+      "title": "Twelve Boxes",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/de9874a469083934a8b4c6dccc4c45ccb2482a8e/header.jpg?t=1783246531",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 568,
+      "is_free": false
     },
     {
       "id": 4367370,
@@ -1566,6 +1663,22 @@
         "PC"
       ],
       "price_rub": 694,
+      "is_free": false
+    },
+    {
+      "id": 292030,
+      "title": "Ведьмак 3: Дикая Охота",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Экшен",
+        "Экшен-РПГ (Action-RPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 663,
       "is_free": false
     },
     {

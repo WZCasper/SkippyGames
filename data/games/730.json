@@ -3,20 +3,31 @@
   "title": "Counter-Strike 2",
   "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_616x353.jpg",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_hero.jpg",
-  "description": "Counter-Strike 2 — крупнейшее техническое обновление в истории CS. Игра построена на движке Source 2 и переносит все карты, режимы и оружие в новую эпоху: обновлённые модели дыма с честной физикой, улучшенное освещение и переработанная тактильная отдача оружия. Соревнуйтесь в командных перестрелках 5 на 5 на культовых картах Dust II, Mirage, Inferno и других.",
-  "description_short": "Легендарный командный шутер от первого лица на движке Source 2.",
+  "description": "Более двух десятилетий Counter-Strike служит примером первоклассной соревновательной игры, путь развития которой определяют миллионы игроков со всего мира. Теперь пришло время нового этапа — Counter-Strike 2.\n\nCounter-Strike 2 — это бесплатное улучшение для CS:GO, которое знаменует собой крупнейший технологический скачок в истории серии. Оно разработано на движке Source 2 и модернизирует игру благодаря реалистичному и физически корректному рендерингу, организации сети по последнему слову технологий и улучшенным инструментам для мастерской сообщества.\n\nКроме представленного в 1999 году классического игрового процесса, завязанного на достижении цели, Counter-Strike 2 включает:\n\n• новые рейтинги CS и обновлённый премьер-режим;\n\n• глобальные и региональные таблицы лидеров;\n\n• улучшенные и воссозданные с нуля карты;\n\n• принципиально новый динамический дым от гранат;\n\n• игровой процесс, не зависящий от тикрейта;\n\n• переосмысленные визуальные эффекты и звуки;\n\n• все предметы инвентаря из CS:GO.",
+  "description_short": "Более двух десятилетий Counter-Strike служит примером первоклассной соревновательной игры, путь развития которой определяют миллионы игроков со всего мира. Теперь пришло время нового этапа — Counter-Strike 2.",
   "genres": [
     "Шутеры от первого лица (FPS)",
+    "Экшен",
     "Тактические шутеры"
   ],
   "platforms": [
     "PC"
   ],
-  "price_rub": 500,
+  "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "screenshots": [],
+  "trailer_youtube_id": "c80dVYcL69E",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_796601d9d67faf53486eeb26d0724347cea67ddc.1920x1080.jpg?t=1780435263",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.1920x1080.jpg?t=1780435263",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.1920x1080.jpg?t=1780435263",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.1920x1080.jpg?t=1780435263",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.1920x1080.jpg?t=1780435263",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.1920x1080.jpg?t=1780435263",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_808cdd373d78c3cf3a78e7026ebb1a15895e0670.1920x1080.jpg?t=1780435263",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef98db5d5a4d877531a5567df082b0fb62d75c80.1920x1080.jpg?t=1780435263"
+  ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-03T00:00:00Z"
+  "updated_at": "2026-07-06T01:52:23Z"
 }

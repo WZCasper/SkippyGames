@@ -3,22 +3,41 @@
   "title": "Cyberpunk 2077",
   "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_hero.jpg",
-  "description": "Cyberpunk 2077 — приключенческая ролевая игра с открытым миром, действие которой происходит в мегаполисе Найт-Сити, где власть, гламур и импланты решают всё. Вы играете за Ви — наёмника, идущего по пути славы. Вам предстоит настроить внешность и стиль игры персонажа, а также прокачать навыки в боях, хакерстве и общении с окружающими, чтобы выжить в этом опасном городе.",
-  "description_short": "Экшен-РПГ в открытом мире Найт-Сити.",
+  "description": "Cyberpunk 2077: Ultimate Edition\n\nОб игре",
+  "description_short": "Cyberpunk 2077 — приключенческая ролевая игра с открытым миром, действие которой происходит в футуристическом мегаполисе Найт-Сити, где выше всего ценятся власть, роскошь и модификации тела.",
   "genres": [
+    "Песочницы (Sandbox)",
+    "Шутеры от первого лица (FPS)",
+    "Экшен",
     "Экшен-РПГ (Action-RPG)",
+    "Приключения",
     "Иммерсивные симуляторы (Immersive Sim)"
   ],
   "platforms": [
-    "PC",
-    "PlayStation",
-    "Xbox"
+    "PC"
   ],
-  "price_rub": 2800,
+  "price_rub": 1227,
   "is_free": false,
   "trailer_video": null,
-  "screenshots": [],
-  "upsells": [],
+  "trailer_youtube_id": "aSrFWinrkeQ",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.1920x1080.jpg?t=1769690377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.1920x1080.jpg?t=1769690377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.1920x1080.jpg?t=1769690377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.1920x1080.jpg?t=1769690377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4eb068b1cf52c91b57157b84bed18a186ed7714b.1920x1080.jpg?t=1769690377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.1920x1080.jpg?t=1769690377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.1920x1080.jpg?t=1769690377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9284d1c5b248726760233a933dbb83757d7d5d95.1920x1080.jpg?t=1769690377"
+  ],
+  "upsells": [
+    {
+      "id": 2138330,
+      "name": "Cyberpunk 2077: Призрачная свобода",
+      "price_rub": 1227,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1768305060"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-03T00:00:00Z"
+  "updated_at": "2026-07-06T01:52:25Z"
 }
