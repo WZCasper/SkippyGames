@@ -1,0 +1,38 @@
+{
+  "id": 3566760,
+  "title": "Herb's Homegrown Havoc",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/c0c71c3da2e0b3a54adbb994e05ad894896d9d9c/header.jpg?t=1783335619",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/5f6476fb9932b40599beea564661808e9e06b741/page_bg_raw.jpg?t=1783335619",
+  "description": "Herb has enchanted his garden!\n\nHe discovered a strange artifact in the woods that holds great power. \n\nAfter taking the artifact home, he decided to use it on his garden to see if it would help him with his homegrown produce!\n\nHis garden is now running on overdrive! Plants grow faster than ever and leave these magical Seeds behind which keep the enchantment active. \n\nHowever, if plants are left for too long they will rot away. Sometimes plants will become hostile creatures that resemble Herb's once delicious veg!\n\n• Quickly pluck up the plants from Herb's garden before they rot away\n\n• Collect Seeds from plants to keep the enchantment working and progress through each Harvest\n\n• Rotten plants can turn into enemies!\n\n• Each plant spawns a specific enemy, each plant's enemy variant behaves differently!\n\n• Pick an Upgrade after each Harvest to help you make it to the end successfully!\n\n• There are 70 Upgrades to choose from! Maybe increase the rate of certain plants appearing, set potatoes on fire or bring some more life into the garden?\n\n• Take on Challenge Harvests throughout your run, like randomizing enemy spawns, speeding up growth, etc\n\n• Work your way through 6 difficulty modes, each with different garden layouts and increasingly difficult Harvest goals\n\n• Defend your garden in the final Harvest using the power of the Seeds!",
+  "description_short": "Herb's Homegrown Havoc is a simple but chaotic arcade roguelike. Pluck plants out of the ground before they rot and summon hostile creatures! Upgrade after each round to increase Herb's strength and skills in various ways.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 602,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "OosARYJEea8",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/4ab187b060996dd4439dcb8c03ba48497f580beb/ss_4ab187b060996dd4439dcb8c03ba48497f580beb.1920x1080.jpg?t=1783335619",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/4c1b35ebd0769320e8b15eb3e67c2c0b40de74df/ss_4c1b35ebd0769320e8b15eb3e67c2c0b40de74df.1920x1080.jpg?t=1783335619",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/1870db35e8a31ad20450b6bf07b6136900aa7147/ss_1870db35e8a31ad20450b6bf07b6136900aa7147.1920x1080.jpg?t=1783335619",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/4aa0378dd5965425c06a3b48f5d458a64e5c9ca1/ss_4aa0378dd5965425c06a3b48f5d458a64e5c9ca1.1920x1080.jpg?t=1783335619",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/c3c24a715a060648190884b585305c83a06b8a0a/ss_c3c24a715a060648190884b585305c83a06b8a0a.1920x1080.jpg?t=1783335619",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/d5125a8804e49b6901eda639768358aba92c62f7/ss_d5125a8804e49b6901eda639768358aba92c62f7.1920x1080.jpg?t=1783335619",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/bcc0f3982662f7317d263cd7d2e8961a66faeed4/ss_bcc0f3982662f7317d263cd7d2e8961a66faeed4.1920x1080.jpg?t=1783335619",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/1c2e85122825443a709b67faa422c386580a2bad/ss_1c2e85122825443a709b67faa422c386580a2bad.1920x1080.jpg?t=1783335619"
+  ],
+  "upsells": [
+    {
+      "id": 4681050,
+      "name": "Herb's Homegrown Havoc Soundtrack",
+      "price_rub": 547,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681050/26390ee77a877536cad3e96b7865a495f67dfe90/header.jpg?t=1783335638"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-06T14:51:40Z"
+}

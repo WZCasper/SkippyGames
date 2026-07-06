@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T09:50:43Z",
+  "generated_at": "2026-07-06T14:51:45Z",
   "uah_to_rub_rate": 1.734629,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 134,
+  "count": 144,
   "games": [
     {
       "id": 4310730,
@@ -112,6 +112,19 @@
         "PC"
       ],
       "price_rub": 3616,
+      "is_free": false
+    },
+    {
+      "id": 4822820,
+      "title": "Audictrl",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822820/d76c93aee05087d4000b76db85ff259be0270f59/header.jpg?t=1783346867",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 556,
       "is_free": false
     },
     {
@@ -285,6 +298,19 @@
       ],
       "price_rub": 656,
       "is_free": false
+    },
+    {
+      "id": 3367910,
+      "title": "Clusterbug",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367910/14c3964336f189253a9f8a0bb8ead547466c0522/header.jpg?t=1783337223",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4084160,
@@ -594,6 +620,19 @@
       "is_free": false
     },
     {
+      "id": 3566760,
+      "title": "Herb's Homegrown Havoc",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/c0c71c3da2e0b3a54adbb994e05ad894896d9d9c/header.jpg?t=1783335619",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 602,
+      "is_free": false
+    },
+    {
       "id": 4845540,
       "title": "Hold My Hand (Or Let Go)",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845540/e784ed8b48d86aa0d067ac23c199a5bb2b36b894/header.jpg?t=1783078635",
@@ -805,6 +844,19 @@
       "is_free": false
     },
     {
+      "id": 4293770,
+      "title": "Mandala",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293770/2d82633f24a216e1198a96abf7d9479db020e31c/header.jpg?t=1783346424",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 552,
+      "is_free": false
+    },
+    {
       "id": 4775240,
       "title": "Mandate of Heaven : Dynasty Breakout Idle",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775240/2051a3181e822bf6008d3fb07e4452df7aafa6ba/header.jpg?t=1783085643",
@@ -816,6 +868,19 @@
       ],
       "price_rub": 569,
       "is_free": false
+    },
+    {
+      "id": 4660660,
+      "title": "Marianara Deep",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660660/a18ad7b9750294c3f5865c64c2daf99e9425c7ad/header.jpg?t=1783337301",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4828230,
@@ -910,6 +975,19 @@
       "is_free": false
     },
     {
+      "id": 4813570,
+      "title": "Nightclub Empire",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813570/a66268bb5600a84e13e9c73dab20c51b3d574345/header.jpg?t=1783334355",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 703,
+      "is_free": false
+    },
+    {
       "id": 4829230,
       "title": "Nin Ninja RESCUE MISSION",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829230/50cdb5d17f53af866621eac1e42a93fcf602621e/header.jpg?t=1783264310",
@@ -959,6 +1037,19 @@
         "PC"
       ],
       "price_rub": 668,
+      "is_free": false
+    },
+    {
+      "id": 4571030,
+      "title": "Obey the Rules: Forest",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4571030/4120cdaaaa6e16f21c3bc8b45ee36648fbc4e988/header.jpg?t=1783321888",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 616,
       "is_free": false
     },
     {
@@ -1245,6 +1336,19 @@
       "is_free": false
     },
     {
+      "id": 4033220,
+      "title": "Rush Word",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033220/f1712e03e263c5cede4eb2dbc4a1dca6224c9e1a/header.jpg?t=1783341629",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 647,
+      "is_free": false
+    },
+    {
       "id": 32470,
       "title": "STAR WARS™ Empire at War - Gold Pack",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/32470/capsule_616x353.jpg",
@@ -1393,6 +1497,19 @@
       ],
       "price_rub": 1419,
       "is_free": false
+    },
+    {
+      "id": 4660680,
+      "title": "Skyfire Embers",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660680/bcd065ac934bf62fcf6465a6630e0ad7a59e9b95/header.jpg?t=1783331768",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4845500,
@@ -1612,6 +1729,19 @@
         "PC"
       ],
       "price_rub": 733,
+      "is_free": false
+    },
+    {
+      "id": 4249810,
+      "title": "The Obsession",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/b89be554c37f2246145abadb45fa2920b3b67e4e/header.jpg?t=1783337899",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 632,
       "is_free": false
     },
     {
