@@ -1,0 +1,47 @@
+{
+  "id": 4047160,
+  "title": "I'm Making a Monster",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/f99629d1ea1e18ddc1fd91b6d98b80305677775e/header.jpg?t=1783310689",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/4047160/library_hero.jpg",
+  "description": "Try to build a monster while your friends bother you to take breaks. Play as a mage/scientist and decide how to prioritize your time as you construct the monster. This short interactive narrative is part monster-dress-up game, part friend-dating simulator, and all how-not-to-deal-with-loss advice column. Will you fall into despair or climb back out of the well?\n\nChoose what materials you use to make each part of your monster.\n\n    \n\nReconnect and learn about your neglected friends as you develop your monster. Wade through complex emotions to decide what they each mean to you.\n\n \n\nAs you move through the game, experience time passing. As your character shifts and changes, so will the world.\n\nChoose your character's name and pronouns. Choose up to nine pronouns, including neopronoun options.\n\nThis game is a love letter to friendship and to community. To those who feel an insatiable urge to create, and to those who lose themselves in their art.",
+  "description_short": "Piece by piece, you pour your soul into the monster. This is your burden and you bear it willingly. Your friends think that this is unhealthy.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 804,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "4ko1vOU7BfI",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/2d934d6ee6ca30a228b4054e391788a12b65a4f7/ss_2d934d6ee6ca30a228b4054e391788a12b65a4f7.1920x1080.jpg?t=1783310689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/f15f3e04baf0cd6d7c7fa495e0defa61c522fa31/ss_f15f3e04baf0cd6d7c7fa495e0defa61c522fa31.1920x1080.jpg?t=1783310689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/fa7e3f97574554bc98c1cc2030358b36907c385b/ss_fa7e3f97574554bc98c1cc2030358b36907c385b.1920x1080.jpg?t=1783310689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/f573f4d9fe90662d543b93ac65b7819341af2a0a/ss_f573f4d9fe90662d543b93ac65b7819341af2a0a.1920x1080.jpg?t=1783310689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/522b42a8ac7f196a36ba5fd8c296e0f99f4479a1/ss_522b42a8ac7f196a36ba5fd8c296e0f99f4479a1.1920x1080.jpg?t=1783310689"
+  ],
+  "upsells": [
+    {
+      "id": 4340830,
+      "name": "I'm Making a Monster [Wallpaper Pack]",
+      "price_rub": 672,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4340830/c0c5270f3736d9ec3a82d3a459672c8c4af0887c/header.jpg?t=1783310576"
+    },
+    {
+      "id": 4340850,
+      "name": "I'm Making a Monster [Soundtrack]",
+      "price_rub": 703,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4340850/c0c5270f3736d9ec3a82d3a459672c8c4af0887c/header.jpg?t=1783310610"
+    },
+    {
+      "id": 4879940,
+      "name": "I'm Making a Monster [Sheet Music]",
+      "price_rub": 703,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879940/829dd581a682c22703f03604ee7f81f8347bb708/header.jpg?t=1783312462"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-06T09:50:37Z"
+}
