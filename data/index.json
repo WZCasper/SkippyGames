@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T19:30:53Z",
-  "uah_to_rub_rate": 1.734629,
+  "generated_at": "2026-07-07T01:51:08Z",
+  "uah_to_rub_rate": 1.740715,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 157,
+  "count": 165,
   "games": [
     {
       "id": 4310730,
@@ -67,7 +67,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3441,
+      "price_rub": 3456,
       "is_free": false
     },
     {
@@ -205,7 +205,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 824,
+      "price_rub": 826,
       "is_free": false
     },
     {
@@ -274,6 +274,19 @@
       "is_free": false
     },
     {
+      "id": 4277610,
+      "title": "Canyon Raid",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277610/a1e278a47cecfb83ac2facadc5d91d3d9a824db2/header.jpg?t=1783357671",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 726,
+      "is_free": false
+    },
+    {
       "id": 4306650,
       "title": "Cicadia",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/3c24bf060e65d3a8e081ce581b09bccee2b1f230/header.jpg?t=1783103360",
@@ -335,7 +348,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 770,
+      "price_rub": 772,
       "is_free": false
     },
     {
@@ -376,7 +389,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 583,
+      "price_rub": 542,
       "is_free": false
     },
     {
@@ -414,7 +427,7 @@
     {
       "id": 4557030,
       "title": "DRUMP SIMULATOR",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783128063",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783209551",
       "genres": [
         "Экшен"
       ],
@@ -477,6 +490,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4032350,
+      "title": "EA SPORTS™ College Football 27",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1781643937",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4328,
+      "is_free": false
     },
     {
       "id": 1245620,
@@ -736,7 +762,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 672,
       "is_free": false
     },
     {
@@ -854,6 +880,19 @@
         "PC"
       ],
       "price_rub": 635,
+      "is_free": false
+    },
+    {
+      "id": 3892320,
+      "title": "Iron Circus × INDIEPOCALYPSE Game Jam",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892320/d50124b096bbd076570fa171e128ccd9dcfef2ba/header.jpg?t=1783362712",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 839,
       "is_free": false
     },
     {
@@ -1257,6 +1296,19 @@
       "is_free": false
     },
     {
+      "id": 4086150,
+      "title": "Pattaya Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086150/ea867d5ecb878748f8746f0c30797d9b8dfac4c5/header.jpg?t=1783373255",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 805,
+      "is_free": false
+    },
+    {
       "id": 4771430,
       "title": "Pickel: The Mysterious Mine",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/5b0ee09af3f9907e48ced5db72d829aa6d23320b/header.jpg?t=1783247688",
@@ -1361,7 +1413,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 673,
+      "price_rub": 674,
       "is_free": false
     },
     {
@@ -1377,7 +1429,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1040,
+      "price_rub": 1043,
       "is_free": false
     },
     {
@@ -1475,7 +1527,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1470,
+      "price_rub": 1475,
       "is_free": false
     },
     {
@@ -1677,7 +1729,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 600,
+      "price_rub": 601,
       "is_free": false
     },
     {
@@ -1832,7 +1884,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 656,
+      "price_rub": 657,
       "is_free": false
     },
     {
@@ -1979,11 +2031,41 @@
       "is_free": false
     },
     {
+      "id": 4170130,
+      "title": "Venomous Dalliances 💚",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170130/8b8c52a384d8c783d7e40897db28951c0107ff19/header.jpg?t=1783367961",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 693,
+      "is_free": false
+    },
+    {
       "id": 4367370,
       "title": "Visionaire Studio",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/862f4f747af0acee5bb3eb586d3300a7c8d2748b/header.jpg?t=1783153113",
       "genres": [
         "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 230410,
+      "title": "Warframe",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/capsule_616x353.jpg",
+      "genres": [
+        "Экшен-РПГ (Action-RPG)",
+        "Шутеры от третьего лица (TPS)",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Слэшеры"
       ],
       "platforms": [
         "PC"
@@ -2057,6 +2139,19 @@
       "is_free": false
     },
     {
+      "id": 4789820,
+      "title": "galaksia online",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789820/108ff404ac5b45a4d4aa1300b8f22ed71fc5ec1f/header.jpg?t=1783378916",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 571,
+      "is_free": false
+    },
+    {
       "id": 266410,
       "title": "iRacing",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/266410/capsule_616x353.jpg",
@@ -2090,6 +2185,19 @@
       "is_free": false
     },
     {
+      "id": 4793920,
+      "title": "Влюблённые в Добавленное Время",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4793920/fd6df40573dbe060c1d7e62a784bc69cd8c70448/header.jpg?t=1783362158",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 678,
+      "is_free": false
+    },
+    {
       "id": 4787490,
       "title": "Роман в Прямом Эфире",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/5c2792611bb4a074c4dbe3bf4ac3b2a0abb1efff/header.jpg?t=1783102583",
@@ -2099,7 +2207,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 677,
+      "price_rub": 678,
       "is_free": false
     },
     {
