@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T14:02:02Z",
+  "generated_at": "2026-07-07T19:30:55Z",
   "uah_to_rub_rate": 1.740715,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 192,
+  "count": 211,
   "games": [
     {
       "id": 4310730,
@@ -32,6 +32,19 @@
       "is_free": false
     },
     {
+      "id": 3914980,
+      "title": "50 Years Classic",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914980/86a1bf2f174a44c560a86f4e796829fe2a84f569/header.jpg?t=1783444354",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4801960,
       "title": "ABC Music Maker",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801960/6f1863fc3ef0a0ea9a5038547d28f7f5795394ab/header.jpg?t=1783083639",
@@ -42,6 +55,19 @@
         "PC"
       ],
       "price_rub": 1246,
+      "is_free": false
+    },
+    {
+      "id": 4838940,
+      "title": "Above the Sun",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/674be5339308b968601a26438235804bab807e04/header.jpg?t=1783436420",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 597,
       "is_free": false
     },
     {
@@ -137,7 +163,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3616,
+      "price_rub": 3632,
       "is_free": false
     },
     {
@@ -151,6 +177,19 @@
         "PC"
       ],
       "price_rub": 556,
+      "is_free": false
+    },
+    {
+      "id": 4856850,
+      "title": "Aéro: speedrun labyrinthe",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856850/cecdbda465561c4d12bb2000cf9e858b0e5a6ce5/header.jpg?t=1783431942",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 726,
       "is_free": false
     },
     {
@@ -270,7 +309,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 976,
+      "price_rub": 979,
       "is_free": false
     },
     {
@@ -323,6 +362,19 @@
         "PC"
       ],
       "price_rub": 726,
+      "is_free": false
+    },
+    {
+      "id": 4787290,
+      "title": "Chief of the Valley",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787290/68a08f3b48bd6135d8e939e90af592d575ff26a6/header.jpg?t=1783438551",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1014,
       "is_free": false
     },
     {
@@ -570,6 +622,32 @@
       "is_free": false
     },
     {
+      "id": 4773390,
+      "title": "Dreaming With Sharks",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773390/2a429218436ce968079413f2fa42fa7b540ace8c/header.jpg?t=1783432713",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 3706280,
+      "title": "Drunk Dad vs Family",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3706280/3483b2dd08db4564fd4c4ab00e7bd7175134c4b3/header.jpg?t=1783446762",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 611,
+      "is_free": false
+    },
+    {
       "id": 4032350,
       "title": "EA SPORTS™ College Football 27",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1781643937",
@@ -595,6 +673,19 @@
         "PC"
       ],
       "price_rub": 3621,
+      "is_free": false
+    },
+    {
+      "id": 562770,
+      "title": "Enigmo",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562770/d44e061c0361bed24ee92f65c487626e683b5eec/header.jpg?t=1783443026",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 900,
       "is_free": false
     },
     {
@@ -1113,13 +1204,26 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1080,
+      "price_rub": 1083,
       "is_free": false
     },
     {
       "id": 4871420,
       "title": "Legacy of the Ark: The Long Awakening",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871420/e0c9a997de6d93e39c7a15852f8feb7e399172da/header.jpg?t=1783421516",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 2618160,
+      "title": "Legends of Starkadia",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2618160/capsule_616x353.jpg",
       "genres": [
         "Экшен"
       ],
@@ -1254,6 +1358,32 @@
       ],
       "price_rub": 838,
       "is_free": false
+    },
+    {
+      "id": 4697170,
+      "title": "Memo R.I.P.",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697170/61c7db5e948740489b59d6f59da9b8d23180746d/header.jpg?t=1783430063",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 707,
+      "is_free": false
+    },
+    {
+      "id": 4397070,
+      "title": "MindPrompt: Party Games with AI",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397070/f796e3af3f707ef831677549a5c5ce5e1c070b16/header.jpg?t=1783450778",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4827240,
@@ -1517,6 +1647,19 @@
       "is_free": false
     },
     {
+      "id": 4268060,
+      "title": "Piano Trauma - Stress Deluxe",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268060/22f860f0dd9fe28da3fc72fb10975b069f207c7e/header.jpg?t=1783432844",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 899,
+      "is_free": false
+    },
+    {
       "id": 4771430,
       "title": "Pickel: The Mysterious Mine",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/5b0ee09af3f9907e48ced5db72d829aa6d23320b/header.jpg?t=1783247688",
@@ -1596,6 +1739,32 @@
         "PC"
       ],
       "price_rub": 636,
+      "is_free": false
+    },
+    {
+      "id": 4727270,
+      "title": "Puzzles: Fish",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727270/d3346fa4322487c5951b3bf12ac4f8a6723ee1ce/header.jpg?t=1783442765",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 528,
+      "is_free": false
+    },
+    {
+      "id": 4727280,
+      "title": "Puzzles: Space Cats",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727280/cdc9f7136ab6b7efd3fe39b1ef9a746df456ff7b/header.jpg?t=1783442210",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 528,
       "is_free": false
     },
     {
@@ -1885,7 +2054,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1667,
+      "price_rub": 1673,
       "is_free": false
     },
     {
@@ -1926,6 +2095,19 @@
       ],
       "price_rub": 656,
       "is_free": false
+    },
+    {
+      "id": 4700250,
+      "title": "Sisyphus's Worst Day (again)",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4700250/45af67e7cde02e627141041b066c9a24f29e0d33/header.jpg?t=1783437388",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4660680,
@@ -2093,6 +2275,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4350680,
+      "title": "Task Dock",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350680/af6af935eb16d7e8fde72083810148061f350335/header.jpg?t=1783436589",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 674,
+      "is_free": false
     },
     {
       "id": 4856190,
@@ -2278,6 +2473,19 @@
       "is_free": false
     },
     {
+      "id": 4836100,
+      "title": "Time Dilation Lab",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/fe9fa08c269f136fd91d0e015d7396d84fab8884/header.jpg?t=1783437129",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 751,
+      "is_free": false
+    },
+    {
       "id": 4133940,
       "title": "Tiny Frontier",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/8f23f28f4f77db9b2e55f8b76044e440875219a6/header.jpg?t=1783395130",
@@ -2327,6 +2535,19 @@
         "PC"
       ],
       "price_rub": 681,
+      "is_free": false
+    },
+    {
+      "id": 4862010,
+      "title": "Trying to Wake Up",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4862010/359ff969effcae79a70df65947822b2ff9352a83/header.jpg?t=1783437475",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 756,
       "is_free": false
     },
     {
@@ -2562,6 +2783,19 @@
       "is_free": false
     },
     {
+      "id": 3515060,
+      "title": "ホロウソロウ",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3515060/header.jpg?t=1783429367",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 691,
+      "is_free": false
+    },
+    {
       "id": 4365090,
       "title": "五行策(WuXing Card)",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365090/b582a32ccc42f4aac50415ae2c68fb4a8a04a5e1/header.jpg?t=1783181730",
@@ -2584,7 +2818,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 590,
+      "price_rub": 591,
       "is_free": false
     },
     {
@@ -2598,6 +2832,19 @@
         "PC"
       ],
       "price_rub": 860,
+      "is_free": false
+    },
+    {
+      "id": 3996680,
+      "title": "都市女孩:心跳海风",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996680/9b756456c9603eed68468016e9005b7e3623165d/header.jpg?t=1783437466",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 571,
       "is_free": false
     },
     {

@@ -1,0 +1,30 @@
+{
+  "id": 4836100,
+  "title": "Time Dilation Lab",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/fe9fa08c269f136fd91d0e015d7396d84fab8884/header.jpg?t=1783437129",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/f52ef8b1c9983909b9735a412967fddb3444cf09/page_bg_raw.jpg?t=1783437129",
+  "description": "Have you ever wanted to experience firsthand the amazing reality of Einstein's special relativity equations? Imagine three sleek spacecraft, each speeding towards one another at a significant fraction of the speed of light. Each craft fires a single, steady, and fully adjustable EM communications laser to every other as they go by. In real-time you observe light twist and blue-shift into a high‑pitched whisper, just as another craft is red-shifted into a low, visible frequency. Not only that, but you can study how time itself changes, exposing the potential of \"Twin Paradoxes\" and differing local timelines between \"lab\" and \"proper\" frames.\n\nYour own private simulation silently runs the full relativistic Doppler formula, with real Lorentz boosts in geometric 2D spacetime. Your outputs are rigorously checked with invariant spacetime intervals which stay exactly the same in every frame. All calculations are performed with ultra-high precision mathematics, guaranteeing that the physics are flawless.**\n\nNow, anyone can experience Einstein’s insights without being buried in symbols! As your ships accelerate or decelerate, dynamic hover-over text counts each craft’s current local speed and relative frequencies. A plethora of “what‑if” customization buttons nudge the positions and velocities a hair’s breadth, recomputing every Doppler factor and reconfirming Lorentz invariance every simulation run. The detailed output data is presented live in a toggle-able text interface, alongside your ultimate time dilation and speed values.\n\nThe result is a captivating, interactive showcase of special relativity that works like a laboratory, inviting students, teachers, physicists, and everybody else to explore the shifting color of light as they inhabit interstellar space at 0.99987% the speed of light. Experience the universe as Einstein saw it, no Ph.D. required!\n\n List of Adjustable Values in Time Dilation Lab ©:\n\n• Crafts A, B, and C Start Positions in light-days in the lab frame\n\n• Crafts A and B are head-on, with Craft C approaching perpendicularly\n\n• Crafts A, B, and C Start Velocities (as a fraction of C, the speed of light)\n\n• Global Velocity Increment (added or subtracted to every craft velocity per Iteration)\n\n• Number of Simulation Iterations (default 27,500)\n\n• Total Simulation Lab Time (default 20 seconds)\n\n• Global EM Emission (default 500 nanometers, the communications laser frequency for studying Doppler shifts between craft)\n\n• Toggle between First-Person or expanded Top-Down lab frame perspective views\n\n• When in First-Person, select any craft A, B, or C to view from as the craft travel along!\n\n• And as a bonus, you may save your simulation output data to a file with an easy built-in helper function.\n\n** Time Dilation Lab © is only intended to be used for personal education and entertainment purposes. Please do not attempt to use Time Dilation Lab for real-life use cases, IE satellite communications.",
+  "description_short": "An easy to use, fully adjustable space lab with Einstein's special relativity equations in a three-spacecraft configuration. Play around with time dilation and relativistic Doppler effects in space at your own pace. Multiple viewpoints in 3D, real-time, with data export functionality.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 751,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "IhFuHT-zB8E",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/a92be5352b400e296f430e22e584652556f9a61d/ss_a92be5352b400e296f430e22e584652556f9a61d.1920x1080.jpg?t=1783437129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/72c8522d55c48ad846d01deb6c44b01efb6d2d03/ss_72c8522d55c48ad846d01deb6c44b01efb6d2d03.1920x1080.jpg?t=1783437129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/dc43340c1e33c9d4ab20b85b6dcc78d1f00f2840/ss_dc43340c1e33c9d4ab20b85b6dcc78d1f00f2840.1920x1080.jpg?t=1783437129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/dfa4a054243bc27002c1eba956e1ac76bf59591b/ss_dfa4a054243bc27002c1eba956e1ac76bf59591b.1920x1080.jpg?t=1783437129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/f167fb5fd67d7c1435babb226088db90a930a504/ss_f167fb5fd67d7c1435babb226088db90a930a504.1920x1080.jpg?t=1783437129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/b8cb0385431cd39800f687ca801d8f65aa4c6cbb/ss_b8cb0385431cd39800f687ca801d8f65aa4c6cbb.1920x1080.jpg?t=1783437129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836100/9b3fc91c0acd189b19a91ae8ad426d5e5695a030/ss_9b3fc91c0acd189b19a91ae8ad426d5e5695a030.1920x1080.jpg?t=1783437129"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-07T19:30:42Z"
+}

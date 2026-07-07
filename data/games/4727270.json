@@ -1,0 +1,41 @@
+{
+  "id": 4727270,
+  "title": "Puzzles: Fish",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727270/d3346fa4322487c5951b3bf12ac4f8a6723ee1ce/header.jpg?t=1783442765",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4727270?t=1783442765",
+  "description": "Dive into the fascinating underwater world and enjoy beautiful jigsaw puzzles featuring colorful tropical fish, freshwater species, majestic ocean creatures, coral reefs, and stunning aquatic landscapes.\n\nThe game features increasing difficulty, with each new puzzle offering more pieces and a greater challenge. Every completed puzzle brings you closer to discovering the incredible diversity of life beneath the water's surface.\n\nFeatures:\n\n• Increasing difficulty levels;\n\n• Beautiful fish-themed puzzle images;\n\n• Freshwater, tropical, and ocean fish;\n\n• Colorful underwater environments;\n\n• Relaxing and enjoyable gameplay;\n\n• Improves concentration and problem-solving skills;\n\n• Suitable for players of all ages.\n\nComplete every puzzle and explore the amazing beauty of the underwater world!",
+  "description_short": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 528,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "2FlxKoGwGrg",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727270/f3f42eda5e7613f59bfd5a879cef2a673526241c/ss_f3f42eda5e7613f59bfd5a879cef2a673526241c.1920x1080.jpg?t=1783442765",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727270/06f8a253a747d715cfa6ac0c89cf81c0c2bd338f/ss_06f8a253a747d715cfa6ac0c89cf81c0c2bd338f.1920x1080.jpg?t=1783442765",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727270/07cc79c072ab7e5b98a94d607aadadc76f37ee63/ss_07cc79c072ab7e5b98a94d607aadadc76f37ee63.1920x1080.jpg?t=1783442765",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727270/f8d7b83a8a4da061fd63bbc5f251708ca046acaf/ss_f8d7b83a8a4da061fd63bbc5f251708ca046acaf.1920x1080.jpg?t=1783442765",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727270/cf09fd0caefd49955e4dc634fa7e0e5882a9180e/ss_cf09fd0caefd49955e4dc634fa7e0e5882a9180e.1920x1080.jpg?t=1783442765"
+  ],
+  "upsells": [
+    {
+      "id": 4915880,
+      "name": "Puzzles: Fish Soundtrack",
+      "price_rub": 528,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915880/de187f2b8ac510586a64394f00ca275c142de827/header.jpg?t=1783442808"
+    },
+    {
+      "id": 4915940,
+      "name": "Puzzles Fish Artbook",
+      "price_rub": 528,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915940/4e400501c5323a9fbbd0153257409803eb371227/header.jpg?t=1783442842"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-07T19:30:30Z"
+}
