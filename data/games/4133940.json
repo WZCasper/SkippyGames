@@ -1,0 +1,28 @@
+{
+  "id": 4133940,
+  "title": "Tiny Frontier",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/8f23f28f4f77db9b2e55f8b76044e440875219a6/header.jpg?t=1783395130",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/bb5bce81b379c61077b9996a6121962c88661205/page_bg_raw.jpg?t=1783395130",
+  "description": "About This Game\n\nPropHunt is a multiplayer game of hide-and-seek where the hiders are the scenery - and the scenery fights back with a paintbrush.\n\nWhen a round starts, players are split into a small pack of Hunters and a crowd of Hiders. Hiders get a head start to vanish into the level; Hunters are released to find them before the clock runs out.\n\nBecome the furniture - then make it perfect\n\nLook at any prop in the world and become it. A crate, a barrel, a lamp - your character disappears and the object takes its place. But a stock disguise only gets you so far. PropHunt lets you paint your prop by hand:\n\n- Brush real color across the whole object - strokes flow continuously over edges and seams, so you can blend a disguise into its surroundings instead of standing out.\n\n- Tune the surface per stroke - shine, glow, and self-lit highlights are baked into each stroke, so a glossy red dab and a matte blue one can live on the same prop.\n\n- Steal colors with the eyedropper - sample the exact paint off nearby scenery (or another player's prop) and reproduce it precisely.\n\nThe better you blend, the longer you survive. But you\n\nThe whistle always tells\n\nEvery Hider is on a timer. Periodically â whether you like it or not - your prop lets out a loud, 3D-positional whistle that echoes across the level, giving Hunters a direction to triangulate from. You get a brief private warning before it fires, just enough time to reposition. No disguise stays hidden forever. The whistle keeps every round tense and moving toward a finish.\n\nHunt with the right tool\n\nHunters don't just swing blindly. They carry a kit built to expose hiders:\n\n- Scanner - fire off a detective-vision pulse that ripples out across nearby props, lighting up anything suspicious.\n\n- Pressure Washer - blast a continuous spray to strip\n\n- Decoy - bait and misdirect the hiders you're chasing.\n\nTag a hider and they're caught - frozen and out of the round. But every tool is rate-limited and every catch is server-confirmed, so it's down to your eyes and your aim, not spam.\n\nBuilt for online play\n\n- Up to 16 players per match over Steam.\n\n- Server-authoritative rounds - disguises, whistles, scans, and tags are all validated on the server, so what you see is what everyone sees.\n\n- Drop-in lobby flow - jump from menu to lobby to match and back between rounds.\n\n- A clean Hide - Seek - results loop with a shared, synced match timer.\n\nDisguise. Paint. Whistle. Run. Repeat.",
+  "description_short": "Hide as anything. Paint it to match. The whistle will give you away anyway. A multiplayer prop hunt where Hiders disguise as world objects and hand-paint their camouflage, while Hunters sweep the level with scanners, washers, and capture tools to drag them out. Up to 16 players.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 662,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "ILmHa8DITTo",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/14e3a76c6065f39feca02bff9940c58f723bffe9/ss_14e3a76c6065f39feca02bff9940c58f723bffe9.1920x1080.jpg?t=1783395130",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/a3efd8c25a325abc64d04425612f425b112e2a9d/ss_a3efd8c25a325abc64d04425612f425b112e2a9d.1920x1080.jpg?t=1783395130",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/8518e2e436406819e90658bc215bc96d40865493/ss_8518e2e436406819e90658bc215bc96d40865493.1920x1080.jpg?t=1783395130",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/483b44e3f3d89a5e097df61d0c5a507dd2dc947b/ss_483b44e3f3d89a5e097df61d0c5a507dd2dc947b.1920x1080.jpg?t=1783395130",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/ae3fe7b4c27cec3dee7db4372a510d08c22ca549/ss_ae3fe7b4c27cec3dee7db4372a510d08c22ca549.1920x1080.jpg?t=1783395130"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-07T09:19:59Z"
+}

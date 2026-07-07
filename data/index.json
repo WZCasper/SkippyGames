@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T01:51:08Z",
+  "generated_at": "2026-07-07T09:20:10Z",
   "uah_to_rub_rate": 1.740715,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 165,
+  "count": 181,
   "games": [
     {
       "id": 4310730,
@@ -46,15 +46,15 @@
     },
     {
       "id": 4794320,
-      "title": "AR Basketball",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794320/947406f288d8121dda20ad4ba9d52ef006a579d7/header.jpg?t=1783115238",
+      "title": "Advance Rise Basketball Manager",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794320/947406f288d8121dda20ad4ba9d52ef006a579d7/header.jpg?t=1783341983",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1245,
+      "price_rub": 1249,
       "is_free": false
     },
     {
@@ -138,6 +138,19 @@
         "PC"
       ],
       "price_rub": 556,
+      "is_free": false
+    },
+    {
+      "id": 4769520,
+      "title": "Bahast",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769520/da18db0d85fa15c277cc0449e6dbd9b735d2558b/header.jpg?t=1783389876",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 726,
       "is_free": false
     },
     {
@@ -425,6 +438,32 @@
       "is_free": false
     },
     {
+      "id": 4724650,
+      "title": "DEMON SIEGE",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724650/f9368810fef7eb9e2ebdc48d3fdfcb377654e0b3/header.jpg?t=1783399593",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 599,
+      "is_free": false
+    },
+    {
+      "id": 4829530,
+      "title": "DOI: Defense Shooter",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829530/34f9ee7d5e3ad048483f70d150197d6018850b81/header.jpg?t=1783414874",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4557030,
       "title": "DRUMP SIMULATOR",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783209551",
@@ -490,6 +529,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4810930,
+      "title": "Down The Stairs: The Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810930/459633a763050799d1fe385403a9b7196f6fb791/header.jpg?t=1783407871",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 899,
+      "is_free": false
     },
     {
       "id": 4032350,
@@ -698,6 +750,19 @@
       "is_free": false
     },
     {
+      "id": 4235660,
+      "title": "Heavy Wake",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235660/af51978101ba90deb6e23586711126bbe16e19bb/header.jpg?t=1783404099",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 580,
+      "is_free": false
+    },
+    {
       "id": 4854240,
       "title": "Hentai Clicker: Nazumi is streaming",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854240/7759791b9e4b028bd4a3c9eb4254d437202fbd5f/header.jpg?t=1783067445",
@@ -749,7 +814,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 983,
+      "price_rub": 986,
       "is_free": false
     },
     {
@@ -948,6 +1013,19 @@
       "is_free": false
     },
     {
+      "id": 4539870,
+      "title": "Khaldun: Text Based Strategy",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1783405744",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 636,
+      "is_free": false
+    },
+    {
       "id": 4841780,
       "title": "LIVORA",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841780/43e38e85c6809274b5efd362680a0cd8fe8b9433/header.jpg?t=1783094635",
@@ -1100,6 +1178,19 @@
       "is_free": false
     },
     {
+      "id": 4827240,
+      "title": "Monster Breeder",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827240/1f7e0e350cbbd0e0066ae502d2bc4c1d7c2c4741/header.jpg?t=1783397431",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 582010,
       "title": "Monster Hunter: World",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_616x353.jpg",
@@ -1115,6 +1206,19 @@
         "PC"
       ],
       "price_rub": 927,
+      "is_free": false
+    },
+    {
+      "id": 2209900,
+      "title": "Moonlight Peaks",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2209900/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 2364,
       "is_free": false
     },
     {
@@ -1185,14 +1289,14 @@
     {
       "id": 548800,
       "title": "OFS",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1783126288",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1783167640",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 668,
+      "price_rub": 669,
       "is_free": false
     },
     {
@@ -1261,6 +1365,19 @@
       "is_free": true
     },
     {
+      "id": 4588010,
+      "title": "PROJECT: OJISAN",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/bcf703355670f5a584d74e86953f189ec1cb7bda/header.jpg?t=1783404056",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 571,
+      "is_free": false
+    },
+    {
       "id": 578080,
       "title": "PUBG: BATTLEGROUNDS",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_616x353.jpg",
@@ -1292,7 +1409,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1228,
+      "price_rub": 1231,
       "is_free": false
     },
     {
@@ -1344,7 +1461,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 715,
+      "price_rub": 716,
       "is_free": false
     },
     {
@@ -1387,7 +1504,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 635,
+      "price_rub": 636,
       "is_free": false
     },
     {
@@ -1485,7 +1602,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 796,
       "is_free": false
     },
     {
@@ -1694,6 +1811,19 @@
       "is_free": false
     },
     {
+      "id": 2627350,
+      "title": "Silicon Scars",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627350/395460856296440fd3e560dbd7df3d9c61097f6f/header.jpg?t=1783396861",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
+      "is_free": false
+    },
+    {
       "id": 4435420,
       "title": "Simulation 9",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435420/87cfa2236ec4756baf3b7b3beaf7066581efe157/header.jpg?t=1783361233",
@@ -1730,6 +1860,19 @@
         "PC"
       ],
       "price_rub": 601,
+      "is_free": false
+    },
+    {
+      "id": 4531740,
+      "title": "Solar Defiance",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4531740/7aafc4c93a27572725d334f22131e6e9834bf343/header.jpg?t=1783370281",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 726,
       "is_free": false
     },
     {
@@ -1773,7 +1916,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 725,
+      "price_rub": 726,
+      "is_free": false
+    },
+    {
+      "id": 4641620,
+      "title": "Space Fleet Logistics",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641620/7cc67915f9af80742c2875fe1969ef8b2b3cd841/header.jpg?t=1783351871",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 787,
       "is_free": false
     },
     {
@@ -1815,7 +1971,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1962,
+      "price_rub": 1969,
       "is_free": false
     },
     {
@@ -1992,6 +2148,19 @@
       "is_free": false
     },
     {
+      "id": 4133940,
+      "title": "Tiny Frontier",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/8f23f28f4f77db9b2e55f8b76044e440875219a6/header.jpg?t=1783395130",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 662,
+      "is_free": false
+    },
+    {
       "id": 4761030,
       "title": "Touhou - Kira's Fangame Collection",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761030/bfe1d412159b781287351d5bc56b5821bdd6f237/header.jpg?t=1783322506",
@@ -2018,6 +2187,19 @@
       "is_free": true
     },
     {
+      "id": 4742610,
+      "title": "Truck Maxxing",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/831029e3367f52e3afd98c2354faf5f68dc9c162/header.jpg?t=1783392227",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 681,
+      "is_free": false
+    },
+    {
       "id": 4829070,
       "title": "Twelve Boxes",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/de9874a469083934a8b4c6dccc4c45ccb2482a8e/header.jpg?t=1783246531",
@@ -2028,6 +2210,19 @@
         "PC"
       ],
       "price_rub": 568,
+      "is_free": false
+    },
+    {
+      "id": 4621460,
+      "title": "UpDown&Shot",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621460/be9d4ff1aafed78c94b2246f243db69b85e0e28f/header.jpg?t=1783350501",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 591,
       "is_free": false
     },
     {
@@ -2123,6 +2318,19 @@
         "PC"
       ],
       "price_rub": 1171,
+      "is_free": false
+    },
+    {
+      "id": 4726020,
+      "title": "YEET! The Elite",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4726020/f5673ce1e51bafd8277c9bd136156a82961df422/header.jpg?t=1783378021",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 618,
       "is_free": false
     },
     {
@@ -2246,7 +2454,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 859,
+      "price_rub": 860,
       "is_free": false
     },
     {

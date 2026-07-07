@@ -1,8 +1,8 @@
 {
   "id": 548800,
   "title": "OFS",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1783126288",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/c51e088387a1904dd9ddde02885054fc966f032e/page_bg_raw.jpg?t=1783126288",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1783167640",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/c51e088387a1904dd9ddde02885054fc966f032e/page_bg_raw.jpg?t=1783167640",
   "description": "Добро пожаловать в OFS.\n\nВы — оператор грузов в самом загруженном орбитальном депо галактики. Ваш контракт прост: пережить пять смен по одной минуте.\n\nТри конвейерные ленты безостановочно подают грузы к вашей кабине. Обычные грузы проходят мимо. Появляются подозрительные посылки. Три маленьких вторженца пытаются до вас добраться. Читайте ленты, управляйте энергией и оставайтесь в строю до конца каждой смены.\n\nИдеальный забег длится всего пять минут. Выиграть его — совсем другая история.\n\n【Уничтожайте подозрительные посылки】\n\nИспользуйте ЭМИ-очистку, чтобы уничтожать подозрительные посылки до того, как они доберутся до вашей кабины. Чем больше посылок вы уничтожаете одновременно, тем выше премия.\n\nОдна посылка — это безопасно.\n\nТри посылки — это выгодно.\n\nПять посылок — это, вероятно, плохая идея. Но очень хорошая выплата.\n\n【Управляйте энергией】\n\nЭМИ-очистка, тормоз и защитный затвор — всё расходует энергию. Сама она не восстанавливается. Запрашивайте батареи в нужный момент — или заканчивайте смену с пустой системой.\n\n【Блокируйте вторженцев】\n\nТри маленьких вторженца могут атаковать вашу кабину. У каждого — свой маршрут, свой ритм и свои предвестники. Защитный затвор может их остановить, но каждая секунда в закрытом состоянии стоит энергии.\n\n【Не оставайтесь без страховки】\n\nНесчастный случай не всегда означает конец забега. OFS называет это «производственным инцидентом».\n\nВаше медицинское покрытие ограничено. Когда оно достигает нуля, забег окончен.\n\nМежду сменами вы можете продлить медицинскую страховку, чтобы остаться в контракте.\n\n【Взламывайте систему】\n\nПосле каждой смены OFS вводит новую корпоративную меру: ослабленные батареи, больше подозрительных грузов, отключённые предупреждающие сигналы или повышенная нагрузка конвейера.\n\nТерминал чёрного рынка позволяет взламывать систему между сменами. Снижайте стоимость ЭМИ, улучшайте батареи, уменьшайте нагрузку конвейера или делайте ставку на более крупные выплаты за мультиочистки.\n\nКаждое улучшение может спасти ваш забег.\n\nКаждый неверный выбор может его погубить.\n\n【Что вас ждёт】\n\n- Пять смен по одной минуте\n\n- Короткие, жёсткие, реиграбельные забеги\n\n- Три конвейерные ленты под наблюдением\n\n- Подозрительные посылки, требующие точного тайминга\n\n- Премии за мультиочистки\n\n- Три мультяшных вторженца, которых нужно блокировать\n\n- Ограниченная энергия без пассивного восстановления\n\n- Медицинская страховка, которую нужно продлевать между сменами\n\n- Хакерский терминал чёрного рынка\n\n- Холодная абсурдная корпоративная сатира\n\nOFS не нужно, чтобы вы были героем.\n\nOFS нужно, чтобы вы были рентабельны.",
   "description_short": "Переживите пять смен по одной минуте в быстром аркадном хорроре. Сортируйте грузы, уничтожайте подозрительные посылки, блокируйте трёх маленьких вторженцев, зарабатывайте премии, покупайте хаки и продлевайте страховку между сменами. Короткие забеги, жёсткий прессинг, корпоративный абсурд.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 668,
+  "price_rub": 669,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "BEo6Z24z7ck",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/7dfa2c523a91ff705af6ce6294d8c74fc878087f/ss_7dfa2c523a91ff705af6ce6294d8c74fc878087f.1920x1080.jpg?t=1783126288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/2aad56a5559522884ff240d50aa0c09870fc18c7/ss_2aad56a5559522884ff240d50aa0c09870fc18c7.1920x1080.jpg?t=1783126288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/b212f877ab6f57ca1d08a8065b2fdd8045f466d3/ss_b212f877ab6f57ca1d08a8065b2fdd8045f466d3.1920x1080.jpg?t=1783126288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/39805f2e2cef3dd029968d1aeee816ed5bcef2fa/ss_39805f2e2cef3dd029968d1aeee816ed5bcef2fa.1920x1080.jpg?t=1783126288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/01502ec2283be97df8957914e049af5dfb08d5fd/ss_01502ec2283be97df8957914e049af5dfb08d5fd.1920x1080.jpg?t=1783126288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/5d880431e14b331c16099c6108a78941426069b5/ss_5d880431e14b331c16099c6108a78941426069b5.1920x1080.jpg?t=1783126288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/276dfb0f31a178a1d3e4dd32984a4a5c8e6f3d95/ss_276dfb0f31a178a1d3e4dd32984a4a5c8e6f3d95.1920x1080.jpg?t=1783126288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/125ef5ab17cd9da4729c38f7679bb416dba533d8/ss_125ef5ab17cd9da4729c38f7679bb416dba533d8.1920x1080.jpg?t=1783126288"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/7dfa2c523a91ff705af6ce6294d8c74fc878087f/ss_7dfa2c523a91ff705af6ce6294d8c74fc878087f.1920x1080.jpg?t=1783167640",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/2aad56a5559522884ff240d50aa0c09870fc18c7/ss_2aad56a5559522884ff240d50aa0c09870fc18c7.1920x1080.jpg?t=1783167640",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/b212f877ab6f57ca1d08a8065b2fdd8045f466d3/ss_b212f877ab6f57ca1d08a8065b2fdd8045f466d3.1920x1080.jpg?t=1783167640",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/39805f2e2cef3dd029968d1aeee816ed5bcef2fa/ss_39805f2e2cef3dd029968d1aeee816ed5bcef2fa.1920x1080.jpg?t=1783167640",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/01502ec2283be97df8957914e049af5dfb08d5fd/ss_01502ec2283be97df8957914e049af5dfb08d5fd.1920x1080.jpg?t=1783167640",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/5d880431e14b331c16099c6108a78941426069b5/ss_5d880431e14b331c16099c6108a78941426069b5.1920x1080.jpg?t=1783167640",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/276dfb0f31a178a1d3e4dd32984a4a5c8e6f3d95/ss_276dfb0f31a178a1d3e4dd32984a4a5c8e6f3d95.1920x1080.jpg?t=1783167640",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/125ef5ab17cd9da4729c38f7679bb416dba533d8/ss_125ef5ab17cd9da4729c38f7679bb416dba533d8.1920x1080.jpg?t=1783167640"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-04T08:18:21Z"
+  "updated_at": "2026-07-07T09:19:15Z"
 }
