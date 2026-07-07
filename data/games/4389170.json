@@ -1,0 +1,36 @@
+{
+  "id": 4389170,
+  "title": "Fugaz",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/875943eb9507b1ccd7ed5a905cfae3c7ab5664bb/header.jpg?t=1783416309",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/5e04a0d6ae92677d354b1aa4ea0a77df4f236e7f/page_bg_raw.jpg?t=1783416309",
+  "description": "Use flute songs to solve puzzlesWith the music sheets of different songs, you will be able to play them on the flute to affect the world. Music knowledge is not required to play the game.\n\nAn immersive experienceThe ambience of the game, with its dark pixel art graphics and ominous music, grants a really immersive experience.\n\nA non linear world to exploreExploration is only tied to your knowledge. Discovering new rules will push you further, and with the map, you can check your findings any time.\n\nA mysterious psychological horror backgroundEverything in the game has a meaning. Its themes and lore are almost a puzzle in itself.",
+  "description_short": "Play a flute to solve puzzles and unlock secrets, looking for an exit of a dark place before the darkness consumes everything. In this dark immersive horror puzzle game, knowledge is key to put the pieces together. No music experience required.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 742,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "RiJW6SvmCcg",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/2143f76dc50a6b99c8ac9110a279f039da80e273/ss_2143f76dc50a6b99c8ac9110a279f039da80e273.1920x1080.jpg?t=1783416309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/bac50869de2d9761424c72258c25192263f1c668/ss_bac50869de2d9761424c72258c25192263f1c668.1920x1080.jpg?t=1783416309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/4cac4c900421035432b93e553bdaf063f8ac6d17/ss_4cac4c900421035432b93e553bdaf063f8ac6d17.1920x1080.jpg?t=1783416309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/08449e079a883955b25b29ae52ea0091031d06d0/ss_08449e079a883955b25b29ae52ea0091031d06d0.1920x1080.jpg?t=1783416309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/6073a422a7b9a694f35a5d425a4b830d5e82d538/ss_6073a422a7b9a694f35a5d425a4b830d5e82d538.1920x1080.jpg?t=1783416309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/18233c98c0e63d377e62e46988a066390a94c7c1/ss_18233c98c0e63d377e62e46988a066390a94c7c1.1920x1080.jpg?t=1783416309"
+  ],
+  "upsells": [
+    {
+      "id": 4394380,
+      "name": "Fugaz Soundtrack",
+      "price_rub": 591,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394380/3634150420d37db0d4447b94265109564cf2a93b/header.jpg?t=1783416287"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-07T14:01:52Z"
+}

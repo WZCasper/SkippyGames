@@ -1,8 +1,8 @@
 {
   "id": 4367370,
   "title": "Visionaire Studio",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/862f4f747af0acee5bb3eb586d3300a7c8d2748b/header.jpg?t=1783153113",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4367370?t=1783153113",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/862f4f747af0acee5bb3eb586d3300a7c8d2748b/header.jpg?t=1783183033",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4367370?t=1783183033",
   "description": "This is the free, fully featured Visionaire Studio version suitable for Beginners & learning, First prototypes, Demos, Smaller jam games, Tutorials and experiments (up to 25 scenes). It comes with a Freeware License, so you may distribute your projects freely as long as they are non-commercial.\n\nVisionaire Studio is a powerful game engine primarily designed for 2D point and click games, however over the years its capabilities have expanded and you can practically make games of more genres:\n\n• 2D/2.5D third person point & click adventure games.\n\n• First person myst-like adventure games.\n\n• Interactive visual novels.\n\n• FMV point & click adventure games.\n\n• Games with Strategy / Simulation/ RPG mechanics / elements.\n\n• Platformer games (using Box2D and Ilios, the engine's custom C# like scripting language) - WIP\n\n• Isometric style games\n\nKey Features:• High-Quality Game Engine \nUsed for many commercially successful games.\n\n• Designed for Narrative Games \nBuilt specifically for point-and-click and story-driven experiences, Visionaire Studio simplifies the development of interactive storytelling.\n\n• No Coding Required \nUse the visual scripting system to create complex interactions effortlessly. For advanced users, Lua scripting provides unlimited possibilities.\n\n• Multi-Platform Export \nDeploy your game to Windows, MacOS, Linux, iOS, Android, HTML5, and even consoles like PlayStation, Xbox, and Nintendo Switch (with the appropriate license). \n\n• Built-in Dialogue & Inventory System \nDevelop complex dialogues, branching choices, and inventory-based puzzles with native tools. \n\n• Integrated Effects \nBring your game to life with built-in animation support, parallax effects, and shaders.\n\n• Lightweight & Optimized for 2D \nUnlike bloated game engines, Visionaire is optimized for 2D performance, making it ideal for classic adventure games and modern indie storytelling. \n\n• Strong Developer Community \nJoin a passionate community of adventure game creators and get support from experienced developers.",
   "description_short": "Visionaire Studio is a professional game engine designed specifically for the creation of 2D and point-and-click adventure games.",
   "genres": [
@@ -14,15 +14,15 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "9ExA4CwZDKs",
+  "trailer_youtube_id": "gDHbQUXH4Nk",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/e73a0a90162941239ba69cc3945c60d51b3471fa/ss_e73a0a90162941239ba69cc3945c60d51b3471fa.1920x1080.jpg?t=1783153113",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/cc2bbc88f755f742192394ee30caca2a51d43bf7/ss_cc2bbc88f755f742192394ee30caca2a51d43bf7.1920x1080.jpg?t=1783153113",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/14e7fe2c16fc2e050d023a85d91d2b982656b195/ss_14e7fe2c16fc2e050d023a85d91d2b982656b195.1920x1080.jpg?t=1783153113",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/5cecbba30639657da724968e4b46208c70b215fd/ss_5cecbba30639657da724968e4b46208c70b215fd.1920x1080.jpg?t=1783153113",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/f5022e30fc0572b3ee7c2d90b2ba5dd331027ce6/ss_f5022e30fc0572b3ee7c2d90b2ba5dd331027ce6.1920x1080.jpg?t=1783153113"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/e73a0a90162941239ba69cc3945c60d51b3471fa/ss_e73a0a90162941239ba69cc3945c60d51b3471fa.1920x1080.jpg?t=1783183033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/cc2bbc88f755f742192394ee30caca2a51d43bf7/ss_cc2bbc88f755f742192394ee30caca2a51d43bf7.1920x1080.jpg?t=1783183033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/14e7fe2c16fc2e050d023a85d91d2b982656b195/ss_14e7fe2c16fc2e050d023a85d91d2b982656b195.1920x1080.jpg?t=1783183033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/5cecbba30639657da724968e4b46208c70b215fd/ss_5cecbba30639657da724968e4b46208c70b215fd.1920x1080.jpg?t=1783183033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/f5022e30fc0572b3ee7c2d90b2ba5dd331027ce6/ss_f5022e30fc0572b3ee7c2d90b2ba5dd331027ce6.1920x1080.jpg?t=1783183033"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-04T12:54:54Z"
+  "updated_at": "2026-07-07T14:01:15Z"
 }
