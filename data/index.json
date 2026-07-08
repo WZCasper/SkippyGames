@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T01:22:05Z",
+  "generated_at": "2026-07-08T08:04:29Z",
   "uah_to_rub_rate": 1.716261,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 222,
+  "count": 228,
   "games": [
     {
       "id": 4310730,
@@ -862,6 +862,19 @@
       "is_free": false
     },
     {
+      "id": 4417490,
+      "title": "Geo Defense",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417490/d0ab8782fb827ad122944c6ae8543b95e52a6aaa/header.jpg?t=1783449337",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 526,
+      "is_free": false
+    },
+    {
       "id": 4246340,
       "title": "Gorotsuki Paradise",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246340/c35c595d86141f1e701e966d0c491c4aa4f7b0c7/header.jpg?t=1783352874",
@@ -1482,6 +1495,19 @@
       "is_free": true
     },
     {
+      "id": 4899790,
+      "title": "Neuro Hunter",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899790/8c6110c8d1f0fb59263060b4cc99013c31ac9864/header.jpg?t=1783486728",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 769,
+      "is_free": false
+    },
+    {
       "id": 4815350,
       "title": "Never Gives Up Her Dead",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/1d18e661c097d0111c33a998f904abcc26fb68c1/header.jpg?t=1783089859",
@@ -1848,14 +1874,14 @@
     {
       "id": 4825610,
       "title": "Random Fantasy Defense",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825610/c7a865bca6d5576818333ae5e03678705481b9d0/header.jpg?t=1783149130",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825610/c7a865bca6d5576818333ae5e03678705481b9d0/header.jpg?t=1783250943",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 632,
+      "price_rub": 630,
       "is_free": false
     },
     {
@@ -1927,7 +1953,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 739,
+      "price_rub": 737,
       "is_free": false
     },
     {
@@ -1957,6 +1983,19 @@
       "is_free": false
     },
     {
+      "id": 4655610,
+      "title": "Robo Rig",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655610/29825f0eb22cd35c7e42622fca510b148a4577f3/header.jpg?t=1783481769",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4478740,
       "title": "Rootbound Enigma",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478740/bc14c9fbd2046c8f8cf6473936b13ab872924a60/header.jpg?t=1783171921",
@@ -1966,7 +2005,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 628,
+      "price_rub": 627,
       "is_free": false
     },
     {
@@ -2297,6 +2336,19 @@
       "is_free": false
     },
     {
+      "id": 4856250,
+      "title": "Spire of Legends",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856250/5e986ba7c61373bf093f75623199b5a0ee4d5fe5/header.jpg?t=1783462563",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 860,
+      "is_free": false
+    },
+    {
       "id": 3384540,
       "title": "Spirit of the Dome",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384540/48bd364a2ef567b75494eb9de0a8e09f9e9cddd4/header.jpg?t=1783198918",
@@ -2306,7 +2358,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 677,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -2643,6 +2695,19 @@
       ],
       "price_rub": 681,
       "is_free": false
+    },
+    {
+      "id": 4443070,
+      "title": "Trump Ballroom Blitz",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/bf2809895a0053804a2e9abce31b72b6e7b7b2ef/header.jpg?t=1783476406",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4862010,
@@ -2991,6 +3056,19 @@
         "PC"
       ],
       "price_rub": 571,
+      "is_free": false
+    },
+    {
+      "id": 4297450,
+      "title": "魔法少女ファイナルピンクスター",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297450/d92a2a81f1dd0a033a048649e9168bc817ce1b38/header.jpg?t=1783480392",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 701,
       "is_free": false
     },
     {

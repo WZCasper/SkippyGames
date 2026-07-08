@@ -1,0 +1,36 @@
+{
+  "id": 4443070,
+  "title": "Trump Ballroom Blitz",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/bf2809895a0053804a2e9abce31b72b6e7b7b2ef/header.jpg?t=1783476406",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/13030712135c0312539432d75c60aee76aa4de24/page_bg_raw.jpg?t=1783476406",
+  "description": "Вы когда-нибудь задумывались о том, чтобы снести бальный зал Трампа, если бы он был построен? Что ж, теперь вы можете это сделать! Используя экскаватор с навесным оборудованием для сноса, вы можете разрушить 3D-модель зала, созданную на основе последних архитектурных чертежей. Снесите зал за кратчайшее время и возглавьте мировой список лидеров!\n\nОсобенностиРазрушение зданий\n\nБазовый геймплей на экскаваторе с управлением стрелой\n\nТаблица лидеров для соревнования с другими игроками на лучшее время разрушения",
+  "description_short": "Снесите бальный зал Трампа. Лучшее время возглавит мировой список лидеров! Найдите экскаватор и постарайтесь разрушить зал как можно быстрее. Используйте WASD для передвижения и мышь для управления камерой.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "GO_p9UdbnVY",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/f02fa3728b960915510bab2045fddacd1537f8ec/ss_f02fa3728b960915510bab2045fddacd1537f8ec.1920x1080.jpg?t=1783476406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/97ab2668099b38488e3309f4b4ff6ab3803ca232/ss_97ab2668099b38488e3309f4b4ff6ab3803ca232.1920x1080.jpg?t=1783476406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/f495d11cf7ed8a60699940cdad5f5a5e48bb7bb5/ss_f495d11cf7ed8a60699940cdad5f5a5e48bb7bb5.1920x1080.jpg?t=1783476406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/52fa97e71356711faf2931ebb08293a505f8d8da/ss_52fa97e71356711faf2931ebb08293a505f8d8da.1920x1080.jpg?t=1783476406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/4772e398ad96a6f092430004eef761635dbd273d/ss_4772e398ad96a6f092430004eef761635dbd273d.1920x1080.jpg?t=1783476406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/2fa214959427b058108dad173fbaaee4148c794e/ss_2fa214959427b058108dad173fbaaee4148c794e.1920x1080.jpg?t=1783476406"
+  ],
+  "upsells": [
+    {
+      "id": 4744380,
+      "name": "Trump Ballroom Blitz: Donation to the developers",
+      "price_rub": 546,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744380/e4ead41626b2662318519bffe0ec7011182bc610/header.jpg?t=1783476444"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-08T08:04:25Z"
+}
