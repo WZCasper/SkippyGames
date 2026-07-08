@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T13:24:22Z",
+  "generated_at": "2026-07-08T19:02:41Z",
   "uah_to_rub_rate": 1.716261,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 239,
+  "count": 248,
   "games": [
     {
       "id": 4310730,
@@ -28,7 +28,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 554,
+      "price_rub": 553,
       "is_free": false
     },
     {
@@ -246,6 +246,19 @@
       "is_free": false
     },
     {
+      "id": 4773260,
+      "title": "Bardo",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773260/b383c17623b328c52f288265e206ccad3d3880e9/header.jpg?t=1783533805",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 371970,
       "title": "Barony",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/371970/capsule_616x353.jpg",
@@ -284,6 +297,19 @@
         "PC"
       ],
       "price_rub": 547,
+      "is_free": false
+    },
+    {
+      "id": 3957810,
+      "title": "Beghost",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957810/128b0f7306f845cd31cea5741d4525285c2f6cec/header.jpg?t=1783519311",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 617,
       "is_free": false
     },
     {
@@ -374,7 +400,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 812,
+      "price_rub": 809,
       "is_free": false
     },
     {
@@ -776,7 +802,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 857,
+      "price_rub": 854,
       "is_free": false
     },
     {
@@ -875,6 +901,19 @@
       "is_free": false
     },
     {
+      "id": 4767420,
+      "title": "Forest Lookout",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767420/b4183ca2a41581d57616dc9ac4eb3fdbd8d8587b/header.jpg?t=1783527817",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 672,
+      "is_free": false
+    },
+    {
       "id": 2483190,
       "title": "Forza Horizon 6",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
@@ -955,6 +994,19 @@
         "PC"
       ],
       "price_rub": 632,
+      "is_free": false
+    },
+    {
+      "id": 4330950,
+      "title": "Heatspire",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330950/d6a686d66b0686b0c7d085540b0b5a32bec9d7b5/header.jpg?t=1783532978",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -1582,7 +1634,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 580,
+      "price_rub": 579,
       "is_free": false
     },
     {
@@ -1799,7 +1851,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 618,
+      "price_rub": 617,
       "is_free": false
     },
     {
@@ -1814,6 +1866,19 @@
       ],
       "price_rub": 838,
       "is_free": false
+    },
+    {
+      "id": 4856990,
+      "title": "Plantify",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856990/6ac029ca35aa6e3934c338d3fd93d039efb2e46a/header.jpg?t=1783518385",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4005740,
@@ -2134,6 +2199,19 @@
       "is_free": false
     },
     {
+      "id": 4760110,
+      "title": "Sauve le Shérif !",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760110/2d109ea2a26e9b870bd0b4153db4a8f6d1a69be0/header.jpg?t=1783526415",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 3164500,
       "title": "Schedule I",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1773974661",
@@ -2344,6 +2422,19 @@
       "is_free": false
     },
     {
+      "id": 4576570,
+      "title": "Somnus Corporation",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576570/66e43ba8de3341218d48781c83f799fe34f5daba/header.jpg?t=1783533753",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 678,
+      "is_free": false
+    },
+    {
       "id": 1326470,
       "title": "Sons Of The Forest",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/capsule_616x353.jpg",
@@ -2527,6 +2618,19 @@
       "is_free": false
     },
     {
+      "id": 4457130,
+      "title": "The Adventures Of Hooman",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457130/24b330f0855755e3be162c58c48dfc0c3b79b003/header.jpg?t=1783530051",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 678,
+      "is_free": false
+    },
+    {
       "id": 250900,
       "title": "The Binding of Isaac: Rebirth",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/capsule_616x353.jpg",
@@ -2582,14 +2686,14 @@
     {
       "id": 4590610,
       "title": "The King's Game: Through the Veil",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590610/4fdf9668682273c1e393851a96b76e2f898a8caa/header.jpg?t=1783262377",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590610/4fdf9668682273c1e393851a96b76e2f898a8caa/header.jpg?t=1783432912",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 796,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -2720,6 +2824,19 @@
         "PC"
       ],
       "price_rub": 662,
+      "is_free": false
+    },
+    {
+      "id": 4093240,
+      "title": "Tokyo Valkyries",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093240/78820e864b501fdc97fbb661621b2d0332af3b1a/header.jpg?t=1783522890",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1140,
       "is_free": false
     },
     {
@@ -2892,7 +3009,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 769,
+      "price_rub": 766,
       "is_free": false
     },
     {
