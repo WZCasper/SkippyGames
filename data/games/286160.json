@@ -1,0 +1,107 @@
+{
+  "id": 286160,
+  "title": "Tabletop Simulator",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/286160/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/286160/library_hero.jpg",
+  "description": "VR SupportTake your tabletop gaming to a whole new level in virtual reality with the HTC Vive & Oculus Rift! And what's more, both VR and non-VR players alike can play together in the same game room!\n\nОб игреCreate your own original games, import custom assets, automate games with scripting, set up complete RPG dungeons, manipulate the physics, create hinges & joints, and of course flip the table when you are losing the game. All with an easy to use system integrated with Steam Workshop. You can do anything you want in Tabletop Simulator. The possibilities are endless! \n\n \n\n \n\nEndless Games \n\nTabletop Simulator has it all. The base game includes 15 classics like Chess, Poker, Jigsaw Puzzles, Dominoes, and Mahjong. Additionally, there are thousands of community created content on the Workshop. If you’re the tabletop gaming type, we include an RPG Kit which has tilesets & furniture, as well as animated figurines that you can set up and battle with your friends, with even more options in the Chest. There’s even an option for Game Masters so they can control the table! \n\n \n\n \n\nCreate Games \n\nIf you’re into creativity and prototyping, you can easily create your own games by importing images onto custom boards & tables, create custom decks, import 3D models, create scripts, and much more. You can choose to upload your creations on the Steam Workshop or share them privately with your friends. \n\n \n\n \n\nFun For All Ages \n\nEveryone can play Tabletop Simulator! Play a classic board game with grandma, have poker night with the guys, or start your epic RPG adventure with your crew. Play almost any tabletop game you can think of! Being a multiplayer-focused game, up to 10 players can play at any given time. \n\n \n\n \n\nDLCs \n\nOur downloadable content (DLCs) are different from other games, as we partner with developers and publishers to bring their games into Tabletop Simulator. Each DLC is custom created with high quality assets and special themes that match their games. And best of all, only the host needs to own the DLC for everyone at the table to play. \n\n \n\n \n\nKey Features: \n\n \n\n• Online sandbox with unlimited games to play how you want. \n\n• Multiplayer physics with objects that collide and interact just how you would expect. \n\n• Create your own mods easily with full Steam Workshop support and 3D model importing. \n\n• Take games to the next level with Lua scripting support. \n\n• Play just like you do in real life; pick up, rotate, shake, and throw any object. \n\n• Up to 10 people can play together on the same table. \n\n• Team system with voice and text chat. \n\n• Save & load individual objects and complete games. \n\n• Hotseat allows you to play locally on the same computer with your friends. \n\n• Browse the internet, listen to music, and watch videos in multiplayer, in-game on a tablet. \n\n• Perfect for RPGs - build your very own roleplaying dungeons with our modular tileset, RPG Kit, Multiple States and Tablet (useful for character sheets). \n\n• Great admin tools to enable or disable player permissions and to eliminate griefing in public games. \n\n• 360° panoramic backgrounds that change the lighting and atmosphere. \n\n• Included games: Backgammon, Cards, Chess, Checkers, Chinese Checkers, Custom Board, Dice, Dominoes, Go, Jigsaw Puzzles, Mahjong, Pachisi, Piecepack, Poker, Reversi, RPG Kit, Sandbox, Solitaire, and Tablet.",
+  "description_short": "Tabletop Simulator is the only simulator where you can let your aggression out by flipping the table! There are no rules to follow: just you, a physics sandbox, and your friends. Make your own online board games or play the thousands of community created mods. Unlimited gaming possibilities!",
+  "genres": [
+    "Технические симуляторы",
+    "Песочницы (Sandbox)",
+    "Казуальные игры",
+    "Шутеры от первого лица (FPS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 855,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "lKZVGZEuCHo",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_203970c1dd0b8985f9f5c59767517bb7144fb6e9.1920x1080.jpg?t=1772387518",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_6a40bc382133371b901af29c60c53e0bd51cef4f.1920x1080.jpg?t=1772387518",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_e1529236d629827c2f6c4b31196260ceaf04b100.1920x1080.jpg?t=1772387518",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_cf50c31b249a84b05c4d6390e1a05f91db696ef8.1920x1080.jpg?t=1772387518",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_db4c6ebfc66d8605cf67b95d58f0b9e2e94e49ae.1920x1080.jpg?t=1772387518",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_6fefa0ac09c042912901a9fc52a869f929c3bd46.1920x1080.jpg?t=1772387518",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_555cba3864ae79edcf4b13c4bca608d72d65c7db.1920x1080.jpg?t=1772387518",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_5ce53563d387f7e8fa914ff616c67a87f60c52c5.1920x1080.jpg?t=1772387518"
+  ],
+  "upsells": [
+    {
+      "id": 468726,
+      "name": "Tabletop Simulator - Zombicide",
+      "price_rub": 644,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468726/header.jpg?t=1478647919"
+    },
+    {
+      "id": 367330,
+      "name": "Tabletop Simulator - Superfight",
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367330/header.jpg?t=1762716668"
+    },
+    {
+      "id": 405130,
+      "name": "Tabletop Simulator - Cosmic Encounter Connector",
+      "price_rub": 644,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405130/header.jpg?t=1523480479"
+    },
+    {
+      "id": 610695,
+      "name": "Tabletop Simulator - Pillars of Eternity: Lords of the Eastern Reach",
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610695/header.jpg?t=1729360939"
+    },
+    {
+      "id": 468737,
+      "name": "Tabletop Simulator - Xia: Legends of a Drift System",
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468737/header.jpg?t=1490988293"
+    },
+    {
+      "id": 610705,
+      "name": "Tabletop Simulator - Dawn of the Zeds",
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610705/header.jpg?t=1590703358"
+    },
+    {
+      "id": 610702,
+      "name": "Tabletop Simulator - Unearth",
+      "price_rub": 601,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610702/header.jpg?t=1576523625"
+    },
+    {
+      "id": 468723,
+      "name": "Tabletop Simulator - Warfighter",
+      "price_rub": 696,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468723/header.jpg?t=1489594013"
+    },
+    {
+      "id": 433520,
+      "name": "Tabletop Simulator - Darkest Night",
+      "price_rub": 610,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433520/header.jpg?t=1505842974"
+    },
+    {
+      "id": 610704,
+      "name": "Tabletop Simulator - Dungeon Drop",
+      "price_rub": 606,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610704/header.jpg?t=1587678456"
+    },
+    {
+      "id": 610692,
+      "name": "Tabletop Simulator - Three Kingdoms Redux",
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610692/header.jpg?t=1500589709"
+    },
+    {
+      "id": 610693,
+      "name": "Tabletop Simulator - The Red Dragon Inn: Battle For Greyport",
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610693/header.jpg?t=1501892056"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-08T01:21:47Z"
+}

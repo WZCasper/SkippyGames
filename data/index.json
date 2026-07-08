@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T19:30:55Z",
-  "uah_to_rub_rate": 1.740715,
+  "generated_at": "2026-07-08T01:22:05Z",
+  "uah_to_rub_rate": 1.716261,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 211,
+  "count": 222,
   "games": [
     {
       "id": 4310730,
@@ -591,6 +591,19 @@
       "is_free": false
     },
     {
+      "id": 4798960,
+      "title": "Demon Protocol",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/cc22b31b06e66c7900336e4c037534fa47d57084/header.jpg?t=1783457169",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 630,
+      "is_free": false
+    },
+    {
       "id": 570,
       "title": "Dota 2",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_616x353.jpg",
@@ -778,6 +791,19 @@
       ],
       "price_rub": 647,
       "is_free": false
+    },
+    {
+      "id": 4611050,
+      "title": "Flamel's Requiem",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611050/441db6a5915eb2d2567cad3bd13816c614c74e8a/header.jpg?t=1783452709",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4842490,
@@ -1143,6 +1169,19 @@
       "is_free": true
     },
     {
+      "id": 4101270,
+      "title": "Just Pool",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101270/e1d741f969e5ce75f3b9b46366b7f53a3f8908ef/header.jpg?t=1783436409",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 617,
+      "is_free": false
+    },
+    {
       "id": 4412950,
       "title": "Kamikaze Survivors",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412950/1959cc1026685f220db91146c1c0978dca6e963c/header.jpg?t=1783351271",
@@ -1430,6 +1469,19 @@
       "is_free": false
     },
     {
+      "id": 4508340,
+      "title": "NTE: Neverness to Everness",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1783462313",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4815350,
       "title": "Never Gives Up Her Dead",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/1d18e661c097d0111c33a998f904abcc26fb68c1/header.jpg?t=1783089859",
@@ -1479,6 +1531,19 @@
         "PC"
       ],
       "price_rub": 703,
+      "is_free": false
+    },
+    {
+      "id": 4781770,
+      "title": "NotifyXR",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/562347d418ba106e104f1923672b9cf7bc2f64c1/header.jpg?t=1783458461",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 783,
       "is_free": false
     },
     {
@@ -1709,6 +1774,19 @@
         "PC"
       ],
       "price_rub": 602,
+      "is_free": false
+    },
+    {
+      "id": 3990210,
+      "title": "Poolar Bear",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990210/c538846d324da2291a2c17ced4760864c2592647/header.jpg?t=1783450786",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 610,
       "is_free": false
     },
     {
@@ -2264,6 +2342,19 @@
       "is_free": false
     },
     {
+      "id": 4279050,
+      "title": "Stinky Cat",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279050/7087c8631517e91b136dbfb9bfd751e0050c8e16/header.jpg?t=1783460412",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 654,
+      "is_free": false
+    },
+    {
       "id": 1988930,
       "title": "Syndeo-Complex",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1988930/capsule_616x353.jpg",
@@ -2275,6 +2366,22 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 286160,
+      "title": "Tabletop Simulator",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/286160/capsule_616x353.jpg",
+      "genres": [
+        "Технические симуляторы",
+        "Песочницы (Sandbox)",
+        "Казуальные игры",
+        "Шутеры от первого лица (FPS)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 855,
+      "is_free": false
     },
     {
       "id": 4350680,
@@ -2698,6 +2805,19 @@
       "is_free": false
     },
     {
+      "id": 4282880,
+      "title": "Your Price, Your Honor.",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282880/3f0e543b849ad0030e9612c682fb485f0959444d/header.jpg?t=1783442813",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 577,
+      "is_free": false
+    },
+    {
       "id": 4789820,
       "title": "galaksia online",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789820/108ff404ac5b45a4d4aa1300b8f22ed71fc5ec1f/header.jpg?t=1783378916",
@@ -2780,6 +2900,32 @@
         "PC"
       ],
       "price_rub": 678,
+      "is_free": false
+    },
+    {
+      "id": 4794570,
+      "title": "Самоцветы — мне, а махать дубиной — тебе: Blood & Blessing",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794570/07ca84c78299590cc36104e983fd83d5253390a0/header_russian.jpg?t=1783443635",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 855,
+      "is_free": false
+    },
+    {
+      "id": 4848340,
+      "title": "Смертоносный Воин",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848340/fb4e08d650ad07af1afed680506b856f22c54039/header.jpg?t=1783457636",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 689,
       "is_free": false
     },
     {

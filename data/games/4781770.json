@@ -1,0 +1,29 @@
+{
+  "id": 4781770,
+  "title": "NotifyXR",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/562347d418ba106e104f1923672b9cf7bc2f64c1/header.jpg?t=1783458461",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/de9e6cc0d54daf236b016d4eb59a4e7b2a9fdec2/page_bg_raw.jpg?t=1783458461",
+  "description": "-- Please Read Before Purchasing! --\n\n> NotifyXR can only capture desktop notifications on Windows 10 version 1607 or newer, Windows 11, and Linux. Please do not buy if you're using Windows 7, 8, or 8.1!\n\n> NotifyXR can only capture incoming notifications if you have them enabled in your operating system and source app of choice!\n\n -- Oculus Users! --\n> For NotifyXR to display ontop of your games, you must run them through SteamVR, which for some oculus store exclusives may mean changing launch options or using third party tools to run them through SteamVR. More info at the NotifyXR help center.\n\nOVERVIEWNotifyXR is a SteamVR Overlay application designed to capture desktop notifications and display them inside your VR headset.\nIt automagically captures incoming notifications on your PC, and presents them to you for immediate viewing inside of your VR headset, so you don't miss out on any important updates.\n\nNotifyXR works out of the box, but has a wide array of configuration options to change the placement, appearance, movement, size of notifications, and more.\n\nNotifyXR works with any SteamVR compatible headset, and lets you adjust notification placement offsets to account for any fov-related issues.\n\nFEATURES\n\nDesktop Notifications\n\n• NotifyXR automagically captures incoming desktop/toast notifications from any app on your PC.\n\n• Keep up with messages from your friends, avoid missing a coming delivery, stay reminded of that upcoming calendar event\n\n• NotifyXR keeps you updated in-game, so you don't have to tab out to your desktop just to see what's up.\n\nPresentation Modes\n\n• NotifyXR comes with four presentation modes, letting you keep notifications as up-front or out-of-the-way as you want.\n\n• Headset HUD mode places notifications right in front of you, anchored to your headset, with options to keep them at bottom, left, right, or top of your view.\n\n• Left Wrist and Right Wrist modes place notifications anchored to your controllers, so you can look at them like a wristwatch.\n\n• World Space mode places notifications in your playspace around you, keeping them out of the way for you to look at when you wish. Has options to place notifications in any direction around you.\n\n• All modes support offsets, so you can have your notifications wherever you wish, and account for any headset-related fov disparities.\n\nCustomization\n\n• NotifyXR allows you to customize the look, feel, sound, and movement of your notifications.\n\n• Change the accent colour, background colour, and transparency of notifications.\n\n• Compact mode for smaller notification footprint.\n\n• Fast animation mode.\n\n• Support for custom notification sounds in WAV format.\n\nThere's an API!\n\n• NotifyXR comes with a local API, opt in, that allows external applications to send notifications to NotifyXR directly.\n\n• This means developers can build apps or or plugins that send custom notification content directly to NotifyXR, with richer functionality than basic operating system notifications.",
+  "description_short": "NotifyXR is a SteamVR overlay application designed to capture desktop notifications and display them inside your VR headset. NotifyXR aims to be simple, focused, and customizable to your preferences, with several notification modes and configuration options for maximum utility.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 783,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "MbmEAd66vCI",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/a768979ba79016e513857e6653a5ec3319ac1c0c/ss_a768979ba79016e513857e6653a5ec3319ac1c0c.1920x1080.jpg?t=1783458461",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/0c6a82fb9f1a823d97f8ec1e84bda90b69a5ba18/ss_0c6a82fb9f1a823d97f8ec1e84bda90b69a5ba18.1920x1080.jpg?t=1783458461",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/07d6adb413cd61e2cfb2dd48f19577fc645ab44f/ss_07d6adb413cd61e2cfb2dd48f19577fc645ab44f.1920x1080.jpg?t=1783458461",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/945b31c61f449bec7ff91119160e5abd0fd269af/ss_945b31c61f449bec7ff91119160e5abd0fd269af.1920x1080.jpg?t=1783458461",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/54ae88e0787f333fbecb945fcf521f0b0398f72d/ss_54ae88e0787f333fbecb945fcf521f0b0398f72d.1920x1080.jpg?t=1783458461",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/3b395603ef9f6fd8ab3cd8c396fbb8e0768089bd/ss_3b395603ef9f6fd8ab3cd8c396fbb8e0768089bd.1920x1080.jpg?t=1783458461"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-08T01:21:52Z"
+}
