@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T09:00:58Z",
+  "generated_at": "2026-07-09T14:24:59Z",
   "uah_to_rub_rate": 1.718351,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 266,
+  "count": 273,
   "games": [
     {
       "id": 4310730,
@@ -167,6 +167,19 @@
       "is_free": true
     },
     {
+      "id": 4634940,
+      "title": "Architect of War",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634940/f99e6a8d25dc4bb096d88cca91283645c367b6f6/header.jpg?t=1783602418",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 967,
+      "is_free": false
+    },
+    {
       "id": 4656420,
       "title": "Ars Et Anima",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656420/3f710cd43f285431c800d3a590bef96c982ccaae/header.jpg?t=1783515475",
@@ -229,6 +242,19 @@
         "PC"
       ],
       "price_rub": 726,
+      "is_free": false
+    },
+    {
+      "id": 3935020,
+      "title": "Backyard Baseball",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935020/10ae84de59688050a1140103c1ecdbf987d8aeea/header.jpg?t=1783600407",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1772,
       "is_free": false
     },
     {
@@ -677,6 +703,19 @@
       "is_free": false
     },
     {
+      "id": 4599400,
+      "title": "Darklords: Siegefront",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599400/b4831a265916af82c61f6ff5a53c6d747143eede/header.jpg?t=1783569107",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 723,
+      "is_free": false
+    },
+    {
       "id": 381210,
       "title": "Dead by Daylight",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_616x353.jpg",
@@ -908,6 +947,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 3298430,
+      "title": "Flaregate Network",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3298430/header.jpg?t=1783590375",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1076,
+      "is_free": false
     },
     {
       "id": 4842490,
@@ -1172,6 +1224,19 @@
       "is_free": false
     },
     {
+      "id": 4589040,
+      "title": "HouseWarming",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589040/b6d47ac1a48cef78da68f0f051b4e3596511b109/header.jpg?t=1783601961",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 658,
+      "is_free": false
+    },
+    {
       "id": 3164460,
       "title": "Hyper_Sea_5000",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/e1a66f973d1b6a317b4f3fcc0a0f640d2636e346/header.jpg?t=1783106815",
@@ -1194,7 +1259,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 804,
+      "price_rub": 801,
       "is_free": false
     },
     {
@@ -1272,7 +1337,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 703,
+      "price_rub": 701,
       "is_free": false
     },
     {
@@ -2314,6 +2379,19 @@
       "is_free": false
     },
     {
+      "id": 4199030,
+      "title": "RxB - Cyber security management game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/22a9f03320e9586062075178be527b46d500c355/header.jpg?t=1783579938",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 784,
+      "is_free": false
+    },
+    {
       "id": 32470,
       "title": "STAR WARS™ Empire at War - Gold Pack",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/32470/capsule_616x353.jpg",
@@ -2403,7 +2481,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 613,
+      "price_rub": 612,
       "is_free": false
     },
     {
@@ -2492,14 +2570,14 @@
     {
       "id": 4851520,
       "title": "ShapesFoundry",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851520/77fa42ef103b4d2a6a1aeb0f15bd71ef89fe695c/header.jpg?t=1783327699",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851520/77fa42ef103b4d2a6a1aeb0f15bd71ef89fe695c/header.jpg?t=1783579051",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1419,
+      "price_rub": 1411,
       "is_free": false
     },
     {
@@ -2982,7 +3060,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1341,
+      "price_rub": 1333,
       "is_free": false
     },
     {
@@ -3027,7 +3105,7 @@
     {
       "id": 4761030,
       "title": "Touhou - Kira's Fangame Collection",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761030/bfe1d412159b781287351d5bc56b5821bdd6f237/header.jpg?t=1783322506",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761030/bfe1d412159b781287351d5bc56b5821bdd6f237/header.jpg?t=1783516528",
       "genres": [
         "Экшен"
       ],
@@ -3213,14 +3291,14 @@
     {
       "id": 4527270,
       "title": "World: 23806",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527270/62d54b8ac625f4f3a478ba6131dd8f7ee6c33b5e/header.jpg?t=1783300673",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527270/62d54b8ac625f4f3a478ba6131dd8f7ee6c33b5e/header.jpg?t=1783444488",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 795,
+      "price_rub": 792,
       "is_free": false
     },
     {
@@ -3233,7 +3311,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1171,
+      "price_rub": 1165,
       "is_free": false
     },
     {
@@ -3452,6 +3530,19 @@
       "is_free": false
     },
     {
+      "id": 4692030,
+      "title": "личинка",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4692030/68fe57e51d1b96bab93b5ee5ddf4be47a8dcb327/header.jpg?t=1783584955",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 546,
+      "is_free": false
+    },
+    {
       "id": 3515060,
       "title": "ホロウソロウ",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3515060/header.jpg?t=1783429367",
@@ -3578,20 +3669,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 828,
+      "price_rub": 825,
       "is_free": false
     },
     {
       "id": 2757260,
       "title": "삼국지연의 : 한조재흥의 꿈",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2757260/d46c1410fbf82d0b67734bf0806bd484ca2b23be/header.jpg?t=1783323238",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2757260/d46c1410fbf82d0b67734bf0806bd484ca2b23be/header.jpg?t=1783480127",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 960,
+      "price_rub": 955,
       "is_free": false
     }
   ]

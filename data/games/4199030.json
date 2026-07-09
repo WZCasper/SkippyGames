@@ -1,0 +1,31 @@
+{
+  "id": 4199030,
+  "title": "RxB - Cyber security management game",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/22a9f03320e9586062075178be527b46d500c355/header.jpg?t=1783579938",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4199030?t=1783579938",
+  "description": "RxB is a turn-based 2D game where you play as the defender (Blue). You compete against the game which takes the role as an attacker (Red).\n\nThe two sides have different abilities and conditions. Red are hackers and use an arsenal of offensive actions to complete objectives, while Blue must balance resources, employee training, and close vulnerability gaps before Red discovers them.\n\nRxB is designed  to make the simulation realistic and reflective of true cybersecurity dynamics.\n\nThe game excels at visualizing cyber security concepts, such as asset maps, vulnerabilities, and the impact of different cyber attacks. By visualizing these concepts players can gain a better overview of the various components that play a vital role in cyber security management. By further implementing these concepts in a game scenario, players can explore different relations between these components, and how they interact with one another.",
+  "description_short": "RxB is a turn-based 2D game where you play as the defender (Blue). You compete against the game which takes the role as an attacker (Red).",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 784,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "aeF6kywGLuA",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/71987ba7728ce8d1bc1f21ece118a7ac3194c3d2/ss_71987ba7728ce8d1bc1f21ece118a7ac3194c3d2.1920x1080.jpg?t=1783579938",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/5a163956f19ef5ca32701aa7ad98ece1813508f9/ss_5a163956f19ef5ca32701aa7ad98ece1813508f9.1920x1080.jpg?t=1783579938",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/ca0d42d374873da93db438e0ae35ef51a4083d7f/ss_ca0d42d374873da93db438e0ae35ef51a4083d7f.1920x1080.jpg?t=1783579938",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/47d510a50e6fcaf686173ba18f26ec960a12f9a9/ss_47d510a50e6fcaf686173ba18f26ec960a12f9a9.1920x1080.jpg?t=1783579938",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/81892134d4729e3ddc009f109ffe75acf5412f01/ss_81892134d4729e3ddc009f109ffe75acf5412f01.1920x1080.jpg?t=1783579938",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/8e778bc0aa72f5f10c29155e02fbc278cf419d2a/ss_8e778bc0aa72f5f10c29155e02fbc278cf419d2a.1920x1080.jpg?t=1783579938",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/5736f09c3f9dc362badbaeea7ac2394056d3c47c/ss_5736f09c3f9dc362badbaeea7ac2394056d3c47c.1920x1080.jpg?t=1783579938",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/9e2b7528ae51a8372a0cab40e0dc06a96164dfa7/ss_9e2b7528ae51a8372a0cab40e0dc06a96164dfa7.1920x1080.jpg?t=1783579938"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-09T14:24:57Z"
+}
