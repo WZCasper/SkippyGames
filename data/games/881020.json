@@ -1,0 +1,107 @@
+{
+  "id": 881020,
+  "title": "Granblue Fantasy: Relink",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/881020/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/881020/library_hero.jpg",
+  "description": "Story\n\r\nGranblue Fantasy takes place in the Sky Realm, a world where myriad islands float in a great blue expanse. Assume your role as the captain of a skyfaring crew, joined by a scrappy little dragon named Vyrn and a young girl with mysterious powers named Lyria. Together you sail with a colorful cast of crewmates, including kings and misfits alike, for Estalucia, a fabled island beyond the end of the skies.\n\r\n\n\r\nIn the Zegagrande Skydom, islands are guarded by powerful creatures known as primal beasts and winds carry tales of a secretive organization known as the Church of Avia. Unveil a web of intrigue reaching far beyond the borders of Zegagrande and engage in a battle for the fate of the Sky Realm itself.\n\r\n\n\r\nGameplay\n\r\nEngage in real-time combat with a party of four in this character action RPG—choose from a diverse roster of skyfarers, each with their own unique weapons, skills, and combat styles. Teamwork makes the dream work with party-based mechanics such as Link Attacks and Chain Bursts to help you crush foes in spectacular fashion.\n\r\n\n\r\nTackle quests solo or with the help of others for up to 4-player co-op and take down treacherous foes to score rare loot to further enhance your gear. Every enemy and party formation has its own strengths and weaknesses—the key to victory lies in working out how these pieces fit together.\n\r\n\n\r\nFast-paced combat not your thing? Assist modes can provide accessibility for gamers of all skill levels. Toggle on Full Assist to have all actions performed automatically during battle!\n\r\n\n\r\nThe Sky Realm is rich in lore and history. Browse Lyria's journal at any point during the game to access a trove of writings on the world's peoples, places, and more. In addition to the wealth of side quests available, Fate Episodes allow you to delve into the backstories of each member of your crew!",
+  "description_short": "A grand adventure in the skies awaits! Form a party of four from a diverse roster of skyfarers and slash—or shoot or hex—your way to victory against treacherous foes in this action RPG. Take on quests solo or with the help of others in up to 4-player co-op play!",
+  "genres": [
+    "Японские ролевые игры (JRPG)",
+    "Экшен-РПГ (Action-RPG)",
+    "Экшен",
+    "Слэшеры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 2388,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "xUPW1OmDDls",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_cdda0cdcd1f5aec78bb9edea1fa7d80feaf46d77.1920x1080.jpg?t=1783524179",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_26d3bbdddbf5f1b2c21c59bd0a1fe1fdd109cce4.1920x1080.jpg?t=1783524179",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_0f2acb9ebaaee9380739587ccf5457047d9adfa6.1920x1080.jpg?t=1783524179",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_6317bd5cd7153005ee1f089cb2c1dbeec80a06ca.1920x1080.jpg?t=1783524179",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_7a9a55c2ed9fbe79afc824f57c345a7324bfd4dd.1920x1080.jpg?t=1783524179",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_5232722b91d02a541091656b9664c6e007381fe9.1920x1080.jpg?t=1783524179",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_85a946a1e70a5700d1fd8f9db3383dbda1a89a7f.1920x1080.jpg?t=1783524179",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_35f3e00c56c6cb604f792a137a5ce00f32d769c1.1920x1080.jpg?t=1783524179"
+  ],
+  "upsells": [
+    {
+      "id": 3839790,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "price_rub": 1873,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/b503541d57a9cb8f2b4af8b11f2d458a4e601e7e/header.jpg?t=1783522815"
+    },
+    {
+      "id": 4306890,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)",
+      "price_rub": 3076,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306890/a558cc704e2fedc385785e8a65c98a7845c29b1e/header.jpg?t=1783560543"
+    },
+    {
+      "id": 4579020,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Character Expansion Set: Fediel",
+      "price_rub": 610,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579020/18c3fd8e064e8ac8a8c922ece402e06908912a4d/header.jpg?t=1783522841"
+    },
+    {
+      "id": 4579010,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Character Expansion Set: Fraux",
+      "price_rub": 610,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579010/d7a6239eee1db97c6d846b927b577ed7d8a14b92/header.jpg?t=1783522837"
+    },
+    {
+      "id": 4528540,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Special Pack",
+      "price_rub": 1041,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528540/f34657b4b3e7b38fd937980e1838a3e7b99dbd03/header.jpg?t=1783522912"
+    },
+    {
+      "id": 4528200,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Extra Items Pack",
+      "price_rub": 558,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528200/c7e9644dc038abfac4056ab6adc03be187653a67/header.jpg?t=1783522828"
+    },
+    {
+      "id": 2799850,
+      "name": "Granblue Fantasy: Relink - Upgrade pack",
+      "price_rub": 1041,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799850/header.jpg?t=1778737215"
+    },
+    {
+      "id": 2944840,
+      "name": "Granblue Fantasy: Relink - Character Expansion Set: Sandalphon",
+      "price_rub": 610,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944840/header.jpg?t=1727673329"
+    },
+    {
+      "id": 2944850,
+      "name": "Granblue Fantasy: Relink - Color Pack 5",
+      "price_rub": 945,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944850/header.jpg?t=1727673321"
+    },
+    {
+      "id": 2944860,
+      "name": "Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag",
+      "price_rub": 558,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944860/header.jpg?t=1779177710"
+    },
+    {
+      "id": 2944870,
+      "name": "Granblue Fantasy: Relink - Self-Improvement Pack 3",
+      "price_rub": 610,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944870/header.jpg?t=1727673323"
+    },
+    {
+      "id": 2944880,
+      "name": "Granblue Fantasy: Relink - Weapon Uncap Items Pack 3",
+      "price_rub": 610,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944880/header.jpg?t=1727673325"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-09T09:00:57Z"
+}

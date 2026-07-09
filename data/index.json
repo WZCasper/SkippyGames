@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T01:29:41Z",
+  "generated_at": "2026-07-09T09:00:58Z",
   "uah_to_rub_rate": 1.718351,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 255,
+  "count": 266,
   "games": [
     {
       "id": 4310730,
@@ -68,6 +68,19 @@
         "PC"
       ],
       "price_rub": 1246,
+      "is_free": false
+    },
+    {
+      "id": 3800920,
+      "title": "AI NOVEL GENERATION",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/9ef83f8e1759f6f1fd4c67594146c31e9c397560/header.jpg?t=1783565735",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 655,
       "is_free": false
     },
     {
@@ -348,7 +361,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 637,
+      "price_rub": 636,
       "is_free": false
     },
     {
@@ -402,6 +415,19 @@
       ],
       "price_rub": 766,
       "is_free": false
+    },
+    {
+      "id": 4481560,
+      "title": "CORGI & WOOLLY - Little Horizon -",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481560/fae60558982f1bf7767fa55bf04a217375549cee/header.jpg?t=1783584916",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4377340,
@@ -465,7 +491,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 646,
+      "price_rub": 644,
       "is_free": false
     },
     {
@@ -576,7 +602,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1227,
+      "price_rub": 1220,
       "is_free": false
     },
     {
@@ -763,7 +789,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3621,
+      "price_rub": 3591,
       "is_free": false
     },
     {
@@ -867,7 +893,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 646,
       "is_free": false
     },
     {
@@ -979,6 +1005,22 @@
       "is_free": true
     },
     {
+      "id": 881020,
+      "title": "Granblue Fantasy: Relink",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/881020/capsule_616x353.jpg",
+      "genres": [
+        "Японские ролевые игры (JRPG)",
+        "Экшен-РПГ (Action-RPG)",
+        "Экшен",
+        "Слэшеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 2388,
+      "is_free": false
+    },
+    {
       "id": 3240220,
       "title": "Grand Theft Auto V Enhanced",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -1007,6 +1049,19 @@
         "PC"
       ],
       "price_rub": 632,
+      "is_free": false
+    },
+    {
+      "id": 4282450,
+      "title": "Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282450/085d9a38c8482abfbbe1272818d50088b7cd644a/header.jpg?t=1783580468",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1320,
       "is_free": false
     },
     {
@@ -1403,6 +1458,19 @@
       "is_free": true
     },
     {
+      "id": 4872690,
+      "title": "Love Train",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1783582371",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4016570,
       "title": "Lythium",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/5d9a9794b0296675aa054944b1191ce86f9aae9d/header.jpg?t=1783089258",
@@ -1426,6 +1494,19 @@
         "PC"
       ],
       "price_rub": 769,
+      "is_free": false
+    },
+    {
+      "id": 4834080,
+      "title": "Make it! Shaved Ice",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834080/1e1d3e3aa99b83e36cee82524b51434d6006b332/header.jpg?t=1783552826",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 706,
       "is_free": false
     },
     {
@@ -1705,14 +1786,14 @@
     {
       "id": 4519490,
       "title": "Nyctophobia",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519490/262ab9bc9c2fa3e165ccd702420ac9ce05acece6/header.jpg?t=1783294737",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519490/262ab9bc9c2fa3e165ccd702420ac9ce05acece6/header.jpg?t=1783460817",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 628,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -1868,6 +1949,19 @@
       "is_free": false
     },
     {
+      "id": 4774490,
+      "title": "Pay Off The Mortgage",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774490/8159088132143bc80fdcc147fb2a5b18410f9841/header.jpg?t=1783568561",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 617,
+      "is_free": false
+    },
+    {
       "id": 4268060,
       "title": "Piano Trauma - Stress Deluxe",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268060/22f860f0dd9fe28da3fc72fb10975b069f207c7e/header.jpg?t=1783432844",
@@ -1903,7 +1997,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 838,
+      "price_rub": 723,
       "is_free": false
     },
     {
@@ -1999,6 +2093,19 @@
         "PC"
       ],
       "price_rub": 977,
+      "is_free": false
+    },
+    {
+      "id": 4781720,
+      "title": "Pun-ishment",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781720/4b24d13a6d57c9b3b9c8d307ab27d82ba92ee3c3/header.jpg?t=1783561897",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 756,
       "is_free": false
     },
     {
@@ -2148,7 +2255,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 635,
+      "price_rub": 634,
       "is_free": false
     },
     {
@@ -2278,7 +2385,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 928,
       "is_free": false
     },
     {
@@ -2483,7 +2590,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1246,
+      "price_rub": 1239,
       "is_free": false
     },
     {
@@ -2985,14 +3092,14 @@
     {
       "id": 4829070,
       "title": "Twelve Boxes",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/de9874a469083934a8b4c6dccc4c45ccb2482a8e/header.jpg?t=1783246531",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/de9874a469083934a8b4c6dccc4c45ccb2482a8e/header.jpg?t=1783451416",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 568,
+      "price_rub": 567,
       "is_free": false
     },
     {
@@ -3032,6 +3139,19 @@
         "PC"
       ],
       "price_rub": 693,
+      "is_free": false
+    },
+    {
+      "id": 4508570,
+      "title": "Veritas Tales: Witch of the Dark Castle",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1783565726",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1072,
       "is_free": false
     },
     {
@@ -3156,6 +3276,19 @@
       "is_free": false
     },
     {
+      "id": 4787300,
+      "title": "Zerion: Infinite Space",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787300/d49254a4c39acddf71dd36f19469343e901b9e7a/header.jpg?t=1783568681",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4855490,
       "title": "clear cherry ice.",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855490/b1cd748903aedba99bbb4089116ecc0629f4e9f8/header.jpg?t=1783494063",
@@ -3250,7 +3383,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 663,
+      "price_rub": 662,
       "is_free": false
     },
     {
@@ -3342,6 +3475,19 @@
         "PC"
       ],
       "price_rub": 604,
+      "is_free": false
+    },
+    {
+      "id": 4829980,
+      "title": "仙途放置：无尽天梯和完美装备",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1783582604",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 701,
       "is_free": false
     },
     {

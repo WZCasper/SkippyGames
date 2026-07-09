@@ -1,0 +1,29 @@
+{
+  "id": 3800920,
+  "title": "AI NOVEL GENERATION",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/9ef83f8e1759f6f1fd4c67594146c31e9c397560/header.jpg?t=1783565735",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3800920?t=1783565735",
+  "description": "This is a novel writing assistant tool based on artificial intelligence technology, capable of automatically generating novel outlines, chapter structures, and complete content based on user input. After the novel is generated, users can read it within the software, and if dissatisfied, they can re-edit and generate the novel content. The software also supports saving the generated novels locally, making it convenient for other uses. Compared with traditional novel writing, this software reduces novel creation time to one fifty-thousandth of the original, allowing a novel of tens of thousands to millions of words to be generated in an average of 3 to 5 minutes. The cost of generating a one-million-word novel is about 1.47 USD. The software requires an internet connection.",
+  "description_short": "This is a novel writing assistant tool based on artificial intelligence technology, capable of automatically generating novel outlines, chapter structures and complete content according to user input requirements.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 655,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "xkPbV3IRe4Y",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/f18fc0461cc778919d9e46c9c596bd16123c8d8d/ss_f18fc0461cc778919d9e46c9c596bd16123c8d8d.1920x1080.jpg?t=1783565735",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/3c5b360c75f95883c200964a9003a6aa9f98f825/ss_3c5b360c75f95883c200964a9003a6aa9f98f825.1920x1080.jpg?t=1783565735",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/2f229175246191a3f8337b04396a4b09ac130a8e/ss_2f229175246191a3f8337b04396a4b09ac130a8e.1920x1080.jpg?t=1783565735",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/48238373fcd011ab13e9362cfe00bfa344ba8459/ss_48238373fcd011ab13e9362cfe00bfa344ba8459.1920x1080.jpg?t=1783565735",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/35fa40bebad8f82f59c2c517d8eb260ca85ac45a/ss_35fa40bebad8f82f59c2c517d8eb260ca85ac45a.1920x1080.jpg?t=1783565735",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/253fcdf619ae29485020cf9bca4ea79cf6ddb1c2/ss_253fcdf619ae29485020cf9bca4ea79cf6ddb1c2.1920x1080.jpg?t=1783565735"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-09T09:00:45Z"
+}

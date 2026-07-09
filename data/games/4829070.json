@@ -1,8 +1,8 @@
 {
   "id": 4829070,
   "title": "Twelve Boxes",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/de9874a469083934a8b4c6dccc4c45ccb2482a8e/header.jpg?t=1783246531",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/b657e84c4b9190c03a465fb3452a26ca6cd1bcc6/page_bg_raw.jpg?t=1783246531",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/de9874a469083934a8b4c6dccc4c45ccb2482a8e/header.jpg?t=1783451416",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/b657e84c4b9190c03a465fb3452a26ca6cd1bcc6/page_bg_raw.jpg?t=1783451416",
   "description": "Тебе предстоит сыграть за грузчика и вывезти эти коробки из этого проклятого дома.\n\nЗадача предельно проста — бери коробку и неси её в машину. Что может быть проще, не так ли?\n\nИ всё бы ничего, но аномалии не дадут тебе сделать это так просто, как ты думаешь.\n\nНе веришь? Проверь сам...\n\nВсего 12 коробок. Всего 1 правило. И сколько ошибок, зависит только от тебя...",
   "description_short": "По сути симулятор грузчика и простого парня. Бери коробку и неси. Несложно, правда? И всё бы ничего, да нужно искать аномалии, чтобы не пришлось носить коробки вечно.",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 568,
+  "price_rub": 567,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": "RjY_0JLC8Qw",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/3d11fd4bc0529095e277895f7abf43ed21ff31f6/ss_3d11fd4bc0529095e277895f7abf43ed21ff31f6.1920x1080.jpg?t=1783246531",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/46454970237a26a0a32acb9b4805e075014e0cfc/ss_46454970237a26a0a32acb9b4805e075014e0cfc.1920x1080.jpg?t=1783246531",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/7f1afc1ac60a40432e6f77fcaaddbea483adde8e/ss_7f1afc1ac60a40432e6f77fcaaddbea483adde8e.1920x1080.jpg?t=1783246531",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/97ec5034370b5190cb61a7ef636da069abe5489c/ss_97ec5034370b5190cb61a7ef636da069abe5489c.1920x1080.jpg?t=1783246531",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/26894c9046b5d420a654413daf39cbf345bb206c/ss_26894c9046b5d420a654413daf39cbf345bb206c.1920x1080.jpg?t=1783246531",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/c33e21f8360688736683427280485112efdcea63/ss_c33e21f8360688736683427280485112efdcea63.1920x1080.jpg?t=1783246531"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/3d11fd4bc0529095e277895f7abf43ed21ff31f6/ss_3d11fd4bc0529095e277895f7abf43ed21ff31f6.1920x1080.jpg?t=1783451416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/46454970237a26a0a32acb9b4805e075014e0cfc/ss_46454970237a26a0a32acb9b4805e075014e0cfc.1920x1080.jpg?t=1783451416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/7f1afc1ac60a40432e6f77fcaaddbea483adde8e/ss_7f1afc1ac60a40432e6f77fcaaddbea483adde8e.1920x1080.jpg?t=1783451416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/97ec5034370b5190cb61a7ef636da069abe5489c/ss_97ec5034370b5190cb61a7ef636da069abe5489c.1920x1080.jpg?t=1783451416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/26894c9046b5d420a654413daf39cbf345bb206c/ss_26894c9046b5d420a654413daf39cbf345bb206c.1920x1080.jpg?t=1783451416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/c33e21f8360688736683427280485112efdcea63/ss_c33e21f8360688736683427280485112efdcea63.1920x1080.jpg?t=1783451416"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-06T01:53:02Z"
+  "updated_at": "2026-07-09T09:00:12Z"
 }
