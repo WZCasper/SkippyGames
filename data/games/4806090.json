@@ -1,0 +1,28 @@
+{
+  "id": 4806090,
+  "title": "SonderSoft Soccer: Monkeys VS Robots!",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806090/d909450cb18d4931f55cde045be5c7de7ce318ae/header.jpg?t=1783615927",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4806090?t=1783615927",
+  "description": "Machine-learning monkeys...\n\n                   Forever at war with the robots...\n\n                                      Half a year's worth of training...\n\nSonderSoft Soccer is a short n' sweet simulation game where you can either watch two fully autonomous AI go head to head or choose your team and go against opponents who have been training in virtual environments for months. Assign proficiency levels to both of the teams; these are machine-learning checkpoints incorporated into the game -- separating two months of training (simple), four months of training (normal), and six months of training (advance).\n\nMachine learning with Proximal Policy Optimization reinforcement learning and Generative Adversarial Imitation Learning create AI with truly unpredictable behavior and surprising abilities. And we've injected that infinite power into a bunch of cute monkeys and robots. What a time to be alive!\n\nNo animals were hurt in the making of this machine-learning extravaganza.",
+  "description_short": "We forced a bunch of monkeys to compete against robots for half a year in 20 virtual soccer fields, and now YOU can enjoy the resulting shenanigans. Machine learning is the future, and the future is Monkeys VS Robots, where you go head to head with Generative Adversarial Imitation Learning (GAIL!!!)",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "4wGDi205uiM",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806090/3a6640550a1f81cab7d9534198a7aa49896fb3e1/ss_3a6640550a1f81cab7d9534198a7aa49896fb3e1.1920x1080.jpg?t=1783615927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806090/e39feeb8ac0365a1cd9fd92d824e20cad34ff308/ss_e39feeb8ac0365a1cd9fd92d824e20cad34ff308.1920x1080.jpg?t=1783615927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806090/68a706e91a2f622e9d049298d16e7f11b4db11ba/ss_68a706e91a2f622e9d049298d16e7f11b4db11ba.1920x1080.jpg?t=1783615927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806090/bdb6d50072248eedf1bd3276e8dd3dd53c4912b8/ss_bdb6d50072248eedf1bd3276e8dd3dd53c4912b8.1920x1080.jpg?t=1783615927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806090/4bf1e1f1deaa6ea2356dd5aee6073e316f04527a/ss_4bf1e1f1deaa6ea2356dd5aee6073e316f04527a.1920x1080.jpg?t=1783615927"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-09T19:18:27Z"
+}

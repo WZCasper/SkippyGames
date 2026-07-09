@@ -1,0 +1,43 @@
+{
+  "id": 1332010,
+  "title": "Stray",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/library_hero.jpg",
+  "description": "Потерявшемуся, одинокому, оторванному от семьи бродячему коту предстоит разгадать древнюю тайну и вырваться из давно заброшенного города.\n\r\n\n\r\nStray – приключенческая игра от третьего лица, действие которой разворачивается на неоновых улочках и в угрюмых, грязных подворотнях гибнущего кибергорода. Блуждайте по подвалам и крышам, защищайтесь от неожиданных угроз и распутывайте загадки этого неприветливого места, где нет никого, кроме безучастных дроидов и опасных тварей.\n\r\n\n\r\nПосмотрите на мир глазами бродячего кота и взаимодействуйте с окружением самыми причудливыми способами. При встрече со странными обитателями этого чуждого мира вам предстоит быть незаметным, проворным, неблагоразумным, а порой и надоедливым.\n\r\n\n\r\nПо пути ваш кот подружится с маленьким летающим дроном B-12. С помощью новообретенного друга вы непременно найдете выход из города.\n\r\n\n\r\nИгру Stray разработала BlueTwelve Studio – небольшая команда с юга Франции, состоящая главным образом из котов и нескольких людей в придачу.",
+  "description_short": "Потерявшемуся, одинокому, оторванному от семьи бродячему коту предстоит разгадать древнюю тайну, вырваться из давно заброшенного кибергорода и найти дорогу домой.",
+  "genres": [
+    "Приключения",
+    "Головоломки",
+    "Психологические хорроры",
+    "Песочницы (Sandbox)",
+    "Экшен",
+    "Стелс-экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 997,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "kJawWyRUOBM",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_88e209a90c2039fa76bca6fa08c641365be38d50.1920x1080.jpg?t=1779927784",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_e8f0cbd5efdba352e89c4cfcee3fe991a1e1be8a.1920x1080.jpg?t=1779927784",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_2221af260c64362fdc835a9dca65f6f1d1192b25.1920x1080.jpg?t=1779927784",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_3fdd04a5418293864bf82d33c75f833121e63804.1920x1080.jpg?t=1779927784",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_90f8a99d0d1454bc77f46542f00f9ae5043c4268.1920x1080.jpg?t=1779927784",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_a697971e484b3deef50153a13f2afd0539347d23.1920x1080.jpg?t=1779927784",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_f6f6ba009971ff21867d5d8f96a3feb503f787b8.1920x1080.jpg?t=1779927784",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_95ead64e0d31147f47f27ce828e8d5f52939dcf6.1920x1080.jpg?t=1779927784"
+  ],
+  "upsells": [
+    {
+      "id": 2086160,
+      "name": "Stray - Original Soundtrack",
+      "price_rub": 649,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2086160/header.jpg?t=1658243198"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-09T19:18:03Z"
+}

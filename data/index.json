@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T14:24:59Z",
+  "generated_at": "2026-07-09T19:18:42Z",
   "uah_to_rub_rate": 1.718351,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 273,
+  "count": 297,
   "games": [
     {
       "id": 4310730,
@@ -228,7 +228,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 556,
+      "price_rub": 555,
       "is_free": false
     },
     {
@@ -482,6 +482,32 @@
       "is_free": false
     },
     {
+      "id": 4668040,
+      "title": "Capybara Bingo",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668040/a838a302a2a1f83809403ca9a68f479147c42861/header.jpg?t=1783618775",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 629,
+      "is_free": false
+    },
+    {
+      "id": 4380490,
+      "title": "Cat Mail Co.",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1783610189",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 947,
+      "is_free": false
+    },
+    {
       "id": 4787290,
       "title": "Chief of the Valley",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787290/68a08f3b48bd6135d8e939e90af592d575ff26a6/header.jpg?t=1783438551",
@@ -601,6 +627,19 @@
       "is_free": true
     },
     {
+      "id": 4809010,
+      "title": "Cozy Tide",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809010/daeaa9de9b50419aa7a207e38b0e50567b612828/header.jpg?t=1783616611",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 655,
+      "is_free": false
+    },
+    {
       "id": 4765540,
       "title": "Crosshair King",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/c5827f6a2b5fae8241dc5302c6dadf414ca776c2/header.jpg?t=1783114364",
@@ -611,6 +650,32 @@
         "PC"
       ],
       "price_rub": 542,
+      "is_free": false
+    },
+    {
+      "id": 3265230,
+      "title": "Cursed Companions",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265230/2f3e4be565e731c8de549858ccfe600aec794507/header.jpg?t=1783616870",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 747,
+      "is_free": false
+    },
+    {
+      "id": 1349930,
+      "title": "Cyber Psychosis",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1349930/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 637,
       "is_free": false
     },
     {
@@ -734,6 +799,19 @@
       "is_free": false
     },
     {
+      "id": 4834000,
+      "title": "Deadlined.",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/083f6053171abb6842cab8194e060811ded29f41/header.jpg?t=1783612499",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 586,
+      "is_free": false
+    },
+    {
       "id": 4798960,
       "title": "Demon Protocol",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/cc22b31b06e66c7900336e4c037534fa47d57084/header.jpg?t=1783457169",
@@ -832,6 +910,19 @@
       "is_free": false
     },
     {
+      "id": 4790520,
+      "title": "ELEVATOR: AVICI",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790520/be83d17a3d2e0daaa3ab4abe1db778d827d5462f/header.jpg?t=1783616694",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 570,
+      "is_free": false
+    },
+    {
       "id": 562770,
       "title": "Enigmo",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562770/d44e061c0361bed24ee92f65c487626e683b5eec/header.jpg?t=1783443026",
@@ -868,6 +959,19 @@
         "PC"
       ],
       "price_rub": 788,
+      "is_free": false
+    },
+    {
+      "id": 4373160,
+      "title": "Evil Thing",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373160/723591e687fa343de08b8f9ef7d251684993a005/header.jpg?t=1783617110",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 655,
       "is_free": false
     },
     {
@@ -1031,6 +1135,19 @@
       "is_free": false
     },
     {
+      "id": 3832100,
+      "title": "GAMEBORO",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832100/a1834a11974595a41b6928cd71260b992066a20c/header.jpg?t=1783620788",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4417490,
       "title": "Geo Defense",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417490/d0ab8782fb827ad122944c6ae8543b95e52a6aaa/header.jpg?t=1783449337",
@@ -1191,7 +1308,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 602,
+      "price_rub": 601,
       "is_free": false
     },
     {
@@ -1458,6 +1575,23 @@
       "is_free": false
     },
     {
+      "id": 1771300,
+      "title": "Kingdom Come: Deliverance II",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/capsule_616x353.jpg",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Шутеры от первого лица (FPS)",
+        "Приключения",
+        "Экшен",
+        "Экшен-адвенчуры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1598,
+      "is_free": false
+    },
+    {
       "id": 4841780,
       "title": "LIVORA",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841780/43e38e85c6809274b5efd362680a0cd8fe8b9433/header.jpg?t=1783094635",
@@ -1688,6 +1822,19 @@
       "is_free": false
     },
     {
+      "id": 3534790,
+      "title": "Mesmalie",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/555fe109b7ffc548bea016a60df6f9e642d78cd1/header.jpg?t=1783616365",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 806,
+      "is_free": false
+    },
+    {
       "id": 4397070,
       "title": "MindPrompt: Party Games with AI",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397070/f796e3af3f707ef831677549a5c5ce5e1c070b16/header.jpg?t=1783450778",
@@ -1806,7 +1953,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 703,
+      "price_rub": 701,
       "is_free": false
     },
     {
@@ -1846,6 +1993,19 @@
         "PC"
       ],
       "price_rub": 783,
+      "is_free": false
+    },
+    {
+      "id": 4530260,
+      "title": "Now",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530260/2ae1d7a3366866b7dfe9d70aa08df5c6ee9f7052/header.jpg?t=1783608070",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -1897,7 +2057,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 616,
+      "price_rub": 615,
       "is_free": false
     },
     {
@@ -1938,6 +2098,19 @@
       ],
       "price_rub": 542,
       "is_free": false
+    },
+    {
+      "id": 4329100,
+      "title": "Our Wonderland",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329100/eed5116d379fdde4541137fbbc7fb699be13b0a4/header.jpg?t=1783617355",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4858520,
@@ -2066,6 +2239,23 @@
       "is_free": false
     },
     {
+      "id": 703080,
+      "title": "Planet Zoo",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/703080/capsule_616x353.jpg",
+      "genres": [
+        "Технические симуляторы",
+        "Песочницы (Sandbox)",
+        "Градостроительные симуляторы",
+        "Экономические симуляторы",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 570,
+      "is_free": false
+    },
+    {
       "id": 4856990,
       "title": "Plantify",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856990/6ac029ca35aa6e3934c338d3fd93d039efb2e46a/header.jpg?t=1783518385",
@@ -2118,6 +2308,19 @@
       "is_free": false
     },
     {
+      "id": 3227320,
+      "title": "Polytropos: A Tactical Odyssey",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3227320/4c11be3679c27fa232dfef7214e5971d258b8801/header.jpg?t=1783619547",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 856,
+      "is_free": false
+    },
+    {
       "id": 3990210,
       "title": "Poolar Bear",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990210/c538846d324da2291a2c17ced4760864c2592647/header.jpg?t=1783450786",
@@ -2128,6 +2331,19 @@
         "PC"
       ],
       "price_rub": 610,
+      "is_free": false
+    },
+    {
+      "id": 4820270,
+      "title": "Prince of Vibe Code",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/b39f2048a7fb92bd011239f2bc44af96ea0d7ab3/header.jpg?t=1783616610",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 577,
       "is_free": false
     },
     {
@@ -2375,7 +2591,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 646,
       "is_free": false
     },
     {
@@ -2594,6 +2810,19 @@
       "is_free": false
     },
     {
+      "id": 4862400,
+      "title": "Sim: World Cup Manager",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4862400/da96145df93a4b086aca1cbe0522e5ac1509f657/header.jpg?t=1783606367",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 691,
+      "is_free": false
+    },
+    {
       "id": 4435420,
       "title": "Simulation 9",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435420/87cfa2236ec4756baf3b7b3beaf7066581efe157/header.jpg?t=1783361233",
@@ -2683,6 +2912,19 @@
       ],
       "price_rub": 678,
       "is_free": false
+    },
+    {
+      "id": 4806090,
+      "title": "SonderSoft Soccer: Monkeys VS Robots!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806090/d909450cb18d4931f55cde045be5c7de7ce318ae/header.jpg?t=1783615927",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 1326470,
@@ -2813,6 +3055,24 @@
       "is_free": false
     },
     {
+      "id": 1332010,
+      "title": "Stray",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Психологические хорроры",
+        "Песочницы (Sandbox)",
+        "Экшен",
+        "Стелс-экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 997,
+      "is_free": false
+    },
+    {
       "id": 1988930,
       "title": "Syndeo-Complex",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1988930/capsule_616x353.jpg",
@@ -2865,6 +3125,19 @@
         "PC"
       ],
       "price_rub": 674,
+      "is_free": false
+    },
+    {
+      "id": 4815620,
+      "title": "Tattoo Dungeon",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815620/8852dec7f7dfa562666d2412137fa4b940655736/header.jpg?t=1783611755",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 766,
       "is_free": false
     },
     {
@@ -3008,7 +3281,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 632,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -3207,6 +3480,19 @@
       "is_free": false
     },
     {
+      "id": 4849630,
+      "title": "Vape Store Miami: Prologue",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849630/e7a3388483fedf0aec1af1844aa5363965869a3b/header.jpg?t=1783616729",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4170130,
       "title": "Venomous Dalliances 💚",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170130/8b8c52a384d8c783d7e40897db28951c0107ff19/header.jpg?t=1783367961",
@@ -3261,6 +3547,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4534300,
+      "title": "Weird Water World",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534300/b7b3a981acab8c92550ce9e45d61a565502d3f69/header.jpg?t=1783619159",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 574,
+      "is_free": false
     },
     {
       "id": 3997700,
@@ -3449,6 +3748,19 @@
       "is_free": false
     },
     {
+      "id": 4864450,
+      "title": "ΠΟΛΙΣ — Athens",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864450/c9191003435c442b714b6a0d8683f80f9edbcffb/header.jpg?t=1783607098",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 801,
+      "is_free": false
+    },
+    {
       "id": 292030,
       "title": "Ведьмак 3: Дикая Охота",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
@@ -3488,6 +3800,19 @@
         "PC"
       ],
       "price_rub": 591,
+      "is_free": false
+    },
+    {
+      "id": 4804750,
+      "title": "Критическая Нагрузка",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804750/44742ebb45c088e015dd22e15a2952728e17ce5b/header.jpg?t=1783620649",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 675,
       "is_free": false
     },
     {
