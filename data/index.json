@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T19:02:41Z",
-  "uah_to_rub_rate": 1.716261,
+  "generated_at": "2026-07-09T01:29:41Z",
+  "uah_to_rub_rate": 1.718351,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 248,
+  "count": 255,
   "games": [
     {
       "id": 4310730,
@@ -323,6 +323,19 @@
         "PC"
       ],
       "price_rub": 826,
+      "is_free": false
+    },
+    {
+      "id": 4637560,
+      "title": "BleepWare Incrementals",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637560/47c4f4c9baf6bdd42a73a9221a8109280e314795/header.jpg?t=1783535865",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 701,
       "is_free": false
     },
     {
@@ -1338,6 +1351,19 @@
       "is_free": false
     },
     {
+      "id": 4540610,
+      "title": "Labyrinth of Whiskers",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540610/23990a2e278f3bf49f0f1a7bc0d6cefe39671451/header.jpg?t=1783542406",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 648,
+      "is_free": false
+    },
+    {
       "id": 4822430,
       "title": "Last Guest at Sunset",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822430/9159014f798ea25bf48b83ddd28a1af69d669867/header.jpg?t=1783141571",
@@ -1527,6 +1553,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4260190,
+      "title": "Mine of my Mind",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260190/6d5daeea96667c1568f6fee734adcd62288cb227/header.jpg?t=1783539529",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 620,
+      "is_free": false
     },
     {
       "id": 4827240,
@@ -2199,6 +2238,19 @@
       "is_free": false
     },
     {
+      "id": 4581510,
+      "title": "Safe Haven Repair Station",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581510/62ab2080a231102777ee33c04a19337431addc7a/header.jpg?t=1783552791",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4760110,
       "title": "Sauve le Shérif !",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760110/2d109ea2a26e9b870bd0b4153db4a8f6d1a69be0/header.jpg?t=1783526415",
@@ -2302,6 +2354,19 @@
         "PC"
       ],
       "price_rub": 656,
+      "is_free": false
+    },
+    {
+      "id": 4809120,
+      "title": "Sex Novel - Cheating Wife 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809120/76c69dee9cc418c8d62fe1e59af5840f31519447/header.jpg?t=1783545930",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 816,
       "is_free": false
     },
     {
@@ -2589,6 +2654,19 @@
         "PC"
       ],
       "price_rub": 855,
+      "is_free": false
+    },
+    {
+      "id": 4601840,
+      "title": "Tales from the Other Side: Beneath the Roots",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601840/b2c406e1ed8332495462ccb39a44a0068bcef3d0/header_russian.jpg?t=1783523172",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -3144,6 +3222,19 @@
         "PC"
       ],
       "price_rub": 646,
+      "is_free": false
+    },
+    {
+      "id": 4875720,
+      "title": "shark",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/d937fcd4b1688249560b672be7fc809f43597ede/header.jpg?t=1783547942",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 553,
       "is_free": false
     },
     {

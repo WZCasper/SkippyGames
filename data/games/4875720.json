@@ -1,0 +1,28 @@
+{
+  "id": 4875720,
+  "title": "shark",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/d937fcd4b1688249560b672be7fc809f43597ede/header.jpg?t=1783547942",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4875720?t=1783547942",
+  "description": "This is a game of speed. How fast can you swim?Shark is a fast-paced reflex game where your objective is to reach the flag in each randomly generated level before the time runs out.\n\nYour timer starts at 10 seconds, and gets one second faster every 10 levels until level 80 where it caps at 2.5 seconds. Levels will generate endlessly until you crash or the time runs out.\n\nHow to PlayMove across the board one tile at a time using WASD. Navigate around the deadly colored walls and the arrow tiles that may either help or harm you.\n\nHolding SHIFT allows you to dash, moving two tiles at once, jumping through one tile.\n\nSometimes levels can be impossible! If you think the current level is unsolvable, press X! If you're correct, you will pass the level. If you're incorrect, you lose.\n\nOther Features• Character select\n\n• Keybind customization\n\n• Unlockable modes:\n\n• Zen (No timer)\n\n• Turbo (Much faster timer)\n\n• Gameplay-altering settings:\n\n• Enable/Disable the dash mechanic\n\n• Enable/Disable generation of impossible levels\n\n• Prevent walls and arrows from making you crash (unlockable)\n\n• Change the size of the board (unlockable)",
+  "description_short": "Shark is a fast-paced reflex game about racing the clock to reach the flag in randomly generated levels. Dash through obstacles, chain through arrows, and don't let &quot;impossible&quot; levels fool you. This is an endless game of speed. How fast can you swim?",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 553,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "xpJmAzAwiiI",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/31c291f84ba9b5da4c51f48f1136348f85a9ff51/ss_31c291f84ba9b5da4c51f48f1136348f85a9ff51.1920x1080.jpg?t=1783547942",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/5146e431d0830e4f86cede77b672e5ae19f78ff8/ss_5146e431d0830e4f86cede77b672e5ae19f78ff8.1920x1080.jpg?t=1783547942",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/a46132c11ebd75c54605dc27611fdae0fce75c44/ss_a46132c11ebd75c54605dc27611fdae0fce75c44.1920x1080.jpg?t=1783547942",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/1071b470160c736f673d91229ecfff889cb424fc/ss_1071b470160c736f673d91229ecfff889cb424fc.1920x1080.jpg?t=1783547942",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/382169337de2be163293118a35cb23c441342a0f/ss_382169337de2be163293118a35cb23c441342a0f.1920x1080.jpg?t=1783547942"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-09T01:29:32Z"
+}
