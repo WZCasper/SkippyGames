@@ -1,0 +1,30 @@
+{
+  "id": 4827680,
+  "title": "Paper Baseball",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/8990ff56ad8bef1e5e688c25971e1081994c0dea/header.jpg?t=1783652096",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/b08814e68f959f478eddc9b28c4f4696e4c621a9/page_bg_raw.jpg?t=1783652096",
+  "description": "Paper Baseball is a 1v1 number deduction game based on the classic Bulls & Cows ruleset.\n\nYou and the AI take turns guessing each other's secret numbers using Strike/Ball feedback. Crack your opponent's number in fewer turns to win!\n\nHow to Play\n\n• Strike – Right digit, right position\n\n• Ball – Right digit, wrong position\n\n• Out – Digit not in the number at all\n\nGame Modes\n\n• 3-Digit Mode – Quick, light matches\n\n• 4-Digit Mode – The classic experience with deeper strategy\n\nDifficulty\n\n• Easy – Confirmed strike positions are revealed as a hint\n\n• Normal – Standard rules, fair and balanced\n\n• Hard – The AI plays optimally using a minimax algorithm; duplicate digits allowed\n\nStats & Achievements Track your win rate, best clear turns, and total playtime. Unlock achievements to prove your mastery.",
+  "description_short": "Guess the secret number. Beat the AI. A classic Bulls &amp; Cows deduction game with 3 or 4-digit modes, three difficulty levels, and a sharp AI opponent. Simple rules, deep strategy",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "zA7MviuNJ-8",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/03a7e4f430fd1c8768110bdf8f0f8150d268cd56/ss_03a7e4f430fd1c8768110bdf8f0f8150d268cd56.1920x1080.jpg?t=1783652096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/c7b05a80670e168f718698397001f1f2dfe74ffe/ss_c7b05a80670e168f718698397001f1f2dfe74ffe.1920x1080.jpg?t=1783652096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/836821d6ecb0690a5ffea97df91e3f98affbe125/ss_836821d6ecb0690a5ffea97df91e3f98affbe125.1920x1080.jpg?t=1783652096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/98bcde969994720adad0668bc68aaced49bb15e9/ss_98bcde969994720adad0668bc68aaced49bb15e9.1920x1080.jpg?t=1783652096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/c6bb141ed07072409c769eb41143fdaab2bad05f/ss_c6bb141ed07072409c769eb41143fdaab2bad05f.1920x1080.jpg?t=1783652096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/d7295fa6a4e161d01030ee2674966eca57d6d551/ss_d7295fa6a4e161d01030ee2674966eca57d6d551.1920x1080.jpg?t=1783652096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827680/8de10a184480dd83016fe3ca2ba4778d2cacdd93/ss_8de10a184480dd83016fe3ca2ba4778d2cacdd93.1920x1080.jpg?t=1783652096"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T08:57:43Z"
+}

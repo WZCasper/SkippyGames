@@ -1,0 +1,29 @@
+{
+  "id": 4834700,
+  "title": "아크시티네오",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/4dea3faecfaa217831f4e302b36248367fea993b/header.jpg?t=1783668177",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/67a473545c454bcdd54c24012cc65d170e8cd15b/page_bg_raw.jpg?t=1783668177",
+  "description": "Rigged rates? Super accounts? Impossible. Fairness isn't a promise here—it's mathematically proven.\n\n◈ Affordable — Just One Battle Pass, No In-App Shop No premium currency (Diamond) sales. No enhancement stone sales. The Battle Pass is the only monetization element in the game.\n\n◈ Provably Fair — Unmanipulable Gacha System Not even the server can rig your pulls. The server publishes the result hash before the draw. The outcome is only finalized after you (the user) provide a random seed, making it mathematically impossible for the server to alter the results. Verify your entire pull history in-game with a single click.\n\n◈ Fully Transparent — Open Data, No \"Super Accounts\" All gacha probabilities are open-source. Anyone can audit the total circulation of Ether, its creation/burn history, and global gacha statistics in real-time—no login required. The game's architecture guarantees instant detection if admins attempt to secretly inject currency.\n\n◆ Synchro (Transformation) System Transform into 20 distinct characters, each unleashing unique skills. Channel souls from diverse dimensions—Wuxia, Fantasy, Cyberpunk, and Mythology—for strategic transformations that turn the tide of battle!\n\n◆ Unified \"Ether\" Economy A single currency for upgrades, trading, and purchasing. A truly fair economy where your skill and time directly translate to combat power.\n\n◆ Unrestricted Autopilot Let the Autopilot handle the grind. Keep farming and progressing 24/7, even while offline.\n\nDon't take our word for it—verify it yourself. See you in ArkCity Neo!",
+  "description_short": "A fair, transparent MMORPG. Summon 20 heroes, unleash Synchro skills, and conquer 21 dungeons and bosses. Grow with auto-battle and Autopilot, trade in the Ether marketplace, and fight in the arena, powered by a transparency system found in no other game. Cross-platform, mobile and PC.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "8iGq12Uug5s",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/1ae0d0ddf55b2544ae95ddf40568b235f66e4a12/ss_1ae0d0ddf55b2544ae95ddf40568b235f66e4a12.1920x1080.jpg?t=1783668177",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/6b023c8e32c6674cf4688574a827f77c9b358505/ss_6b023c8e32c6674cf4688574a827f77c9b358505.1920x1080.jpg?t=1783668177",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/67ada2162613244530092150e4f0e2c7e27b7ab5/ss_67ada2162613244530092150e4f0e2c7e27b7ab5.1920x1080.jpg?t=1783668177",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/a9df1af8bf4583cec194a502614ab4b55f8ce2c3/ss_a9df1af8bf4583cec194a502614ab4b55f8ce2c3.1920x1080.jpg?t=1783668177",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/17e041982ba055acc509d3ce633290a2034851f9/ss_17e041982ba055acc509d3ce633290a2034851f9.1920x1080.jpg?t=1783668177",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/914f9813f8177edb604f3d7d6f9fd9ec87b6d076/ss_914f9813f8177edb604f3d7d6f9fd9ec87b6d076.1920x1080.jpg?t=1783668177"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T08:57:22Z"
+}

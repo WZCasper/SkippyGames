@@ -1,0 +1,30 @@
+{
+  "id": 4542060,
+  "title": "Evergarden",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/5ad39667c6688095d06011b02ca06443a064d2b6/header.jpg?t=1783648807",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/a168c28383faa8f317cb9971b76825793d622693/page_bg_raw.jpg?t=1783648807",
+  "description": "Используйте лопату, чтобы вернуть себе бесплодные плитки и постепенно вдохнуть жизнь в маленький тихий уголок земли.\n\nВы можете сами направлять рост или просто расслабиться и наблюдать, как экосистема медленно разрастается, наполняя остров красками.\n\nОтправляйте рабочих собирать древесину, камень, медь, серебро и золотую руду, чтобы остров продолжал расти, даже пока вы отдыхаете.\n\nПознакомьтесь с более чем 10 питомцами и используйте уникальные способности каждого, чтобы развивать остров по-своему.\n\nПо мере роста острова вы будете заполнять свои Исследовательские записи, находить реликвии и использовать плитки молнии ради тех редких, но особенно приятных всплесков расширения.",
+  "description_short": "Evergarden — это уютная idle incremental-игра, в которой вы постепенно превращаете маленький бесплодный клочок земли в живой, цветущий остров. Восстанавливайте плитки лопатой, поручайте рабочим собирать ресурсы, знакомьтесь с питомцами и наблюдайте, как экосистема тихо разрастается сама по себе.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 654,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "UZEOpfelkxQ",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/d6471726b050629cd1bfd6996a79cd1e644384f3/ss_d6471726b050629cd1bfd6996a79cd1e644384f3.1920x1080.jpg?t=1783648807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/05f60497d963aff4f7118b02f4d3faa0e4f48ff7/ss_05f60497d963aff4f7118b02f4d3faa0e4f48ff7.1920x1080.jpg?t=1783648807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/bb2b5cab53caac10d11a41c90cbd706046bdc585/ss_bb2b5cab53caac10d11a41c90cbd706046bdc585.1920x1080.jpg?t=1783648807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/adfaf5b643cf15c27f0c52765af56cd6f68d2ace/ss_adfaf5b643cf15c27f0c52765af56cd6f68d2ace.1920x1080.jpg?t=1783648807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/d0e5b8b0df6250a0def37a7400758e65c82401b8/ss_d0e5b8b0df6250a0def37a7400758e65c82401b8.1920x1080.jpg?t=1783648807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/6f7ffa92308a0393fe898358b0c233235bbafae8/ss_6f7ffa92308a0393fe898358b0c233235bbafae8.1920x1080.jpg?t=1783648807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542060/86f8507a9bced97c994c37648c8119d83f0b75bf/ss_86f8507a9bced97c994c37648c8119d83f0b75bf.1920x1080.jpg?t=1783648807"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T08:57:52Z"
+}

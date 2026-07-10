@@ -1,0 +1,29 @@
+{
+  "id": 4872780,
+  "title": "Anomaly Control Division",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/d9d66936454fde48ac72e8393b8f115c34edc138/header.jpg?t=1783669401",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872780?t=1783669401",
+  "description": "[Project Information]Game Project Practicum, Fall 2025\n\nTeam: Team Caffeine\n\n• Ji-Won Kim (2021 Cohort): Team Lead, Lead Game Design\n\n• Dae-Gyu Hwang (2021 Cohort): Supporting Game Designer\n\n• Yong-Jin Kwon (2021 Cohort): Supporting Programming, UI and Interaction Programming\n\n• Hyun-Seon Lee (2021 Cohort): Lead Programming, Systems Programming\n\n• Min-Seok Heo (2021 Cohort): Supporting Programming, Technical Art\n\n• Ji-Hoon Jeong (2021 Cohort): 3D Graphics, Character Design\n\nThis game was developed as a student project in the Game Project Practicum course offered by the Department of Game Software at Hoseo University.\n\n[About This Game]Anomaly Control Division is a first-person surveillance horror game in which you take the night shift as a newly appointed containment supervisor and survive until dawn.\n\nFrom 00:00 to 06:00, you must monitor three containment chambers through CCTV, identify anomalous events affecting each entity, and carry out the correct response.\n\nThe Tendril Cluster. The Mimic. The Bound Circuit.\n\nEach entity has its own behavior and threat profile, and all of them grow increasingly unstable as the night wears on. A single wrong decision can trigger a facility-wide containment failure.\n\nConsult the manual.\nWatch the monitors.\nMaintain stability.\n\nFollow procedure, and you may live to see another day.\n\nFail to follow procedure and...\n\nGood luck.\n\n[Game Features]• Anomalous Entities\n\nThe Anomaly Control Division is responsible for containing and managing supernatural beings captured around the world, collectively designated as anomalous entities.\n\nEach entity possesses unique behaviors, threat levels, and anomalous events. As a containment supervisor, you must study the information recorded in the manual and carry out the prescribed procedures.\n\n• CCTV Surveillance and Containment\n\nEach anomalous entity is sealed inside a shielded containment chamber.\n\nUse the CCTV network and containment control systems to prevent the entities from becoming unstable. Monitor each chamber carefully, assess the situation, and make the correct decision before it is too late.\n\n• Anomalous Events\n\nAnomalous entities periodically trigger anomalous events.\n\nEvents occurring inside a containment chamber can be handled remotely through the control system. If an event manifests inside the control room, however, you must leave your station and neutralize it in person.\n\n• Stability Levels\n\nEach anomalous entity has a Stability Level, which can be monitored through the CCTV interface.\n\nUnresolved anomalous events will rapidly reduce an entity's Stability. If its Stability reaches zero, the entity will breach containment and may inflict severe bodily harm on the supervisor.\n\n• Emergency Protocol\n\nDo not give up, even if containment fails and an entity breaches.\n\nThe facility is equipped with an emergency protocol designed to preserve the supervisor's life. Execute the correct procedure and enter the protocol code before time runs out to reverse a containment breach once.\n\nThe protocol code is updated daily and can be found at the bottom of the Basic Containment Procedures section in the manual.",
+  "description_short": "Welcome to the Anomaly Control Division—the finest workplace on Earth. Protect humanity. Study the unknown. Monitor anomalies, maintain containment, and survive the shift. Good luck. *All on-duty injuries are your sole responsibility. The Division assumes no liability.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "yZLzniTPUGg",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/d3cff8660386e1f56041d6decc92a96ac258d4ee/ss_d3cff8660386e1f56041d6decc92a96ac258d4ee.1920x1080.jpg?t=1783669401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/35a7b23860eb781abf151d77595f30377e7cfa0f/ss_35a7b23860eb781abf151d77595f30377e7cfa0f.1920x1080.jpg?t=1783669401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/9eedd6c60d38908fcd8c07fd89e1fc84ca6a00ab/ss_9eedd6c60d38908fcd8c07fd89e1fc84ca6a00ab.1920x1080.jpg?t=1783669401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/4a6e1abf584eadd072eabf771abaa9a3cd0f8c40/ss_4a6e1abf584eadd072eabf771abaa9a3cd0f8c40.1920x1080.jpg?t=1783669401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/dee903d9fcbdada9caaca5579b35ebfc5adbf86c/ss_dee903d9fcbdada9caaca5579b35ebfc5adbf86c.1920x1080.jpg?t=1783669401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/2ffbd249ce4396b858b1ca65e42244ba72aacb9e/ss_2ffbd249ce4396b858b1ca65e42244ba72aacb9e.1920x1080.jpg?t=1783669401"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T08:57:21Z"
+}
