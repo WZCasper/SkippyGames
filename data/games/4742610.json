@@ -1,9 +1,9 @@
 {
   "id": 4742610,
   "title": "Truck Maxxing",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/831029e3367f52e3afd98c2354faf5f68dc9c162/header.jpg?t=1783392227",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/2dc58e08d335084b5d0599f9c3df5bf35ce802db/page_bg_raw.jpg?t=1783392227",
-  "description": "Note: This game is in beta and players may experience bugs.\n\nHow much is too much?\n\nYou are tasked with exterminating these pesky critters. You must do what it takes to eliminate as many as you can. Don't worry, there will be upgrades available each time you level up! But choose wisely as there are many combinations of upgrades that can make or break a run.\n\nMake your truck your own\n\nEach Run will reward you some Scrap. Use this Currency to customize your truck to your liking.\n\nWant your rocket launcher to launch traffic cones? Or maybe you want to plow enemies with a dirty old mattress? Not what i would have chosen but you do you... its your scrap!\n\nMany visual upgrades are available in the garage.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/831029e3367f52e3afd98c2354faf5f68dc9c162/header.jpg?t=1783434339",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/2dc58e08d335084b5d0599f9c3df5bf35ce802db/page_bg_raw.jpg?t=1783434339",
+  "description": "Note: This game is in beta and players may experience bugs.\n\nJOIN OUR DISCORD!join our community to gain access to exclusive upcoming features and updates!\n\nMembers also have a say in new weapons and mechanics!\n\nHow much is too much?\n\nYou are tasked with exterminating these pesky critters. You must do what it takes to eliminate as many as you can. Don't worry, there will be upgrades available each time you level up! But choose wisely as there are many combinations of upgrades that can make or break a run.\n\nMake your truck your own\n\nEach Run will reward you some Scrap. Use this Currency to customize your truck to your liking.\n\nWant your rocket launcher to launch traffic cones? Or maybe you want to plow enemies with a dirty old mattress? Not what i would have chosen but you do you... its your scrap!\n\nMany visual upgrades are available in the garage.",
   "description_short": "Plow, Shoot, or throw saw blades at swarms of enemies in this truck based Roguelite action game! Tons of upgrade options per run with each run being unique and challenging. Earn scrap after each run to purchase cosmetics and customize your truck!",
   "genres": [
     "Экшен"
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 681,
+  "price_rub": 678,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "zJJLM7Cohog",
+  "trailer_youtube_id": "if7PQSaKW7s",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/7e1644a4de20d0f78d419ba2f374c27dde594b5e/ss_7e1644a4de20d0f78d419ba2f374c27dde594b5e.1920x1080.jpg?t=1783392227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/fceafcb44fa9ce7b0f2aa6ce43c815fb5df6aebb/ss_fceafcb44fa9ce7b0f2aa6ce43c815fb5df6aebb.1920x1080.jpg?t=1783392227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/042266b802f2f653abb9297303a5c235b79ba400/ss_042266b802f2f653abb9297303a5c235b79ba400.1920x1080.jpg?t=1783392227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/5d939b03fb29b2e12f5cc86fa56e631b4813eb52/ss_5d939b03fb29b2e12f5cc86fa56e631b4813eb52.1920x1080.jpg?t=1783392227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/5895b46ebc3c2da7078a2f1a564a565f0a213184/ss_5895b46ebc3c2da7078a2f1a564a565f0a213184.1920x1080.jpg?t=1783392227"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/7e1644a4de20d0f78d419ba2f374c27dde594b5e/ss_7e1644a4de20d0f78d419ba2f374c27dde594b5e.1920x1080.jpg?t=1783434339",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/fceafcb44fa9ce7b0f2aa6ce43c815fb5df6aebb/ss_fceafcb44fa9ce7b0f2aa6ce43c815fb5df6aebb.1920x1080.jpg?t=1783434339",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/042266b802f2f653abb9297303a5c235b79ba400/ss_042266b802f2f653abb9297303a5c235b79ba400.1920x1080.jpg?t=1783434339",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/5d939b03fb29b2e12f5cc86fa56e631b4813eb52/ss_5d939b03fb29b2e12f5cc86fa56e631b4813eb52.1920x1080.jpg?t=1783434339",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/5895b46ebc3c2da7078a2f1a564a565f0a213184/ss_5895b46ebc3c2da7078a2f1a564a565f0a213184.1920x1080.jpg?t=1783434339"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-07T09:20:01Z"
+  "updated_at": "2026-07-10T13:51:16Z"
 }

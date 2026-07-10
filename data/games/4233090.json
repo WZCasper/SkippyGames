@@ -1,0 +1,38 @@
+{
+  "id": 4233090,
+  "title": "Catjong 6: Pawztec Temple",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/3d3bf4af71c526b18f232837c7be3f69bce6c55b/header.jpg?t=1783673623",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4233090?t=1783673623",
+  "description": "Catjong 6: Pawztec Temple invites you on a cozy mahjong-3 adventure with your playful cat! Solve 200 relaxing levels, unwind in warm ancient-inspired landscapes, and restore a tranquil outdoor haven filled with gentle greenery and charming decorations. \n\nEnjoy calm puzzles, delightful scenes, and a peaceful journey together!\n\n• 200 relaxing mahjong-3 levels to enjoy at your own pace\n\n• A playful cat companion full of charm and personality\n\n• Restore and decorate a tranquil outdoor haven inspired by ancient landscapes\n\n• Gentle, relaxing gameplay perfect for unwinding anytime",
+  "description_short": "Вас ждёт приключение маджонг-3! Пройдите 200 увлекательных уровней с вашим игривым котом и восстановите спокойный открытый мир, среди мягкой зелени и древних камней.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/15572049daac377eb0f9285645cdd92037180a23/ss_15572049daac377eb0f9285645cdd92037180a23.1920x1080.jpg?t=1783673623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/ca9e64d852e13913e623876c42182f509e43b0dd/ss_ca9e64d852e13913e623876c42182f509e43b0dd.1920x1080.jpg?t=1783673623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/e6e493f9a55828a6e0c0cc98dcf306f600e90121/ss_e6e493f9a55828a6e0c0cc98dcf306f600e90121.1920x1080.jpg?t=1783673623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/f3d8d7bcb5496f5e661a3470c75aa9a377be8086/ss_f3d8d7bcb5496f5e661a3470c75aa9a377be8086.1920x1080.jpg?t=1783673623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/7730a9fb4772454ff4049054bc280e28fd29833e/ss_7730a9fb4772454ff4049054bc280e28fd29833e.1920x1080.jpg?t=1783673623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/e2ee3ef0ce6af1e7925b964d34ec2fa1ffb792ee/ss_e2ee3ef0ce6af1e7925b964d34ec2fa1ffb792ee.1920x1080.jpg?t=1783673623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/e9d8fec4be4d7fb51ffe937385a3cc6e97a73905/ss_e9d8fec4be4d7fb51ffe937385a3cc6e97a73905.1920x1080.jpg?t=1783673623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/b0e981e7883a8614f6dd82aadc493ad94daf15a9/ss_b0e981e7883a8614f6dd82aadc493ad94daf15a9.1920x1080.jpg?t=1783673623"
+  ],
+  "upsells": [
+    {
+      "id": 4351020,
+      "name": "Catjong 6: Pawztec Temple Full Version Unlock",
+      "price_rub": 885,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4351020/c27bb683548a556130859e44159f1492ffd0063e/header.jpg?t=1783673641"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-10T13:52:20Z"
+}

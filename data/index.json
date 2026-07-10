@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-07-10T08:57:55Z",
+  "generated_at": "2026-07-10T13:53:31Z",
   "uah_to_rub_rate": 1.710459,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 341,
+  "count": 364,
   "games": [
+    {
+      "id": 4675010,
+      "title": "100 Hidden Cats Stream Live",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/1d89293f2138bbc681757ce1517694450288c2c0/header.jpg?t=1783675328",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 704,
+      "is_free": false
+    },
     {
       "id": 4310730,
       "title": "100 Summer Cats",
@@ -29,6 +42,19 @@
         "PC"
       ],
       "price_rub": 553,
+      "is_free": false
+    },
+    {
+      "id": 4655470,
+      "title": "16叠谋杀之谜",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655470/06e55494de00868dac4968b42b2624e60bac4332/header.jpg?t=1783681224",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 579,
       "is_free": false
     },
     {
@@ -145,7 +171,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1249,
+      "price_rub": 1235,
       "is_free": false
     },
     {
@@ -325,14 +351,14 @@
     {
       "id": 4769520,
       "title": "Bahast",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769520/da18db0d85fa15c277cc0449e6dbd9b735d2558b/header.jpg?t=1783389876",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769520/da18db0d85fa15c277cc0449e6dbd9b735d2558b/header.jpg?t=1783627657",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 726,
+      "price_rub": 722,
       "is_free": false
     },
     {
@@ -393,14 +419,14 @@
     {
       "id": 4819850,
       "title": "Beat Pet",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819850/3cd552a247232913fdcfe57f280c1a0dbcc73699/header.jpg?t=1783137375",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819850/3cd552a247232913fdcfe57f280c1a0dbcc73699/header.jpg?t=1783439100",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 547,
+      "price_rub": 546,
       "is_free": false
     },
     {
@@ -466,6 +492,19 @@
         "PC"
       ],
       "price_rub": 636,
+      "is_free": false
+    },
+    {
+      "id": 2913190,
+      "title": "Bravest Coconut",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2913190/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 854,
       "is_free": false
     },
     {
@@ -597,6 +636,19 @@
       ],
       "price_rub": 947,
       "is_free": false
+    },
+    {
+      "id": 4233090,
+      "title": "Catjong 6: Pawztec Temple",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/3d3bf4af71c526b18f232837c7be3f69bce6c55b/header.jpg?t=1783673623",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4787290,
@@ -837,7 +889,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 599,
+      "price_rub": 597,
       "is_free": false
     },
     {
@@ -1008,7 +1060,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 899,
+      "price_rub": 892,
       "is_free": false
     },
     {
@@ -1089,6 +1141,19 @@
         "PC"
       ],
       "price_rub": 570,
+      "is_free": false
+    },
+    {
+      "id": 4517370,
+      "title": "EULA ~2026 Human Creativity Report~",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517370/e29a1649b9ac68ada8b2f93b1e6f2e2ad68b6821/header.jpg?t=1783681235",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 639,
       "is_free": false
     },
     {
@@ -1298,6 +1363,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4326690,
+      "title": "FlyHigh",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326690/082666c61a0619b2961a63a6d47af4a5e0b0fbae/header.jpg?t=1783674205",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 722,
+      "is_free": false
     },
     {
       "id": 2191410,
@@ -1520,6 +1598,19 @@
       "is_free": false
     },
     {
+      "id": 4753930,
+      "title": "Heart of a Hero - Chapter 1",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753930/475126ce657134687753f05ea2b177dcf10ba6ca/header.jpg?t=1783667317",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1005,
+      "is_free": false
+    },
+    {
       "id": 4330950,
       "title": "Heatspire",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330950/d6a686d66b0686b0c7d085540b0b5a32bec9d7b5/header.jpg?t=1783532978",
@@ -1542,7 +1633,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 580,
+      "price_rub": 579,
+      "is_free": false
+    },
+    {
+      "id": 4870150,
+      "title": "Hentai Clicker: Moena is streaming",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870150/5a54daca9d501f32a4b98a97ceedbe139f407d0f/header.jpg?t=1783671471",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 586,
       "is_free": false
     },
     {
@@ -1636,7 +1740,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 986,
+      "price_rub": 977,
       "is_free": false
     },
     {
@@ -1883,7 +1987,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 633,
       "is_free": false
     },
     {
@@ -1959,6 +2063,19 @@
       "id": 2618160,
       "title": "Legends of Starkadia",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2618160/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4492080,
+      "title": "Life & Shadow: Celestial Call - Prologue",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492080/a2f304cc326d74624f3a0e61cd9d520cdd32b340/header.jpg?t=1783687717",
       "genres": [
         "Экшен"
       ],
@@ -2173,6 +2290,19 @@
       "is_free": true
     },
     {
+      "id": 4640060,
+      "title": "Mile Zero Anomaly",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640060/3c231b3c211db75db142e5668905042a3fdd98c8/header.jpg?t=1783677541",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4397070,
       "title": "MindPrompt: Party Games with AI",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397070/f796e3af3f707ef831677549a5c5ce5e1c070b16/header.jpg?t=1783450778",
@@ -2239,7 +2369,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2364,
+      "price_rub": 2332,
       "is_free": false
     },
     {
@@ -2256,9 +2386,35 @@
       "is_free": false
     },
     {
+      "id": 3920300,
+      "title": "Mothkeep",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920300/5e338d02a6c10cef9dd88f042f26c4b81dd5c7be/header.jpg?t=1783690596",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 722,
+      "is_free": false
+    },
+    {
       "id": 4853400,
       "title": "Mycelium Conquest: Mitosis",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853400/8f6ef8cbadf381e575406bd99d1362dac639bfb8/header.jpg?t=1783666515",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4826160,
+      "title": "NO DOUBT",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826160/dfbba9e6ede4878c81885d9a04fa2c76737ad16f/header.jpg?t=1783681195",
       "genres": [
         "Экшен"
       ],
@@ -2408,7 +2564,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 669,
+      "price_rub": 666,
       "is_free": false
     },
     {
@@ -2525,7 +2681,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 571,
+      "price_rub": 570,
       "is_free": false
     },
     {
@@ -2560,7 +2716,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1231,
+      "price_rub": 1218,
       "is_free": false
     },
     {
@@ -2681,7 +2837,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 716,
+      "price_rub": 712,
       "is_free": false
     },
     {
@@ -2802,7 +2958,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 633,
       "is_free": false
     },
     {
@@ -2829,6 +2985,19 @@
         "PC"
       ],
       "price_rub": 528,
+      "is_free": false
+    },
+    {
+      "id": 4707200,
+      "title": "Queen's Gamble",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707200/cb6610c6a4856504bca60304c372a22e1822989c/header.jpg?t=1783683067",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 789,
       "is_free": false
     },
     {
@@ -2926,7 +3095,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 796,
+      "price_rub": 791,
       "is_free": false
     },
     {
@@ -3187,6 +3356,19 @@
       "is_free": false
     },
     {
+      "id": 4429920,
+      "title": "Sex Shop Simulator: Sinful Girls",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429920/3174f0590363b63631d214057737ee18ab6772cd/header.jpg?t=1783683077",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 716,
+      "is_free": false
+    },
+    {
       "id": 4851520,
       "title": "ShapesFoundry",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851520/77fa42ef103b4d2a6a1aeb0f15bd71ef89fe695c/header.jpg?t=1783579051",
@@ -3209,7 +3391,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 676,
       "is_free": false
     },
     {
@@ -3278,6 +3460,19 @@
       "is_free": true
     },
     {
+      "id": 4624100,
+      "title": "Smoke Town",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624100/44fcfe752e7cb189b87ed1f5119e93a3386569b3/header.jpg?t=1783668615",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 712,
+      "is_free": false
+    },
+    {
       "id": 4851630,
       "title": "SnapCats",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851630/6afba48bb27e9756165992a7b90a87d0e08936bc/header.jpg?t=1783655651",
@@ -3313,7 +3508,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 726,
+      "price_rub": 722,
       "is_free": false
     },
     {
@@ -3383,7 +3578,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 726,
+      "price_rub": 722,
       "is_free": false
     },
     {
@@ -3396,7 +3591,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 787,
+      "price_rub": 782,
       "is_free": false
     },
     {
@@ -3451,7 +3646,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1969,
+      "price_rub": 2722,
       "is_free": false
     },
     {
@@ -3499,6 +3694,19 @@
         "PC"
       ],
       "price_rub": 997,
+      "is_free": false
+    },
+    {
+      "id": 4822480,
+      "title": "Strip Memory: Play hard, Undress harder!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822480/a68eb97ac91640d940b74acc6ce2f4709ba04e27/header.jpg?t=1783667793",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 700,
       "is_free": false
     },
     {
@@ -3636,6 +3844,19 @@
       "is_free": false
     },
     {
+      "id": 4150890,
+      "title": "The Fiancée - Paths of Corruption",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150890/92c9837e55ac7fb10e6ed8eb517daaddef2562fc/header.jpg?t=1783672408",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 770,
+      "is_free": false
+    },
+    {
       "id": 4851270,
       "title": "The Hollow House",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851270/f848d9d0a393491e61b80d4f6e758e1318ff288e/header.jpg?t=1783422118",
@@ -3753,6 +3974,19 @@
       "is_free": false
     },
     {
+      "id": 4517560,
+      "title": "Thinky Wants To Guess",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517560/63844c6f865c7796fe6737f200d464e789fc0322/header.jpg?t=1783672357",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 680,
+      "is_free": false
+    },
+    {
       "id": 4853960,
       "title": "Thirteen: Risk & Rogue",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853960/71a5bfff161af75f7c4784a42e6c813473890660/header.jpg?t=1783387281",
@@ -3814,7 +4048,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 662,
+      "price_rub": 659,
       "is_free": false
     },
     {
@@ -3872,14 +4106,14 @@
     {
       "id": 4742610,
       "title": "Truck Maxxing",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/831029e3367f52e3afd98c2354faf5f68dc9c162/header.jpg?t=1783392227",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/831029e3367f52e3afd98c2354faf5f68dc9c162/header.jpg?t=1783434339",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 681,
+      "price_rub": 678,
       "is_free": false
     },
     {
@@ -3922,6 +4156,19 @@
       "is_free": false
     },
     {
+      "id": 4864750,
+      "title": "Ultimate Guess Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864750/1f830712f285395358a6e944b08740f9dd7034de/header.jpg?t=1783685288",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 688,
+      "is_free": false
+    },
+    {
       "id": 4345460,
       "title": "Unpaired Socks",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345460/4fbee29b07e6fc93ded50951a966c3064e41303c/header.jpg?t=1783507809",
@@ -3935,6 +4182,19 @@
       "is_free": false
     },
     {
+      "id": 4551090,
+      "title": "Unwoven",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551090/5893240f4d3ae296d2be7aa6e48feb7775da8fc1/header.jpg?t=1783688620",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4621460,
       "title": "UpDown&Shot",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621460/be9d4ff1aafed78c94b2246f243db69b85e0e28f/header.jpg?t=1783350501",
@@ -3944,7 +4204,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 591,
+      "price_rub": 589,
       "is_free": false
     },
     {
@@ -3961,6 +4221,19 @@
       "is_free": true
     },
     {
+      "id": 3955290,
+      "title": "Veilscripture AI",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/3b22e4567b31fde9963893768ee94e09d200425c/header.jpg?t=1783683146",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1923,
+      "is_free": false
+    },
+    {
       "id": 4170130,
       "title": "Venomous Dalliances 💚",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170130/8b8c52a384d8c783d7e40897db28951c0107ff19/header.jpg?t=1783367961",
@@ -3971,6 +4244,19 @@
         "PC"
       ],
       "price_rub": 690,
+      "is_free": false
+    },
+    {
+      "id": 4853620,
+      "title": "Verdantis",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853620/4f1286dac902835c5a86b9ede188012a5c619b0b/header.jpg?t=1783675829",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 688,
       "is_free": false
     },
     {
@@ -4104,7 +4390,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 618,
+      "price_rub": 616,
       "is_free": false
     },
     {
@@ -4453,6 +4739,19 @@
       "is_free": true
     },
     {
+      "id": 3863840,
+      "title": "如梦金色雪",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863840/697c45f597c2117730f1fd6f7e499b74c540a119/header.jpg?t=1783677135",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 579,
+      "is_free": false
+    },
+    {
       "id": 4560290,
       "title": "心舞",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560290/e9a6b53aa8168467e0bf6c6d02935332821ff07a/header.jpg?t=1783648030",
@@ -4501,7 +4800,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 860,
+      "price_rub": 854,
       "is_free": false
     },
     {
