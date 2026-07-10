@@ -1,0 +1,28 @@
+{
+  "id": 4606030,
+  "title": "Geo Grinder",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606030/59a6d1c009f7f1070fd4113506a5088470f29579/header.jpg?t=1783696224",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606030/16b300ee00c5419e8f0e8acb0fdfa57acf0098d0/page_bg_raw.jpg?t=1783696224",
+  "description": "Geo Grinder — incremental roguelite, где вы добываете, сражаетесь и прокачиваетесь сквозь волны врагов.\n\nКаждый run бросает вас на арену, полную геометрических сущностей — разбивайте их, чтобы собирать ресурсы, выживайте на фазах боссов и продвигайтесь глубже. Когда run заканчивается, потратьте добычу на огромное дерево апгрейдов, которое навсегда усилит вас к следующей попытке.\n\nОсобенности:\n\n• Динамичный twin-stick бой с incremental прогрессией\n\n• Разветвлённое дерево скиллов, где каждый run — это прогресс\n\n• Несколько фаз боссов, проверяющих ваш билд\n\n• Сессии от нескольких минут до нескольких часов",
+  "description_short": "Geo Grinder — incremental roguelite, где вы крушите геометрических врагов, собираете ресурсы и усиливаетесь через огромное дерево апгрейдов. Каждый run делает вас сильнее. Круши, расти, повторяй.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 697,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606030/535d99b7987217cbefca1f6c2af08a1acf0c9051/ss_535d99b7987217cbefca1f6c2af08a1acf0c9051.1920x1080.jpg?t=1783696224",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606030/282d1a299b19f6d9080c40339e7a8665e4aa81c3/ss_282d1a299b19f6d9080c40339e7a8665e4aa81c3.1920x1080.jpg?t=1783696224",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606030/5d3c198ed3e7e0c3ffc3d81d9570a0e994698754/ss_5d3c198ed3e7e0c3ffc3d81d9570a0e994698754.1920x1080.jpg?t=1783696224",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606030/13eec58c452a10eebf0ff4e00f410b709262146e/ss_13eec58c452a10eebf0ff4e00f410b709262146e.1920x1080.jpg?t=1783696224",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606030/af6a8642b96b14a7d9d3834acf49207ffbd1f703/ss_af6a8642b96b14a7d9d3834acf49207ffbd1f703.1920x1080.jpg?t=1783696224"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T19:29:22Z"
+}

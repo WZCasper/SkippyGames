@@ -1,0 +1,31 @@
+{
+  "id": 2745670,
+  "title": "SCP",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2745670/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2745670/library_hero.jpg",
+  "description": "Welcome to \"SCP,\" an intense open-world survival-craft experience set in a post-apocalyptic realm where the enigmatic SCP entities roam freely. Brace yourself for a relentless struggle for survival as you navigate through a desolate landscape filled with anomalies. \n\n**DYNAMIC OPEN WORLD:** Explore a dynamic world, where each corner holds dangers and resources.\n\n \n\n**NIGHTFALL TERROR:** As the sun sets, brace yourself for a different kind of danger. The creations of SCP-049, zombie-like creatures, emerge to hunt the living. Will you risk the darkness for valuable resources, or hunker down and fortify your position until dawn? \n\n**SCP ENTITIES:** Encounter SCP entities with unique abilities and characteristics. Learn to adapt and use their drops to your advantage. \n\n \n \n\n**BASE BUILDING AND CRAFTING:** Establish your stronghold amidst the chaos. Collect resources, craft essential tools, and construct shelters to withstand the nightmarish onslaught. Customize your base to suit your survival strategy, as you prepare for the horrors that await after sundown.",
+  "description_short": "Исследуйте, создавайте и выживайте в постапокалиптическом мире, где свободно бродят аномалии SCP. Готовьтесь к ночным нападениям, когда искаженные творения SCP-049 приближаются.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 757,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745670/86163269df97a059751558fa9372797f26b13010/ss_86163269df97a059751558fa9372797f26b13010.1920x1080.jpg?t=1783511618",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745670/52e77aa81ff7f51774d1b940caa29d71bb2bf2ed/ss_52e77aa81ff7f51774d1b940caa29d71bb2bf2ed.1920x1080.jpg?t=1783511618",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745670/2c1ca3013c61c3424a5402d7933cb4fdffd0312d/ss_2c1ca3013c61c3424a5402d7933cb4fdffd0312d.1920x1080.jpg?t=1783511618",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745670/cd7d2ed3e62a7c98ebf9b7fe8c10ae9fc04723c5/ss_cd7d2ed3e62a7c98ebf9b7fe8c10ae9fc04723c5.1920x1080.jpg?t=1783511618",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745670/f7c9068713c84860df6eef12c5b57c9d4230dacc/ss_f7c9068713c84860df6eef12c5b57c9d4230dacc.1920x1080.jpg?t=1783511618",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745670/61af1b836d0418c08ea155ace412d6cd2806ca88/ss_61af1b836d0418c08ea155ace412d6cd2806ca88.1920x1080.jpg?t=1783511618",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745670/3e9baeb5273bc4f281a9d26c539e17b4aaaa8715/ss_3e9baeb5273bc4f281a9d26c539e17b4aaaa8715.1920x1080.jpg?t=1783511618",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745670/71571c166369d44440f1b54d02e79eaa99cc9380/ss_71571c166369d44440f1b54d02e79eaa99cc9380.1920x1080.jpg?t=1783511618"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T19:29:53Z"
+}

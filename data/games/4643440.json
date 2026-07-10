@@ -1,0 +1,38 @@
+{
+  "id": 4643440,
+  "title": "Harvester vs. Zombies",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/2f81a7de7e234af90f584beeabf1762c1fbb32df/header.jpg?t=1783704580",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/66c7dcf41a9f90f436d77c4b1f115810be12b3a7/page_bg_raw.jpg?t=1783704580",
+  "description": "Жатва началась.\nСможешь ли ты пережить апокалипсис за рулём комбайна?\n\nПутешествуй по деревням, посёлкам и городам на своих машинах, пробиваясь сквозь огромные орды зомби.\nОбъезжай препятствия, перемалывай и сбивай зомби, следя за тем, чтобы твоя машина не перегревалась.\n\nЭто единственный сезон, когда помимо сбора кукурузы ты можешь ещё и спасти мир.\n\nОсобенности игры• Перемалывай и сбивай орды зомби\n\n• Покупай новые машины и открывай новых зомби\n\n• Увеличивай мощность своей техники\n\n• Улучшай жатку и эффективность перемалывания\n\n• Выполняй задания\n\n• Собирай карты и получай достижения\n\n• Бей рекорды и улучшай свои результаты\n\n• Соревнуйся с друзьями и игроками со всего мира",
+  "description_short": "Перемалывай орды зомби на дорогах деревень, посёлков и городов. Объезжай препятствия, покупай улучшения, открывай всё более мощные машины, выполняй задания, собирай карты, получай достижения и соревнуйся с игроками со всего мира.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 799,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/916dd983df4cb735c3c80651a55766fcba71574f/ss_916dd983df4cb735c3c80651a55766fcba71574f.1920x1080.jpg?t=1783704580",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/8220282c1cd6c4d717525c37ab85fd97021407c2/ss_8220282c1cd6c4d717525c37ab85fd97021407c2.1920x1080.jpg?t=1783704580",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/9ecddd918f73c8695aa25eaf6ef7fafb6796a72e/ss_9ecddd918f73c8695aa25eaf6ef7fafb6796a72e.1920x1080.jpg?t=1783704580",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/446f9a049dafecffacf1172732de8cb74e78f04c/ss_446f9a049dafecffacf1172732de8cb74e78f04c.1920x1080.jpg?t=1783704580",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/1aed60a75240e50fbf6425956c028d4e3f718cc1/ss_1aed60a75240e50fbf6425956c028d4e3f718cc1.1920x1080.jpg?t=1783704580",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/ae16f5dcb0da3b227ff1ca1418105f692beb584f/ss_ae16f5dcb0da3b227ff1ca1418105f692beb584f.1920x1080.jpg?t=1783704580",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/554db88c1549f96355ccb9b96b4f3a4f2b943a11/ss_554db88c1549f96355ccb9b96b4f3a4f2b943a11.1920x1080.jpg?t=1783704580",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/98ea7d67d195872eaebbcb3d2f5b346b61817c57/ss_98ea7d67d195872eaebbcb3d2f5b346b61817c57.1920x1080.jpg?t=1783704580"
+  ],
+  "upsells": [
+    {
+      "id": 4906810,
+      "name": "Harvester vs. Zombies - Harvest Expansion Pack",
+      "price_rub": 575,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906810/9be9506c63e3a21aa3e4e04c6aff216e3a93e002/header.jpg?t=1783704568"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-10T19:26:13Z"
+}
