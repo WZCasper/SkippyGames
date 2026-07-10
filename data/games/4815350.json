@@ -1,8 +1,8 @@
 {
   "id": 4815350,
   "title": "Never Gives Up Her Dead",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/1d18e661c097d0111c33a998f904abcc26fb68c1/header.jpg?t=1783089859",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/320af0b6c09577985656d04239007ceaf8443804/page_bg_raw.jpg?t=1783089859",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/1d18e661c097d0111c33a998f904abcc26fb68c1/header.jpg?t=1783610623",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/320af0b6c09577985656d04239007ceaf8443804/page_bg_raw.jpg?t=1783610623",
   "description": "Note: This is a Text-Only game, a parser text adventure. There are no graphics outside of 10 unlockable gallery images. See more details under 'Playing the game'.Travel through space and time to save your ship!Time is running out after a meteor strikes your interstellar starship. While the crew is under full alert, only you seem to notice the strange red portals opening up throughout the ship.\n\nExplore ten different worlds, learn the truth of your destiny, and confront the mysterious figure who has been haunting you from the start in this epic sci-fi adventure.\n\nPlaying the game:This game is a long and challenging text adventure. Most experienced players of interactive fiction will take around 15-25 hours to complete this game.  At 360,000 words, this is one of the largest games ever written in the Inform system.\n\nThe difficulty level of this game was designed for those who are already familiar with parser-based interactive fiction and its conventions. If you're not familiar with what the commands INVENTORY or X ME would do, I recommend you try a shorter adventure first; recommended resources for finding shorter games include the Interactive Fiction Database and the Text Adventure Literacy Jam games.\n\nThis game works with most screen readers and many players who are visually impaired have found it to be enjoyable.",
   "description_short": "Time is running out after a meteor strikes your interstellar starship. While the crew is under full alert, only you seem to notice the strange red portals opening up throughout the ship. Old school text-based parser: no graphics, huge worlds, no hints. Recommended for text game veterans.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 977,
+  "price_rub": 970,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "SNZVl59E3IY",
+  "trailer_youtube_id": "UVnvOHjtkEg",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/23ef2c0f5dd1bb251caff65e145c4964a887d803/ss_23ef2c0f5dd1bb251caff65e145c4964a887d803.1920x1080.jpg?t=1783089859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/28271b293326ac6c14ea47e0d999e6115c739e68/ss_28271b293326ac6c14ea47e0d999e6115c739e68.1920x1080.jpg?t=1783089859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/e69c99785185b5d1fcbd2d6c310509e919998ae1/ss_e69c99785185b5d1fcbd2d6c310509e919998ae1.1920x1080.jpg?t=1783089859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/309b6f7e106e351a50e183fa73905f580c4ad44e/ss_309b6f7e106e351a50e183fa73905f580c4ad44e.1920x1080.jpg?t=1783089859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/28935ff139178ff16f131cf86491de2951b21897/ss_28935ff139178ff16f131cf86491de2951b21897.1920x1080.jpg?t=1783089859"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/23ef2c0f5dd1bb251caff65e145c4964a887d803/ss_23ef2c0f5dd1bb251caff65e145c4964a887d803.1920x1080.jpg?t=1783610623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/28271b293326ac6c14ea47e0d999e6115c739e68/ss_28271b293326ac6c14ea47e0d999e6115c739e68.1920x1080.jpg?t=1783610623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/e69c99785185b5d1fcbd2d6c310509e919998ae1/ss_e69c99785185b5d1fcbd2d6c310509e919998ae1.1920x1080.jpg?t=1783610623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/309b6f7e106e351a50e183fa73905f580c4ad44e/ss_309b6f7e106e351a50e183fa73905f580c4ad44e.1920x1080.jpg?t=1783610623",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815350/28935ff139178ff16f131cf86491de2951b21897/ss_28935ff139178ff16f131cf86491de2951b21897.1920x1080.jpg?t=1783610623"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-06T19:29:18Z"
+  "updated_at": "2026-07-10T01:27:22Z"
 }

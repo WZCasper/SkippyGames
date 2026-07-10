@@ -14,7 +14,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 738,
+  "price_rub": 892,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": "ot7uXNQskhs",
@@ -32,10 +32,10 @@
     {
       "id": 440820,
       "name": "Stardew Valley Soundtrack",
-      "price_rub": 602,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440820/header.jpg?t=1581550226"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T19:28:58Z"
+  "updated_at": "2026-07-10T01:26:58Z"
 }
