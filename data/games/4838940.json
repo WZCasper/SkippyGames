@@ -1,9 +1,9 @@
 {
   "id": 4838940,
   "title": "Above the Sun",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/674be5339308b968601a26438235804bab807e04/header.jpg?t=1783436420",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/fb00d68a58138efdfe8c1d7d0bd599b75f34084b/page_bg_raw.jpg?t=1783436420",
-  "description": "STORY:The Acid Tower — no one knew when it was built, or why. Perhaps that's exactly why Yugemaru, a self-proclaimed gal mechanic, felt drawn to it. She had to climb it. Firing up the battered steam legs her father left behind, clouds of smoke billowing around her, she leapt — purely on instinct, or perhaps with some burning resolve hidden in her chest — toward something Above the Sun.\n\n GAME PLAY: Platforms spawn randomly inside the Acid Tower. Charge those steam legs, nail your jump, and keep going — higher and higher, no stopping! Just don't take forever, okay? The acid down below is totally not waiting for you. After each run, it's selfie time. Slay or nay?\n\nFEATURES:・The Acid Tower has five distinct layers. Can you conquer them all?\n\n・Moving platforms, slippery floors, and all kinds of nasty obstacles stand in your way. And rumor has it, a lucky platform shows up every once in a while...?\n\n・The results screen comes with a screenshot feature and social sharing. Show off how high you climbed!\n\n・Your run history is saved in the \"Memory Book.\" Just... maybe don't look too hard at your total fall count.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/674be5339308b968601a26438235804bab807e04/header.jpg?t=1783473792",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/fb00d68a58138efdfe8c1d7d0bd599b75f34084b/page_bg_raw.jpg?t=1783473792",
+  "description": "STORY:The Acid Tower — no one knew when it was built, or why. Perhaps that's exactly why Yugemaru, a self-proclaimed gal mechanic, felt drawn to it. She had to climb it. Firing up the battered steam legs her father left behind, clouds of smoke billowing around her, she leapt — purely on instinct, or perhaps with some burning resolve hidden in her chest — toward something Above the Sun.\n\n GAME PLAY: Platforms spawn randomly inside the Acid Tower. Charge those steam legs, nail your jump, and keep going — higher and higher, no stopping! Just don't take forever, okay? The acid down below is totally not waiting for you. After each run, it's selfie time. Slay or nay?\n\nFEATURES:・The Acid Tower has five distinct layers. Can you conquer them all?\n\n・Moving platforms, slippery floors, and all kinds of nasty obstacles stand in your way. And rumor has it, a lucky platform shows up every once in a while...?\n\n・The results screen comes with a screenshot feature and social sharing. Show off how high you climbed!\n\n・Your run history is saved in the \"Memory Book.\" Just... maybe don't look too hard at your total fall count.\n\nStreaming & Fan Content Guidelines Feel free to stream, create videos, or make fan works of \"Above the Sun\" as you like. Monetization of your streams and videos is also permitted. No prior permission is required, whether you're an individual or a company. \nHowever, please refrain from any use that could be mistaken as official, or that significantly harms the game's image.\n*These guidelines are subject to change without notice.",
   "description_short": "Yugemaru, a self-proclaimed gal mechanic, sets out to reach the top of the Acid Tower using the power of steam. With the eerie acid closing in, climb the randomly generated platforms — climb, climb, CLIMB! ...Wait — did I just fall? LOL.",
   "genres": [
     "Экшен"
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 597,
+  "price_rub": 596,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "5xzAip_ObVQ",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/c7df5400e66f6ec20e211d550fb179ff26508b10/ss_c7df5400e66f6ec20e211d550fb179ff26508b10.1920x1080.jpg?t=1783436420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/27d0ebe9c7b7250ae78e33b1a2c6fdfb1f4e4dbd/ss_27d0ebe9c7b7250ae78e33b1a2c6fdfb1f4e4dbd.1920x1080.jpg?t=1783436420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/ef82b803382261f557106e48cbb1d53172bf6e9d/ss_ef82b803382261f557106e48cbb1d53172bf6e9d.1920x1080.jpg?t=1783436420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/dc7ace22bd793cc7705b259019661f699de16892/ss_dc7ace22bd793cc7705b259019661f699de16892.1920x1080.jpg?t=1783436420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/c1b85903095261b7d015dd8191a3775d4152dc95/ss_c1b85903095261b7d015dd8191a3775d4152dc95.1920x1080.jpg?t=1783436420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/7d6048999598792ab43de7a80c21a4433d961133/ss_7d6048999598792ab43de7a80c21a4433d961133.1920x1080.jpg?t=1783436420"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/c7df5400e66f6ec20e211d550fb179ff26508b10/ss_c7df5400e66f6ec20e211d550fb179ff26508b10.1920x1080.jpg?t=1783473792",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/27d0ebe9c7b7250ae78e33b1a2c6fdfb1f4e4dbd/ss_27d0ebe9c7b7250ae78e33b1a2c6fdfb1f4e4dbd.1920x1080.jpg?t=1783473792",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/ef82b803382261f557106e48cbb1d53172bf6e9d/ss_ef82b803382261f557106e48cbb1d53172bf6e9d.1920x1080.jpg?t=1783473792",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/dc7ace22bd793cc7705b259019661f699de16892/ss_dc7ace22bd793cc7705b259019661f699de16892.1920x1080.jpg?t=1783473792",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/c1b85903095261b7d015dd8191a3775d4152dc95/ss_c1b85903095261b7d015dd8191a3775d4152dc95.1920x1080.jpg?t=1783473792",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/7d6048999598792ab43de7a80c21a4433d961133/ss_7d6048999598792ab43de7a80c21a4433d961133.1920x1080.jpg?t=1783473792"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-07T19:30:45Z"
+  "updated_at": "2026-07-11T01:30:36Z"
 }

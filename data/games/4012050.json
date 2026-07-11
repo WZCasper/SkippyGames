@@ -1,0 +1,37 @@
+{
+  "id": 4012050,
+  "title": "The Lost Mixtape",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/6165e4543ef47564bf06b9ae6e3f9c0b2b9cad32/header.jpg?t=1783710042",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/4012050/library_hero.jpg",
+  "description": "The Lost Mixtape is a game about playing a raccoon who just discovered a Portable Cassette Player. Roam an abandoned mall and its surroundings to collect scattered music tapes to play on your newly acquired portable device. Rummage through trash, unlock secret paths, and gather items while every new tape adds to your personal soundtrack, turning exploration into a music-filled short exploration game.\n\n- EXPLOREWander parking lots, abandoned shops and areas reclaimed by nature\n\nDiscover hidden paths and find your way in this world filled with trash\n\nInteract with the environment and collect items you find along your way\n\n- LISTEN TO MUSICDiscover new tapes at your own rhythm\n\nEnjoy your new tracks with headphones or not!\n\nSomeone's trash is a raccoon's treasure",
+  "description_short": "Play as a raccoon with a cassette player, hunting for new tracks to dumpster dive to. Explore an abandoned mall and its surroundings to collect hidden cassettes. Dig through trash, uncover secret paths, and gather items. Experience this short adventure where someone's trash is a raccoon's treasure.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 679,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/8eef0f9536a8861a28e0126aed989a81ad228e06/ss_8eef0f9536a8861a28e0126aed989a81ad228e06.1920x1080.jpg?t=1783710042",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/efb38e37f5b4e6567e5b2e75810662b0cdccda33/ss_efb38e37f5b4e6567e5b2e75810662b0cdccda33.1920x1080.jpg?t=1783710042",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/d870617218963d6bb729a85314599e9fdd3c223e/ss_d870617218963d6bb729a85314599e9fdd3c223e.1920x1080.jpg?t=1783710042",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/91a4310bfac7b988f056c5c9d1c6793b2ba4d916/ss_91a4310bfac7b988f056c5c9d1c6793b2ba4d916.1920x1080.jpg?t=1783710042",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/b846a82652af54917f9c57f90c07a7eb44092413/ss_b846a82652af54917f9c57f90c07a7eb44092413.1920x1080.jpg?t=1783710042",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/2d8e30679491359551281bbd2e17402611cfee87/ss_2d8e30679491359551281bbd2e17402611cfee87.1920x1080.jpg?t=1783710042",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/24c78ac3426c217b6526fce2d13037687fdec4c3/ss_24c78ac3426c217b6526fce2d13037687fdec4c3.1920x1080.jpg?t=1783710042"
+  ],
+  "upsells": [
+    {
+      "id": 4174790,
+      "name": "The Lost Mixtape Soundtrack",
+      "price_rub": 670,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174790/df0c5de78ff9713d2ba115199590cb8ac9d6b468/header.jpg?t=1783710092"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-11T01:41:29Z"
+}

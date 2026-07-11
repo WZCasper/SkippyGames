@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-10T19:33:35Z",
-  "uah_to_rub_rate": 1.710459,
+  "generated_at": "2026-07-11T01:44:07Z",
+  "uah_to_rub_rate": 1.718394,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 395,
+  "count": 414,
   "games": [
     {
       "id": 4675010,
@@ -151,14 +151,14 @@
     {
       "id": 4838940,
       "title": "Above the Sun",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/674be5339308b968601a26438235804bab807e04/header.jpg?t=1783436420",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838940/674be5339308b968601a26438235804bab807e04/header.jpg?t=1783473792",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 597,
+      "price_rub": 596,
       "is_free": false
     },
     {
@@ -172,6 +172,19 @@
         "PC"
       ],
       "price_rub": 1235,
+      "is_free": false
+    },
+    {
+      "id": 2227870,
+      "title": "Akayo Therapy",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2227870/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 646,
       "is_free": false
     },
     {
@@ -340,14 +353,14 @@
     {
       "id": 3751950,
       "title": "Assassin's Creed Black Flag Resynced",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1782753569",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1783617053",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 3632,
+      "price_rub": 3591,
       "is_free": false
     },
     {
@@ -373,7 +386,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 726,
+      "price_rub": 723,
       "is_free": false
     },
     {
@@ -584,7 +597,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 979,
+      "price_rub": 973,
       "is_free": false
     },
     {
@@ -714,7 +727,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1014,
+      "price_rub": 1007,
       "is_free": false
     },
     {
@@ -1172,14 +1185,14 @@
     {
       "id": 3706280,
       "title": "Drunk Dad vs Family",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3706280/3483b2dd08db4564fd4c4ab00e7bd7175134c4b3/header.jpg?t=1783446762",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3706280/3483b2dd08db4564fd4c4ab00e7bd7175134c4b3/header.jpg?t=1783630880",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 611,
+      "price_rub": 610,
       "is_free": false
     },
     {
@@ -1285,7 +1298,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 900,
+      "price_rub": 895,
+      "is_free": false
+    },
+    {
+      "id": 4705520,
+      "title": "Escape This",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705520/b44bc02988b84e90848fcc475530c6b6ee4ac228/header.jpg?t=1783719138",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 701,
       "is_free": false
     },
     {
@@ -1455,6 +1481,19 @@
         "PC"
       ],
       "price_rub": 646,
+      "is_free": false
+    },
+    {
+      "id": 4850850,
+      "title": "FitBlocks～Wooden block puzzle～",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4850850/6efe6e28b8e2f4342a1c75b8adf0cfcc7528c496/header.jpg?t=1783725022",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 723,
       "is_free": false
     },
     {
@@ -1795,6 +1834,19 @@
       "is_free": false
     },
     {
+      "id": 3689210,
+      "title": "HYPERFIST",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689210/c1445aad422d27f5abe35d14e4febf25bbd6428d/header.jpg?t=1783727392",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4643440,
       "title": "Harvester vs. Zombies",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/2f81a7de7e234af90f584beeabf1762c1fbb32df/header.jpg?t=1783704580",
@@ -1844,6 +1896,19 @@
         "PC"
       ],
       "price_rub": 579,
+      "is_free": false
+    },
+    {
+      "id": 4843730,
+      "title": "Hentai Age Gym",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843730/5415379a8c3c254ceda27e502ee61122314e40e9/header.jpg?t=1783717935",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 536,
       "is_free": false
     },
     {
@@ -1909,6 +1974,19 @@
         "PC"
       ],
       "price_rub": 601,
+      "is_free": false
+    },
+    {
+      "id": 4858120,
+      "title": "HiveBreak",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858120/0fcb976364c7cd21588a858e3d28c13794379d9b/header.jpg?t=1783725185",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 672,
       "is_free": false
     },
     {
@@ -2279,7 +2357,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1083,
+      "price_rub": 1076,
       "is_free": false
     },
     {
@@ -2509,7 +2587,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 707,
+      "price_rub": 639,
       "is_free": false
     },
     {
@@ -2648,6 +2726,33 @@
       "is_free": false
     },
     {
+      "id": 2372400,
+      "title": "Mushroots",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2372400/capsule_616x353.jpg",
+      "genres": [
+        "Стратегии в реальном времени (RTS)",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4725000,
+      "title": "MyBiz: Pomodoro Desk Tycoon",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725000/531ec52a98801a8c789ff73270b8c53115a92e2b/header.jpg?t=1783707213",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 610,
+      "is_free": false
+    },
+    {
       "id": 4853400,
       "title": "Mycelium Conquest: Mitosis",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853400/8f6ef8cbadf381e575406bd99d1362dac639bfb8/header.jpg?t=1783666515",
@@ -2659,6 +2764,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4704960,
+      "title": "Mythopolis",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704960/2467bd82e6c072ddc4e965eb96bf68e58c08d1ee/header.jpg?t=1783706477",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 610,
+      "is_free": false
     },
     {
       "id": 4826160,
@@ -2749,6 +2867,19 @@
         "PC"
       ],
       "price_rub": 700,
+      "is_free": false
+    },
+    {
+      "id": 4825020,
+      "title": "No Escape",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825020/4ec1e5708566f74bc208f92f1897bfa8ff3bbc3b/header.jpg?t=1783715213",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 672,
       "is_free": false
     },
     {
@@ -3030,7 +3161,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 899,
+      "price_rub": 894,
       "is_free": false
     },
     {
@@ -3194,6 +3325,19 @@
       "is_free": true
     },
     {
+      "id": 4798760,
+      "title": "Project Trash",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798760/e13c10e39fe3226b58360cf39638e5fd41e69934/header.jpg?t=1783711315",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 108600,
       "title": "Project Zomboid",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_616x353.jpg",
@@ -3246,7 +3390,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 528,
+      "price_rub": 527,
       "is_free": false
     },
     {
@@ -3259,7 +3403,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 528,
+      "price_rub": 527,
       "is_free": false
     },
     {
@@ -3481,6 +3625,19 @@
       "is_free": false
     },
     {
+      "id": 1431300,
+      "title": "SAND: Raiders of Sophie",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1431300/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1186,
+      "is_free": false
+    },
+    {
       "id": 2745670,
       "title": "SCP",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2745670/capsule_616x353.jpg",
@@ -3491,6 +3648,19 @@
         "PC"
       ],
       "price_rub": 757,
+      "is_free": false
+    },
+    {
+      "id": 4864530,
+      "title": "SEX CLUB",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864530/4e6627364794d5d94b705056343a4968129708b5/header.jpg?t=1783708763",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 603,
       "is_free": false
     },
     {
@@ -3679,7 +3849,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1673,
+      "price_rub": 1658,
       "is_free": false
     },
     {
@@ -3732,6 +3902,19 @@
         "PC"
       ],
       "price_rub": 782,
+      "is_free": false
+    },
+    {
+      "id": 4422940,
+      "title": "SideDrop",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422940/a001b0f9114373f2124782e4a68caf1879760cf9/header.jpg?t=1783715968",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -4192,7 +4375,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 674,
+      "price_rub": 672,
       "is_free": false
     },
     {
@@ -4327,6 +4510,19 @@
       "is_free": true
     },
     {
+      "id": 4012050,
+      "title": "The Lost Mixtape",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/6165e4543ef47564bf06b9ae6e3f9c0b2b9cad32/header.jpg?t=1783710042",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
+      "is_free": false
+    },
+    {
       "id": 3802740,
       "title": "The Mine Room",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802740/cbcd8fb124b90ca91b2645e7bb187da2c03c4fae/header.jpg?t=1783116454",
@@ -4427,7 +4623,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 751,
+      "price_rub": 747,
       "is_free": false
     },
     {
@@ -4481,6 +4677,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 3709030,
+      "title": "Towers Saga",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3709030/2c3e5d725ade9ac8300faa9e1c3ead723904b2e1/header.jpg?t=1783703002",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 930,
+      "is_free": false
     },
     {
       "id": 4847120,
@@ -4537,14 +4746,14 @@
     {
       "id": 4862010,
       "title": "Trying to Wake Up",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4862010/359ff969effcae79a70df65947822b2ff9352a83/header.jpg?t=1783437475",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4862010/359ff969effcae79a70df65947822b2ff9352a83/header.jpg?t=1783515640",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 756,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -4691,6 +4900,19 @@
       "is_free": true
     },
     {
+      "id": 3607040,
+      "title": "Waifu Discovered 3: Cyberpunk Fantasy",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607040/727f867775ecfc47ee2373439b4899e71277bec7/header.jpg?t=1783719205",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 747,
+      "is_free": false
+    },
+    {
       "id": 230410,
       "title": "Warframe",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/capsule_616x353.jpg",
@@ -4718,6 +4940,19 @@
         "PC"
       ],
       "price_rub": 574,
+      "is_free": false
+    },
+    {
+      "id": 4846190,
+      "title": "Wet Dream Succubus",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4846190/b8bface120046b4db19feae4097d85a3a9a7a0bb/header.jpg?t=1783717304",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 723,
       "is_free": false
     },
     {
@@ -4809,6 +5044,19 @@
         "PC"
       ],
       "price_rub": 630,
+      "is_free": false
+    },
+    {
+      "id": 4824530,
+      "title": "You.T@pes",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824530/349d846107412d36b16bd27ac4a92339ff14aa54/header.jpg?t=1783730770",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 672,
       "is_free": false
     },
     {
@@ -5075,7 +5323,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 691,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -5088,7 +5336,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 604,
+      "price_rub": 603,
       "is_free": false
     },
     {
@@ -5192,7 +5440,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 591,
+      "price_rub": 589,
       "is_free": false
     },
     {
@@ -5231,7 +5479,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 571,
+      "price_rub": 570,
       "is_free": false
     },
     {

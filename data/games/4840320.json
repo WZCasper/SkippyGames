@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1673,
+  "price_rub": 1658,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "vJHsAGB_Mvc",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840320/02373fc951688c9e474a7e4cb6f75a19701239ad/ss_02373fc951688c9e474a7e4cb6f75a19701239ad.1920x1080.jpg?t=1783153653",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840320/f98e7ab1e315b57b051752bac287b8489a0f550c/ss_f98e7ab1e315b57b051752bac287b8489a0f550c.1920x1080.jpg?t=1783153653",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-07T19:29:53Z"
+  "updated_at": "2026-07-11T01:22:43Z"
 }

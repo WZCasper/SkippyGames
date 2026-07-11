@@ -1,0 +1,39 @@
+{
+  "id": 2372400,
+  "title": "Mushroots",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2372400/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2372400/library_hero.jpg",
+  "description": "ПРО ИГРУRTS стали доступнее! Устали от кучи юнитов? Требуется миллион нажатий в секунду для низкой лиги? Время опробовать новую игру.\n\nMUSHROOTS – новый виток в мире жанра RTS. Разнообразные механики и различные режимы позволяют полностью настроить игру под себя. \nВозьмите под управление расу разумных грибов. Отстраивайте огромную колониальную систему и ведите свою цивилизацию к планетарному господству.ОТЛИЧИЯ ОТ ВСЕХ ОСТАЛЬНЫХ• упрощены некоторые аспекты RTS;\n\n• сотни различных строений;\n\n• разнообразные игровые режимы;\n\n• новые геймплейные механики;\n\n• десятки карт;\n\n• стратегия, а не скорость.",
+  "description_short": "Новая RTS для всех!",
+  "genres": [
+    "Стратегии в реальном времени (RTS)",
+    "Тактические шутеры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372400/ss_314a371ef452cf003f44ca64ff0d451d08c8be51.1920x1080.jpg?t=1783712886",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372400/ss_4a378c371b8e17e6f31e461283ba62417ff6cb20.1920x1080.jpg?t=1783712886",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372400/ss_3f261e7bc519f532fbb20a55c6e4e36693d73b54.1920x1080.jpg?t=1783712886",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372400/ss_67d6e57d246f5cfd8eb9ce222cf1b543f6c1dfbc.1920x1080.jpg?t=1783712886",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372400/ss_6a0c8daf8c9815c536d305fc48bb467810d21756.1920x1080.jpg?t=1783712886",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372400/ss_63baaade6a24e0a49d94fd24c3b1d8560ea53130.1920x1080.jpg?t=1783712886",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372400/ss_7f77917122e702a1d0a73deffda9e83a0ac5c5dc.1920x1080.jpg?t=1783712886",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372400/ss_d2d05dbbfdb5dfe16513dcc4f1e4fd6eaa83a1b8.1920x1080.jpg?t=1783712886"
+  ],
+  "upsells": [
+    {
+      "id": 4808840,
+      "name": "Mushroots: TO THE ROOTS supporter DLC",
+      "price_rub": 593,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808840/58d52464f3a40336271d84af9496f55f71c87fd1/header.jpg?t=1783456595"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-11T01:40:26Z"
+}
