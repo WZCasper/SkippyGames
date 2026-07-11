@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T12:46:55Z",
+  "generated_at": "2026-07-11T18:42:16Z",
   "uah_to_rub_rate": 1.718394,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 434,
+  "count": 439,
   "games": [
     {
       "id": 4675010,
@@ -73,7 +73,7 @@
     {
       "id": 3821830,
       "title": "3Dマーダーミステリー 黒焦げのあなた",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3821830/10a9219f90883faabcb0d86f2674c0e4da836b6d/header.jpg?t=1783484149",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3821830/10a9219f90883faabcb0d86f2674c0e4da836b6d/header.jpg?t=1783561877",
       "genres": [
         "Экшен"
       ],
@@ -172,6 +172,19 @@
         "PC"
       ],
       "price_rub": 596,
+      "is_free": false
+    },
+    {
+      "id": 4839770,
+      "title": "Abyrith",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839770/42d57550f9365417cf5b0f1672a97aa50a8fa0e9/header.jpg?t=1783780435",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 723,
       "is_free": false
     },
     {
@@ -480,7 +493,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 570,
+      "price_rub": 1213,
       "is_free": false
     },
     {
@@ -585,6 +598,19 @@
         "PC"
       ],
       "price_rub": 700,
+      "is_free": false
+    },
+    {
+      "id": 4864110,
+      "title": "Brandon's Semiconductor Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/c9cf1783cce0bcc8f650149ef10fab5d348713ab/header.jpg?t=1783786187",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -792,7 +818,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 654,
+      "price_rub": 655,
       "is_free": false
     },
     {
@@ -811,7 +837,20 @@
     {
       "id": 4860070,
       "title": "CluDoku",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/e63f69ba06e6988a032cbc5a5272b16f6acc187f/header.jpg?t=1783510076",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/e63f69ba06e6988a032cbc5a5272b16f6acc187f/header.jpg?t=1783662219",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 634,
+      "is_free": false
+    },
+    {
+      "id": 4799110,
+      "title": "Clubbed Seal",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799110/73c6490f94e5c6423fbb5855b2434cc3bd61840e/header.jpg?t=1783772093",
       "genres": [
         "Экшен"
       ],
@@ -1493,7 +1532,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 646,
+      "price_rub": 672,
       "is_free": false
     },
     {
@@ -2029,6 +2068,19 @@
       "is_free": true
     },
     {
+      "id": 4751360,
+      "title": "Hentai Tales: 7 Days Cycle",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751360/1c4a0c7128c09ab258cabe72f8926a0b0de859d3/header.jpg?t=1783768098",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 543,
+      "is_free": false
+    },
+    {
       "id": 3566760,
       "title": "Herb's Homegrown Havoc",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/c0c71c3da2e0b3a54adbb994e05ad894896d9d9c/header.jpg?t=1783335619",
@@ -2540,6 +2592,19 @@
         "PC"
       ],
       "price_rub": 765,
+      "is_free": false
+    },
+    {
+      "id": 4761320,
+      "title": "MEGABOOBS 🔞",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761320/dc9b714939717c2624c72da1a310921f3c7d7762/header.jpg?t=1783785130",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 863,
       "is_free": false
     },
     {
@@ -3455,7 +3520,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 977,
+      "price_rub": 1213,
       "is_free": false
     },
     {
@@ -4584,7 +4649,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 538,
+      "price_rub": 894,
       "is_free": false
     },
     {
@@ -4623,7 +4688,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 637,
+      "price_rub": 672,
       "is_free": false
     },
     {
@@ -4740,7 +4805,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 739,
+      "price_rub": 766,
       "is_free": false
     },
     {
@@ -5173,7 +5238,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 678,
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -5251,7 +5316,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 630,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -5303,7 +5368,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 972,
+      "price_rub": 973,
       "is_free": false
     },
     {
@@ -5333,7 +5398,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 692,
+      "price_rub": 887,
       "is_free": false
     },
     {
@@ -5583,7 +5648,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 589,
+      "price_rub": 546,
       "is_free": false
     },
     {

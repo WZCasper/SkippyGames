@@ -1,8 +1,8 @@
 {
   "id": 4860070,
   "title": "CluDoku",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/e63f69ba06e6988a032cbc5a5272b16f6acc187f/header.jpg?t=1783510076",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4860070?t=1783510076",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/e63f69ba06e6988a032cbc5a5272b16f6acc187f/header.jpg?t=1783662219",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4860070?t=1783662219",
   "description": "A murder has been committed. Can you solve it?\n\nCluDoku blends the satisfying logic of sudoku with classic murder mystery deduction. A victim has been found — your job is to place suspects into rooms using clues, eliminate the impossible, and name the killer before you run out of chances.\n\nHow it worksEach case gives you a grid of rooms and a set of suspects. Clues constrain where each suspect can be. Place them correctly, find the victim's room, and make your accusation. Every deduction is yours: no guessing, pure logic. \n\nTwo case variants• Classic — The victim shares a room with one suspect. Find the room, name the killer.\n\n• Evidence — Three weapons are hidden on the map. Investigate furniture and blocked cells to uncover them. Only when all weapons are found can you resolve the case and the combined clues reveal the true murder weapon before you make the accusation. \n\nPlay your way• Single-player — Solve cases at your own pace with no time pressure (or set a timer for a real challenge).\n\n• Local co-op (pass & play) — 2–4 detectives take turns on one device. Each detective keeps their clues private in a personal dossier, then shares deductions with the team. Placements start as color-coded proposals; a second detective must confirm each mark.\n\n• Online co-op — Play with friends anywhere via Steam lobbies. Just share the room code and solve together. \n\nFeatures• Procedurally generated cases with selectable themes (mansion, cruise ship, bakery, casino) and three difficulty sizes (7×7 easy, 9×9 medium, 11×11 hard).\n\n• Case timer with adjustable limits.\n\n• Manual deduction mode: cross out any cell yourself.\n\n• Full controller support: Navigate every menu and solve every case with a gamepad. \n\n• Furniture panel showing every object, orientation, and footprint in the current case.\n\n• Progress history and replay by seed for your favorite cases.\n\n• Interface in English and Spanish.",
   "description_short": "A murder mystery blended with sudoku-style logic. Explore suspicious rooms, examine weapon evidence, and piece together clues through sharp deduction to reveal the killer. Play alone or work online with up to 4 detectives to solve the case together.",
   "genres": [
@@ -14,16 +14,16 @@
   "price_rub": 634,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "kXukcSOB2Ow",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/2cebab83d34a33f2f6ecdef48a85e1757d5cde1c/ss_2cebab83d34a33f2f6ecdef48a85e1757d5cde1c.1920x1080.jpg?t=1783510076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/e75e45b15609bc3575ba8f0a570037a9f3107b43/ss_e75e45b15609bc3575ba8f0a570037a9f3107b43.1920x1080.jpg?t=1783510076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/51271baed90eb7ac0877b37a57f23f5beac1cea3/ss_51271baed90eb7ac0877b37a57f23f5beac1cea3.1920x1080.jpg?t=1783510076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/0cec491cc49a89aa92838574ad2697710c7bfff5/ss_0cec491cc49a89aa92838574ad2697710c7bfff5.1920x1080.jpg?t=1783510076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/362a72a873efd60e1635be1600acc2a3745c8af7/ss_362a72a873efd60e1635be1600acc2a3745c8af7.1920x1080.jpg?t=1783510076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/f8714787ee1cb716b07728f854b44d8d02f3d0ba/ss_f8714787ee1cb716b07728f854b44d8d02f3d0ba.1920x1080.jpg?t=1783510076"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/2cebab83d34a33f2f6ecdef48a85e1757d5cde1c/ss_2cebab83d34a33f2f6ecdef48a85e1757d5cde1c.1920x1080.jpg?t=1783662219",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/e75e45b15609bc3575ba8f0a570037a9f3107b43/ss_e75e45b15609bc3575ba8f0a570037a9f3107b43.1920x1080.jpg?t=1783662219",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/51271baed90eb7ac0877b37a57f23f5beac1cea3/ss_51271baed90eb7ac0877b37a57f23f5beac1cea3.1920x1080.jpg?t=1783662219",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/0cec491cc49a89aa92838574ad2697710c7bfff5/ss_0cec491cc49a89aa92838574ad2697710c7bfff5.1920x1080.jpg?t=1783662219",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/362a72a873efd60e1635be1600acc2a3745c8af7/ss_362a72a873efd60e1635be1600acc2a3745c8af7.1920x1080.jpg?t=1783662219",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/f8714787ee1cb716b07728f854b44d8d02f3d0ba/ss_f8714787ee1cb716b07728f854b44d8d02f3d0ba.1920x1080.jpg?t=1783662219"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-08T13:24:09Z"
+  "updated_at": "2026-07-11T18:41:29Z"
 }
