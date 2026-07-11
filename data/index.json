@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T07:30:02Z",
+  "generated_at": "2026-07-11T12:46:55Z",
   "uah_to_rub_rate": 1.718394,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 425,
+  "count": 434,
   "games": [
     {
       "id": 4675010,
@@ -55,6 +55,19 @@
         "PC"
       ],
       "price_rub": 579,
+      "is_free": false
+    },
+    {
+      "id": 4566690,
+      "title": "180°",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566690/7c34a17c02a46dfeac95c9c85eb1ba51c0a4d067/header.jpg?t=1783749619",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 622,
       "is_free": false
     },
     {
@@ -159,6 +172,19 @@
         "PC"
       ],
       "price_rub": 596,
+      "is_free": false
+    },
+    {
+      "id": 4820200,
+      "title": "Accept or Reject",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820200/af53b7545d8871a67e7ad90dcc5940d010a2b6b6/header.jpg?t=1783754456",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 634,
       "is_free": false
     },
     {
@@ -1207,6 +1233,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4746010,
+      "title": "Dropper Factory",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4746010/c465097bdf62570b1df213cd10f91eae66d58b4b/header.jpg?t=1783758022",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 603,
+      "is_free": false
     },
     {
       "id": 3706280,
@@ -2452,6 +2491,19 @@
       "is_free": true
     },
     {
+      "id": 4812230,
+      "title": "LostEcho",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812230/17de726b254787ebc6df91ef6a1eaff533def0ab/header.jpg?t=1783752041",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 589,
+      "is_free": false
+    },
+    {
       "id": 4872690,
       "title": "Love Train",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1783582371",
@@ -2866,7 +2918,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 769,
+      "price_rub": 770,
       "is_free": false
     },
     {
@@ -3494,7 +3546,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 630,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -4196,6 +4248,19 @@
       "is_free": false
     },
     {
+      "id": 4675330,
+      "title": "Soothe",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675330/18a8de1db4048aed126efe6eb1a9d4528d61d5c7/header.jpg?t=1783742934",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 589,
+      "is_free": false
+    },
+    {
       "id": 4800130,
       "title": "SoundRelay",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800130/bc1a1d01e0d38c62aacf70618b2279cc38b1c8a7/header.jpg?t=1783139410",
@@ -4244,7 +4309,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 860,
+      "price_rub": 861,
       "is_free": false
     },
     {
@@ -4783,6 +4848,19 @@
       "is_free": false
     },
     {
+      "id": 2143690,
+      "title": "TooneQuest",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143690/9105b6a7625dbbac4553b6d470d88bade53f8311/header.jpg?t=1783759627",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 711,
+      "is_free": false
+    },
+    {
       "id": 4761030,
       "title": "Touhou - Kira's Fangame Collection",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761030/bfe1d412159b781287351d5bc56b5821bdd6f237/header.jpg?t=1783516528",
@@ -4794,6 +4872,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4877890,
+      "title": "Touhou Russian Roulette",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/cb32067b3be69453f4c27e3cf251e18795933a69/header.jpg?t=1783753906",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 617,
+      "is_free": false
     },
     {
       "id": 3709030,
@@ -5470,6 +5561,19 @@
       "is_free": false
     },
     {
+      "id": 4612020,
+      "title": "刻命花嫁 Möbius Brides",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612020/bcb3357f9c76e83f7675e7554eda782b9aed65c9/header.jpg?t=1783753268",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 856,
+      "is_free": false
+    },
+    {
       "id": 4773850,
       "title": "剩余价值模拟器",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773850/63758787103c9c598355f41afbb080df84cb6c98/header.jpg?t=1783494355",
@@ -5494,6 +5598,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4740600,
+      "title": "咸鱼搬运工",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/277260cbe93ffb39aa8667c5c9b73d15c9107f7b/header.jpg?t=1783769715",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 825,
+      "is_free": false
     },
     {
       "id": 4375120,
