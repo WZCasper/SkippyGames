@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T01:44:07Z",
+  "generated_at": "2026-07-11T07:30:02Z",
   "uah_to_rub_rate": 1.718394,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 414,
+  "count": 425,
   "games": [
     {
       "id": 4675010,
@@ -770,6 +770,19 @@
       "is_free": false
     },
     {
+      "id": 4294400,
+      "title": "Clickstead",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294400/6c404639b47375df831c62184240c71ea03d3a13/header.jpg?t=1783730163",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 637,
+      "is_free": false
+    },
+    {
       "id": 4860070,
       "title": "CluDoku",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/e63f69ba06e6988a032cbc5a5272b16f6acc187f/header.jpg?t=1783510076",
@@ -1012,6 +1025,19 @@
       "is_free": false
     },
     {
+      "id": 4333240,
+      "title": "DUSK OF WAR",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333240/d192f4ab0febd3c0486a2493d6a50c98e0bbefb0/header.jpg?t=1783716117",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 734,
+      "is_free": false
+    },
+    {
       "id": 978280,
       "title": "Damn Zombies",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/978280/capsule_616x353.jpg",
@@ -1109,7 +1135,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 630,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -2253,9 +2279,22 @@
       "is_free": true
     },
     {
+      "id": 4563040,
+      "title": "Jiaobei: Вопрос к божеству",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563040/60fa4047ac92e9eca595b890fa5ba35cf8a2e9ba/header.jpg?t=1783739953",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 536,
+      "is_free": false
+    },
+    {
       "id": 4101270,
       "title": "Just Pool",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101270/e1d741f969e5ce75f3b9b46366b7f53a3f8908ef/header.jpg?t=1783436409",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101270/e1d741f969e5ce75f3b9b46366b7f53a3f8908ef/header.jpg?t=1783542351",
       "genres": [
         "Экшен"
       ],
@@ -2578,6 +2617,19 @@
       "is_free": false
     },
     {
+      "id": 3961580,
+      "title": "Math Frenzy",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961580/b3ae35e0cc4180945cc57c30811903052e1a6d14/header.jpg?t=1783726089",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 723,
+      "is_free": false
+    },
+    {
       "id": 4697170,
       "title": "Memo R.I.P.",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697170/61c7db5e948740489b59d6f59da9b8d23180746d/header.jpg?t=1783430063",
@@ -2794,7 +2846,7 @@
     {
       "id": 4508340,
       "title": "NTE: Neverness to Everness",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1783462313",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1783665098",
       "genres": [
         "Экшен"
       ],
@@ -2892,7 +2944,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 783,
+      "price_rub": 784,
       "is_free": false
     },
     {
@@ -3288,7 +3340,7 @@
     {
       "id": 3990210,
       "title": "Poolar Bear",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990210/c538846d324da2291a2c17ced4760864c2592647/header.jpg?t=1783450786",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990210/c538846d324da2291a2c17ced4760864c2592647/header.jpg?t=1783588030",
       "genres": [
         "Экшен"
       ],
@@ -3734,6 +3786,19 @@
       "is_free": true
     },
     {
+      "id": 4852880,
+      "title": "Save the Kingdom - Warrior Rising",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852880/e4e357a400104aae75fee1d3a309b73a683b73eb/header.jpg?t=1783720028",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 686,
+      "is_free": false
+    },
+    {
       "id": 3164500,
       "title": "Schedule I",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1773974661",
@@ -3767,6 +3832,19 @@
         "PC"
       ],
       "price_rub": 612,
+      "is_free": false
+    },
+    {
+      "id": 4717680,
+      "title": "Scourge of the Necromancer",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717680/6ccec98ac181eb8c519ba7f69c1e095a3877dddd/header.jpg?t=1783728029",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 895,
       "is_free": false
     },
     {
@@ -4250,7 +4328,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 654,
+      "price_rub": 655,
       "is_free": false
     },
     {
@@ -4282,6 +4360,19 @@
         "PC"
       ],
       "price_rub": 700,
+      "is_free": false
+    },
+    {
+      "id": 3606380,
+      "title": "Summer Days in the Joyful Countryside",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606380/ebfbd993c177c3368dccb44e72281d0e1311d7de/header.jpg?t=1783742406",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 720,
       "is_free": false
     },
     {
@@ -4349,7 +4440,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 855,
+      "price_rub": 1213,
       "is_free": false
     },
     {
@@ -4510,6 +4601,19 @@
       "is_free": true
     },
     {
+      "id": 4289180,
+      "title": "The Long Drift",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/e6a4edf658d763012b6fd0e1d8f24043dc8d8582/header.jpg?t=1783734394",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 672,
+      "is_free": false
+    },
+    {
       "id": 4012050,
       "title": "The Lost Mixtape",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012050/6165e4543ef47564bf06b9ae6e3f9c0b2b9cad32/header.jpg?t=1783710042",
@@ -4533,6 +4637,19 @@
         "PC"
       ],
       "price_rub": 729,
+      "is_free": false
+    },
+    {
+      "id": 4412900,
+      "title": "The Mutiny",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412900/8366f8c5937e2e0328226ebd611634265adc609b/header.jpg?t=1783753253",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 617,
       "is_free": false
     },
     {
@@ -5284,13 +5401,13 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 855,
+      "price_rub": 856,
       "is_free": false
     },
     {
       "id": 4848340,
       "title": "Смертоносный Воин",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848340/fb4e08d650ad07af1afed680506b856f22c54039/header.jpg?t=1783457636",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848340/fb4e08d650ad07af1afed680506b856f22c54039/header.jpg?t=1783734236",
       "genres": [
         "Экшен"
       ],
@@ -5405,6 +5522,19 @@
       "is_free": false
     },
     {
+      "id": 4542860,
+      "title": "异世界X异世界（Isekai x Isekai）",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542860/add38b55f88d50bbd971381dc4f24d87f2a8f7e0/header.jpg?t=1783741506",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 701,
+      "is_free": false
+    },
+    {
       "id": 4560290,
       "title": "心舞",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560290/e9a6b53aa8168467e0bf6c6d02935332821ff07a/header.jpg?t=1783648030",
@@ -5468,6 +5598,19 @@
       ],
       "price_rub": 541,
       "is_free": false
+    },
+    {
+      "id": 2943310,
+      "title": "诛心手术",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2943310/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 3996680,
