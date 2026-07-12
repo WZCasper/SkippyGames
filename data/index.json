@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T18:42:16Z",
-  "uah_to_rub_rate": 1.718394,
+  "generated_at": "2026-07-12T01:26:32Z",
+  "uah_to_rub_rate": 1.718055,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 439,
+  "count": 449,
   "games": [
     {
       "id": 4675010,
@@ -266,6 +266,23 @@
       "is_free": true
     },
     {
+      "id": 367270,
+      "title": "Angels Fall First",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/367270/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Технические симуляторы",
+        "Тактические шутеры",
+        "Песочницы (Sandbox)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 900,
+      "is_free": false
+    },
+    {
       "id": 4872780,
       "title": "Anomaly Control Division",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/d9d66936454fde48ac72e8393b8f115c34edc138/header.jpg?t=1783669401",
@@ -374,6 +391,19 @@
         "PC"
       ],
       "price_rub": 892,
+      "is_free": false
+    },
+    {
+      "id": 3723580,
+      "title": "Ascension of the Dead",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3723580/d9843c7329f6152a3503ac6edff775bb7be87ccd/header.jpg?t=1783750042",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 723,
       "is_free": false
     },
     {
@@ -702,6 +732,19 @@
         "PC"
       ],
       "price_rub": 809,
+      "is_free": false
+    },
+    {
+      "id": 4799150,
+      "title": "Calculus of Rot",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799150/d9cae5d47394c853b32c8e3e7ea6d260893c8802/header.jpg?t=1783772566",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 634,
       "is_free": false
     },
     {
@@ -1204,6 +1247,19 @@
       "is_free": false
     },
     {
+      "id": 3983240,
+      "title": "Diagram Awesome",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983240/70f04671bb905b95706fda4498b52493f12b6818/header.jpg?t=1783783593",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 909,
+      "is_free": false
+    },
+    {
       "id": 4821520,
       "title": "Diamond-Die",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821520/67d9709c63856fa04e78352944b5d89f8cc1b8d9/header.jpg?t=1783656068",
@@ -1683,6 +1739,19 @@
       "is_free": false
     },
     {
+      "id": 4630060,
+      "title": "Forever Virgin Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630060/9ffc8f28fdee11e457976fcc2ccdcd35456ed8ec/header.jpg?t=1783784933",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 541,
+      "is_free": false
+    },
+    {
       "id": 2483190,
       "title": "Forza Horizon 6",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
@@ -1738,6 +1807,19 @@
       "id": 3406920,
       "title": "GaebongAllStar",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3406920/b4f277f082d9d9d9665a4d1815ae4a9c8ecb6cff/header.jpg?t=1783693528",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 546,
+      "is_free": false
+    },
+    {
+      "id": 3807420,
+      "title": "Galaxy Defenders (Classic TD)",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3807420/584446a84888d3bfe96bade28910e07d6af0e486/header.jpg?t=1783761246",
       "genres": [
         "Экшен"
       ],
@@ -1964,6 +2046,19 @@
       "is_free": false
     },
     {
+      "id": 4336300,
+      "title": "Health Audit Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/3b66cd0a76116252561ab1f27491869c7ec90733/header.jpg?t=1783785527",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 921,
+      "is_free": false
+    },
+    {
       "id": 4753930,
       "title": "Heart of a Hero - Chapter 1",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753930/475126ce657134687753f05ea2b177dcf10ba6ca/header.jpg?t=1783667317",
@@ -2039,6 +2134,19 @@
         "PC"
       ],
       "price_rub": 586,
+      "is_free": false
+    },
+    {
+      "id": 4660300,
+      "title": "Hentai Flesh",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660300/23892b267671afe9c1e985d189415ece9f880f65/header.jpg?t=1783799938",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 570,
       "is_free": false
     },
     {
@@ -3336,7 +3444,7 @@
     {
       "id": 4771430,
       "title": "Pickel: The Mysterious Mine",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/5b0ee09af3f9907e48ced5db72d829aa6d23320b/header.jpg?t=1783247688",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/5b0ee09af3f9907e48ced5db72d829aa6d23320b/header.jpg?t=1783541867",
       "genres": [
         "Экшен"
       ],
@@ -3892,7 +4000,7 @@
     {
       "id": 4760110,
       "title": "Sauve le Shérif !",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760110/2d109ea2a26e9b870bd0b4153db4a8f6d1a69be0/header.jpg?t=1783526415",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760110/2d109ea2a26e9b870bd0b4153db4a8f6d1a69be0/header.jpg?t=1783779741",
       "genres": [
         "Экшен"
       ],
@@ -4278,7 +4386,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 678,
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -4635,7 +4743,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 678,
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -4701,7 +4809,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 793,
+      "price_rub": 794,
       "is_free": false
     },
     {
@@ -4909,7 +5017,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1140,
+      "price_rub": 1141,
       "is_free": false
     },
     {
@@ -4989,6 +5097,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 2414410,
+      "title": "Tri City Monsters",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2414410/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1411,
+      "is_free": false
     },
     {
       "id": 4742610,
@@ -5357,6 +5478,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4811410,
+      "title": "Zombie Queen",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811410/d6925f2227b4787f5b0b6018496e76766a8ac79c/header.jpg?t=1783812558",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 899,
+      "is_free": false
     },
     {
       "id": 4855490,

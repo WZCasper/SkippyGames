@@ -1,8 +1,8 @@
 {
   "id": 4771430,
   "title": "Pickel: The Mysterious Mine",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/5b0ee09af3f9907e48ced5db72d829aa6d23320b/header.jpg?t=1783247688",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4771430?t=1783247688",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/5b0ee09af3f9907e48ced5db72d829aa6d23320b/header.jpg?t=1783541867",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4771430?t=1783541867",
   "description": "Об игреВнезапное мощное землетрясение разрушает мирный шахтерский городок. Проснувшись, вы обнаруживаете, что все соседи исчезли, а некогда оживленное поселение утратило былую жизнь. Единственная зацепка — странная вибрация, доносящаяся из самых глубин земли.\n\nГлавный герой по имени Пико отправляется в опасный подземный мир, чтобы спасти жителей, оказавшихся в ловушке под завалами шахт, и выяснить причину катастрофы. Собирайте ресурсы в подземелье и восстанавливайте разрушенный город. Справится ли Пико с непредсказуемой тьмой, сможет ли спасти всех и вернуть мир в родные края?\n\nИсследуйте неизведанные глубины с помощью кирки и фонаря, разгоняющего непроглядную тьму, и добывайте редкие ресурсы, необходимые для восстановления города.\n\nСпасайте ждущих под землей жителей, помогайте им вернуться в город и собирайте ресурсы для ремонта разрушенных зданий. Чем лучше развит город, тем больше разнообразных и полезных предметов вы сможете подготовить для своих экспедиций.\n\nИщите улики и следы, разбросанные по всему подземному миру. Чем глубже вы спускаетесь, тем яснее проступают истинные причины катастрофы и скрытые тайны, сотрясшие ваш город.",
   "description_short": "Загадочное землетрясение стерло жителей города без следа. В роли Пико отправляйтесь вглубь темного подземного мира. С каждым ударом кирки находите странные зацепки. Чем глубже вы спускаетесь, тем ближе вы к скрытой правде. Что же ждет вас в самом конце шахты?",
   "genres": [
@@ -14,15 +14,15 @@
   "price_rub": 617,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "ibDVkf4I79E",
+  "trailer_youtube_id": "Tihl-UZyhFI",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/9e974568a4d1aaadb7d9a1ffc58f62e2a7393eac/ss_9e974568a4d1aaadb7d9a1ffc58f62e2a7393eac.1920x1080.jpg?t=1783247688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/af7f06568bb7b3b8aed34bd9d4ade9fe4f6c8d02/ss_af7f06568bb7b3b8aed34bd9d4ade9fe4f6c8d02.1920x1080.jpg?t=1783247688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/affb92cab1b1e3e1343be2bdbcc630c49179c6be/ss_affb92cab1b1e3e1343be2bdbcc630c49179c6be.1920x1080.jpg?t=1783247688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/96415e2efb1ac384ffb9b664c72e897bf95475e4/ss_96415e2efb1ac384ffb9b664c72e897bf95475e4.1920x1080.jpg?t=1783247688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/978816aa0399bd4bbcbd9634ba3076e0a0f3dad0/ss_978816aa0399bd4bbcbd9634ba3076e0a0f3dad0.1920x1080.jpg?t=1783247688"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/9e974568a4d1aaadb7d9a1ffc58f62e2a7393eac/ss_9e974568a4d1aaadb7d9a1ffc58f62e2a7393eac.1920x1080.jpg?t=1783541867",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/af7f06568bb7b3b8aed34bd9d4ade9fe4f6c8d02/ss_af7f06568bb7b3b8aed34bd9d4ade9fe4f6c8d02.1920x1080.jpg?t=1783541867",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/affb92cab1b1e3e1343be2bdbcc630c49179c6be/ss_affb92cab1b1e3e1343be2bdbcc630c49179c6be.1920x1080.jpg?t=1783541867",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/96415e2efb1ac384ffb9b664c72e897bf95475e4/ss_96415e2efb1ac384ffb9b664c72e897bf95475e4.1920x1080.jpg?t=1783541867",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/978816aa0399bd4bbcbd9634ba3076e0a0f3dad0/ss_978816aa0399bd4bbcbd9634ba3076e0a0f3dad0.1920x1080.jpg?t=1783541867"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-08T19:01:58Z"
+  "updated_at": "2026-07-12T01:22:07Z"
 }
