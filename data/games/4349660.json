@@ -1,0 +1,31 @@
+{
+  "id": 4349660,
+  "title": "Almost A Ghost",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/c8c24926cc556d67f704d1746f7c6493bc3fdf64/header.jpg?t=1783865782",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4349660?t=1783865782",
+  "description": "Almost a Ghost — это головоломка на сетке, вдохновлённая классическим Sokoban, расширенная современными механиками и тонкой темой стремления к реальности.Вы управляете персонажем, который мечтает стать настоящим призраком.Передвигайте ящики, решайте головоломки и остерегайтесь смертельных лазерных лучей.Помните — вы ещё не настоящий призрак.Вас ждёт множество тщательно продуманных уровней с чистой и понятной структурой.Скользящие ледяные блоки, взрывающиеся ящики, скользкие поверхности, телепорты, смертельные лазеры и разрушаемые пути предлагают свежий взгляд на традиционный формат Sokoban.Механики вводятся постепенно и закрепляются со временем. Всё, чему вы научились, может вернуться в более сложных задачах, требуя продуманного планирования и сочетания систем.Инструменты отмены и сброса позволяют экспериментировать и пересматривать стратегию. И ближе к финалу ничто не помешает вам стать настоящим призраком.",
+  "description_short": "Almost a Ghost — это пошаговая головоломка в духе Sokoban о духе, застрявшем между мирами. Передвигай ящики, осваивай новые механики и постепенно приближайся к тому, чтобы стать реальным.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 768,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "0Vb0F_CN83E",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/4a24908c771046620a83db9377e2f058e31d1f7e/ss_4a24908c771046620a83db9377e2f058e31d1f7e.1920x1080.jpg?t=1783865782",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/b31dccc9a6afb47819b001dea991778f7e6594a7/ss_b31dccc9a6afb47819b001dea991778f7e6594a7.1920x1080.jpg?t=1783865782",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/385f9de245e30a656396b9c8d511e6ab273d00ca/ss_385f9de245e30a656396b9c8d511e6ab273d00ca.1920x1080.jpg?t=1783865782",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/4dd48fc580a4960a77714cc5315aaa0da7b6c466/ss_4dd48fc580a4960a77714cc5315aaa0da7b6c466.1920x1080.jpg?t=1783865782",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/030ef2f8f3812dcc7939a2d803276cca6c19d477/ss_030ef2f8f3812dcc7939a2d803276cca6c19d477.1920x1080.jpg?t=1783865782",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/64ba6468c633ce7712fe40b2d298612a980995c6/ss_64ba6468c633ce7712fe40b2d298612a980995c6.1920x1080.jpg?t=1783865782",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/c82a3a40adf993104646680584828e86e2ced233/ss_c82a3a40adf993104646680584828e86e2ced233.1920x1080.jpg?t=1783865782",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349660/480a259fc5794c0f08e4f65308afd9f25e756568/ss_480a259fc5794c0f08e4f65308afd9f25e756568.1920x1080.jpg?t=1783865782"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-12T18:45:44Z"
+}
