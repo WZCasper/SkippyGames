@@ -1,0 +1,28 @@
+{
+  "id": 4826250,
+  "title": "Ashen Crown",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826250/dc9253adb8d321bd0e2ee372a063a51613bf5919/header.jpg?t=1783819014",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826250/581ba9e3690abcf027b7935a3b2f0fee402db29e/page_bg_raw.jpg?t=1783819014",
+  "description": "Ashen Crown is a single-player roguelite autobattler. You pick a fighter and climb a run of twenty battles toward a final boss. The fights resolve themselves. The whole game lives in the build you assemble before each one.\n\nGo as deep, or as wide, as you want. Twelve weapons, each wanting to be played its own way. On top of them sit 24 classes and 53 subspecs that twist a weapon down its own route, plus 247 skills, 94 masteries, and a stack of trinkets. Pour everything into one weapon and ride it as far as it goes, or sprawl across several and mix into something strange. Breaking the game open is the point.\n\nEvery choice opens more choices. Most games in this genre go deep or wide, or stay shallow at both. Ashen Crown is built so each pick branches into the next: a weapon leads to a class, a class to a subspec, a subspec to a build you didn't plan. Five hidden fusion subspecs wait for players who combine the right two paths.\n\nClimb the run. Twenty battles, minibosses along the way, and a final boss, The Ravager, at the summit. Win or lose, the next run is a different build.\n\nAn experiment, and an honest one.\n\nThis was a passion project run alongside an experiment: to take AI up on its word, and to see how far we could actually go in doing what we otherwise couldn't. Ashen Crown is built almost entirely with AI. The only input we gave was the vision of the game we wanted to make. Everything else, from the graphics and audio to the balancing, was done using a single AI tool: Claude.\n\nIf you are interested in the experiment and what we learned, you can read about it at our Official Website. We invite you to break it open and see how Claude clobbered together code to make what we wanted happen. Or use it as a footnote to show people why you shouldn't use AI to code. The source code is available on the website.\n\nWait. If the code is free, why am I paying for this?\n\nMaking it still took time. Putting this page up still cost time and money. We are charging because this whole thing was about fulfilling a dream, making and publishing a game, and putting it here on Steam was part of that dream. We think the price is fair for the effort poured in, and you are by no means buying a broken product.\n\nSo if you buy the game: thank you for supporting our adventure.\n\nThat's it. If you are reading this, we hope you support us and have fun. Please share your feedback on the community page. And if you have downloaded it, reskinned it, reworked it, or just have questions, come talk to us on the community page.",
+  "description_short": "A single-player roguelite autobattler built almost entirely with AI. Pick a fighter, climb 20 battles to a final boss, and win in the build you assemble: 12 weapons, 24 classes, 53 subspecs, 247 skills. Go deep on one path or sprawl across many and break the game open.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 739,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "tkxlBhlxDBA",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826250/507b0f7571a92aa3c471211789b813c3c2ac4738/ss_507b0f7571a92aa3c471211789b813c3c2ac4738.1920x1080.jpg?t=1783819014",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826250/552a81af90dabe3225dd2497d5755586b1a7d143/ss_552a81af90dabe3225dd2497d5755586b1a7d143.1920x1080.jpg?t=1783819014",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826250/c2e3f76e74a533153a6e42da7062036a6fd0c128/ss_c2e3f76e74a533153a6e42da7062036a6fd0c128.1920x1080.jpg?t=1783819014",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826250/ea579168294cd4c6623dbe8e557318eb4f92bc96/ss_ea579168294cd4c6623dbe8e557318eb4f92bc96.1920x1080.jpg?t=1783819014",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826250/345c7b992cc06b4262da400b73f467949410c94c/ss_345c7b992cc06b4262da400b73f467949410c94c.1920x1080.jpg?t=1783819014"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-12T12:49:06Z"
+}

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-12T07:54:47Z",
+  "generated_at": "2026-07-12T12:49:07Z",
   "uah_to_rub_rate": 1.718055,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 454,
+  "count": 460,
   "games": [
     {
       "id": 4675010,
@@ -420,6 +420,19 @@
       "is_free": false
     },
     {
+      "id": 4826250,
+      "title": "Ashen Crown",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826250/dc9253adb8d321bd0e2ee372a063a51613bf5919/header.jpg?t=1783819014",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 739,
+      "is_free": false
+    },
+    {
       "id": 3751950,
       "title": "Assassin's Creed Black Flag Resynced",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1783617053",
@@ -724,7 +737,7 @@
     {
       "id": 4481560,
       "title": "CORGI & WOOLLY - Little Horizon -",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481560/fae60558982f1bf7767fa55bf04a217375549cee/header.jpg?t=1783584916",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481560/fae60558982f1bf7767fa55bf04a217375549cee/header.jpg?t=1783745946",
       "genres": [
         "Экшен"
       ],
@@ -1089,7 +1102,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1220,
+      "price_rub": 2904,
       "is_free": false
     },
     {
@@ -1921,6 +1934,23 @@
       "is_free": false
     },
     {
+      "id": 2431980,
+      "title": "Goblin Camp",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2431980/capsule_616x353.jpg",
+      "genres": [
+        "Градостроительные симуляторы",
+        "Песочницы (Sandbox)",
+        "Экономические симуляторы",
+        "Технические симуляторы",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 928,
+      "is_free": false
+    },
+    {
       "id": 4854700,
       "title": "Goblin Solitaire",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854700/d93883a14cdbfd219ca4cf3ccb0f41e12e52d8bd/header.jpg?t=1783636757",
@@ -2692,7 +2722,7 @@
     {
       "id": 4872690,
       "title": "Love Train",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1783582371",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1783648511",
       "genres": [
         "Экшен"
       ],
@@ -3214,7 +3244,7 @@
     {
       "id": 4519490,
       "title": "Nyctophobia",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519490/262ab9bc9c2fa3e165ccd702420ac9ce05acece6/header.jpg?t=1783460817",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519490/9e24cfb40707fc1c07bf9dc4ba399f32859436ce/header.jpg?t=1783817584",
       "genres": [
         "Экшен"
       ],
@@ -3599,6 +3629,19 @@
         "PC"
       ],
       "price_rub": 610,
+      "is_free": false
+    },
+    {
+      "id": 4876150,
+      "title": "Pore Cleaning Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876150/9e6313b8c3b0e208057a57f05465c794b0444947/header.jpg?t=1783843587",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 531,
       "is_free": false
     },
     {
@@ -4077,7 +4120,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 928,
+      "price_rub": 1213,
       "is_free": false
     },
     {
@@ -5268,6 +5311,19 @@
       "is_free": false
     },
     {
+      "id": 4863520,
+      "title": "Urban Rangers Arcade 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863520/92c22c9e598b3041c9aca119d1868d718dc7692a/header.jpg?t=1783852656",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 895,
+      "is_free": false
+    },
+    {
       "id": 4849630,
       "title": "Vape Store Miami: Prologue",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849630/e7a3388483fedf0aec1af1844aa5363965869a3b/header.jpg?t=1783616729",
@@ -5322,7 +5378,7 @@
     {
       "id": 4508570,
       "title": "Veritas Tales: Witch of the Dark Castle",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1783565726",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1783665720",
       "genres": [
         "Экшен"
       ],
@@ -5665,7 +5721,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 662,
+      "price_rub": 2130,
       "is_free": false
     },
     {
@@ -5799,9 +5855,22 @@
       "is_free": false
     },
     {
+      "id": 4798150,
+      "title": "人生记事簿：Life Memoirs",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798150/3d387a14bf3554d001ae6cf3a9db6e1041a731cb/header.jpg?t=1783824818",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 637,
+      "is_free": false
+    },
+    {
       "id": 4829980,
       "title": "仙途放置：无尽天梯和完美装备",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1783582604",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1783598166",
       "genres": [
         "Экшен"
       ],
@@ -6017,6 +6086,19 @@
         "PC"
       ],
       "price_rub": 701,
+      "is_free": false
+    },
+    {
+      "id": 4886100,
+      "title": "魔法少女甜心3D Magical Girl Sweetheart 3D",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886100/2c024ccff5f6b33741d701daec4596b84175d0fc/header.jpg?t=1783849644",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 536,
       "is_free": false
     },
     {
