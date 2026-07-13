@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 680,
+  "price_rub": 681,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "yKV8veTETRA",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517560/24d963e0f9c9425e987e54458bb64f02ed42a832/ss_24d963e0f9c9425e987e54458bb64f02ed42a832.1920x1080.jpg?t=1783672357",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517560/ab5a6f3d5587e1541a468ac516362903f3ec2571/ss_ab5a6f3d5587e1541a468ac516362903f3ec2571.1920x1080.jpg?t=1783672357",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-10T13:52:23Z"
+  "updated_at": "2026-07-13T14:37:40Z"
 }

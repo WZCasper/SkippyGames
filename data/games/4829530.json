@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "53S_SYc084k",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829530/bb39fa56e5e9f8b678b2a7d1af8228e7b0558794/ss_bb39fa56e5e9f8b678b2a7d1af8228e7b0558794.1920x1080.jpg?t=1783414874",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829530/ac283127c6199ceeef0f94796296b7b06d00490a/ss_ac283127c6199ceeef0f94796296b7b06d00490a.1920x1080.jpg?t=1783414874",
@@ -25,5 +25,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-10T13:51:01Z"
+  "updated_at": "2026-07-13T14:20:57Z"
 }
