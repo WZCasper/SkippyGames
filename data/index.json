@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-12T18:45:56Z",
-  "uah_to_rub_rate": 1.718055,
+  "generated_at": "2026-07-13T01:29:43Z",
+  "uah_to_rub_rate": 1.725234,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 469,
+  "count": 477,
   "games": [
     {
       "id": 4675010,
@@ -474,7 +474,7 @@
     {
       "id": 4822820,
       "title": "Audictrl",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822820/d76c93aee05087d4000b76db85ff259be0270f59/header.jpg?t=1783346867",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822820/d76c93aee05087d4000b76db85ff259be0270f59/header.jpg?t=1783865246",
       "genres": [
         "Экшен"
       ],
@@ -867,14 +867,14 @@
     {
       "id": 4380490,
       "title": "Cat Mail Co.",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1783610189",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1783683473",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 947,
+      "price_rub": 949,
       "is_free": false
     },
     {
@@ -1123,7 +1123,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 747,
+      "price_rub": 748,
+      "is_free": false
+    },
+    {
+      "id": 4838900,
+      "title": "Custom Pinball",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838900/705061b11af37f3242abeab7680b6e516ffa591b/header.jpg?t=1783894844",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 673,
       "is_free": false
     },
     {
@@ -1136,7 +1149,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 637,
+      "price_rub": 638,
       "is_free": false
     },
     {
@@ -1288,7 +1301,7 @@
     {
       "id": 4834000,
       "title": "Deadlined.",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/083f6053171abb6842cab8194e060811ded29f41/header.jpg?t=1783612499",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/083f6053171abb6842cab8194e060811ded29f41/header.jpg?t=1783757842",
       "genres": [
         "Экшен"
       ],
@@ -1497,7 +1510,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 570,
+      "price_rub": 571,
       "is_free": false
     },
     {
@@ -1524,6 +1537,19 @@
         "PC"
       ],
       "price_rub": 639,
+      "is_free": false
+    },
+    {
+      "id": 4474430,
+      "title": "EchoLink: Recursion",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474430/329022f74e1d8b514c01927a3c7783d5b27c3e60/header.jpg?t=1783890586",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 764,
       "is_free": false
     },
     {
@@ -1866,6 +1892,19 @@
         "PC"
       ],
       "price_rub": 4432,
+      "is_free": false
+    },
+    {
+      "id": 4568980,
+      "title": "Fu-Fu-Chan -way up!-",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568980/b7a294d92a9e471f705d885a916d0bfa8bcd2b87/header.jpg?t=1783888527",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 705,
       "is_free": false
     },
     {
@@ -2312,14 +2351,14 @@
     {
       "id": 3566760,
       "title": "Herb's Homegrown Havoc",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/c0c71c3da2e0b3a54adbb994e05ad894896d9d9c/header.jpg?t=1783335619",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/c0c71c3da2e0b3a54adbb994e05ad894896d9d9c/header.jpg?t=1783765859",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 601,
+      "price_rub": 602,
       "is_free": false
     },
     {
@@ -2677,7 +2716,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1598,
+      "price_rub": 1602,
+      "is_free": false
+    },
+    {
+      "id": 4474500,
+      "title": "Kvga",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474500/efe153ce2de1fbd5bb033ecafaf7767fbf9fd499/header.jpg?t=1783894375",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 785,
       "is_free": false
     },
     {
@@ -2865,7 +2917,7 @@
     {
       "id": 4293770,
       "title": "Mandala",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293770/2d82633f24a216e1198a96abf7d9479db020e31c/header.jpg?t=1783346424",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293770/2d82633f24a216e1198a96abf7d9479db020e31c/header.jpg?t=1783695526",
       "genres": [
         "Экшен"
       ],
@@ -2998,7 +3050,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 806,
+      "price_rub": 807,
       "is_free": false
     },
     {
@@ -3231,14 +3283,14 @@
     {
       "id": 4813570,
       "title": "Nightclub Empire",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813570/a66268bb5600a84e13e9c73dab20c51b3d574345/header.jpg?t=1783334355",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813570/a66268bb5600a84e13e9c73dab20c51b3d574345/header.jpg?t=1783810363",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 701,
+      "price_rub": 702,
       "is_free": false
     },
     {
@@ -3359,6 +3411,19 @@
       "is_free": false
     },
     {
+      "id": 4145130,
+      "title": "ORPHEUS: TO HELL AND BACK",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145130/043637bdbe3adb2aa03f12b9b902dcf8a1fd6bc7/header.jpg?t=1783900772",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 631,
+      "is_free": false
+    },
+    {
       "id": 4859790,
       "title": "OUTWORKS",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859790/8f198bb65bc5f28041476233bb2d334bf5b212df/header.jpg?t=1783410470",
@@ -3381,7 +3446,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 615,
+      "price_rub": 616,
       "is_free": false
     },
     {
@@ -3641,7 +3706,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 570,
+      "price_rub": 571,
       "is_free": false
     },
     {
@@ -3706,7 +3771,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 856,
+      "price_rub": 857,
       "is_free": false
     },
     {
@@ -3738,14 +3803,14 @@
     {
       "id": 4820270,
       "title": "Prince of Vibe Code",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/b39f2048a7fb92bd011239f2bc44af96ea0d7ab3/header.jpg?t=1783616610",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/b39f2048a7fb92bd011239f2bc44af96ea0d7ab3/header.jpg?t=1783749283",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 577,
+      "price_rub": 578,
       "is_free": false
     },
     {
@@ -4058,7 +4123,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 646,
+      "price_rub": 647,
       "is_free": false
     },
     {
@@ -4416,7 +4481,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 691,
+      "price_rub": 692,
       "is_free": false
     },
     {
@@ -4757,7 +4822,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 997,
+      "price_rub": 999,
       "is_free": false
     },
     {
@@ -4896,14 +4961,14 @@
     {
       "id": 4815620,
       "title": "Tattoo Dungeon",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815620/8852dec7f7dfa562666d2412137fa4b940655736/header.jpg?t=1783611755",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815620/8852dec7f7dfa562666d2412137fa4b940655736/header.jpg?t=1783637863",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 766,
+      "price_rub": 767,
       "is_free": false
     },
     {
@@ -5112,7 +5177,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 631,
+      "price_rub": 547,
       "is_free": false
     },
     {
@@ -5506,6 +5571,19 @@
       "is_free": false
     },
     {
+      "id": 4834200,
+      "title": "Village Survivors",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834200/95dc49bca765d854418219b27fe18e7d5d8c7ce2/header.jpg?t=1783873961",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
+      "is_free": false
+    },
+    {
       "id": 4367370,
       "title": "Visionaire Studio",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/862f4f747af0acee5bb3eb586d3300a7c8d2748b/header.jpg?t=1783183033",
@@ -5809,7 +5887,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 801,
+      "price_rub": 802,
       "is_free": false
     },
     {
@@ -5877,7 +5955,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 675,
+      "price_rub": 676,
       "is_free": false
     },
     {
@@ -5920,6 +5998,19 @@
       "is_free": false
     },
     {
+      "id": 4809570,
+      "title": "Свидание Судного дня",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809570/dac165da715c7b310320009c2456e8eb7b29bbc2/header.jpg?t=1783879542",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 676,
+      "is_free": false
+    },
+    {
       "id": 4848340,
       "title": "Смертоносный Воин",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848340/fb4e08d650ad07af1afed680506b856f22c54039/header.jpg?t=1783734236",
@@ -5944,6 +6035,19 @@
       ],
       "price_rub": 546,
       "is_free": false
+    },
+    {
+      "id": 4485620,
+      "title": "アルテスノート",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485620/9160315d887fed1924fc049a0a0db85d8a982231/header.jpg?t=1783900619",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 3515060,

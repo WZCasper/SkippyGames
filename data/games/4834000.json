@@ -1,9 +1,9 @@
 {
   "id": 4834000,
   "title": "Deadlined.",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/083f6053171abb6842cab8194e060811ded29f41/header.jpg?t=1783612499",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/b2723d23545f48c1d01646719c771dfd49adf340/page_bg_raw.jpg?t=1783612499",
-  "description": "• Deadlined. is a short psychological horror game where you are far behind on your paperwork and thus working overtime alone. You work in an office building and your job is to inspect Death Certificates for mistakes. \n\n• Check your PC for information from the database and check the printed certificates for errors. If a certificate contains an error, stamp it Declined. If all information matches up correctly, stamp it Approved. \n\n• You have less than an hour, before midnight, to finish your remaining work before the Deadline ends and the office building shuts down. As you work, an unfortunate thing happens... After the incident you start to feel like you're not alone anymore, but you try to stay focused and complete your work as your time is running out...\n\nCheck your PC for information from the database using the certificate number.\n\nCheck the certificates for mistakes and stamp them either approved or declined.\n\nFinish your work before the office shuts down.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/083f6053171abb6842cab8194e060811ded29f41/header.jpg?t=1783757842",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/b2723d23545f48c1d01646719c771dfd49adf340/page_bg_raw.jpg?t=1783757842",
+  "description": "• What begins as a normal shift won't stay that way for long...\n\n• Deadlined. is a short psychological horror game where you are far behind on your paperwork and thus working overtime alone. You work in an office building and your job is to inspect Death Certificates for mistakes. \n\n• Check your PC for information from the database and check the printed certificates for errors. If a certificate contains an error, stamp it Declined. If all information matches up correctly, stamp it Approved. \n\n• You have less than an hour, before midnight, to finish your remaining work before the Deadline ends and the office building shuts down. As you work, an unfortunate thing happens... After the incident you start to feel like you're not alone anymore, but you try to stay focused and complete your work as your time is running out...\n\nCheck your PC for information from the database using the certificate number.\n\nCheck the certificates for mistakes and stamp them either approved or declined.\n\nFinish your work before the office shuts down.",
   "description_short": "a Psychological Horror where you lose yourself while trying to finish your paperwork before the Deadline.",
   "genres": [
     "Экшен"
@@ -14,16 +14,16 @@
   "price_rub": 586,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "mgxbU2EUOQM",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/e34697eb3213c393977d4283d0cc4e04cc611a4b/ss_e34697eb3213c393977d4283d0cc4e04cc611a4b.1920x1080.jpg?t=1783612499",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/2f8b55815a979e4ba05127957ee79829ee643c03/ss_2f8b55815a979e4ba05127957ee79829ee643c03.1920x1080.jpg?t=1783612499",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/b726670ec58a96d59aae478760b7e45204b2ef51/ss_b726670ec58a96d59aae478760b7e45204b2ef51.1920x1080.jpg?t=1783612499",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/d17d46308ea5e41545077e23d2e58f934a98ea67/ss_d17d46308ea5e41545077e23d2e58f934a98ea67.1920x1080.jpg?t=1783612499",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/35e34f5bfd062976537381df5eb2327a5cefd012/ss_35e34f5bfd062976537381df5eb2327a5cefd012.1920x1080.jpg?t=1783612499",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/64baece84aa25eb0454202a158f53bf4d4dac867/ss_64baece84aa25eb0454202a158f53bf4d4dac867.1920x1080.jpg?t=1783612499"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/e34697eb3213c393977d4283d0cc4e04cc611a4b/ss_e34697eb3213c393977d4283d0cc4e04cc611a4b.1920x1080.jpg?t=1783757842",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/2f8b55815a979e4ba05127957ee79829ee643c03/ss_2f8b55815a979e4ba05127957ee79829ee643c03.1920x1080.jpg?t=1783757842",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/b726670ec58a96d59aae478760b7e45204b2ef51/ss_b726670ec58a96d59aae478760b7e45204b2ef51.1920x1080.jpg?t=1783757842",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/d17d46308ea5e41545077e23d2e58f934a98ea67/ss_d17d46308ea5e41545077e23d2e58f934a98ea67.1920x1080.jpg?t=1783757842",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/35e34f5bfd062976537381df5eb2327a5cefd012/ss_35e34f5bfd062976537381df5eb2327a5cefd012.1920x1080.jpg?t=1783757842",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834000/64baece84aa25eb0454202a158f53bf4d4dac867/ss_64baece84aa25eb0454202a158f53bf4d4dac867.1920x1080.jpg?t=1783757842"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-09T19:18:31Z"
+  "updated_at": "2026-07-13T01:26:28Z"
 }

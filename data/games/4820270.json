@@ -1,8 +1,8 @@
 {
   "id": 4820270,
   "title": "Prince of Vibe Code",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/b39f2048a7fb92bd011239f2bc44af96ea0d7ab3/header.jpg?t=1783616610",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/af0c1896d565ccfcc3887817e683a15515ee34c3/page_bg_raw.jpg?t=1783616610",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/b39f2048a7fb92bd011239f2bc44af96ea0d7ab3/header.jpg?t=1783749283",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/af0c1896d565ccfcc3887817e683a15515ee34c3/page_bg_raw.jpg?t=1783749283",
   "description": "The Prince of Vibe Code is an incremental game where you become the most successful game developer. \n\nKey Features:\n\n- Create games with just a few clicks\n\n- Click to fix bugs\n\n- Follow the conversation and enjoy the story\n\n- Play and sell your games\n\n- Publish your games\n\n- Get Sales Prediction \n\n- Earn income from every game you've ever shipped\n\n- Lifestyle Shop \n\n \n\n- Gain followers and turn them into loyal customers\n\n- Sell Items \n\n- 44 Playable Games\n\n- Earn income from playing your games\n\n- Build a game dev empire one release at a time\n\n- Continuous Revenue Stream\n\n- Idle Earnings and Offline Progress\n\n- Multiple Rounds (Prestige Reset)\n\n- You win when you have $1,000,000,000,000 and seven billion followers.",
   "description_short": "An incremental game where you become the most successful game developer. Create and play 44 games with just a few clicks, read the chat and follow the story, sell your games, and grow your fanbase. You win when you have $1,000,000,000,000 and 7 billion followers.",
   "genres": [
@@ -11,20 +11,20 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 577,
+  "price_rub": 578,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "0wB80xY1Irc",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/4a27893956ddf2f11daa48d15e7fdc2bb12c0f29/ss_4a27893956ddf2f11daa48d15e7fdc2bb12c0f29.1920x1080.jpg?t=1783616610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/e2b06a9b64b906e900fe388283abb41137e68906/ss_e2b06a9b64b906e900fe388283abb41137e68906.1920x1080.jpg?t=1783616610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/b965cab720b7b037cbe0086ac3d0bdc6475dcdef/ss_b965cab720b7b037cbe0086ac3d0bdc6475dcdef.1920x1080.jpg?t=1783616610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/a8a07e148020368865b4f551218dcf21458669c7/ss_a8a07e148020368865b4f551218dcf21458669c7.1920x1080.jpg?t=1783616610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/92bcf70969167d439b34b85d4f16ccb934a468df/ss_92bcf70969167d439b34b85d4f16ccb934a468df.1920x1080.jpg?t=1783616610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/0e5056878358fa9c7856e9424a186c981608c213/ss_0e5056878358fa9c7856e9424a186c981608c213.1920x1080.jpg?t=1783616610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/f2cb871065f8f2d96ba596ddad54600fc571db67/ss_f2cb871065f8f2d96ba596ddad54600fc571db67.1920x1080.jpg?t=1783616610"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/92bcf70969167d439b34b85d4f16ccb934a468df/ss_92bcf70969167d439b34b85d4f16ccb934a468df.1920x1080.jpg?t=1783749283",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/b965cab720b7b037cbe0086ac3d0bdc6475dcdef/ss_b965cab720b7b037cbe0086ac3d0bdc6475dcdef.1920x1080.jpg?t=1783749283",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/0e5056878358fa9c7856e9424a186c981608c213/ss_0e5056878358fa9c7856e9424a186c981608c213.1920x1080.jpg?t=1783749283",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/f2cb871065f8f2d96ba596ddad54600fc571db67/ss_f2cb871065f8f2d96ba596ddad54600fc571db67.1920x1080.jpg?t=1783749283",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/4a27893956ddf2f11daa48d15e7fdc2bb12c0f29/ss_4a27893956ddf2f11daa48d15e7fdc2bb12c0f29.1920x1080.jpg?t=1783749283",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/e2b06a9b64b906e900fe388283abb41137e68906/ss_e2b06a9b64b906e900fe388283abb41137e68906.1920x1080.jpg?t=1783749283",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820270/a8a07e148020368865b4f551218dcf21458669c7/ss_a8a07e148020368865b4f551218dcf21458669c7.1920x1080.jpg?t=1783749283"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-09T19:18:24Z"
+  "updated_at": "2026-07-13T01:24:51Z"
 }
