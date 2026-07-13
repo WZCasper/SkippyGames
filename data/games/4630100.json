@@ -1,0 +1,30 @@
+{
+  "id": 4630100,
+  "title": "Arensia",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630100/90fd8e69683cc076f6beda9c7f0897fa7c1a7c54/header.jpg?t=1783958488",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4630100?t=1783958488",
+  "description": "Arensia is a competitive falling-block puzzle game where emotions change the battlefield.\n\nChoose your character and climb from Rank 50 to Rank 1 by defeating powerful AI opponents from around the world. \nEach character has emotions that change dynamically during gameplay — and those emotions directly affect the blocks you place.\n\nWhen a character becomes Happy or Sad, connected blocks inherit that emotion and spread it across the board, creating chain reactions, strategic setups, and unexpected reversals.\n\nClear lines using combinations of:\n\n• Happy + Normal blocks\n\n• Sad + Normal blocks\n\nMaster emotional control, attack timing, and advanced puzzle mechanics to dominate the rankings.\n\nFeaturesEmotional Block SystemA unique gameplay mechanic where character emotions directly influence blocks.\n\n• Normal: No spread effect\n\n• Happy: Spreads happiness to connected blocks\n\n• Sad: Spreads sadness to connected blocks\n\nCharacters change emotions based on gameplay conditions:\n\n• Removing a potion of lines can trigger Happy state\n\n• Receiving heavy garbage can trigger Sad state\n\nThe emotional state changes both strategy and board control in real time.\n\nClimb the AI RankingsBattle against over 50 unique AI rivals from different countries and rise to Rank 1.\n\n• More than 70 playable and AI characters\n\n• Distinct personalities and playstyles\n\n• ELO-based ranking progression system\n\n• Difficulty naturally adapts to player skill\n\nMultiple Competitive ModesGarbage DuelAttack opponents with garbage lines and survive intense competitive matches.\n\n30-Line SprintRace to clear 30 lines as fast as possible.\n\nSpectator ModeWatch AI rankers battle each other and analyze advanced strategies.\n\nPerformance AnalyticsTrack your gameplay performance in real time with detailed statistics and visual graphs.\n\nIncludes:\n\n• RPM\n\n• PPS\n\n• SLPM\n\n• Pentagon performance graph\n\n• Real-time match analysis\n\n• Animated line-clear comparison results\n\nStory & PresentationExperience immersive story scenes between characters as you travel across the world challenging elite AI competitors.\n\n• Animated story sequences\n\n• Country-themed AI rivals\n\n• Stylish visual effects",
+  "description_short": "A competitive falling-block puzzle game where emotions spread through blocks. Battle AI rivals worldwide, master emotional chain reactions, and climb from Rank 50 to Rank 1.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 740,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630100/4bbdfd1f96de5bc9fde5400a53f3d292f1a409bd/ss_4bbdfd1f96de5bc9fde5400a53f3d292f1a409bd.1920x1080.jpg?t=1783958488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630100/cc1d61d2f29f4b183642a08ed1be5d0b140d966f/ss_cc1d61d2f29f4b183642a08ed1be5d0b140d966f.1920x1080.jpg?t=1783958488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630100/3afcc19c72c97c4f1a45df13d134839c3f0a16b4/ss_3afcc19c72c97c4f1a45df13d134839c3f0a16b4.1920x1080.jpg?t=1783958488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630100/5b8e684edc2044e535bbfbbc3ae83b2581839959/ss_5b8e684edc2044e535bbfbbc3ae83b2581839959.1920x1080.jpg?t=1783958488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630100/921e5986673fe64de04ad5efa766fc36573a0db0/ss_921e5986673fe64de04ad5efa766fc36573a0db0.1920x1080.jpg?t=1783958488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630100/e33b00b6c3791227413404a78ce56eadd719ac6f/ss_e33b00b6c3791227413404a78ce56eadd719ac6f.1920x1080.jpg?t=1783958488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630100/69a7dbd8614b17902cf38d89b532975c525cd8f7/ss_69a7dbd8614b17902cf38d89b532975c525cd8f7.1920x1080.jpg?t=1783958488"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-13T19:15:42Z"
+}
