@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-13T01:29:43Z",
+  "generated_at": "2026-07-13T08:44:24Z",
   "uah_to_rub_rate": 1.725234,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 477,
+  "count": 494,
   "games": [
     {
       "id": 4675010,
@@ -28,7 +28,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 551,
+      "price_rub": 552,
       "is_free": false
     },
     {
@@ -119,7 +119,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 698,
+      "price_rub": 700,
       "is_free": false
     },
     {
@@ -132,7 +132,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1235,
+      "price_rub": 1242,
       "is_free": false
     },
     {
@@ -158,7 +158,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 834,
+      "price_rub": 836,
       "is_free": false
     },
     {
@@ -331,7 +331,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 644,
+      "price_rub": 645,
       "is_free": false
     },
     {
@@ -417,6 +417,19 @@
         "PC"
       ],
       "price_rub": 892,
+      "is_free": false
+    },
+    {
+      "id": 2697940,
+      "title": "Ascend to ZERO",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/2b50769aaa2d06f460a5e2ef6ef13ca9ed88305d/header.jpg?t=1783926666",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 880,
       "is_free": false
     },
     {
@@ -547,7 +560,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2038,
+      "price_rub": 2051,
       "is_free": false
     },
     {
@@ -672,14 +685,14 @@
     {
       "id": 4068360,
       "title": "Bottom Squad",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4068360/51223058ae0f18b3b0921808d644d20a76024750/header.jpg?t=1783620847",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4068360/51223058ae0f18b3b0921808d644d20a76024750/header.jpg?t=1783785400",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 704,
+      "price_rub": 705,
       "is_free": false
     },
     {
@@ -744,7 +757,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 575,
+      "price_rub": 576,
       "is_free": false
     },
     {
@@ -854,14 +867,14 @@
     {
       "id": 3186990,
       "title": "Carrot Catcher",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3186990/header.jpg?t=1783637697",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3186990/header.jpg?t=1783878346",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 712,
+      "price_rub": 714,
       "is_free": false
     },
     {
@@ -995,6 +1008,19 @@
       "is_free": true
     },
     {
+      "id": 3072500,
+      "title": "Cog Foo",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3072500/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1199,
+      "is_free": false
+    },
+    {
       "id": 4084160,
       "title": "Conqueror's Stage",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/dddf6f89c43e9e21e61e99cdea3d361964be39e0/header.jpg?t=1783098054",
@@ -1030,7 +1056,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 659,
+      "price_rub": 660,
       "is_free": false
     },
     {
@@ -1043,7 +1069,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 893,
+      "price_rub": 897,
       "is_free": false
     },
     {
@@ -1181,7 +1207,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1354,
+      "price_rub": 1361,
       "is_free": false
     },
     {
@@ -1251,7 +1277,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 933,
+      "price_rub": 936,
       "is_free": false
     },
     {
@@ -1295,7 +1321,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1234,
+      "price_rub": 1240,
       "is_free": false
     },
     {
@@ -1386,7 +1412,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2448,
+      "price_rub": 2465,
       "is_free": false
     },
     {
@@ -1432,6 +1458,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4806100,
+      "title": "Drident",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/599ea831245596218cb7b3987780b3b1afc20511/header.jpg?t=1783912446",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 638,
+      "is_free": false
     },
     {
       "id": 4746010,
@@ -1482,7 +1521,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 787,
+      "price_rub": 790,
       "is_free": false
     },
     {
@@ -1562,7 +1601,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3919,
+      "price_rub": 3949,
       "is_free": false
     },
     {
@@ -1614,7 +1653,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1221,
       "is_free": false
     },
     {
@@ -1627,7 +1666,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1068,
+      "price_rub": 1073,
       "is_free": false
     },
     {
@@ -1640,7 +1679,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 784,
+      "price_rub": 786,
       "is_free": false
     },
     {
@@ -1735,6 +1774,19 @@
       "is_free": false
     },
     {
+      "id": 4876280,
+      "title": "Fart Fighter",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876280/e515e363c255109ed5ba3446e9dce758112b4b20/header.jpg?t=1783926245",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 590,
+      "is_free": false
+    },
+    {
       "id": 4291890,
       "title": "Fascist",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291890/6ea630263dbb849a3a5b614f9b72cea322421217/header.jpg?t=1783078201",
@@ -1744,7 +1796,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 630,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -1757,7 +1809,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 587,
+      "price_rub": 604,
       "is_free": false
     },
     {
@@ -1891,7 +1943,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4432,
+      "price_rub": 4466,
       "is_free": false
     },
     {
@@ -2064,7 +2116,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 570,
+      "price_rub": 571,
       "is_free": false
     },
     {
@@ -2111,7 +2163,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2003,
+      "price_rub": 2016,
       "is_free": false
     },
     {
@@ -2137,7 +2189,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 637,
+      "price_rub": 638,
       "is_free": false
     },
     {
@@ -2176,7 +2228,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 897,
+      "price_rub": 900,
       "is_free": false
     },
     {
@@ -2216,6 +2268,19 @@
         "PC"
       ],
       "price_rub": 921,
+      "is_free": false
+    },
+    {
+      "id": 3575530,
+      "title": "Healthy Competition",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3575530/c2f20469dbae7c05549a0f2949bdde43c949c5a8/header.jpg?t=1783902074",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 586,
       "is_free": false
     },
     {
@@ -2293,7 +2358,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 586,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -2390,14 +2455,14 @@
     {
       "id": 3281810,
       "title": "Hollowforge",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3281810/header.jpg?t=1783641296",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3281810/header.jpg?t=1783663897",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 628,
       "is_free": false
     },
     {
@@ -2478,7 +2543,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 685,
+      "price_rub": 686,
       "is_free": false
     },
     {
@@ -2491,7 +2556,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 678,
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -2517,7 +2582,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1407,
+      "price_rub": 1414,
       "is_free": false
     },
     {
@@ -2530,7 +2595,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 678,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -2543,7 +2608,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 669,
+      "price_rub": 671,
       "is_free": false
     },
     {
@@ -2575,14 +2640,14 @@
     {
       "id": 3721820,
       "title": "Important People of History: Presidents - George Washington",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3721820/efa04c3834f211b80865a83d923bc63a59840c86/header.jpg?t=1783102892",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3721820/efa04c3834f211b80865a83d923bc63a59840c86/header.jpg?t=1783720419",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 854,
+      "price_rub": 857,
       "is_free": false
     },
     {
@@ -2596,6 +2661,19 @@
         "PC"
       ],
       "price_rub": 634,
+      "is_free": false
+    },
+    {
+      "id": 4783540,
+      "title": "Intertwined - Season 1",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/6201ab43f2ed3e8b431fee7672501b9ec92ee62c/header.jpg?t=1783930572",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1009,
       "is_free": false
     },
     {
@@ -2621,7 +2699,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 597,
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -2673,7 +2751,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 797,
       "is_free": false
     },
     {
@@ -2686,7 +2764,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 823,
+      "price_rub": 862,
       "is_free": false
     },
     {
@@ -2700,6 +2778,19 @@
         "PC"
       ],
       "price_rub": 633,
+      "is_free": false
+    },
+    {
+      "id": 4542800,
+      "title": "Kill The Nova",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542800/f368f2003c50da8b372a6bd9783a3d14774d576c/header.jpg?t=1783929609",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 764,
       "is_free": false
     },
     {
@@ -2742,7 +2833,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 953,
+      "price_rub": 1009,
       "is_free": false
     },
     {
@@ -2859,7 +2950,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 945,
+      "price_rub": 949,
       "is_free": false
     },
     {
@@ -2872,7 +2963,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 765,
+      "price_rub": 767,
       "is_free": false
     },
     {
@@ -2930,14 +3021,14 @@
     {
       "id": 4775240,
       "title": "Mandate of Heaven : Dynasty Breakout Idle",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775240/2051a3181e822bf6008d3fb07e4452df7aafa6ba/header.jpg?t=1783085643",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775240/2051a3181e822bf6008d3fb07e4452df7aafa6ba/header.jpg?t=1783676210",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 568,
+      "price_rub": 569,
       "is_free": false
     },
     {
@@ -2956,7 +3047,7 @@
     {
       "id": 4828230,
       "title": "Marshmallow Story: in Marshmallow Village",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828230/741d0654bd8185c3b458fcec721e42cbd431f726/header.jpg?t=1783095773",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828230/741d0654bd8185c3b458fcec721e42cbd431f726/header.jpg?t=1783700451",
       "genres": [
         "Экшен"
       ],
@@ -2998,7 +3089,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3406,
+      "price_rub": 3431,
       "is_free": false
     },
     {
@@ -3051,6 +3142,19 @@
         "PC"
       ],
       "price_rub": 807,
+      "is_free": false
+    },
+    {
+      "id": 4287050,
+      "title": "MetalMuters",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287050/ced451514e0647781067361a276f1f6317415c02/header.jpg?t=1783914713",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 629,
       "is_free": false
     },
     {
@@ -3133,7 +3237,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2123,
+      "price_rub": 2137,
       "is_free": false
     },
     {
@@ -3159,7 +3263,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 678,
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -3255,6 +3359,19 @@
       "is_free": true
     },
     {
+      "id": 4141710,
+      "title": "Neko Station",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141710/e89a0a4806eab4f009d67c9ca88605f859d68ed9/header.jpg?t=1783913275",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 735,
+      "is_free": false
+    },
+    {
       "id": 4899790,
       "title": "Neuro Hunter",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899790/8c6110c8d1f0fb59263060b4cc99013c31ac9864/header.jpg?t=1783486728",
@@ -3277,7 +3394,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 970,
+      "price_rub": 974,
       "is_free": false
     },
     {
@@ -3316,7 +3433,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 700,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -3476,6 +3593,19 @@
       "is_free": false
     },
     {
+      "id": 4803650,
+      "title": "OctoMech Survivors",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803650/15eaa10f77d86e928d878618062f47c2f37810e6/header.jpg?t=1783929030",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 655,
+      "is_free": false
+    },
+    {
       "id": 4436080,
       "title": "Olga Doesn't Die",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436080/8af8a5cf3662eaaaa57b42403594df40ac5b989d/header.jpg?t=1783097979",
@@ -3511,7 +3641,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 589,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -3758,7 +3888,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 601,
+      "price_rub": 602,
       "is_free": false
     },
     {
@@ -3880,6 +4010,19 @@
         "PC"
       ],
       "price_rub": 633,
+      "is_free": false
+    },
+    {
+      "id": 3755850,
+      "title": "Purrrfect Spa",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3755850/0488219387df9616d0b60046b2df0a9b4867c639/header.jpg?t=1783903712",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 654,
       "is_free": false
     },
     {
@@ -4012,7 +4155,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 787,
+      "price_rub": 790,
       "is_free": false
     },
     {
@@ -4029,7 +4172,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1610,
+      "price_rub": 1620,
       "is_free": false
     },
     {
@@ -4206,7 +4349,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1210,
+      "price_rub": 1216,
       "is_free": false
     },
     {
@@ -4219,7 +4362,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 986,
+      "price_rub": 990,
       "is_free": false
     },
     {
@@ -4259,6 +4402,19 @@
         "PC"
       ],
       "price_rub": 686,
+      "is_free": false
+    },
+    {
+      "id": 4336960,
+      "title": "Save the President : Trust Issues",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336960/6d56669be5bc44b1180d7a4ff667d5f979c9c37b/header.jpg?t=1783921434",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 714,
       "is_free": false
     },
     {
@@ -4311,6 +4467,19 @@
       "is_free": false
     },
     {
+      "id": 4435470,
+      "title": "Seabell Supper",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435470/9026148744374f9cf93c15e3d24536c61684a9c5/header.jpg?t=1783907644",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 667,
+      "is_free": false
+    },
+    {
       "id": 4821350,
       "title": "Secret Cats - Independence Day",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821350/5b16a25b2a405afc29ce8ecf61f59dc07abd87ee/header.jpg?t=1783098277",
@@ -4338,7 +4507,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3981,
+      "price_rub": 4011,
       "is_free": false
     },
     {
@@ -4364,7 +4533,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 654,
+      "price_rub": 673,
       "is_free": false
     },
     {
@@ -4487,14 +4656,14 @@
     {
       "id": 4435420,
       "title": "Simulation 9",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435420/87cfa2236ec4756baf3b7b3beaf7066581efe157/header.jpg?t=1783456246",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435420/87cfa2236ec4756baf3b7b3beaf7066581efe157/header.jpg?t=1783735538",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 654,
+      "price_rub": 655,
       "is_free": false
     },
     {
@@ -4513,14 +4682,14 @@
     {
       "id": 4825510,
       "title": "Skulls Skulls Skulls by Daniel da Silva",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825510/35d46aa4ddb0f72c8a6f604001397b554c72fa75/header.jpg?t=1783624569",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825510/35d46aa4ddb0f72c8a6f604001397b554c72fa75/header.jpg?t=1783858008",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 570,
+      "price_rub": 571,
       "is_free": false
     },
     {
@@ -4655,7 +4824,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1526,
+      "price_rub": 1535,
       "is_free": false
     },
     {
@@ -4669,6 +4838,19 @@
         "PC"
       ],
       "price_rub": 589,
+      "is_free": false
+    },
+    {
+      "id": 3839250,
+      "title": "Soulforge Lost Path",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839250/b674ca74dc1b40e04ce1339274ff5d688b73594e/header.jpg?t=1783925883",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 826,
       "is_free": false
     },
     {
@@ -4700,14 +4882,14 @@
     {
       "id": 4621990,
       "title": "Special Request: Chapter 2",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621990/93cde142e4943c563b41606bee2a7066c8d3721a/header.jpg?t=1783098042",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621990/93cde142e4943c563b41606bee2a7066c8d3721a/header.jpg?t=1783712495",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 863,
+      "price_rub": 866,
       "is_free": false
     },
     {
@@ -4765,7 +4947,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 892,
+      "price_rub": 895,
       "is_free": false
     },
     {
@@ -4981,7 +5163,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 603,
+      "price_rub": 604,
       "is_free": false
     },
     {
@@ -5086,7 +5268,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 738,
+      "price_rub": 740,
       "is_free": false
     },
     {
@@ -5151,7 +5333,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 729,
+      "price_rub": 757,
       "is_free": false
     },
     {
@@ -5244,6 +5426,19 @@
       ],
       "price_rub": 1333,
       "is_free": false
+    },
+    {
+      "id": 4882280,
+      "title": "Tidy Up: Spaceship",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882280/d12e0d702a8b0063925654ca905283df4d0870b8/header.jpg?t=1783924954",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4836100,
@@ -5783,6 +5978,19 @@
       "is_free": true
     },
     {
+      "id": 4888720,
+      "title": "Zombie City Together",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888720/eeb6753df97bf5cdf1ab0b250cf4e2a79a6b3059/header.jpg?t=1783927505",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 528,
+      "is_free": false
+    },
+    {
       "id": 4811410,
       "title": "Zombie Queen",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811410/d6925f2227b4787f5b0b6018496e76766a8ac79c/header.jpg?t=1783812558",
@@ -5961,14 +6169,14 @@
     {
       "id": 4781620,
       "title": "Маленький слайм и корона",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781620/1e4ca84a8713e6c87c227b5b7559cd18c6dd195d/header.jpg?t=1783643232",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781620/1e4ca84a8713e6c87c227b5b7559cd18c6dd195d/header.jpg?t=1783763262",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 570,
+      "price_rub": 571,
       "is_free": false
     },
     {
@@ -6255,6 +6463,19 @@
         "PC"
       ],
       "price_rub": 854,
+      "is_free": false
+    },
+    {
+      "id": 4634560,
+      "title": "絨毯を洗うゲーム",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634560/30ce64b008c8a9d0828a372fea2a75d015d5f22d/header.jpg?t=1783917119",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 735,
       "is_free": false
     },
     {

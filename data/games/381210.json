@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1234,
+  "price_rub": 1240,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "JGhIXLO3ul8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.1920x1080.jpg?t=1783618189",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.1920x1080.jpg?t=1783618189",
@@ -32,76 +32,76 @@
     {
       "id": 4791830,
       "name": "Dead by Daylight: Jason",
-      "price_rub": 697,
+      "price_rub": 698,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791830/d1f09f60b1f0a798d6e3cfb79c5e86109282312d/header.jpg?t=1783345170"
     },
     {
       "id": 4318580,
       "name": "Dead by Daylight: Stranger Things Chapter 2",
-      "price_rub": 972,
+      "price_rub": 976,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4318580/fe996d56580b8242624a1bd464fcbf60c46ccf31/header.jpg?t=1769540708"
     },
     {
       "id": 4019590,
       "name": "Dead by Daylight - Sinister Grace",
-      "price_rub": 820,
+      "price_rub": 823,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019590/162ef941606f012e659162f2263e2669045775a8/header.jpg?t=1759419781"
     },
     {
       "id": 3884020,
       "name": "Dead by Daylight: The Walking Dead",
-      "price_rub": 820,
+      "price_rub": 823,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884020/a393f684ee00bdb302ae76b3cb7be85b1d80054c/header.jpg?t=1754333052"
     },
     {
       "id": 3796620,
       "name": "Dead by Daylight: Five Nights at Freddy’s",
-      "price_rub": 697,
+      "price_rub": 698,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796620/f595a9f57ffba6ec18fe09fb8e705c061b629849/header.jpg?t=1779975883"
     },
     {
       "id": 3698790,
       "name": "Dead by Daylight - Steady Pulse",
-      "price_rub": 697,
+      "price_rub": 698,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698790/f1ace921fee451527d9f4b2faf800d5e2ee9b2c1/header.jpg?t=1746543639"
     },
     {
       "id": 3448670,
       "name": "Dead by Daylight - Tokyo Ghoul",
-      "price_rub": 697,
+      "price_rub": 698,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448670/746779b48c711e92b8c9ac553eae7476dfb6b323/header.jpg?t=1743609838"
     },
     {
       "id": 3261720,
       "name": "Dead by Daylight - Doomed Course",
-      "price_rub": 820,
+      "price_rub": 823,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3261720/header.jpg?t=1732809756"
     },
     {
       "id": 3103150,
       "name": "Dead by Daylight - Castlevania Chapter",
-      "price_rub": 820,
+      "price_rub": 823,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
     },
     {
       "id": 3024580,
       "name": "Dead by Daylight - Tomb Raider Chapter",
-      "price_rub": 697,
+      "price_rub": 698,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024580/header.jpg?t=1781805446"
     },
     {
       "id": 2958440,
       "name": "Dead by Daylight - Dungeons & Dragons",
-      "price_rub": 815,
+      "price_rub": 817,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958440/header.jpg?t=1718052572"
     },
     {
       "id": 2661270,
       "name": "Dead by Daylight - All Things Wicked Chapter",
-      "price_rub": 815,
+      "price_rub": 817,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661270/header.jpg?t=1712678426"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T01:34:34Z"
+  "updated_at": "2026-07-13T08:42:28Z"
 }

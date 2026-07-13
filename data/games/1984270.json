@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2448,
+  "price_rub": 2465,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "bFEu9XOLmg0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_8ab66d309e4a8b18eb41c4eeb2eb88b668ab01cc.1920x1080.jpg?t=1783566003",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_c059f9ac96893b96e5c6d49f89c0524d09c67689.1920x1080.jpg?t=1783566003",
@@ -29,76 +29,76 @@
     {
       "id": 3524290,
       "name": "Digimon Story Time Stranger - Additional Digimon & Episode Pack 3: Anti-ParadoX",
-      "price_rub": 1182,
+      "price_rub": 1188,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524290/90eae87503c3d60246d9305ff0533a04157e0e1c/header.jpg?t=1775010786"
     },
     {
       "id": 3524270,
       "name": "Digimon Story Time Stranger - Additional Digimon & Episode Pack 2: GAKU−RAN",
-      "price_rub": 977,
+      "price_rub": 981,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524270/c851619352446d7bef34900671801cf39dc69558/header.jpg?t=1775010811"
     },
     {
       "id": 3524260,
       "name": "Digimon Story Time Stranger - Additional Digimon & Episode Pack 1: Alternate Dimension",
-      "price_rub": 977,
+      "price_rub": 981,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524260/6d7f2743e252e95e314ca3aae7c0a4f31fa4460e/header.jpg?t=1775010858"
     },
     {
       "id": 3524390,
       "name": "Digimon Story Time Stranger - Season Pass",
-      "price_rub": 1696,
+      "price_rub": 1706,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524390/589b90d8b6fa80ebee34ef6a922fc6f40ca1aac3/header.jpg?t=1775010770"
     },
     {
       "id": 3524400,
       "name": "Digimon Story Time Stranger - Costume Pack",
-      "price_rub": 1217,
+      "price_rub": 1223,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524400/14ec5f28dc4d2bcc9007790508096763033c330e/header.jpg?t=1759444624"
     },
     {
       "id": 3524320,
       "name": "Digimon Story Time Stranger - Costume Swimwear Set",
-      "price_rub": 772,
+      "price_rub": 774,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524320/d026358220d38d87e70e4ec1041f09fcea304940/header.jpg?t=1759444450"
     },
     {
       "id": 3524330,
       "name": "Digimon Story Time Stranger - Costume Chosen Children Set",
-      "price_rub": 772,
+      "price_rub": 774,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524330/25d7b648cc817ec26f2c91449d9f8b0b48733b5f/header.jpg?t=1759444485"
     },
     {
       "id": 3524340,
       "name": "Digimon Story Time Stranger - Costume Digimon Costume Set",
-      "price_rub": 772,
+      "price_rub": 774,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524340/15fa60f13c01122d6c728f4b1e0a5d2f0b0aba08/header.jpg?t=1759444522"
     },
     {
       "id": 3524350,
       "name": "Digimon Story Time Stranger -  Costume Public Safety Suit & Special Supplies Set",
-      "price_rub": 892,
+      "price_rub": 895,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524350/fa65952ad69f2dc812d7b78c4bef480c33805e05/header.jpg?t=1759444558"
     },
     {
       "id": 3524360,
       "name": "Digimon Story Time Stranger - Cyber Sleuth BGM Pack",
-      "price_rub": 1063,
+      "price_rub": 1068,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524360/60ebc089ce4ea2984c29d5efc4483a3eb27db6d7/header.jpg?t=1759444594"
     },
     {
       "id": 3524370,
       "name": "Digimon Story Time Stranger - Digimon Anime Song Pack",
-      "price_rub": 1610,
+      "price_rub": 1620,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524370/69515fca3179f1ca26d17bcea51685c5ffecae55/header.jpg?t=1759444404"
     },
     {
       "id": 3524380,
       "name": "Digimon Story Time Stranger - Outer Dungeons The Halls of EXP, Gold, Materials",
-      "price_rub": 765,
+      "price_rub": 767,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3524380/11e8dead93db6008bb25cac23ddd4994c14ec616/header.jpg?t=1759444656"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T01:43:37Z"
+  "updated_at": "2026-07-13T08:43:05Z"
 }
