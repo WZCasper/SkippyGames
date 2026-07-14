@@ -1,0 +1,38 @@
+{
+  "id": 4750580,
+  "title": "Figryne Cast Studio Engine",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/2fdaf1a59a6f8c7b4cd3df751a529a083027c0ba/header.jpg?t=1784026823",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4750580?t=1784026823",
+  "description": "Track, compose, and go live — all from one app. Figryne Cast Studio Engine is a 3D-native VTuber streaming studio that turns your VRM avatar into a finished, cinematic broadcast without OBS, capture-card juggling, or plugin soup.\n\nAll-in-one — No OBS RequiredAvatar, scenes, effects, audio and streaming live in a single window. Open the app, pick a scene, and you are on air.\n\nReal-time Avatar Tracking\n\n• Face & hand tracking from a single webcam\n\n• Eye / gaze tracking\n\n• Works with Perfect Sync models — drive all 52 blendshapes from a single webcam (no iPhone required)\n\n• Smooth, rule-based motion that tames the jitter of raw tracking\n\nCinematic Look — Built-in Post-FX\n\nA dedicated LOOK panel handles your entire look in-app — no editing software required.\n\n• Bloom, Depth of Field, Vignette\n\n• LUT color and tone mapping (ACES)\n\n• Beauty light & rim light\n\nA unified, cinematic look, straight out of the app.\n\nAxis 3D — Head-Coupled Perspective\n\nHead-coupled 3D depth. The scene shifts with real perspective and parallax, so a flat overlay becomes a space your avatar actually lives in.\n\nScene System\n\nBuild scenes and switch instantly. Stinger transitions, telop / captions, live comments, background video & images, and screen / USB capture are all built in.\n\nIntegrated RTMP Streaming\n\nStream straight to YouTube Live, Twitch, and any RTMP-compatible service via custom RTMP — no extra software, just paste your stream key. Landscape and vertical 9:16 both supported.\n\nAudio\n\n• 5-channel mixer (Mic / Desktop / Capture / BGM / Master)\n\n• Real-time voice changer (pitch & formant)\n\n• LoCut, Gate, Comp, De-Ess, Reverb effects chain\n\nExpand with Content PacksGrow the studio over time with optional content packs — starting with the Cinematic LUT Pack (.cube LUT grades + film grain).\n\nLanguages SupportedEnglish / 日本語 / 한국어 / 简体中文 / Bahasa Indonesia\n\nSystemWindows 10/11 (64-bit) · macOS 12 or later (Apple Silicon)\n\nAbout the DemoThe demo lets you try the app's features for 5 minutes per session.\n\nAfter that, a short cooldown applies before you can try again.",
+  "description_short": "An all-in-one VTuber streaming studio that tracks your VRM avatar in real time and takes you live. Its 3D-native engine brings cinematic post-FX and Axis 3D depth, and you can stream straight to YouTube, Twitch, and any RTMP-compatible service. No OBS needed.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 1833,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/19625651e060ac459c23cb392f05b3f99e71c2b4/ss_19625651e060ac459c23cb392f05b3f99e71c2b4.1920x1080.jpg?t=1784026823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/18cb33b8650dbafb66967f986cae877010f80700/ss_18cb33b8650dbafb66967f986cae877010f80700.1920x1080.jpg?t=1784026823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/b208c3763b95ce6dc68fae56f20fdaae8d1ed227/ss_b208c3763b95ce6dc68fae56f20fdaae8d1ed227.1920x1080.jpg?t=1784026823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/f622396eef5e1561cb23927868cad419863a3224/ss_f622396eef5e1561cb23927868cad419863a3224.1920x1080.jpg?t=1784026823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/ab18f2f0698f0f8982fa773e0e8b34e507c84022/ss_ab18f2f0698f0f8982fa773e0e8b34e507c84022.1920x1080.jpg?t=1784026823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/e65750feaafeaea877cbe21a28b27afb696b1b85/ss_e65750feaafeaea877cbe21a28b27afb696b1b85.1920x1080.jpg?t=1784026823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/2aeb9f5a884208cd52285ebdc1ca8d4608d30e29/ss_2aeb9f5a884208cd52285ebdc1ca8d4608d30e29.1920x1080.jpg?t=1784026823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/49806ec6c7748a57b2b98f220a6c65aaf378d5ba/ss_49806ec6c7748a57b2b98f220a6c65aaf378d5ba.1920x1080.jpg?t=1784026823"
+  ],
+  "upsells": [
+    {
+      "id": 4800070,
+      "name": "Figryne Cast Studio Engine - Cinematic LUT Pack",
+      "price_rub": 793,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800070/4328a39e27215fb5ba65ce106eeecc2ca430110a/header.jpg?t=1784026855"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-14T13:05:29Z"
+}

@@ -1,8 +1,8 @@
 {
   "id": 4877890,
   "title": "Touhou Russian Roulette",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/cb32067b3be69453f4c27e3cf251e18795933a69/header.jpg?t=1783753906",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/0c953bb3f8a28c14e0f6232e95912dd3061a7387/page_bg_raw.jpg?t=1783753906",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/cb32067b3be69453f4c27e3cf251e18795933a69/header.jpg?t=1783954456",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/0c953bb3f8a28c14e0f6232e95912dd3061a7387/page_bg_raw.jpg?t=1783954456",
   "description": "Торт Ремилии исчез из запертой комнаты Особняка Алого дьявола!\n\nДобро пожаловать на ночное чаепитие, которое ведёт старшая горничная Сакуя. На столе — чай, торт и… один дробовик.\n\nКак игратьДробовик заряжается случайной смесью холостых и боевых патронов. В начале каждого раунда раскрывается ЧИСЛО патронов, но их ПОРЯДОК остаётся скрытым. Чтобы спустить курок, придётся полагаться на удачу, память и умение читать соперника.\n\n• Выстрелить в соперника — боевой патрон наносит урон, холостой передаёт ход.\n• Выстрелить в себя — холостой сохраняет ход и даёт ещё одно действие! Но если патрон боевой…\n• Запоминать, какие патроны уже выстрелили, и просчитывать оставшиеся шансы — вот ключ к победе.\n\nПредметы, выдаваемые каждый раундКонечно, есть и предметы, которые вам помогут, — их выдают случайным образом каждый раунд. Сакуя поднимает серебряный клош и являет их, а затем сама, с изяществом, приводит в действие каждый эффект.\n\n• 🍭 Леденец — восстанавливает 1 ед. здоровья\n• 🫖 Чайник — извлекает текущий патрон из патронника\n• 🗡️ Кинжал — пропускает следующий ход соперника\n• 🔍 Волшебный монокль — показывает, боевой текущий патрон или холостой\n• 📛 Проклятая печать — +1 к урону следующего боевого патрона\n\nПокарай подозреваемыхКоакума → Хун Мэйлин → Пачули → и босс Фландр. Сразитесь с обитателями Особняка Алого дьявола одного за другим в турнире и дойдите до конца, чтобы найти похитителя торта.\n\nОсобенности• 3D-рулетка с пошаговыми боями, построенная на дуэли холостых и боевых патронов\n• При попадании вместо крови — звёздочки и ><: милые и забавные SD-персонажи\n• Вид от третьего лица, показывающий реакции всех трёх персонажей — игрока, соперника и ведущей\n• Атмосфера и звуки готической чайной комнаты Особняка Алого дьявола\n• Множество испытаний для открытия (достижения)",
   "description_short": "Торт Ремилии исчез из запертой комнаты Особняка Алого дьявола! С помощью старшей горничной Сакуи сыграйте в русскую рулетку из дробовика 12-го калибра и покарайте подозреваемых. Удачи!",
   "genres": [
@@ -14,18 +14,18 @@
   "price_rub": 617,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "v1v9UnCeOEc",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/5df1a4cf848dd78f59bb29180a7e09dd33a0de46/ss_5df1a4cf848dd78f59bb29180a7e09dd33a0de46.1920x1080.jpg?t=1783753906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/f9429be02a661fe7846ef8ddb465899e024398d2/ss_f9429be02a661fe7846ef8ddb465899e024398d2.1920x1080.jpg?t=1783753906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/63adfd9336ba7c9f4795aa25706baa3a9c12d98a/ss_63adfd9336ba7c9f4795aa25706baa3a9c12d98a.1920x1080.jpg?t=1783753906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/4107af5c277416bb736595c82c460c041f49dd09/ss_4107af5c277416bb736595c82c460c041f49dd09.1920x1080.jpg?t=1783753906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/37ef7ad3bacefe30b9232295ffc65e7f0e400564/ss_37ef7ad3bacefe30b9232295ffc65e7f0e400564.1920x1080.jpg?t=1783753906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/96d8f994887d592c1c3480dd3b865c05c6d356ca/ss_96d8f994887d592c1c3480dd3b865c05c6d356ca.1920x1080.jpg?t=1783753906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/8b8106c0b329a53707735588073b0824064667ce/ss_8b8106c0b329a53707735588073b0824064667ce.1920x1080.jpg?t=1783753906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/e52445c619686ca2ee3404b923b6a7c3657e7c07/ss_e52445c619686ca2ee3404b923b6a7c3657e7c07.1920x1080.jpg?t=1783753906"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/5df1a4cf848dd78f59bb29180a7e09dd33a0de46/ss_5df1a4cf848dd78f59bb29180a7e09dd33a0de46.1920x1080.jpg?t=1783954456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/f9429be02a661fe7846ef8ddb465899e024398d2/ss_f9429be02a661fe7846ef8ddb465899e024398d2.1920x1080.jpg?t=1783954456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/63adfd9336ba7c9f4795aa25706baa3a9c12d98a/ss_63adfd9336ba7c9f4795aa25706baa3a9c12d98a.1920x1080.jpg?t=1783954456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/4107af5c277416bb736595c82c460c041f49dd09/ss_4107af5c277416bb736595c82c460c041f49dd09.1920x1080.jpg?t=1783954456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/37ef7ad3bacefe30b9232295ffc65e7f0e400564/ss_37ef7ad3bacefe30b9232295ffc65e7f0e400564.1920x1080.jpg?t=1783954456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/96d8f994887d592c1c3480dd3b865c05c6d356ca/ss_96d8f994887d592c1c3480dd3b865c05c6d356ca.1920x1080.jpg?t=1783954456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/8b8106c0b329a53707735588073b0824064667ce/ss_8b8106c0b329a53707735588073b0824064667ce.1920x1080.jpg?t=1783954456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/e52445c619686ca2ee3404b923b6a7c3657e7c07/ss_e52445c619686ca2ee3404b923b6a7c3657e7c07.1920x1080.jpg?t=1783954456"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-11T12:46:50Z"
+  "updated_at": "2026-07-14T13:03:22Z"
 }

@@ -1,8 +1,8 @@
 {
   "id": 4740600,
   "title": "咸鱼搬运工",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/277260cbe93ffb39aa8667c5c9b73d15c9107f7b/header.jpg?t=1783769715",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/856a622d24c822ed42c36ab687a73fce04876751/page_bg_raw.jpg?t=1783769715",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/277260cbe93ffb39aa8667c5c9b73d15c9107f7b/header.jpg?t=1783845282",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/856a622d24c822ed42c36ab687a73fce04876751/page_bg_raw.jpg?t=1783845282",
   "description": "🚀 OUCH! CARGO!The company just slapped a contract right onto your face: 📜 \"Temporary Accident Handler\" Refuse? Fired. Sign it? Overtime.\n\nAnd just like that, you and your crew are forced to push an alien transport device—the \"Flip-Over\"—deep into disaster zones. Your job? Recover scattered cargo piece by piece and haul them to the Drop-off Points to secure their salvage value.\n\nThe only rule: 📦 Total Salvage Value ≥ KPI Target Fail, and you'll face astronomical fines and indefinite forced labor. (Rest assured, your contract states it very clearly: You have no right to refuse.)\n\n🧰 Tools & Gadgets: Use Everything (Or Anyone)Every single item you pick up in the zone could save your life—or become a lethal weapon for your teammates to troll you with. You never know what crazy stunt your crewmates will pull next. Items are your only way to hit that KPI, but sometimes, they just brew a much bigger disaster.\n\n🐗 Earth Beasts: The KPI DestroyersThe wildlife in this mountain region doesn't treat you like guests. They will steal your cargo, ram your cart, block your path, and even treat your hard-earned \"Flip-Over\" as a giant chew toy to flip upside down. They might not want to kill you, but they definitely don't want you to hit your quota.\n\n🤝 Peak Teamwork (Or Pure Sabotage)Transporting the \"Flip-Over\" is a delicate art. The moment your coordination slips, the classic domino effect triggers: the cart flips, the cargo scatters, your teammate flies into orbit, the beasts chase you down, and the goods roll all the way down the hill... Don't panic. This is just another Tuesday at the office. After all, you're just fish in business suits, not professional movers.\n\n📍 Drop-off Points: Deliver, Respawn, Save—Your One-Stop Overtime HubThe Drop-off Point is your only safe zone and the only \"delivery window\" approved by the corporate overlords. But beware: Living employees entering the delivery zone will be instantly recycled by the system. The company only recycles cargo. Employees carry zero value.\n\n🏆 The Ultimate Goal: Hit the Quota, Reach the Audit StationYou must push through to the final Audit Station and ensure your total salvage value meets the target. Not enough value? Back to overtime. Don't ask questions; management only looks at the numbers.\n\n------------------------------------------------------------------------------------------------------------------------------\n\n🎮 Game Features• 👥 Up to 4-Player Online Co-op: Work together (or against each other) to push and protect the \"Flip-Over\".\n\n• 🧰 Rich Item & Gadget System: Supplies, utility tools, and chaotic items meant for pure trolling.\n\n• 🍳 Cooking & Status Management: Keep a close eye on hunger, stamina, poisoning, and critical injuries.\n\n• 🐗 Animal-Type Monster System: Wildlife that will ram your cart, snatch your loot, block roads, and rummage through your food supplies.\n\n• 📍 Drop-off Point Mechanics: Secure your deliveries, respawn fallen crewmates, save your progress, and catch your breath in the safe zone.\n\n• 🎩 Hats (An absolute must-have).",
   "description_short": "4-Player Online Co-op. Push Carts &amp; Loot Cargo. Troll Crewmates. Fight Beasts. Hit the Quota to Evacuate.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 825,
+  "price_rub": 826,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": "VUsfGkTCh_s",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/45bbd3820c23d3066c96a8da5f7639f6fb39b68d/ss_45bbd3820c23d3066c96a8da5f7639f6fb39b68d.1920x1080.jpg?t=1783769715",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/8846faca8b07b10438d98d2703930e5c85852347/ss_8846faca8b07b10438d98d2703930e5c85852347.1920x1080.jpg?t=1783769715",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/6c75a32a9251d214826256237f6ee86cd357b11f/ss_6c75a32a9251d214826256237f6ee86cd357b11f.1920x1080.jpg?t=1783769715",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/859a1b547808338ad7d493b21f9006e92819b0e7/ss_859a1b547808338ad7d493b21f9006e92819b0e7.1920x1080.jpg?t=1783769715",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/476f2f38518062807dcf52e9fe0f96c165521942/ss_476f2f38518062807dcf52e9fe0f96c165521942.1920x1080.jpg?t=1783769715",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/d3357db4f29b6a5223ff1b19e6560eec5c0d23d3/ss_d3357db4f29b6a5223ff1b19e6560eec5c0d23d3.1920x1080.jpg?t=1783769715",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/fb6ea4c07c84f4f75608e42aebfa226287a6c21f/ss_fb6ea4c07c84f4f75608e42aebfa226287a6c21f.1920x1080.jpg?t=1783769715",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/6bf5919045b395b95333ae799b8173eb5f74d9da/ss_6bf5919045b395b95333ae799b8173eb5f74d9da.1920x1080.jpg?t=1783769715"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/45bbd3820c23d3066c96a8da5f7639f6fb39b68d/ss_45bbd3820c23d3066c96a8da5f7639f6fb39b68d.1920x1080.jpg?t=1783845282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/8846faca8b07b10438d98d2703930e5c85852347/ss_8846faca8b07b10438d98d2703930e5c85852347.1920x1080.jpg?t=1783845282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/6c75a32a9251d214826256237f6ee86cd357b11f/ss_6c75a32a9251d214826256237f6ee86cd357b11f.1920x1080.jpg?t=1783845282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/859a1b547808338ad7d493b21f9006e92819b0e7/ss_859a1b547808338ad7d493b21f9006e92819b0e7.1920x1080.jpg?t=1783845282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/476f2f38518062807dcf52e9fe0f96c165521942/ss_476f2f38518062807dcf52e9fe0f96c165521942.1920x1080.jpg?t=1783845282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/d3357db4f29b6a5223ff1b19e6560eec5c0d23d3/ss_d3357db4f29b6a5223ff1b19e6560eec5c0d23d3.1920x1080.jpg?t=1783845282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/fb6ea4c07c84f4f75608e42aebfa226287a6c21f/ss_fb6ea4c07c84f4f75608e42aebfa226287a6c21f.1920x1080.jpg?t=1783845282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/6bf5919045b395b95333ae799b8173eb5f74d9da/ss_6bf5919045b395b95333ae799b8173eb5f74d9da.1920x1080.jpg?t=1783845282"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-11T12:46:40Z"
+  "updated_at": "2026-07-14T13:01:46Z"
 }

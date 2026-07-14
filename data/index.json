@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-14T07:45:19Z",
+  "generated_at": "2026-07-14T13:11:57Z",
   "uah_to_rub_rate": 1.72238,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 571,
+  "count": 593,
   "games": [
     {
       "id": 4675010,
@@ -133,6 +133,19 @@
         "PC"
       ],
       "price_rub": 700,
+      "is_free": false
+    },
+    {
+      "id": 2243890,
+      "title": "A Simpler World",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/28f1b7b6101cb70d7568608656214f07e40698d0/header.jpg?t=1784013817",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 764,
       "is_free": false
     },
     {
@@ -276,6 +289,19 @@
         "PC"
       ],
       "price_rub": 768,
+      "is_free": false
+    },
+    {
+      "id": 4429120,
+      "title": "Ambitious Road",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429120/d1a03a89b62265192d4cbb33de76bdcacb710282/header.jpg?t=1784014719",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1030,
       "is_free": false
     },
     {
@@ -524,6 +550,19 @@
       "is_free": false
     },
     {
+      "id": 4741210,
+      "title": "Aspectless One",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741210/906bc3cd3ab1c0d0b071e0579725bf8ce1297a01/header.jpg?t=1784019170",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 739,
+      "is_free": false
+    },
+    {
       "id": 3751950,
       "title": "Assassin's Creed Black Flag Resynced",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1783617053",
@@ -586,6 +625,19 @@
         "PC"
       ],
       "price_rub": 553,
+      "is_free": false
+    },
+    {
+      "id": 4741530,
+      "title": "BIOTONE.",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741530/ad32a2d962e540cfa1166ca9a5d9bb348c099a2d/header.jpg?t=1784022678",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -1060,6 +1112,19 @@
       "is_free": false
     },
     {
+      "id": 4769770,
+      "title": "ChronoRewind: The Great Ritual",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769770/e120d6fe8628f601a7d551f9122a6a4dea63a606/header.jpg?t=1784016028",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4306650,
       "title": "Cicadia",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306650/3c24bf060e65d3a8e081ce581b09bccee2b1f230/header.jpg?t=1783103360",
@@ -1280,6 +1345,19 @@
         "PC"
       ],
       "price_rub": 655,
+      "is_free": false
+    },
+    {
+      "id": 3685900,
+      "title": "Creepy Support",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3685900/dbdeb90d096f03f7a9c7890223ef5e536431c5eb/header.jpg?t=1784012440",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -2104,6 +2182,19 @@
       "is_free": false
     },
     {
+      "id": 4750580,
+      "title": "Figryne Cast Studio Engine",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750580/2fdaf1a59a6f8c7b4cd3df751a529a083027c0ba/header.jpg?t=1784026823",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1833,
+      "is_free": false
+    },
+    {
       "id": 4889190,
       "title": "Fijian Dominatrixes Are the Best",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889190/0083bc3b00a2a67f011be4e075a1cc0fe58879bd/header.jpg?t=1783962420",
@@ -2677,6 +2768,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4236810,
+      "title": "Halu - The Fish",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236810/5cec9c5cc44bab451e14d2caf8c4ee19d65154ba/header.jpg?t=1784026811",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 739,
+      "is_free": false
     },
     {
       "id": 4689440,
@@ -3453,7 +3557,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 589,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -3661,6 +3765,19 @@
       "is_free": false
     },
     {
+      "id": 4110830,
+      "title": "Material Maker",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110830/b5b9a74c03614c016ebed7ac02cda431a864594a/header.jpg?t=1784016954",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1018,
+      "is_free": false
+    },
+    {
       "id": 3961580,
       "title": "Math Frenzy",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961580/b3ae35e0cc4180945cc57c30811903052e1a6d14/header.jpg?t=1783726089",
@@ -3685,6 +3802,19 @@
       ],
       "price_rub": 640,
       "is_free": false
+    },
+    {
+      "id": 4799530,
+      "title": "Mesh Storm",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799530/e82f1d6572be3ebb3e3f026c3e67fe650ba244a5/header.jpg?t=1784014156",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 3534790,
@@ -3964,6 +4094,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 3436350,
+      "title": "Naked Interrogation Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436350/4674e0502682fd6408aa8095e57df154b41cf568/header.jpg?t=1784012754",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 702,
+      "is_free": false
     },
     {
       "id": 4141710,
@@ -4435,6 +4578,19 @@
       "is_free": false
     },
     {
+      "id": 4170280,
+      "title": "Pengo Friendo",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170280/2474e264f71c49ee79c098d78138c81711d655de/header.jpg?t=1784022079",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4836650,
       "title": "Penguin Lifter",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836650/625d2ea606c1fd487b8405ff2540ba4402353873/header.jpg?t=1783962637",
@@ -4901,7 +5057,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 737,
+      "price_rub": 738,
       "is_free": false
     },
     {
@@ -5661,7 +5817,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 589,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -5726,7 +5882,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 861,
+      "price_rub": 862,
       "is_free": false
     },
     {
@@ -5739,7 +5895,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 675,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -6041,6 +6197,19 @@
         "PC"
       ],
       "price_rub": 894,
+      "is_free": false
+    },
+    {
+      "id": 2695260,
+      "title": "The Crimson Maid",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2695260/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 948,
       "is_free": false
     },
     {
@@ -6404,7 +6573,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 711,
+      "price_rub": 712,
       "is_free": false
     },
     {
@@ -6423,7 +6592,7 @@
     {
       "id": 4877890,
       "title": "Touhou Russian Roulette",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/cb32067b3be69453f4c27e3cf251e18795933a69/header.jpg?t=1783753906",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877890/cb32067b3be69453f4c27e3cf251e18795933a69/header.jpg?t=1783954456",
       "genres": [
         "Экшен"
       ],
@@ -6431,6 +6600,19 @@
         "PC"
       ],
       "price_rub": 617,
+      "is_free": false
+    },
+    {
+      "id": 3818850,
+      "title": "TowerLine",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818850/565083ed21bb78b0dbeca9e6002092c9bfb6f4d5/header.jpg?t=1784028457",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 769,
       "is_free": false
     },
     {
@@ -6603,6 +6785,21 @@
       "is_free": false
     },
     {
+      "id": 710230,
+      "title": "Urban Strife",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/710230/capsule_616x353.jpg",
+      "genres": [
+        "Выживание (Survival)",
+        "Пошаговые стратегии (TBS)",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1344,
+      "is_free": false
+    },
+    {
       "id": 4840190,
       "title": "VOIDRAVE",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/20d8f0f02c8c4b2dbf92c25897a6c74a66a1ac34/header.jpg?t=1783958145",
@@ -6655,6 +6852,19 @@
         "PC"
       ],
       "price_rub": 1935,
+      "is_free": false
+    },
+    {
+      "id": 4616160,
+      "title": "Vellar",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616160/ebb0e90d57dc898fc4d8f1748513eb6d780beebd/header.jpg?t=1784022823",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 872,
       "is_free": false
     },
     {
@@ -6759,6 +6969,19 @@
         "PC"
       ],
       "price_rub": 3425,
+      "is_free": false
+    },
+    {
+      "id": 4331100,
+      "title": "Warena",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331100/deb0ad8d2c015602b51cb49048bc7ea0e972cbd9/header.jpg?t=1784012909",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 652,
       "is_free": false
     },
     {
@@ -6948,6 +7171,19 @@
       "is_free": true
     },
     {
+      "id": 4364590,
+      "title": "Zigdig",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364590/9da2fabd2088beb50a965d98db0a1b5f3789dcaf/header.jpg?t=1784015011",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 724,
+      "is_free": false
+    },
+    {
       "id": 4888720,
       "title": "Zombie City Together",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888720/eeb6753df97bf5cdf1ab0b250cf4e2a79a6b3059/header.jpg?t=1783927505",
@@ -6984,6 +7220,19 @@
         "PC"
       ],
       "price_rub": 973,
+      "is_free": false
+    },
+    {
+      "id": 4537100,
+      "title": "diffiCULT",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537100/d51846c22b3fe8a9c22caabfdd2c74e384a49986/header.jpg?t=1784032755",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 702,
       "is_free": false
     },
     {
@@ -7332,6 +7581,32 @@
       "is_free": false
     },
     {
+      "id": 4593080,
+      "title": "你屁股",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593080/3a3b03f1e20088a1def08af1ac0963168a76d857/header.jpg?t=1784006351",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 541,
+      "is_free": false
+    },
+    {
+      "id": 4323800,
+      "title": "关守神",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323800/7f5a7ae1b07b8db0c37f805111bdacef34e6c4bc/header.jpg?t=1784032714",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1106,
+      "is_free": false
+    },
+    {
       "id": 4612020,
       "title": "刻命花嫁 Möbius Brides",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612020/bcb3357f9c76e83f7675e7554eda782b9aed65c9/header.jpg?t=1783753268",
@@ -7341,7 +7616,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 856,
+      "price_rub": 857,
       "is_free": false
     },
     {
@@ -7373,14 +7648,14 @@
     {
       "id": 4740600,
       "title": "咸鱼搬运工",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/277260cbe93ffb39aa8667c5c9b73d15c9107f7b/header.jpg?t=1783769715",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/277260cbe93ffb39aa8667c5c9b73d15c9107f7b/header.jpg?t=1783845282",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 825,
+      "price_rub": 826,
       "is_free": false
     },
     {
@@ -7514,6 +7789,19 @@
       "is_free": false
     },
     {
+      "id": 4841000,
+      "title": "蝶々反乱",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/3ea95d061c30fb130ba2c4528588ee52112d2430/header.jpg?t=1784023283",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 536,
+      "is_free": false
+    },
+    {
       "id": 2943310,
       "title": "诛心手术",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2943310/capsule_616x353.jpg",
@@ -7549,7 +7837,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 701,
+      "price_rub": 702,
       "is_free": false
     },
     {
