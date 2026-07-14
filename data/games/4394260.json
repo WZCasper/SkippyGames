@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "c4-HBu60sIs",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394260/3c6d1f87ef5e746414823535baa70b7c1f3a98a3/ss_3c6d1f87ef5e746414823535baa70b7c1f3a98a3.1920x1080.jpg?t=1783221839",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394260/40eabafff5efbefe28a952be69382d0430a4a008/ss_40eabafff5efbefe28a952be69382d0430a4a008.1920x1080.jpg?t=1783221839",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-11T18:41:06Z"
+  "updated_at": "2026-07-14T18:58:20Z"
 }

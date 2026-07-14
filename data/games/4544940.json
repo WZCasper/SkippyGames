@@ -1,0 +1,56 @@
+{
+  "id": 4544940,
+  "title": "The Infinite Grimoire",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/cbd89eb77ea25241922b820956a7eedcfbb2b0d0/header.jpg?t=1784050056",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/7a1d826178f7b0004e184015068a1b036f0355fc/page_bg_raw.jpg?t=1784050056",
+  "description": "Постройте свою магическую академию и превратите её в растущую арканную империю.\n\nНачните с базового производства, создавайте тома и объединяйте их в более мощные формы.\n\nОбучайте учеников, отправляйте их в мир, исследуйте территории и захватывайте ключевые регионы.\n\nРазвивайте академию и оптимизируйте процессы.\n\nПрогресс продолжается даже без вашего участия.\n\nОсобенности• Строительство и улучшение академии\n\n• Создание и объединение томов\n\n• Обучение учеников\n\n• Исследование мира\n\n• Разблокировка систем\n\n• Управление экономикой\n\n• Idle-прогресс",
+  "description_short": "Постройте свою магическую академию, создавайте арканные тома, объединяйте их в более мощные формы, обучайте учеников и расширяйте своё влияние по всему миру. Игра в жанре idle-менеджмента, где ваша магия растёт даже в ваше отсутствие.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/eba7bba4d991210c5e15ce17ef48a1bb0a364498/ss_eba7bba4d991210c5e15ce17ef48a1bb0a364498.1920x1080.jpg?t=1784050056",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/f97fba31227de2b07565f9c9e8afc876202794fa/ss_f97fba31227de2b07565f9c9e8afc876202794fa.1920x1080.jpg?t=1784050056",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/5ff431a2d4f2756837e51ba89c4dc77f0330aaae/ss_5ff431a2d4f2756837e51ba89c4dc77f0330aaae.1920x1080.jpg?t=1784050056",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/f4c3b5ea0e3dbae15ea669337cf9f0afb25bac32/ss_f4c3b5ea0e3dbae15ea669337cf9f0afb25bac32.1920x1080.jpg?t=1784050056",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/5c955061b2e2b75740b2cac7a49acb6e6f405b40/ss_5c955061b2e2b75740b2cac7a49acb6e6f405b40.1920x1080.jpg?t=1784050056",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/6d987e226a0020fc688ee4e21c771d0e79990947/ss_6d987e226a0020fc688ee4e21c771d0e79990947.1920x1080.jpg?t=1784050056",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/abdb6511c6ae75c832e388e4076a99c0aa7556e6/ss_abdb6511c6ae75c832e388e4076a99c0aa7556e6.1920x1080.jpg?t=1784050056",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/b8a7f2c8378bfc1f231707bc948ddb1649fdc3a6/ss_b8a7f2c8378bfc1f231707bc948ddb1649fdc3a6.1920x1080.jpg?t=1784050056"
+  ],
+  "upsells": [
+    {
+      "id": 4871490,
+      "name": "The Infinite Grimoire - Apprentice's Cache",
+      "price_rub": 541,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871490/52752a1e94887f10c17b3301d6fb6f5da524968e/header.jpg?t=1784048588"
+    },
+    {
+      "id": 4871500,
+      "name": "The Infinite Grimoire - Archmage's Treasury",
+      "price_rub": 590,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871500/7202c3cc15865458f3162559ba8fa895bf26a1f5/header.jpg?t=1784048564"
+    },
+    {
+      "id": 4871510,
+      "name": "The Infinite Grimoire - Forbidden Vault",
+      "price_rub": 610,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871510/cb53735012f813617ba765f529794ae229c1686b/header.jpg?t=1784049965"
+    },
+    {
+      "id": 4871520,
+      "name": "The Infinite Grimoire - The Distant Lands",
+      "price_rub": 531,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871520/51463033a0c297b4b3b83bb35eda4ced01c281f2/header.jpg?t=1784048609"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-14T19:13:26Z"
+}

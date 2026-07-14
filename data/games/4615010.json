@@ -1,0 +1,38 @@
+{
+  "id": 4615010,
+  "title": "Kibble Cats",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/51d574ce5d8181a6c9b84308d3f1c6c230866265/header.jpg?t=1784046434",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4615010?t=1784046434",
+  "description": "Древняя святыня, кошачий обелиск, частично погребена в земле. Нажмите на него, и он дарует священную пищу. Продолжайте собирать ресурсы, и вскоре кошки вернутся, чтобы протянуть вам лапу. Вскоре ваша деревня замурлычет, ожив: Кошки-добытчицы будут приносить ресурсы, Кошки-торговки, управлять лавкой с мощными улучшениями, а Кошки-служительницы, призывать благословения из иных миров.\n\n \n \nПРОБУДИТЕ ЛАП ОБЕЛИСК\n\nДревнее святилище восстаёт из земли по мере роста вашего богатства. То, что когда-то было забытым, осыпающимся камнем, превращается в монумент, становящийся мощнее с каждой стадией.\n\n \nВОЗРОДИТЕ ДРЕВНЮЮ ДЕРЕВНЮ\n\nПять зданий, каждое со своим уникальным деревом улучшений. Открывайте Кошатню, Лавку Лакомств, Башню Снов и многое другое, достигая ключевых вех.\n\nНАЙМИТЕ ОРДЫ КОТОВ\n\n \n\n Коты-кормильцы, Коты-лакомки и Преданные коты, у каждого своя роль. Автоматизируйте свою экономику и позвольте ресурсам поступать, пока вы отсутствуете, или же выберите более активный стиль игры.\n\n \nНАСТРОЙТЕ СВОИХ КОТОВ! \n\n \nПосле первого престижа открывается кастомизация котов. Свободно выбирайте цвет тела, акцентов, глаз и узоры.\n\nПОЛУЧАЙТЕ ПОСТОЯННЫЕ БОНУСЫ\n\nЗаслужите Престиж посредством Великого Приношения и тратьте Очки Кота на три уровня могущественных, постоянных Благословений. Каждое прохождение делает вас сильнее для следующего.\n\nОТКРОЙТЕ ВЕЛИКИЙ СОН\n\nСоберите достаточно корма, чтобы привлечь взор Сновидца. Некоторые тайны открываются лишь самым преданным ученикам.",
+  "description_short": "Kibble Cats: уютная короткая инкрементальная игра с настоящим финалом. Восстановите древнюю кошачью деревню вокруг закопанного Лапобелиска. Нанимайте котов, открывайте здания, достигайте вех, и проступит нить, связывающая всё с чем-то большим. В деревне пробуждается сила, и ей снится Великий Сон.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 702,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/0f14d7242fc65876778576878cab7689fb287b17/ss_0f14d7242fc65876778576878cab7689fb287b17.1920x1080.jpg?t=1784046434",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/c4cbfbd15fd161ed841ae452369f787a80555875/ss_c4cbfbd15fd161ed841ae452369f787a80555875.1920x1080.jpg?t=1784046434",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/b176e32a79b1aa7ee4f73558290ef95480a29cdb/ss_b176e32a79b1aa7ee4f73558290ef95480a29cdb.1920x1080.jpg?t=1784046434",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/09f9ea4d457a0d649a39f2b64363c52419f8609c/ss_09f9ea4d457a0d649a39f2b64363c52419f8609c.1920x1080.jpg?t=1784046434",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/b165f69cd3d24cd2158eca887f54525dfe208b18/ss_b165f69cd3d24cd2158eca887f54525dfe208b18.1920x1080.jpg?t=1784046434",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/87adddef290a6fb780450c8fc54013ab433130c7/ss_87adddef290a6fb780450c8fc54013ab433130c7.1920x1080.jpg?t=1784046434",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/1f164db07d83dc306cb54612a8230d434a01484f/ss_1f164db07d83dc306cb54612a8230d434a01484f.1920x1080.jpg?t=1784046434",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/5eb469e2a4b9b8aa7ad3542c89e2b952d0e7d8a9/ss_5eb469e2a4b9b8aa7ad3542c89e2b952d0e7d8a9.1920x1080.jpg?t=1784046434"
+  ],
+  "upsells": [
+    {
+      "id": 4687130,
+      "name": "Kibble Cats - Supporter Pack",
+      "price_rub": 579,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687130/19a690fe1089c387516700bcea8bc9a94255f7ef/header.jpg?t=1784047529"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-14T19:19:13Z"
+}

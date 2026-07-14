@@ -1,8 +1,8 @@
 {
   "id": 4864110,
   "title": "Brandon's Semiconductor Simulator",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/c9cf1783cce0bcc8f650149ef10fab5d348713ab/header.jpg?t=1783786187",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4864110?t=1783786187",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/c9cf1783cce0bcc8f650149ef10fab5d348713ab/header.jpg?t=1783878629",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4864110?t=1783878629",
   "description": "Brandon's semiconductor simulator is an educational tool for the simulation and visualization of semiconductor devices. It has an intuitive and easy to use interface that allows users to draw circuits and devices with just a few brush strokes. It is a fully interactive, realistic simulation that incorporates both electromagnetism and the diffusion-drift equations. There are many visualization options and the software comes with a bunch of hand-made demonstrations of electrical circuits, diodes, transistors, and just about every kind of semiconductor device. The steam version comes with cloud and workshop integration as well as achievements.\n\nFeatures:• Interactive circuit drawing\n\n• Visualization of electromagnetic fields and charge carriers\n\n• Many materials (metals, semiconductors, dielectrics, and more)\n\n• Steam cloud and sharing saves via workshop\n\nPhysics features:The simulation is set on a two-dimensional grid with a solver that computes the 2D Maxwell equations. This means the electric field lies in the same plane as the display whereas the magnetic field is perpendicular. On top of this, there are two types of charge carriers, electrons and holes, which experience electrical and chemical forces. The simulation uses a FDTD (finite-difference time domain) scheme obtained by discretizing the Maxwell equations combined with the drift-diffusion equations. The final simulation is able to demonstrate many of the important properties of semiconductors and semiconductor devices, such as: \n\n• PN junctions\n\n• Metal-semiconductor junctions\n\n• Thermoelectricity\n\n• Contact potentials\n\n• Heterojunctions\n\n• Simulation of common semiconductor devices, eg. BJTs, MOSFETs, JFETs, diodes, etc.\n\n Since version 2.0, the simulation also supports the following: \n\n• Velocity saturation\n\n• Radiative, trap-assisted, and auger recombination\n\n• User-defined materials\n\nWhy does this exist? I created this simulator because I wanted to get a deeper understanding of how semiconductors work. It's been my experience that there's been a lack of good simulations that demonstrate advanced topics in physics. There certainly exist many educational physics simulations, but they're all either aimed at lower educational levels, or they are very restricted in how the user can interact with the system. I hope my simulation succeeds in filling this gap.",
   "description_short": "Educational tool for the simulation and visualization of semiconductor devices. Users can draw circuits and devices with just a few brush strokes. This is a fully interactive, realistic simulation with many visualization options and a variety of hand-made demonstrations of semiconductor devices.",
   "genres": [
@@ -14,17 +14,17 @@
   "price_rub": 679,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "IOyGcKaKWpE",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/9cbe2b83586c4eec2fdce4c117d454bceaaafbea/ss_9cbe2b83586c4eec2fdce4c117d454bceaaafbea.1920x1080.jpg?t=1783786187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/c2e53197d3621fc525e61c30db6259c7d52b08a6/ss_c2e53197d3621fc525e61c30db6259c7d52b08a6.1920x1080.jpg?t=1783786187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/95fd25a87fa72bfa3eef7f0b459eeab19b617116/ss_95fd25a87fa72bfa3eef7f0b459eeab19b617116.1920x1080.jpg?t=1783786187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/9bdc41c791825c66538e5ae9a0feed5e5d3b596c/ss_9bdc41c791825c66538e5ae9a0feed5e5d3b596c.1920x1080.jpg?t=1783786187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/938372c2c746386b61469edf3809bf9783d2d2f5/ss_938372c2c746386b61469edf3809bf9783d2d2f5.1920x1080.jpg?t=1783786187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/f0cfcbe53dfa9d1974636501d3c129230ad4411d/ss_f0cfcbe53dfa9d1974636501d3c129230ad4411d.1920x1080.jpg?t=1783786187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/a8fd57c481e17ac00a99437efaae353384c7aeab/ss_a8fd57c481e17ac00a99437efaae353384c7aeab.1920x1080.jpg?t=1783786187"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/9cbe2b83586c4eec2fdce4c117d454bceaaafbea/ss_9cbe2b83586c4eec2fdce4c117d454bceaaafbea.1920x1080.jpg?t=1783878629",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/c2e53197d3621fc525e61c30db6259c7d52b08a6/ss_c2e53197d3621fc525e61c30db6259c7d52b08a6.1920x1080.jpg?t=1783878629",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/95fd25a87fa72bfa3eef7f0b459eeab19b617116/ss_95fd25a87fa72bfa3eef7f0b459eeab19b617116.1920x1080.jpg?t=1783878629",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/9bdc41c791825c66538e5ae9a0feed5e5d3b596c/ss_9bdc41c791825c66538e5ae9a0feed5e5d3b596c.1920x1080.jpg?t=1783878629",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/938372c2c746386b61469edf3809bf9783d2d2f5/ss_938372c2c746386b61469edf3809bf9783d2d2f5.1920x1080.jpg?t=1783878629",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/f0cfcbe53dfa9d1974636501d3c129230ad4411d/ss_f0cfcbe53dfa9d1974636501d3c129230ad4411d.1920x1080.jpg?t=1783878629",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/a8fd57c481e17ac00a99437efaae353384c7aeab/ss_a8fd57c481e17ac00a99437efaae353384c7aeab.1920x1080.jpg?t=1783878629"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-11T18:42:08Z"
+  "updated_at": "2026-07-14T19:09:20Z"
 }

@@ -1,0 +1,31 @@
+{
+  "id": 4852710,
+  "title": "Young Homer: A Storyteller's Odyssey",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/9834bb13f11aa312fe482c9a223e948a674871be/header.jpg?t=1784050901",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/d61be7394f690e691f1e934c242e822110ef554a/page_bg_raw.jpg?t=1784050901",
+  "description": "This game takes about 30 minutes to finish, has no sound, and is meant to be played in one sitting (meaning, there’s no save function!) \n\n• Customizable Cards - Build a deck of ‘story cards,’ upgrade them to create new drafts of your poem, and perform the whole thing in front of a crowd. Each decision you make changes the story Homer tells.   \n\n• Historically-Informed Artwork - I originally made this game for a 10-day game jam in 2023 using pre-made art, but remastered it in 2026 with entirely new artwork that I drew myself! Each image is based on real Greek pottery.  \n\n• Maybe You’ll Learn Something - Learning? Gross! The game is meant to be enjoyed first and foremost, but I did include historically-informed nuggets for anyone interested in the subject. The Odyssey is one of my favorite stories, and I hope this helps make it more accessible to those who have struggled with reading it in the past! \n\n• Developed Live on Stream - I created this game partly to teach myself GameMaker, and fumbled my way through developing it (as well as drawing all the new artwork) on livestreams and videos. More than 90% of the development process is available to watch on my YouTube channel! \n\nNOTE: This game includes spoilers for The Odyssey. (Though you did have 2,500 years to read it!)",
+  "description_short": "Help Homer to write The Odyssey! Collect customizable cards and assemble them into your own unique story. Every playthrough produces a different epic poem. What will your odyssey look like?",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/7a09e6e28b26896e4369f62f6010adce3acbc5ff/ss_7a09e6e28b26896e4369f62f6010adce3acbc5ff.1920x1080.jpg?t=1784050901",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/6d4db45767a3e83c5ec5c35f9d8089318baea333/ss_6d4db45767a3e83c5ec5c35f9d8089318baea333.1920x1080.jpg?t=1784050901",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/03ed10f96c36eb351cbd1fadff333528213abfab/ss_03ed10f96c36eb351cbd1fadff333528213abfab.1920x1080.jpg?t=1784050901",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/25a585b1f011c5229908c8d9e0bc7e3c8103b35d/ss_25a585b1f011c5229908c8d9e0bc7e3c8103b35d.1920x1080.jpg?t=1784050901",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/8968c83cfc1671b269e396bba8e647ebbde080ae/ss_8968c83cfc1671b269e396bba8e647ebbde080ae.1920x1080.jpg?t=1784050901",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/62a37dbe35bf6d4e31f99c871cfc989a05e48350/ss_62a37dbe35bf6d4e31f99c871cfc989a05e48350.1920x1080.jpg?t=1784050901",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/2cba048f83e4d1b116941ea9fef2987b51193115/ss_2cba048f83e4d1b116941ea9fef2987b51193115.1920x1080.jpg?t=1784050901",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852710/a18ad478ba2249ea4cb37ae8319348fa8da239e2/ss_a18ad478ba2249ea4cb37ae8319348fa8da239e2.1920x1080.jpg?t=1784050901"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-14T19:12:53Z"
+}

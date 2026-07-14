@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "VMHTTq8y-6k",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/25437e4133f81c93bb52bb74bc087ac8787f6411/ss_25437e4133f81c93bb52bb74bc087ac8787f6411.1920x1080.jpg?t=1783213962",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/134b94150ab7716e4beac6af8bec0289dbe8b8cd/ss_134b94150ab7716e4beac6af8bec0289dbe8b8cd.1920x1080.jpg?t=1783213962",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-11T18:41:10Z"
+  "updated_at": "2026-07-14T18:59:23Z"
 }

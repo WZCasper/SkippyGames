@@ -1,0 +1,31 @@
+{
+  "id": 4481850,
+  "title": "가리사니 흥신소",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/0fb6de04c5a2cb2ba7632420c0c3359bce4a1ede/header.jpg?t=1784040259",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/9449f7f1c4ab36cd677685e357ef28ee01a54e31/page_bg_raw.jpg?t=1784040259",
+  "description": "Garisani Detective Agency is a real-time two-player co-op deduction game.\n\nOne plays as a human, gathering clues through conversation and on-site investigation. The other plays as a ghost, using whispers instead of words and exploring hidden spaces. Together, you piece together different clues to uncover the truth.\n\nFour stages await, each a case with its own structure. They don't just get harder—every stage brings new characters and puzzles for a fresh experience.\n\nCommunicationThe defining feature is information asymmetry: the two players collect different evidence, and each must work through their own role. Co-op mode is built around this and does not support voice chat.\n\nCo-op DeductionTwo partners, one goal: solve the case. Work it out through relentless communication! Place your evidence on the case board to share what you've each found, and experience a one-of-a-kind deduction mechanic.",
+  "description_short": "Garisani Detective Agency is a story-driven real-time co-op deduction game for two.In 1990s Korea, play as a brother and his ghost sister, taking cases from the living and the dead. Gather clues from two angles and solve puzzles together.An analog era of pagers and payphones.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/3642d02bb7577b66415f4c22e8444d4d45300dee/ss_3642d02bb7577b66415f4c22e8444d4d45300dee.1920x1080.jpg?t=1784040259",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/295ec8a873c8d0ffb65e82b333c2305b95ea9d24/ss_295ec8a873c8d0ffb65e82b333c2305b95ea9d24.1920x1080.jpg?t=1784040259",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/b67e3a3dad534f8ecf3235b63ed440d3e25b9b38/ss_b67e3a3dad534f8ecf3235b63ed440d3e25b9b38.1920x1080.jpg?t=1784040259",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/de79dd9956732f4785da306d9437760f7c064324/ss_de79dd9956732f4785da306d9437760f7c064324.1920x1080.jpg?t=1784040259",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/0bff8b833f5119daf0e6d918bd7fab32091b9195/ss_0bff8b833f5119daf0e6d918bd7fab32091b9195.1920x1080.jpg?t=1784040259",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/9a783654dd34ce5f8efc5e33fa27e6608476cc36/ss_9a783654dd34ce5f8efc5e33fa27e6608476cc36.1920x1080.jpg?t=1784040259",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/ad99950e64f1d52088fe9e03c903673c22008405/ss_ad99950e64f1d52088fe9e03c903673c22008405.1920x1080.jpg?t=1784040259",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481850/380edff592f09b6fbf02a92738fea140f691a267/ss_380edff592f09b6fbf02a92738fea140f691a267.1920x1080.jpg?t=1784040259"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-14T19:25:01Z"
+}

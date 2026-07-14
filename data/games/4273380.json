@@ -1,0 +1,28 @@
+{
+  "id": 4273380,
+  "title": "Chesscent",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273380/a075ba1494e21082c85e6b9f4c3094d70bbce48e/header.jpg?t=1784048413",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4273380?t=1784048413",
+  "description": "Chesscent — это игра, которая берет за основу традиционные шахматы и дополняет их механиками roguelite. Цель проста: побеждать всё более сложных противников, используя арсенал карт, изменяющих правила на доске. По мере прохождения вы будете открывать новые карты и постоянные способности, которые позволят вам принимать всё более серьезные вызовы с каждой новой попыткой.",
+  "description_short": "Chesscent — это пошаговая стратегия в жанре roguelite с пиксельной графикой, которая объединяет классические шахматы с картами, нарушающими правила. Сразитесь с непобедимыми противниками, примите поражение и открывайте новые постоянные способности, чтобы изменить исход партии.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 801,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273380/ff37d8335f6c8651c5004b5154712a8bc82c856b/ss_ff37d8335f6c8651c5004b5154712a8bc82c856b.1920x1080.jpg?t=1784048413",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273380/e8e491c7b1487158a127b3b464a2ded22a14fafb/ss_e8e491c7b1487158a127b3b464a2ded22a14fafb.1920x1080.jpg?t=1784048413",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273380/18563322491ff5f476e8639f90a366e6f39d2af1/ss_18563322491ff5f476e8639f90a366e6f39d2af1.1920x1080.jpg?t=1784048413",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273380/b9d6af41f81dd22fa33f9f44a9a01c6b7d0f6bf9/ss_b9d6af41f81dd22fa33f9f44a9a01c6b7d0f6bf9.1920x1080.jpg?t=1784048413",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273380/daac69f1d0bff7ed009c394c9184b0f6d1dd2e52/ss_daac69f1d0bff7ed009c394c9184b0f6d1dd2e52.1920x1080.jpg?t=1784048413"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-14T19:15:32Z"
+}
