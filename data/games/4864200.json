@@ -1,8 +1,8 @@
 {
   "id": 4864200,
   "title": "Grandpa's Euchre",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/aa16b35aebb4c372f307a5be26bd8f3066aa99e7/header.jpg?t=1783649654",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4864200?t=1783649654",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/aa16b35aebb4c372f307a5be26bd8f3066aa99e7/header.jpg?t=1783725898",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4864200?t=1783725898",
   "description": "Grandpa's EuchreNO TABLE TALK!!!!!!\n\nThis is the card game version of Euchre that my Grandpa taught me. I grew up in Illinois and we played this at every family gathering. \n\nBecome The Joker!Earn XP to become the Joker and reach higher levels!\n\nFriendly For New Players!Card Power Styling• Cards will glow blue if their suit is trump.\n\n• Left Bower will glow purple.\n\n• Right Bower will glow gold.\n\nTwo Difficulty Modes• Normal: Suitable for those starting out, wanting to learn the game rules or experiment with strategies. Bots will sometimes make bad plays. Your bot teammate has a slight logic enhancement when it is dealer. Player 2 on the other bot team plays like a novice. \n\n• Hard: Bots remember cards played in previous tricks & use sophisticated logic to determine trump & card play selection. \n\n• NOTE: bots never know what is in another player or bot's hand & will always follow suit when possible!\n\nAlways Follow SuitThe game will never let you play a card that doesn't follow suit! (unless you have no cards that can follow suit)\n\nSingle-Player OnlyYour teammate won't yell at you!\n\nRulesSetup & DealingThe Deck:\n\n• 24 cards (9 through Ace)\n\nThe Deal: \n\n• Deal 5 cards to each player. Flip the top card of the remaining deck face up.\n\nRotation: \n\n• The dealer role rotates clockwise.\n\nMaking TrumpOrdering Up: \n\n• Starting left of the dealer, players may pass or choose the flipped card's suit as trump.\n\n• If chosen, the dealer adds the card to their hand and discards one.\n\nStick the Dealer:\n\n• If everyone passes, the face-up card is turned over, and a second round begins where players can name any other suit as trump. If everyone passes again, the dealer must name a suit.\n\nGoing Alone:\n\n• Any player who names trump can choose to \"go alone.\" Their partner sits out the round.\n\nGameplayThe Bowers:\n\n• The Jack of the trump suit is the Right Bower (highest card). The other Jack of the same color is the Left Bower (second-highest card and counts as trump).\n\nThe Lead:\n\n• The player to the dealer’s left leads the first trick.\n\nFollowing Suit:\n\n• Players must follow the led suit if possible. If they cannot, they may play any card. Highest card of the led suit (or highest trump) wins the trick.\n\nScores & Points• Trump Makers win 3 or 4 tricks = 1 point\n\n• Trump Makers win all 5 tricks = 2 points\n\n• Defenders win 3+ tricks (a \"Set\") = 2 points\n\n• Loner wins all 5 tricks = 4 points\n\n• Loner wins 3 or 4 tricks = 1 point\n\n• First Team To 10 Points Wins!",
   "description_short": "Grandpa's Euchre - Rule #1: NO TABLE TALK!!!!!! This is the card game version of Euchre that my Grandpa taught me. I grew up in Illinois and we played this at every family gathering.",
   "genres": [
@@ -11,20 +11,20 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 630,
+  "price_rub": 631,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "lKFi4vL0oHo",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/b8e9fa67f44abedbbc705a7f314d7a4c99bfc538/ss_b8e9fa67f44abedbbc705a7f314d7a4c99bfc538.1920x1080.jpg?t=1783649654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/556acc779173dd3918f04745f3a7a91ed7ec2d74/ss_556acc779173dd3918f04745f3a7a91ed7ec2d74.1920x1080.jpg?t=1783649654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/fe548e5e10dca67580a8992cb547616fdabdc32e/ss_fe548e5e10dca67580a8992cb547616fdabdc32e.1920x1080.jpg?t=1783649654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/b81064c23da2ff8c6a83c5ccf13731b5483e7961/ss_b81064c23da2ff8c6a83c5ccf13731b5483e7961.1920x1080.jpg?t=1783649654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/167bc328be377ba91c734955e2d05a1387a0fcb7/ss_167bc328be377ba91c734955e2d05a1387a0fcb7.1920x1080.jpg?t=1783649654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/5d6ae2dc0d0a978c7015e59e82d83e3704b8b653/ss_5d6ae2dc0d0a978c7015e59e82d83e3704b8b653.1920x1080.jpg?t=1783649654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/9a365e698493e25067616161c3b7562ac27816b3/ss_9a365e698493e25067616161c3b7562ac27816b3.1920x1080.jpg?t=1783649654"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/b8e9fa67f44abedbbc705a7f314d7a4c99bfc538/ss_b8e9fa67f44abedbbc705a7f314d7a4c99bfc538.1920x1080.jpg?t=1783725898",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/556acc779173dd3918f04745f3a7a91ed7ec2d74/ss_556acc779173dd3918f04745f3a7a91ed7ec2d74.1920x1080.jpg?t=1783725898",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/fe548e5e10dca67580a8992cb547616fdabdc32e/ss_fe548e5e10dca67580a8992cb547616fdabdc32e.1920x1080.jpg?t=1783725898",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/b81064c23da2ff8c6a83c5ccf13731b5483e7961/ss_b81064c23da2ff8c6a83c5ccf13731b5483e7961.1920x1080.jpg?t=1783725898",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/167bc328be377ba91c734955e2d05a1387a0fcb7/ss_167bc328be377ba91c734955e2d05a1387a0fcb7.1920x1080.jpg?t=1783725898",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/5d6ae2dc0d0a978c7015e59e82d83e3704b8b653/ss_5d6ae2dc0d0a978c7015e59e82d83e3704b8b653.1920x1080.jpg?t=1783725898",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/9a365e698493e25067616161c3b7562ac27816b3/ss_9a365e698493e25067616161c3b7562ac27816b3.1920x1080.jpg?t=1783725898"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-10T19:12:31Z"
+  "updated_at": "2026-07-14T01:13:48Z"
 }
