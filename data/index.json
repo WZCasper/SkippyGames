@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-14T01:44:07Z",
+  "generated_at": "2026-07-14T07:45:19Z",
   "uah_to_rub_rate": 1.72238,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 558,
+  "count": 571,
   "games": [
     {
       "id": 4675010,
@@ -533,7 +533,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3591,
+      "price_rub": 3599,
       "is_free": false
     },
     {
@@ -565,14 +565,14 @@
     {
       "id": 4856850,
       "title": "Aéro: speedrun labyrinthe",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856850/cecdbda465561c4d12bb2000cf9e858b0e5a6ce5/header.jpg?t=1783431942",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856850/cecdbda465561c4d12bb2000cf9e858b0e5a6ce5/header.jpg?t=1783971669",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 723,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -848,7 +848,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 973,
+      "price_rub": 974,
       "is_free": false
     },
     {
@@ -930,6 +930,19 @@
       "is_free": false
     },
     {
+      "id": 3822530,
+      "title": "Camp Wombo",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3822530/dbcb91931c61f521e09c5f4798f03fe455089be8/header.jpg?t=1783977885",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 553,
+      "is_free": false
+    },
+    {
       "id": 4277610,
       "title": "Canyon Raid",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277610/a1e278a47cecfb83ac2facadc5d91d3d9a824db2/header.jpg?t=1783357671",
@@ -982,6 +995,19 @@
       "is_free": false
     },
     {
+      "id": 4022260,
+      "title": "Catch the Light",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022260/5e29e8c7ce5fb3e4eab9ada633fd25f76a0d64f3/header.jpg?t=1783963463",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 693,
+      "is_free": false
+    },
+    {
       "id": 4233090,
       "title": "Catjong 6: Pawztec Temple",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/3d3bf4af71c526b18f232837c7be3f69bce6c55b/header.jpg?t=1783673623",
@@ -995,6 +1021,19 @@
       "is_free": true
     },
     {
+      "id": 4624560,
+      "title": "Chest Buster",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624560/c651b3a87de63dd25027a6f3d5a2bc230ab72afb/header.jpg?t=1783993420",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 689,
+      "is_free": false
+    },
+    {
       "id": 4787290,
       "title": "Chief of the Valley",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787290/68a08f3b48bd6135d8e939e90af592d575ff26a6/header.jpg?t=1783438551",
@@ -1004,7 +1043,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1007,
+      "price_rub": 1008,
       "is_free": false
     },
     {
@@ -1082,7 +1121,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 637,
+      "price_rub": 638,
       "is_free": false
     },
     {
@@ -1123,6 +1162,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4265920,
+      "title": "Co-Drive Chaos",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/b390627f12550ef1a04970d5549be618bc66c5d0/header.jpg?t=1783976687",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 621,
+      "is_free": false
     },
     {
       "id": 3072500,
@@ -1499,6 +1551,19 @@
       "is_free": true
     },
     {
+      "id": 4633420,
+      "title": "Death's Life 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4633420/f0224d6cff749a170fb2f3b3825b7bbb84d7dcf1/header.jpg?t=1783995215",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 857,
+      "is_free": false
+    },
+    {
       "id": 4562070,
       "title": "Deepcore",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562070/510334cac230606c3c244c51475c447a3d4092e3/header.jpg?t=1783962384",
@@ -1827,7 +1892,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 895,
+      "price_rub": 896,
       "is_free": false
     },
     {
@@ -1840,7 +1905,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 701,
+      "price_rub": 702,
       "is_free": false
     },
     {
@@ -2026,6 +2091,19 @@
       "is_free": false
     },
     {
+      "id": 4682660,
+      "title": "Femme Fatality",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682660/d7a15706caa114d3d82538a07e0c4bf17d0b01f2/header.jpg?t=1783996011",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 801,
+      "is_free": false
+    },
+    {
       "id": 4889190,
       "title": "Fijian Dominatrixes Are the Best",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889190/0083bc3b00a2a67f011be4e075a1cc0fe58879bd/header.jpg?t=1783962420",
@@ -2074,7 +2152,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 723,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -2420,6 +2498,19 @@
       "is_free": false
     },
     {
+      "id": 4856010,
+      "title": "GigaGoth",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856010/7ba0afc24eef0832e370aecf9164b46039871f19/header.jpg?t=1783962437",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 528,
+      "is_free": false
+    },
+    {
       "id": 4502210,
       "title": "Goblin Attack",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502210/be49491486ce88d35cf1d9425350d0f22a33898b/header.jpg?t=1783955352",
@@ -2577,7 +2668,7 @@
     {
       "id": 3689210,
       "title": "HYPERFIST",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689210/c1445aad422d27f5abe35d14e4febf25bbd6428d/header.jpg?t=1783727392",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689210/c1445aad422d27f5abe35d14e4febf25bbd6428d/header.jpg?t=1783744534",
       "genres": [
         "Экшен"
       ],
@@ -3087,7 +3178,7 @@
     {
       "id": 4757640,
       "title": "JULPAE",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757640/982686772ee7db4a91a4cf45d4adc6d7c65fdc33/header.jpg?t=1783180124",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757640/982686772ee7db4a91a4cf45d4adc6d7c65fdc33/header.jpg?t=1783923717",
       "genres": [
         "Экшен"
       ],
@@ -3100,7 +3191,7 @@
     {
       "id": 4563040,
       "title": "Jiaobei: Вопрос к божеству",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563040/60fa4047ac92e9eca595b890fa5ba35cf8a2e9ba/header.jpg?t=1783739953",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563040/60fa4047ac92e9eca595b890fa5ba35cf8a2e9ba/header.jpg?t=1783872439",
       "genres": [
         "Экшен"
       ],
@@ -3271,7 +3362,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1076,
+      "price_rub": 1077,
       "is_free": false
     },
     {
@@ -3483,6 +3574,19 @@
       "is_free": false
     },
     {
+      "id": 4361100,
+      "title": "Mandir: Gods Untouched",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361100/992bc557c5cc7fa2878a93d77ed89ed75c77d422/header.jpg?t=1784014983",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4660660,
       "title": "Marianara Deep",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660660/a18ad7b9750294c3f5865c64c2daf99e9425c7ad/header.jpg?t=1783337301",
@@ -3566,7 +3670,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 723,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -3579,7 +3683,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 639,
+      "price_rub": 640,
       "is_free": false
     },
     {
@@ -4491,6 +4595,19 @@
       "is_free": false
     },
     {
+      "id": 4766230,
+      "title": "Pongo! Paddle Pals!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766230/5606cd66e2f4a8d07bd757350b43fd1efd17824d/header_alt_assets_0.jpg?t=1783976840",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 764,
+      "is_free": false
+    },
+    {
       "id": 3990210,
       "title": "Poolar Bear",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990210/c538846d324da2291a2c17ced4760864c2592647/header.jpg?t=1783588030",
@@ -4634,7 +4751,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 527,
+      "price_rub": 528,
       "is_free": false
     },
     {
@@ -4647,7 +4764,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 527,
+      "price_rub": 528,
       "is_free": false
     },
     {
@@ -4943,7 +5060,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1186,
+      "price_rub": 1187,
       "is_free": false
     },
     {
@@ -5131,7 +5248,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 895,
+      "price_rub": 896,
       "is_free": false
     },
     {
@@ -5227,7 +5344,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1658,
+      "price_rub": 1661,
       "is_free": false
     },
     {
@@ -5844,7 +5961,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1213,
+      "price_rub": 1215,
       "is_free": false
     },
     {
@@ -6033,7 +6150,7 @@
     {
       "id": 4289180,
       "title": "The Long Drift",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/e6a4edf658d763012b6fd0e1d8f24043dc8d8582/header.jpg?t=1783734394",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/e6a4edf658d763012b6fd0e1d8f24043dc8d8582/header.jpg?t=1783840568",
       "genres": [
         "Экшен"
       ],
@@ -6085,7 +6202,7 @@
     {
       "id": 4412900,
       "title": "The Mutiny",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412900/8366f8c5937e2e0328226ebd611634265adc609b/header.jpg?t=1783753253",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412900/8366f8c5937e2e0328226ebd611634265adc609b/header.jpg?t=1784003330",
       "genres": [
         "Экшен"
       ],
@@ -6222,7 +6339,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 747,
+      "price_rub": 748,
       "is_free": false
     },
     {
@@ -6326,7 +6443,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 930,
+      "price_rub": 931,
       "is_free": false
     },
     {
@@ -6628,7 +6745,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 747,
+      "price_rub": 748,
+      "is_free": false
+    },
+    {
+      "id": 4706640,
+      "title": "War of the Austrian Succession",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706640/ebc86eab8adf6c8109072317546b0554223e0e50/header.jpg?t=1783974378",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3425,
       "is_free": false
     },
     {
@@ -6684,7 +6814,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 723,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -6781,7 +6911,7 @@
     {
       "id": 4824530,
       "title": "You.T@pes",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824530/349d846107412d36b16bd27ac4a92339ff14aa54/header.jpg?t=1783730770",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824530/349d846107412d36b16bd27ac4a92339ff14aa54/header.jpg?t=1783998189",
       "genres": [
         "Экшен"
       ],
@@ -6801,7 +6931,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 577,
+      "price_rub": 578,
       "is_free": false
     },
     {
@@ -7020,6 +7150,32 @@
       "is_free": false
     },
     {
+      "id": 4825080,
+      "title": "Ночь семи снов",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825080/5d62e71d190397102d2491adaead355ac59e4e31/header_russian.jpg?t=1783999498",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 738,
+      "is_free": false
+    },
+    {
+      "id": 3946120,
+      "title": "Погоня за рассветом / CTD",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946120/0f44380f29211e2f5daf1250cf10ec294cfabf66/header.jpg?t=1783995174",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 789,
+      "is_free": false
+    },
+    {
       "id": 4787490,
       "title": "Роман в Прямом Эфире",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787490/5c2792611bb4a074c4dbe3bf4ac3b2a0abb1efff/header.jpg?t=1783102583",
@@ -7033,6 +7189,19 @@
       "is_free": false
     },
     {
+      "id": 4645200,
+      "title": "Роуг-Царство: Сетки Стражей",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645200/40d2fedea8210bbb0ba5c722f837219558bb1b17/header.jpg?t=1784002946",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 906,
+      "is_free": false
+    },
+    {
       "id": 4794570,
       "title": "Самоцветы — мне, а махать дубиной — тебе: Blood & Blessing",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794570/07ca84c78299590cc36104e983fd83d5253390a0/header_russian.jpg?t=1783443635",
@@ -7042,7 +7211,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 856,
+      "price_rub": 857,
       "is_free": false
     },
     {
@@ -7250,7 +7419,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 701,
+      "price_rub": 702,
       "is_free": false
     },
     {
@@ -7289,7 +7458,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 589,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -7367,7 +7536,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 570,
+      "price_rub": 571,
       "is_free": false
     },
     {
