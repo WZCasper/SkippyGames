@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-15T07:47:59Z",
+  "generated_at": "2026-07-15T13:05:53Z",
   "uah_to_rub_rate": 1.722578,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 651,
+  "count": 668,
   "games": [
     {
       "id": 4675010,
@@ -524,6 +524,19 @@
       "is_free": false
     },
     {
+      "id": 4541610,
+      "title": "Ascension: The Infinite Descent",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541610/d9f083126aca3b9d4a6b21b5e22d2eeae41a97d4/header.jpg?t=1784090494",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 941,
+      "is_free": false
+    },
+    {
       "id": 3613130,
       "title": "Ascent Of Eternity",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613130/26ed12f69e75eccf30e93b0cd229e285d92f3244/header.jpg?t=1783912363",
@@ -783,7 +796,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 701,
+      "price_rub": 702,
       "is_free": false
     },
     {
@@ -1212,7 +1225,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 644,
+      "price_rub": 671,
       "is_free": false
     },
     {
@@ -1505,7 +1518,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2904,
+      "price_rub": 2910,
+      "is_free": false
+    },
+    {
+      "id": 4015010,
+      "title": "DEATHLOOP 4 YOU",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015010/6b12f3b27419325966fb3574bd3788cc064b08e6/header.jpg?t=1784105791",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -1771,7 +1797,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 608,
+      "price_rub": 609,
       "is_free": false
     },
     {
@@ -1973,7 +1999,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3591,
+      "price_rub": 3599,
       "is_free": false
     },
     {
@@ -2774,7 +2800,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 928,
+      "price_rub": 929,
       "is_free": false
     },
     {
@@ -2816,7 +2842,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2388,
+      "price_rub": 2393,
       "is_free": false
     },
     {
@@ -2886,7 +2912,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1320,
+      "price_rub": 1322,
       "is_free": false
     },
     {
@@ -3254,6 +3280,19 @@
         "PC"
       ],
       "price_rub": 658,
+      "is_free": false
+    },
+    {
+      "id": 4651470,
+      "title": "Hypatia",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651470/5a7d59d098e129b2070710229311425e9c35525f/header.jpg?t=1784106070",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1018,
       "is_free": false
     },
     {
@@ -3720,6 +3759,19 @@
       "is_free": false
     },
     {
+      "id": 4801300,
+      "title": "Last Lumen Knight",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801300/830374f4a6457586fac65dc6bc5533e408d9a7f9/header.jpg?t=1784108347",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4726310,
       "title": "Last Year's Model",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4726310/5f50cf445b29969f2721f9abce03e86b6522ff61/header.jpg?t=1783961925",
@@ -3850,6 +3902,19 @@
       "is_free": false
     },
     {
+      "id": 4443160,
+      "title": "Lux Anima",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443160/d3d3e01233df12e8f05c9feeebde1ff23a7b143a/header.jpg?t=1784101711",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 660,
+      "is_free": false
+    },
+    {
       "id": 4016570,
       "title": "Lythium",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/5d9a9794b0296675aa054944b1191ce86f9aae9d/header.jpg?t=1783089258",
@@ -3911,7 +3976,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 706,
+      "price_rub": 707,
       "is_free": false
     },
     {
@@ -3978,6 +4043,21 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 1875120,
+      "title": "Marsmare: Alienation",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1875120/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Платформеры",
+        "Метроидвании"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 552,
+      "is_free": false
     },
     {
       "id": 2767030,
@@ -4180,7 +4260,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 620,
+      "price_rub": 621,
+      "is_free": false
+    },
+    {
+      "id": 3937750,
+      "title": "Minimalist Desktop",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937750/5f7ce5e83617c656fa3a5a2e3b953208809bf1a4/header.jpg?t=1784116834",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
       "is_free": false
     },
     {
@@ -4906,6 +4999,19 @@
       "is_free": false
     },
     {
+      "id": 4324840,
+      "title": "Peace Under His Roof",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324840/7530d231bffce2a4574be87c2eae1a6b48a7b4b4/header.jpg?t=1784112232",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 617,
+      "is_free": false
+    },
+    {
       "id": 4170280,
       "title": "Pengo Friendo",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170280/2474e264f71c49ee79c098d78138c81711d655de/header.jpg?t=1784022079",
@@ -4967,7 +5073,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 723,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -5025,6 +5131,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 3938800,
+      "title": "Pleasure Room - Haunted Apartment",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938800/1a771153083c867c0a8d0acb10bd74d5eee41395/header.jpg?t=1784106712",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 689,
+      "is_free": false
     },
     {
       "id": 4005740,
@@ -5196,7 +5315,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 756,
+      "price_rub": 757,
       "is_free": false
     },
     {
@@ -5464,6 +5583,19 @@
         "PC"
       ],
       "price_rub": 801,
+      "is_free": false
+    },
+    {
+      "id": 4397780,
+      "title": "Roll Together",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397780/23d51289c57bf56b0dc809b71f67e53f1dc6aabe/header.jpg?t=1784104548",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 702,
       "is_free": false
     },
     {
@@ -5753,7 +5885,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1213,
+      "price_rub": 1215,
       "is_free": false
     },
     {
@@ -5880,7 +6012,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 816,
+      "price_rub": 817,
       "is_free": false
     },
     {
@@ -6166,7 +6298,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1239,
+      "price_rub": 1241,
       "is_free": false
     },
     {
@@ -6879,6 +7011,19 @@
       "is_free": false
     },
     {
+      "id": 2569760,
+      "title": "The Mound: Omen of Cthulhu",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1739,
+      "is_free": false
+    },
+    {
       "id": 4412900,
       "title": "The Mutiny",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412900/8366f8c5937e2e0328226ebd611634265adc609b/header.jpg?t=1784003330",
@@ -7157,6 +7302,19 @@
       "is_free": false
     },
     {
+      "id": 4538830,
+      "title": "Track Star",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538830/528214b642ffd67f7a34140630fc24be46e6bf6b/header.jpg?t=1784117210",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 857,
+      "is_free": false
+    },
+    {
       "id": 3998560,
       "title": "Trainz Simulator World Tour",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998560/e5fdc03182e9941e14ddb2ec133b2e8abd46db2c/header.jpg?t=1784089128",
@@ -7322,7 +7480,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 895,
+      "price_rub": 896,
       "is_free": false
     },
     {
@@ -7470,8 +7628,21 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1072,
+      "price_rub": 1074,
       "is_free": false
+    },
+    {
+      "id": 4891140,
+      "title": "Vexbound",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891140/178f5582e1e30f4a73f85faa5137eec9ec71a5c6/header.jpg?t=1784110799",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4834200,
@@ -7605,6 +7776,19 @@
         "PC"
       ],
       "price_rub": 724,
+      "is_free": false
+    },
+    {
+      "id": 4178950,
+      "title": "What Surrounds Us",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178950/71d880b4dcccd01783b44733ba3c0bb1d5aef515/header.jpg?t=1784109225",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 907,
       "is_free": false
     },
     {
@@ -7962,7 +8146,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2130,
+      "price_rub": 2135,
       "is_free": false
     },
     {
@@ -8174,6 +8358,19 @@
       "is_free": false
     },
     {
+      "id": 4234260,
+      "title": "主角",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234260/505c23ffb66ed463e35d4a20f13f745dba0df855/header.jpg?t=1784113790",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 975,
+      "is_free": false
+    },
+    {
       "id": 4549560,
       "title": "互联便签引擎",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549560/0d17daf01e364094579ba7a71159916ad0a784fe/header.jpg?t=1784087734",
@@ -8202,27 +8399,27 @@
     {
       "id": 4798150,
       "title": "人生记事簿：Life Memoirs",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798150/3d387a14bf3554d001ae6cf3a9db6e1041a731cb/header.jpg?t=1783824818",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798150/3d387a14bf3554d001ae6cf3a9db6e1041a731cb/header.jpg?t=1783938835",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 637,
+      "price_rub": 638,
       "is_free": false
     },
     {
       "id": 4829980,
       "title": "仙途放置：无尽天梯和完美装备",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1783598166",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1784045451",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 701,
+      "price_rub": 702,
       "is_free": false
     },
     {
@@ -8460,6 +8657,19 @@
       "is_free": false
     },
     {
+      "id": 4060660,
+      "title": "爆射的哈基米 - 哈基米幸存者",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4060660/3b416b2fca83c2d1c63e630a8e04a8a194436ada/header.jpg?t=1784091596",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 531,
+      "is_free": false
+    },
+    {
       "id": 4376780,
       "title": "砍价模拟器",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376780/dc0f36437911d315c057570de1f82dc7170a86fd/header.jpg?t=1783814241",
@@ -8469,7 +8679,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 577,
+      "price_rub": 578,
       "is_free": false
     },
     {
@@ -8496,6 +8706,19 @@
         "PC"
       ],
       "price_rub": 735,
+      "is_free": false
+    },
+    {
+      "id": 4591610,
+      "title": "致经济下行的我们",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591610/b23ff9a7dd96efff6e22621b328ecd07b54121f6/header.jpg?t=1784084119",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 767,
       "is_free": false
     },
     {
