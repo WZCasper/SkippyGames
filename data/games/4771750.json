@@ -1,0 +1,28 @@
+{
+  "id": 4771750,
+  "title": "DozenChess",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771750/9d96964c022544ee92b0aa8f98363427f84eb256/header.jpg?t=1784126033",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4771750?t=1784126033",
+  "description": "[h1]Game Introduction: Dozen Chess[/h1]\n\nDozen Chess is a turn-based strategy roguelike that reinterprets the rules of chess into a modern tactical RPG. \n\nPlayers must utilize limited resources and action points to optimally deploy their pieces, combine unique skills, and overcome a trial consisting of 12 distinct stages.\n\n[h1]Core Game Systems[/h1]\n\n1. Preparation Phase: The foundational stage before combat begins.\n\n• Shop: Purchase pieces and items using accumulated credits.\n\n• Strategic Deployment: Freely deploy up to 12 pieces onto the field.\n\n• Merge (Upgrade): Combine identical pieces to increase their level and maximize their stats.\n\n2. Battle Phase: The stage where actual combat takes place.\n\n• Action Points (AP): 3 Action Points are granted each turn. Carefully allocate them across movement, skills, and item usage.\n\n• Skills & Items: Utilize each piece's unique skills and inventory items to turn the tide of battle in your favor.\n\n• Attack: Once the player's turn ends, all allied pieces launch an attack simultaneously.\n\nA journey consisting of 12 stages total awaits you. Test the limits of your piece combinations and strategies against enemies that grow increasingly powerful with each stage!\n\n© 2026 Team 12G. with PandoraCube Sejong Univ.",
+  "description_short": "Dozen Chess is a turn-based strategy roguelike that reinterprets the rules of chess into a modern tactical RPG. Players must utilize limited resources and action points to optimally deploy their pieces, combine unique skills, and overcome a trial consisting of 12 distinct stages.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771750/cfa0ef7038417e7208e06110d213cbf0ce227a6a/ss_cfa0ef7038417e7208e06110d213cbf0ce227a6a.1920x1080.jpg?t=1784126033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771750/87d43763466612ed5028136d1599aeba6f6c5091/ss_87d43763466612ed5028136d1599aeba6f6c5091.1920x1080.jpg?t=1784126033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771750/1952df54e12e9b3dc92edcdbddd988f699d93438/ss_1952df54e12e9b3dc92edcdbddd988f699d93438.1920x1080.jpg?t=1784126033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771750/8947da1f5c729efbafcf59052d17afe1fbbcd763/ss_8947da1f5c729efbafcf59052d17afe1fbbcd763.1920x1080.jpg?t=1784126033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771750/08057d34b66e7dacb47e2ce54f694386eb5dfbab/ss_08057d34b66e7dacb47e2ce54f694386eb5dfbab.1920x1080.jpg?t=1784126033"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-15T19:14:08Z"
+}
