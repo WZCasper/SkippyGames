@@ -1,0 +1,28 @@
+{
+  "id": 4113370,
+  "title": "検品作業",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/06c270d697ec4618eb603a0461c04c2d5c3d1b08/header.jpg?t=1784050750",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4113370?t=1784050750",
+  "description": "このゲームはホラー要素のあるポイント＆クリックアドベンチャーです。\n\n正常な製品は紙袋で梱包して、不良品は伝票を貼りつけて処分するという仕事です。\n\n不良のある製品を出荷してしまったり、正常な製品を不良品扱いにしてしまうとよくないことが起こります。\n\n（ジャンプスケアやグロテスクな演出を含みますのでプレイされる際はご注意ください）\n\n仕事の流れ・見本を確認する\n\n・製品仕様書を確認する\n\n・カゴから製品を取り出す\n\n・製品の外観をチェックする\n\n・製品の測長を行う\n\n・音声ボタンを押して確認する\n\n・正常なら梱包、不良品は不良伝票を貼り付けて処分\n\n以上の繰り返しです。\n\n見本について新しい製品を検査する際は、必ず見本をお渡しします。\n\n正しい製品と不良品の違いを見分けられるように、最初に十分に確認しましょう。\n\n一度返却すると見返すことが出来ないので気を付けてください。\n\n仕様書について検品を開始する前に必ずその製品の仕様書を読みましょう。\n\n製品の動作確認や、測長誤差の範囲などが記されています。\n\n不良伝票について不良のある製品は、不良伝票の中から該当する項目にチェックを入れて貼り付けましょう。\n\n該当する不良項目でないものにチェックを入れてしまうと、よくないことが起こります。",
+  "description_short": "あなたは事情があり、まとまった金額を必要としています。 友人から紹介された謎の求人サイトから応募して、検品のバイトを始めることになりました。仕事の内容は簡単。 正常な製品は紙袋で梱包して、不良品は伝票を貼りつけて処分してください。 不良を見落としてしまったり、正常な製品を処分してしまうとよくないことが起きてしまいます。 そのようなことが起こらないよう、慎重に、正確な仕事を行うようにしましょう。",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 538,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/da850fa22ffb8b6b57de75e9c0c09de339a1e8cd/ss_da850fa22ffb8b6b57de75e9c0c09de339a1e8cd.1920x1080.jpg?t=1784050750",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/042eca7f7fd357ad18e92051f8ea4788ee079c4f/ss_042eca7f7fd357ad18e92051f8ea4788ee079c4f.1920x1080.jpg?t=1784050750",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/bd1e68a99b5a659f853cca6c4e68d8836336fcc7/ss_bd1e68a99b5a659f853cca6c4e68d8836336fcc7.1920x1080.jpg?t=1784050750",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/a2bdac72207cb7afda4c41791c6340ae21aaac0b/ss_a2bdac72207cb7afda4c41791c6340ae21aaac0b.1920x1080.jpg?t=1784050750",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/f7c26416fa4c93ff8c8818522569b6436086ed2b/ss_f7c26416fa4c93ff8c8818522569b6436086ed2b.1920x1080.jpg?t=1784050750"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-15T01:15:39Z"
+}

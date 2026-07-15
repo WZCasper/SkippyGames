@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-14T19:25:33Z",
-  "uah_to_rub_rate": 1.72238,
+  "generated_at": "2026-07-15T01:18:18Z",
+  "uah_to_rub_rate": 1.722578,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 619,
+  "count": 636,
   "games": [
     {
       "id": 4675010,
@@ -1858,6 +1858,19 @@
       "is_free": false
     },
     {
+      "id": 4693930,
+      "title": "Dragons Die",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693930/dffe9bb24380eb876b9dcb4710cbddf2e0c8659e/header.jpg?t=1784063444",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 724,
+      "is_free": false
+    },
+    {
       "id": 4773390,
       "title": "Dreaming With Sharks",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773390/2a429218436ce968079413f2fa42fa7b540ace8c/header.jpg?t=1783432713",
@@ -2540,6 +2553,19 @@
       "is_free": false
     },
     {
+      "id": 4327500,
+      "title": "Futa Hero",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327500/a44ae5ca3eb3d9413bf7aef53a4da44d93a0c58b/header.jpg?t=1784050944",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 714,
+      "is_free": false
+    },
+    {
       "id": 3832100,
       "title": "GAMEBORO",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832100/a1834a11974595a41b6928cd71260b992066a20c/header.jpg?t=1783620788",
@@ -3124,6 +3150,19 @@
       "is_free": true
     },
     {
+      "id": 4864280,
+      "title": "Hollow Orbit",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864280/e669100c41f84c1a43a84245a1cff8b5dbae0e33/header.jpg?t=1784048483",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 751,
+      "is_free": false
+    },
+    {
       "id": 4841030,
       "title": "Hollow Signal",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841030/419897943e07a5f2cb578d2f2ca7cb9c8861b0f5/header.jpg?t=1784048466",
@@ -3322,6 +3361,19 @@
       "is_free": false
     },
     {
+      "id": 4209160,
+      "title": "Idyll Isle",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209160/c0d069bf8b1fe90199ddcf8a7c89cde755b3b2e2/header.jpg?t=1784065581",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 638,
+      "is_free": false
+    },
+    {
       "id": 4260590,
       "title": "Imagine We Were Human",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260590/b454983aa18504397af61082f02e15407a2b9927/header.jpg?t=1783698888",
@@ -3495,6 +3547,19 @@
       "is_free": false
     },
     {
+      "id": 4617640,
+      "title": "Keeb Quest: Typing Battles",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617640/5943dff28c02994e77155b72158c7173ab50d253/header.jpg?t=1784058629",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
+      "is_free": false
+    },
+    {
       "id": 4446120,
       "title": "Keepy UP",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/295efd53200f492f3f47948023df105eea69454c/header.jpg?t=1783068038",
@@ -3626,6 +3691,19 @@
         "PC"
       ],
       "price_rub": 590,
+      "is_free": false
+    },
+    {
+      "id": 3853410,
+      "title": "LazyLegions",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853410/2944d5a608ee6cc29f81de7282c667a87319c19e/header.jpg?t=1784058747",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 614,
       "is_free": false
     },
     {
@@ -4134,6 +4212,19 @@
         "PC"
       ],
       "price_rub": 724,
+      "is_free": false
+    },
+    {
+      "id": 4775730,
+      "title": "Multi Auto Clicker",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775730/d434680b9e9e40526641b6a246197cee568b565a/header.jpg?t=1784048541",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 576,
       "is_free": false
     },
     {
@@ -5135,6 +5226,19 @@
       "is_free": false
     },
     {
+      "id": 4812140,
+      "title": "RSVP",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812140/a379f2e8174f21b4986089d705b35da4ceefb8ad/header.jpg?t=1784059414",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 665,
+      "is_free": false
+    },
+    {
       "id": 4825610,
       "title": "Random Fantasy Defense",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825610/c7a865bca6d5576818333ae5e03678705481b9d0/header.jpg?t=1783250943",
@@ -5428,6 +5532,19 @@
         "PC"
       ],
       "price_rub": 603,
+      "is_free": false
+    },
+    {
+      "id": 2947440,
+      "title": "SILENT HILL f",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1770,
       "is_free": false
     },
     {
@@ -6233,6 +6350,19 @@
       "is_free": false
     },
     {
+      "id": 4858060,
+      "title": "Stories Best Left Untold",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858060/71aa44928b0281b5bf559d4c77008672724139f1/header.jpg?t=1784048714",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 634,
+      "is_free": false
+    },
+    {
       "id": 1332010,
       "title": "Stray",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/capsule_616x353.jpg",
@@ -6489,6 +6619,19 @@
       "is_free": false
     },
     {
+      "id": 4852330,
+      "title": "The Evening Custodian",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852330/e1d4c4cd4d9e2745922ceedf22499b12721161b2/header.jpg?t=1784055643",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 724,
+      "is_free": false
+    },
+    {
       "id": 4150890,
       "title": "The Fiancée - Paths of Corruption",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150890/92c9837e55ac7fb10e6ed8eb517daaddef2562fc/header.jpg?t=1783672408",
@@ -6681,6 +6824,24 @@
         "PC"
       ],
       "price_rub": 547,
+      "is_free": false
+    },
+    {
+      "id": 1304930,
+      "title": "The Outlast Trials",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1304930/capsule_616x353.jpg",
+      "genres": [
+        "Психологические хорроры",
+        "Хорроры на выживание (Survival Horror)",
+        "Шутеры от первого лица (FPS)",
+        "Стелс-экшен",
+        "Экшен",
+        "Экшен-адвенчуры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 882,
       "is_free": false
     },
     {
@@ -7115,6 +7276,19 @@
         "PC"
       ],
       "price_rub": 964,
+      "is_free": false
+    },
+    {
+      "id": 4519680,
+      "title": "Valor 1944",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519680/4b7bd3b506cc9be339093ae4ba062514fb8677be/header.jpg?t=1784048422",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 857,
       "is_free": false
     },
     {
@@ -7577,6 +7751,19 @@
       "is_free": false
     },
     {
+      "id": 4620140,
+      "title": "iMic - Voice Changer",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620140/9e1ceda8f8042deedc0ecee7e7a9be4fafc42879/header.jpg?t=1784055371",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 2092,
+      "is_free": false
+    },
+    {
       "id": 266410,
       "title": "iRacing",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/266410/capsule_616x353.jpg",
@@ -7643,6 +7830,19 @@
         "PC"
       ],
       "price_rub": 802,
+      "is_free": false
+    },
+    {
+      "id": 4579890,
+      "title": "Болезнь",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579890/690cee83adb2de66dc733fcf27b152ac33b80c8f/header_russian.jpg?t=1784051500",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 655,
       "is_free": false
     },
     {
@@ -8013,6 +8213,19 @@
       "is_free": false
     },
     {
+      "id": 4579210,
+      "title": "幻域 Fantasy Domain",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579210/c5862be9fcec31ab5c26ec56d40f17ee6fb3f341/header.jpg?t=1784058034",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 676,
+      "is_free": false
+    },
+    {
       "id": 4542860,
       "title": "异世界X异世界（Isekai x Isekai）",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542860/add38b55f88d50bbd971381dc4f24d87f2a8f7e0/header.jpg?t=1783741506",
@@ -8062,6 +8275,19 @@
         "PC"
       ],
       "price_rub": 590,
+      "is_free": false
+    },
+    {
+      "id": 4113370,
+      "title": "検品作業",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/06c270d697ec4618eb603a0461c04c2d5c3d1b08/header.jpg?t=1784050750",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 538,
       "is_free": false
     },
     {
