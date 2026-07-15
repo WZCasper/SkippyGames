@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-15T01:18:18Z",
+  "generated_at": "2026-07-15T07:47:59Z",
   "uah_to_rub_rate": 1.722578,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 636,
+  "count": 651,
   "games": [
     {
       "id": 4675010,
@@ -357,7 +357,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 900,
+      "price_rub": 901,
       "is_free": false
     },
     {
@@ -513,14 +513,14 @@
     {
       "id": 3723580,
       "title": "Ascension of the Dead",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3723580/d9843c7329f6152a3503ac6edff775bb7be87ccd/header.jpg?t=1783750042",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3723580/d9843c7329f6152a3503ac6edff775bb7be87ccd/header.jpg?t=1783976096",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 723,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -991,7 +991,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 809,
+      "price_rub": 810,
       "is_free": false
     },
     {
@@ -1784,7 +1784,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 909,
+      "price_rub": 910,
       "is_free": false
     },
     {
@@ -2042,6 +2042,19 @@
       "is_free": false
     },
     {
+      "id": 4389140,
+      "title": "Edd Skeleton VR",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389140/82eac957c33a7a111529a81921ebca92a7769b58/header.jpg?t=1784086266",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 679,
+      "is_free": false
+    },
+    {
       "id": 3178920,
       "title": "Educational Family Games",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3178920/8ea38a1a9cb55bcc2b94f113fc460f40c091fad8/header.jpg?t=1783664593",
@@ -2200,14 +2213,14 @@
     {
       "id": 4294320,
       "title": "FINIS ACTUS",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294320/9ed2770b92da31b1da94f6ad2cea194377643787/header_russian.jpg?t=1783270812",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294320/9ed2770b92da31b1da94f6ad2cea194377643787/header_russian.jpg?t=1783873464",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 854,
+      "price_rub": 729,
       "is_free": false
     },
     {
@@ -2471,7 +2484,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 672,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -2605,6 +2618,19 @@
       "is_free": false
     },
     {
+      "id": 4890720,
+      "title": "Galatria",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890720/da17485797f1d0003ed5c2df855a3bbd0bcfea69/header.jpg?t=1784096547",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 646,
+      "is_free": false
+    },
+    {
       "id": 3807420,
       "title": "Galaxy Defenders (Classic TD)",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3807420/584446a84888d3bfe96bade28910e07d6af0e486/header.jpg?t=1783761246",
@@ -2614,7 +2640,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 546,
+      "price_rub": 547,
       "is_free": false
     },
     {
@@ -2877,6 +2903,19 @@
       "is_free": false
     },
     {
+      "id": 3983870,
+      "title": "HAMISH",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983870/87ede458173566b84e0a77cc89941de6be371810/header.jpg?t=1784098872",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 910,
+      "is_free": false
+    },
+    {
       "id": 3689210,
       "title": "HYPERFIST",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689210/c1445aad422d27f5abe35d14e4febf25bbd6428d/header.jpg?t=1783744534",
@@ -2931,14 +2970,14 @@
     {
       "id": 4336300,
       "title": "Health Audit Simulator",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/3b66cd0a76116252561ab1f27491869c7ec90733/header.jpg?t=1783785527",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/3b66cd0a76116252561ab1f27491869c7ec90733/header.jpg?t=1783873981",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 921,
+      "price_rub": 922,
       "is_free": false
     },
     {
@@ -3055,7 +3094,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 570,
+      "price_rub": 571,
       "is_free": false
     },
     {
@@ -3989,6 +4028,19 @@
       "is_free": false
     },
     {
+      "id": 3583940,
+      "title": "Master of Balance",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583940/b9ce47b864c536bef43491f448dc78ba0542f790/header.jpg?t=1784080792",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 789,
+      "is_free": false
+    },
+    {
       "id": 4110830,
       "title": "Material Maker",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110830/b5b9a74c03614c016ebed7ac02cda431a864594a/header.jpg?t=1784016954",
@@ -4346,6 +4398,19 @@
       "is_free": false
     },
     {
+      "id": 4863030,
+      "title": "Naomi’s End",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863030/a23d0e0cecbcff624532f0bac82051f58833ebb4/header.jpg?t=1784062770",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 528,
+      "is_free": false
+    },
+    {
       "id": 4141710,
       "title": "Neko Station",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141710/e89a0a4806eab4f009d67c9ca88605f859d68ed9/header.jpg?t=1783913275",
@@ -4420,7 +4485,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 579,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -5897,6 +5962,19 @@
       "is_free": false
     },
     {
+      "id": 4511960,
+      "title": "Silency: Cube 666",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511960/3ce42e909015d63c9d445d221df58b2dad3d9cdb/header.jpg?t=1784067096",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 574,
+      "is_free": false
+    },
+    {
       "id": 2627350,
       "title": "Silicon Scars",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627350/395460856296440fd3e560dbd7df3d9c61097f6f/header.jpg?t=1783396861",
@@ -6706,7 +6784,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 795,
       "is_free": false
     },
     {
@@ -7010,7 +7088,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1141,
+      "price_rub": 1143,
       "is_free": false
     },
     {
@@ -7079,6 +7157,19 @@
       "is_free": false
     },
     {
+      "id": 3998560,
+      "title": "Trainz Simulator World Tour",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998560/e5fdc03182e9941e14ddb2ec133b2e8abd46db2c/header.jpg?t=1784089128",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1775,
+      "is_free": false
+    },
+    {
       "id": 4847120,
       "title": "Trance World",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847120/cf8ce77ad2b1ae2b1520ede3b1a6787b3423200e/header.jpg?t=1783666892",
@@ -7114,7 +7205,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1411,
+      "price_rub": 1413,
       "is_free": false
     },
     {
@@ -7539,7 +7630,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 766,
+      "price_rub": 767,
       "is_free": false
     },
     {
@@ -7688,14 +7779,14 @@
     {
       "id": 4811410,
       "title": "Zombie Queen",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811410/d6925f2227b4787f5b0b6018496e76766a8ac79c/header.jpg?t=1783812558",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811410/d6925f2227b4787f5b0b6018496e76766a8ac79c/header.jpg?t=1783827901",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 899,
+      "price_rub": 900,
       "is_free": false
     },
     {
@@ -7979,6 +8070,19 @@
       "is_free": false
     },
     {
+      "id": 4478640,
+      "title": "Рюкзак-Подземелье",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478640/84ee2ff1cb44525f9af30a2941e65e3d7dc8c871/header.jpg?t=1784084571",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 638,
+      "is_free": false
+    },
+    {
       "id": 4794570,
       "title": "Самоцветы — мне, а махать дубиной — тебе: Blood & Blessing",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794570/07ca84c78299590cc36104e983fd83d5253390a0/header_russian.jpg?t=1783443635",
@@ -8068,6 +8172,19 @@
       ],
       "price_rub": 689,
       "is_free": false
+    },
+    {
+      "id": 4549560,
+      "title": "互联便签引擎",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549560/0d17daf01e364094579ba7a71159916ad0a784fe/header.jpg?t=1784087734",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4365090,
@@ -8265,6 +8382,19 @@
       "is_free": false
     },
     {
+      "id": 4707970,
+      "title": "攻击就能加攻击",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/a6961e03e803cfe97a755aa933c895cc2c9ab839/header.jpg?t=1784081911",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 603,
+      "is_free": false
+    },
+    {
       "id": 4840120,
       "title": "文物修复师 Relic Restorer",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840120/51ef72fcf1db0479eb845dd34110a1add01f5e8a/header.jpg?t=1783152228",
@@ -8278,6 +8408,32 @@
       "is_free": false
     },
     {
+      "id": 4793740,
+      "title": "斗将",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4793740/b6632d35bcee977684d317f86bcae9f5c9404dc0/header.jpg?t=1784078539",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4676570,
+      "title": "新盗墓笔记（官方正版）",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4676570/ef23738e876fbdec1ed98706cd2511fb4c37ecb9/header.jpg?t=1784087764",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4113370,
       "title": "検品作業",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/06c270d697ec4618eb603a0461c04c2d5c3d1b08/header.jpg?t=1784050750",
@@ -8288,6 +8444,19 @@
         "PC"
       ],
       "price_rub": 538,
+      "is_free": false
+    },
+    {
+      "id": 4280780,
+      "title": "洪荒进化 Hong Huang Evolution",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280780/34b1f7403871c1ee83053319d29026a2bcc2b3e9/header.jpg?t=1784085988",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 655,
       "is_free": false
     },
     {
@@ -8379,6 +8548,32 @@
         "PC"
       ],
       "price_rub": 571,
+      "is_free": false
+    },
+    {
+      "id": 4282480,
+      "title": "鉄道運行管理シミュレーション",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282480/c7fd73ab1e850b967d7b525dc998b648d65e7308/header.jpg?t=1784094907",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 925,
+      "is_free": false
+    },
+    {
+      "id": 4430470,
+      "title": "难蚌尖塔",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430470/7911b64a9fff90638285a0d1a43e97a874d903b0/header.jpg?t=1784086476",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 681,
       "is_free": false
     },
     {

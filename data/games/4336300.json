@@ -1,8 +1,8 @@
 {
   "id": 4336300,
   "title": "Health Audit Simulator",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/3b66cd0a76116252561ab1f27491869c7ec90733/header.jpg?t=1783785527",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/28e51816208b08f067be8d57e6c0c49c6ce9a0bc/page_bg_raw.jpg?t=1783785527",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/3b66cd0a76116252561ab1f27491869c7ec90733/header.jpg?t=1783873981",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/28e51816208b08f067be8d57e6c0c49c6ce9a0bc/page_bg_raw.jpg?t=1783873981",
   "description": "НАЙДИТЕ опасностиПримерьте на себя роль аудитора по охране здоровья, нанятого организацией Hazard And Management Intervention for Safety and Health (HAMISH), и осмотрите каждый сантиметр в 20 игровых локациях!\n\nОТМЕТЬТЕ опасностиУстановите свой красный флажок риска, предоставленный организацией Hazard And Management Intervention for Safety and Health (HAMISH), чтобы отметить любую найденную опасность!\n\nОЦЕНИТЕ опасностиКлассифицируйте и ранжируйте каждый риск с помощью оценочного планшета, выданного организацией Hazard And Management Intervention for Safety and Health (HAMISH) для проведения проверок на местах!",
   "description_short": "Примерьте на себя роль аудитора по охране здоровья. НАХОДИТЕ, ОТМЕЧАЙТЕ и ОЦЕНИВАЙТЕ потенциальные риски и опасности в 20 игровых локациях в двух различных вариантах сложности.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 921,
+  "price_rub": 922,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": "ODYzztN0hGY",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/37ccb4c860a9a36725af4d00c41810ba798abed8/ss_37ccb4c860a9a36725af4d00c41810ba798abed8.1920x1080.jpg?t=1783785527",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/35cf4a9e2762503f35fbf1a3f95f0db258e20458/ss_35cf4a9e2762503f35fbf1a3f95f0db258e20458.1920x1080.jpg?t=1783785527",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/31f0b8e7914492e64fafd783cbb3c6d7899cb23a/ss_31f0b8e7914492e64fafd783cbb3c6d7899cb23a.1920x1080.jpg?t=1783785527",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/23d158c84f26cc47398b7a3029f12b3be8a67c8d/ss_23d158c84f26cc47398b7a3029f12b3be8a67c8d.1920x1080.jpg?t=1783785527",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/01a80da1737a1813939ac9bfbb8160df8407d0a6/ss_01a80da1737a1813939ac9bfbb8160df8407d0a6.1920x1080.jpg?t=1783785527",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/eb3d5e15239ced2b0640eab8287ede3b06153dff/ss_eb3d5e15239ced2b0640eab8287ede3b06153dff.1920x1080.jpg?t=1783785527",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/e3cd72eb33a7265137e52213984dd3b5a1b0c460/ss_e3cd72eb33a7265137e52213984dd3b5a1b0c460.1920x1080.jpg?t=1783785527",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/4aaec2e3ebc4967dd09a6a7a355dbea7ff6bbede/ss_4aaec2e3ebc4967dd09a6a7a355dbea7ff6bbede.1920x1080.jpg?t=1783785527"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/37ccb4c860a9a36725af4d00c41810ba798abed8/ss_37ccb4c860a9a36725af4d00c41810ba798abed8.1920x1080.jpg?t=1783873981",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/35cf4a9e2762503f35fbf1a3f95f0db258e20458/ss_35cf4a9e2762503f35fbf1a3f95f0db258e20458.1920x1080.jpg?t=1783873981",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/31f0b8e7914492e64fafd783cbb3c6d7899cb23a/ss_31f0b8e7914492e64fafd783cbb3c6d7899cb23a.1920x1080.jpg?t=1783873981",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/23d158c84f26cc47398b7a3029f12b3be8a67c8d/ss_23d158c84f26cc47398b7a3029f12b3be8a67c8d.1920x1080.jpg?t=1783873981",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/01a80da1737a1813939ac9bfbb8160df8407d0a6/ss_01a80da1737a1813939ac9bfbb8160df8407d0a6.1920x1080.jpg?t=1783873981",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/eb3d5e15239ced2b0640eab8287ede3b06153dff/ss_eb3d5e15239ced2b0640eab8287ede3b06153dff.1920x1080.jpg?t=1783873981",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/e3cd72eb33a7265137e52213984dd3b5a1b0c460/ss_e3cd72eb33a7265137e52213984dd3b5a1b0c460.1920x1080.jpg?t=1783873981",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/4aaec2e3ebc4967dd09a6a7a355dbea7ff6bbede/ss_4aaec2e3ebc4967dd09a6a7a355dbea7ff6bbede.1920x1080.jpg?t=1783873981"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T01:24:55Z"
+  "updated_at": "2026-07-15T07:47:01Z"
 }
