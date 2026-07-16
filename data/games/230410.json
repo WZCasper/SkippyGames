@@ -18,7 +18,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "bRxDf7gu97g",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_2e4077f215eccde84171a4b8e0f2bc8a3264c776.1920x1080.jpg?t=1783809792",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_0a541a8bf59e212870ea8d82260ac1b3ae2d0354.1920x1080.jpg?t=1783809792",
@@ -31,64 +31,64 @@
     {
       "id": 4735410,
       "name": "Warframe: Коллекция Мисы «Наследие»",
-      "price_rub": 1361,
+      "price_rub": 1365,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735410/873b7960ba00e060784eff7f6b4ac885ffb95812/header.jpg?t=1783782016"
     },
     {
       "id": 4735390,
       "name": "Warframe: Полная коллекция «Созвездия»",
-      "price_rub": 1706,
+      "price_rub": 1712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735390/a698499c0760f3f1b4af902d84a6b713ffaa66bf/header.jpg?t=1781708712"
     },
     {
       "id": 4735380,
       "name": "Warframe: Комплект «Созвездия - Сириус и Орион»",
-      "price_rub": 1188,
+      "price_rub": 1192,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735380/59163e328ddd41b62db864d8ce782da48e907d69/header.jpg?t=1781708733"
     },
     {
       "id": 4735400,
       "name": "Warframe: Коллекция «Созвездия - Близнецы»",
-      "price_rub": 1188,
+      "price_rub": 1192,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735400/dfa481921d64d3be089e5bd30e5a0ceebb89f6b7/header.jpg?t=1781708686"
     },
     {
       "id": 4760260,
       "name": "Warframe: Доступ Стинакс Прайм — Оружейный набор",
-      "price_rub": 2139,
+      "price_rub": 2148,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760260/4235739fe86e59e44f7700e69e26efa6acfd3dee/header.jpg?t=1781708923"
     },
     {
       "id": 4760270,
       "name": "Warframe: Доступ Стинакс Прайм — Набор аксессуаров",
-      "price_rub": 2139,
+      "price_rub": 2148,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760270/1231e62b9b19d05515f01f046851af9aaaaf1c13/header.jpg?t=1781708905"
     },
     {
       "id": 4447660,
       "name": "Warframe: Цифровой Набор «TennoCon 2026»",
-      "price_rub": 1361,
+      "price_rub": 1365,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447660/dbe63843bb58b000b515fb5c89c116e6bb124d4c/header.jpg?t=1777906821"
     },
     {
       "id": 4447640,
       "name": "Warframe: комплект «Тенеграф»",
-      "price_rub": 1188,
+      "price_rub": 1192,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447640/d0a2be17fa9b8d76b815ef0ac39a26dcc16be15a/header.jpg?t=1774452023"
     },
     {
       "id": 4447650,
       "name": "Warframe: Коллекция «Ешь и беги»",
-      "price_rub": 1533,
+      "price_rub": 1539,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447650/c645f27911f7272f4b260cf9350fc1a93b15a5a0/header.jpg?t=1774452032"
     },
     {
       "id": 4316160,
       "name": "Warframe: Боевой набор «Фульмин»",
-      "price_rub": 567,
+      "price_rub": 568,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316160/964a2557f40e8b15131d6ac779bf25e33d82fbbb/header.jpg?t=1777650596"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T14:01:08Z"
+  "updated_at": "2026-07-16T19:04:33Z"
 }

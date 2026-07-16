@@ -1,8 +1,8 @@
 {
   "id": 4675010,
   "title": "100 Hidden Cats Stream Live",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/1d89293f2138bbc681757ce1517694450288c2c0/header.jpg?t=1783675328",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/d6b53a7538fff7c9baa7e6b20fcf12f2e79631ab/page_bg_raw.jpg?t=1783675328",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/1d89293f2138bbc681757ce1517694450288c2c0/header.jpg?t=1784147974",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/d6b53a7538fff7c9baa7e6b20fcf12f2e79631ab/page_bg_raw.jpg?t=1784147974",
   "description": "🐾 ДОБРО ПОЖАЛОВАТЬ В 100 HIDDEN CAT STREAMING LIVE! 🐈\n\n            Погрузитесь в увлекательный мир стриминга и создания контента! Исследуйте четыре уникальные нарисованные вручную локации, вдохновлённые популярными стриминговыми платформами и онлайн-сообществами.\n\nИщите 100 очаровательных котиков, спрятанных в комнате Twitch, студии YouTube, хабе Discord и эксклюзивной VIP-зоне. Каждая локация наполнена интересными деталями, стримерским оборудованием и зрителями, которые наблюдают за трансляцией.\n\nРасслабьтесь, используйте приближение и проверьте свою внимательность, находя всех спрятавшихся котиков в этом уютном приключении жанра Hidden Object.\n\n                                                         🐈🎥 Сможете найти их всех? 🎥🐈\n\nОсобенности игры :\n\n🎮 4 уникальные тематические комнаты\n🐈 100 спрятанных котиков\n👥 Система зрителей в прямом эфире\n📺 Локация в стиле Twitch\n🎥 Студия контент-мейкеров YouTube\n💬 Сообщество Discord\n⭐ Эксклюзивная VIP-зона\n🎵 Расслабляющий саундтрек\n🎨 Качественная рисованная графика\n💾 Сохранение прогресса\n🔍 Возможность приближения\n😺 Настоящие кошачьи мяуканья\n🌐 Без текста — играйте на любом языке\n🏆 Достижения",
   "description_short": "Помоги стримеру подготовиться к эфиру! 100 милых котиков спрятались в уютной игровой студии: в проводах, на полках и внутри ПК. Ищи их, расслабляйся под приятную музыку и собирай все достижения. Самая уютная игра-поиск для настоящих геймеров и любителей котов!",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 705,
+  "price_rub": 706,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/daea0c94e9c09ef10a58b8ce0d366d2fca78b7d1/ss_daea0c94e9c09ef10a58b8ce0d366d2fca78b7d1.1920x1080.jpg?t=1783675328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/d041d7daaab6616d6ad3fc0372b62cd47f766147/ss_d041d7daaab6616d6ad3fc0372b62cd47f766147.1920x1080.jpg?t=1783675328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/d483b50ec27e83ddfa90eb4648b2585ab40bce87/ss_d483b50ec27e83ddfa90eb4648b2585ab40bce87.1920x1080.jpg?t=1783675328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/9fc07807e5f393f6772d129d7695497748c2560a/ss_9fc07807e5f393f6772d129d7695497748c2560a.1920x1080.jpg?t=1783675328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/33b5e8c704a629d6fbefcf2c65bd59fb026edbd9/ss_33b5e8c704a629d6fbefcf2c65bd59fb026edbd9.1920x1080.jpg?t=1783675328"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/daea0c94e9c09ef10a58b8ce0d366d2fca78b7d1/ss_daea0c94e9c09ef10a58b8ce0d366d2fca78b7d1.1920x1080.jpg?t=1784147974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/d041d7daaab6616d6ad3fc0372b62cd47f766147/ss_d041d7daaab6616d6ad3fc0372b62cd47f766147.1920x1080.jpg?t=1784147974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/d483b50ec27e83ddfa90eb4648b2585ab40bce87/ss_d483b50ec27e83ddfa90eb4648b2585ab40bce87.1920x1080.jpg?t=1784147974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/9fc07807e5f393f6772d129d7695497748c2560a/ss_9fc07807e5f393f6772d129d7695497748c2560a.1920x1080.jpg?t=1784147974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675010/33b5e8c704a629d6fbefcf2c65bd59fb026edbd9/ss_33b5e8c704a629d6fbefcf2c65bd59fb026edbd9.1920x1080.jpg?t=1784147974"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T14:35:35Z"
+  "updated_at": "2026-07-16T19:39:48Z"
 }

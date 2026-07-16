@@ -15,28 +15,28 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1225,
+  "price_rub": 1228,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.1920x1080.jpg?t=1783654507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/648ed4266fc18f413292292741304ef648421c55/ss_648ed4266fc18f413292292741304ef648421c55.1920x1080.jpg?t=1783654507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_b3cea7c9f04a67d784d4c6a0c157a11d6268b189.1920x1080.jpg?t=1783654507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/cd7b46028d10c21db8fc8217192094d309efcebc/ss_cd7b46028d10c21db8fc8217192094d309efcebc.1920x1080.jpg?t=1783654507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_06e27c15c7b4b10233c937b887cf6a6925c83009.1920x1080.jpg?t=1783654507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_a99fba5536acde781bd863cb3555c10b5b96c0ae.1920x1080.jpg?t=1783654507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_1e6f7cf3c58086df2a3e9b13a988c2681d372b2d.1920x1080.jpg?t=1783654507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/b463e0cc770b5ea81230a1db561c100f5fdb3c30/ss_b463e0cc770b5ea81230a1db561c100f5fdb3c30.1920x1080.jpg?t=1783654507"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.1920x1080.jpg?t=1784190284",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/648ed4266fc18f413292292741304ef648421c55/ss_648ed4266fc18f413292292741304ef648421c55.1920x1080.jpg?t=1784190284",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_b3cea7c9f04a67d784d4c6a0c157a11d6268b189.1920x1080.jpg?t=1784190284",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/cd7b46028d10c21db8fc8217192094d309efcebc/ss_cd7b46028d10c21db8fc8217192094d309efcebc.1920x1080.jpg?t=1784190284",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_06e27c15c7b4b10233c937b887cf6a6925c83009.1920x1080.jpg?t=1784190284",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_a99fba5536acde781bd863cb3555c10b5b96c0ae.1920x1080.jpg?t=1784190284",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_1e6f7cf3c58086df2a3e9b13a988c2681d372b2d.1920x1080.jpg?t=1784190284",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/b463e0cc770b5ea81230a1db561c100f5fdb3c30/ss_b463e0cc770b5ea81230a1db561c100f5fdb3c30.1920x1080.jpg?t=1784190284"
   ],
   "upsells": [
     {
       "id": 2771110,
       "name": "Palworld - Soundtrack",
-      "price_rub": 679,
+      "price_rub": 680,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2771110/header.jpg?t=1705651206"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T14:15:12Z"
+  "updated_at": "2026-07-16T19:19:05Z"
 }
