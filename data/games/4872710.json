@@ -1,0 +1,29 @@
+{
+  "id": 4872710,
+  "title": "Dollar Desktop Pet",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/5c4ad0e01e67a3b8aba278df0e2ec7869421ba3d/header.jpg?t=1784152856",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872710?t=1784152856",
+  "description": "Dollar is a local desktop safety companion — a friendly cat that lives on your desktop and keeps your code projects safe with a set of local, offline tools.\n\nWorks on its own — no AI, no account, no API key, no Git required:\n\n• Restore Points (Vault) — snapshot a folder and roll back in one click.\n\n• Secret Scan — find exposed keys before you commit or share. Findings are redacted.\n\n• Project Health Check — a quick read-only pre-flight on your project.\n\n• Safety Sandbox — see a command's local risk rating (red / amber / green). Nothing is executed.\n\n• System vitals and a local ledger — handy desktop readouts.\n\n• A desktop pet — drag it, pet it, get gentle notifications.\n\nOptional — connect an AI coding agent you already use:\n\nRun a compatible, locally-installed AI coding agent and Dollar can supervise it live — a prompt before risky actions, automatic restore points, and a cost tally. Optional, and separate from the local tools above.\n\nPrivacy: everything runs locally. No telemetry, no project content uploaded. Dollar contains no AI of its own and needs no API key for its core features.",
+  "description_short": "A local desktop safety companion for code projects. Create restore points, scan for secrets, check project health, and review command risk — no account, API key, or AI required for core tools. Optionally connect a compatible locally installed AI coding agent for live supervision.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 587,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "OpKa1pv4kw0",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/c589bdbb15e5343eca3be2bcd8d2204c1e8cc1e7/ss_c589bdbb15e5343eca3be2bcd8d2204c1e8cc1e7.1920x1080.jpg?t=1784152856",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/3a734b291f311fd451370f365b055753257d2c80/ss_3a734b291f311fd451370f365b055753257d2c80.1920x1080.jpg?t=1784152856",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/3a92e30931a4dba2739f8fb1da6cad5bca02fdf5/ss_3a92e30931a4dba2739f8fb1da6cad5bca02fdf5.1920x1080.jpg?t=1784152856",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/600a68224541b44170c8edd98b10039fb147027a/ss_600a68224541b44170c8edd98b10039fb147027a.1920x1080.jpg?t=1784152856",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/c11d979ab845297844abded1fd5c75aa5e72a44b/ss_c11d979ab845297844abded1fd5c75aa5e72a44b.1920x1080.jpg?t=1784152856",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/debf36ec14156564aa5439e6d85d373fa921e8ef/ss_debf36ec14156564aa5439e6d85d373fa921e8ef.1920x1080.jpg?t=1784152856"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-16T01:20:34Z"
+}

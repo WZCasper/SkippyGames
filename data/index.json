@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-15T19:19:24Z",
-  "uah_to_rub_rate": 1.722578,
+  "generated_at": "2026-07-16T01:24:15Z",
+  "uah_to_rub_rate": 1.734272,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 699,
+  "count": 713,
   "games": [
     {
       "id": 4675010,
@@ -813,6 +813,19 @@
       "is_free": false
     },
     {
+      "id": 3659910,
+      "title": "Beat Slicer",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659910/231599ac064f5738a46e8eb7eb3cb907af4677d4/header.jpg?t=1784148151",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 555,
+      "is_free": false
+    },
+    {
       "id": 3957810,
       "title": "Beghost",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957810/128b0f7306f845cd31cea5741d4525285c2f6cec/header.jpg?t=1783519311",
@@ -1073,6 +1086,19 @@
       "is_free": true
     },
     {
+      "id": 2002420,
+      "title": "Caddywack",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2002420/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 904,
+      "is_free": false
+    },
+    {
       "id": 4377340,
       "title": "Cage Bar: The Hunting Game",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377340/0fe195e23c2ed3a670c54d644668ba92a2e8d13d/header.jpg?t=1783244636",
@@ -1213,6 +1239,19 @@
         "PC"
       ],
       "price_rub": 810,
+      "is_free": false
+    },
+    {
+      "id": 4821610,
+      "title": "CerbCade",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821610/77b2808098baf8fb150d791661c0d1eafa42e81f/header.jpg?t=1784140972",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 899,
       "is_free": false
     },
     {
@@ -1996,6 +2035,19 @@
       "is_free": false
     },
     {
+      "id": 4872710,
+      "title": "Dollar Desktop Pet",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/5c4ad0e01e67a3b8aba278df0e2ec7869421ba3d/header.jpg?t=1784152856",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 587,
+      "is_free": false
+    },
+    {
       "id": 570,
       "title": "Dota 2",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/capsule_616x353.jpg",
@@ -2247,6 +2299,19 @@
         "PC"
       ],
       "price_rub": 1299,
+      "is_free": false
+    },
+    {
+      "id": 4865210,
+      "title": "Egg-cremental",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865210/3d55da7448ef3df7e1e48043cffee626aade65d5/header.jpg?t=1784134899",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 661,
       "is_free": false
     },
     {
@@ -2865,6 +2930,19 @@
       "is_free": false
     },
     {
+      "id": 3892270,
+      "title": "Gamble With Your Friends",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1782258835",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 699,
+      "is_free": false
+    },
+    {
       "id": 4339880,
       "title": "Game Compressor",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339880/e6b9a856ee25bb89fd33f3fe69cedeea1875ffc7/header.jpg?t=1783703025",
@@ -3148,6 +3226,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4799080,
+      "title": "Hakoniwa Base Ball",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/1dad76a758551a916a11578c453c9e4aa455edad/header.jpg?t=1784161494",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 838,
+      "is_free": false
     },
     {
       "id": 4236810,
@@ -3928,6 +4019,19 @@
       "is_free": false
     },
     {
+      "id": 4776920,
+      "title": "Knaights",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776920/07ded9c531652ba70a0349623a2a079f8bcd1526/header.jpg?t=1784161014",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 888,
+      "is_free": false
+    },
+    {
       "id": 4474500,
       "title": "Kvga",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474500/efe153ce2de1fbd5bb033ecafaf7767fbf9fd499/header.jpg?t=1783894375",
@@ -4485,6 +4589,19 @@
       "is_free": false
     },
     {
+      "id": 4563580,
+      "title": "Mine to Cosmos",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563580/a4bf460d491bddd43972dfa14f52d88ff284a2bc/header.jpg?t=1784134639",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 680,
+      "is_free": false
+    },
+    {
       "id": 3937750,
       "title": "Minimalist Desktop",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937750/5f7ce5e83617c656fa3a5a2e3b953208809bf1a4/header.jpg?t=1784116834",
@@ -4495,6 +4612,19 @@
         "PC"
       ],
       "price_rub": 679,
+      "is_free": false
+    },
+    {
+      "id": 3744950,
+      "title": "Monochrome Echoes - black -",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/f67fa26c4fe022c1aa39bcd0b858ab4397f9df14/header.jpg?t=1784157199",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1107,
       "is_free": false
     },
     {
@@ -4710,6 +4840,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4562060,
+      "title": "Nah, I'd Shotgun",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562060/12564f89c3637bcbc047814640ccc3bf6083fef7/header.jpg?t=1784131212",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 680,
+      "is_free": false
     },
     {
       "id": 3436350,
@@ -6877,6 +7020,19 @@
       "is_free": false
     },
     {
+      "id": 4112780,
+      "title": "Stratapath TD",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112780/810559b21dd1ae2ae69ce250d38256d160bd6973/header.jpg?t=1784142214",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 708,
+      "is_free": false
+    },
+    {
       "id": 1332010,
       "title": "Stray",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/capsule_616x353.jpg",
@@ -8857,6 +9013,19 @@
       "is_free": false
     },
     {
+      "id": 3371260,
+      "title": "列乌尼斯的挽歌 Requiem of Reuinis",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3371260/e075a3639c0089a24ba737381733637c79786e04/header.jpg?t=1784158213",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 920,
+      "is_free": false
+    },
+    {
       "id": 4612020,
       "title": "刻命花嫁 Möbius Brides",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612020/bcb3357f9c76e83f7675e7554eda782b9aed65c9/header.jpg?t=1783753268",
@@ -9016,6 +9185,19 @@
       "id": 4793740,
       "title": "斗将",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4793740/b6632d35bcee977684d317f86bcae9f5c9404dc0/header.jpg?t=1784078539",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
+      "id": 4654940,
+      "title": "斗笠江湖",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4654940/58fe56a4319855d72b1374f8b3c2a7ac713d7177/header.jpg?t=1784160678",
       "genres": [
         "Экшен"
       ],
