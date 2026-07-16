@@ -1,0 +1,35 @@
+{
+  "id": 4177110,
+  "title": "Blue Wyrm",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/b00e93019835947db37dd0c3de102bb650c15757/header.jpg?t=1784196385",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/78821f3c80934003e209864ecc093beefc608196/page_bg_raw.jpg?t=1784196385",
+  "description": "Your wife - the Blue Knight Lucia did not return home from her journey to slay an ancient evil. Odd beings wreck havoc on the lands nearby. A rumor of a crypt unearthing is spread.\n\nFind her in the crypt of the Blue Wyrm.Blue Wyrm is a first-person skill-based action game, where you take upon the role of the Red Knight Gabriel, armed only with her trusty sword to fight off a tight, but varied roster of enemies in a nonsensical surreal dungeon. Learn the ways to use your movement and position, directional attack variety and timing to perfect your battle technique and succeed in your quest to save her.\n\n• The game is 60~ minutes long and is not recommended for people suffering with Epilepsy.\n\n• It includes a speedrun mode.\n\n• There are secret rooms to find.",
+  "description_short": "Blue Wyrm is a psychedelic first-person souls-like with a retro aesthetic and skill-heavy combat system. Do you have what it takes to save your wife in the crypt of the Blue Wyrm?",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 654,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/4297595257de9bd01fedb680b5687d6ebab386f9/ss_4297595257de9bd01fedb680b5687d6ebab386f9.1920x1080.jpg?t=1784196385",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/21e0d087889e00b11794d5040ea2a07c66ebca9b/ss_21e0d087889e00b11794d5040ea2a07c66ebca9b.1920x1080.jpg?t=1784196385",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/b8a825d9996dc4b25036d0022fb602f5159d3fd8/ss_b8a825d9996dc4b25036d0022fb602f5159d3fd8.1920x1080.jpg?t=1784196385",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/f0056104861a486be2fba1e32e0496225b6774cd/ss_f0056104861a486be2fba1e32e0496225b6774cd.1920x1080.jpg?t=1784196385",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/417811f718b45a22684a9fbc7e82629e703b96d8/ss_417811f718b45a22684a9fbc7e82629e703b96d8.1920x1080.jpg?t=1784196385"
+  ],
+  "upsells": [
+    {
+      "id": 4391500,
+      "name": "Blue Wyrm Soundtrack",
+      "price_rub": 561,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391500/f2304adb278a6b0b7b983422e450a93321e2ce40/header.jpg?t=1784196208"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-16T13:41:36Z"
+}

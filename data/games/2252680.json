@@ -1,0 +1,41 @@
+{
+  "id": 2252680,
+  "title": "Farlands",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2252680/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2252680/library_hero.jpg",
+  "description": "План развития\n\n \n\n \n\nAfter two years in Early Access and 10 major updates, Farlands’ roadmap has been completed as planned.\n\nThank you so much!\n\nОб игре\n\nТы мечтаешь изменить свою жизнь и вдруг видишь предложение, перед которым невозможно устоять: по очень выгодной цене продают целую планету — плодородную каменную глыбу на окраине солнечной системы, которой никто не занимался уже много лет. Старый космический корабль и дроид-помощник — вот и все твое богатство, с которым ты начинаешь новую жизнь в этом затерянном уголке галактики.\n\nВосстанови планету!\nКоси сорняки, расчищай дорожки, возделывай поля и ремонтируй то, что было разрушено временем. Преврати эту каменную глыбу в процветающую ферму.\n\nИсследуй солнечную систему!\nТвой корабль в плачевном состоянии, но на нем все еще можно добраться до других планет солнечной системы. Исследуй их и собирай ресурсы, чтобы улучшать ферму, инструменты и корабль.\n\nСтань частью сообщества!\nОбщайся с обитателями планет солнечной системы. Послушай их истории и узнай, почему они решили остаться в такой глуши.\n\nСпаси солнечную систему и верни ей былую славу!\nЦелую планету отдают по такой низкой цене? Это явно неспроста... Вдруг все не так просто, как кажется?",
+  "description_short": "Поздравляем, теперь ты владеешь планетой! Эту плодородную каменную глыбу на краю галактики почему-то отдали почти за бесценок. Самое время забыть о шуме и суете большого многолюдного города и начать новую, счастливую жизнь в уединенном месте.",
+  "genres": [
+    "Симуляторы жизни",
+    "Казуальные игры",
+    "Технические симуляторы",
+    "Песочницы (Sandbox)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 802,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_d0addfc523aec2429aaa25681ada27aa4ec4ba6d.1920x1080.jpg?t=1784191417",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_9644db2a937532429d11e2e022a37dff1012c567.1920x1080.jpg?t=1784191417",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_19aa776fbd9b754ebe6d0b1eafe372630e5afd13.1920x1080.jpg?t=1784191417",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_f135d6ee7b59185e708a86006bced32dc574add0.1920x1080.jpg?t=1784191417",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_3579e5386470c650a1f445b8172bc5ed5ce49be9.1920x1080.jpg?t=1784191417",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_0e875d01c19f5e784241d5336a1192ec8a85c4ed.1920x1080.jpg?t=1784191417",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_a02218c8bea5b529be545a19dfbe1e606c11dda5.1920x1080.jpg?t=1784191417",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_9be16acc6e3881078cde1dc855ac45d6deb95297.1920x1080.jpg?t=1784191417"
+  ],
+  "upsells": [
+    {
+      "id": 3097700,
+      "name": "Farlands Soundtrack",
+      "price_rub": 758,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097700/header.jpg?t=1721832810"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-16T13:46:17Z"
+}

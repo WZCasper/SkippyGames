@@ -1,0 +1,31 @@
+{
+  "id": 4772250,
+  "title": "字里行间",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/1f0a98290529ebcebc6c71c95bc3adce5e061857/header.jpg?t=1784202660",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4772250?t=1784202660",
+  "description": "Between the Lines is a puzzle game centered around the transformation of Chinese characters.\n\nIn the game, every block is a Chinese character. You will push character blocks and create new characters through combination, decomposition, and transformation in order to complete each level’s objective. The position of each character, the order of combination, and the timing of triggering mechanisms can all affect the solution to a puzzle. The game also includes a dictionary system that records the characters you unlock along the way.\n\nAs you progress, more rules related to Chinese characters will gradually be introduced. Explore the vast world of Chinese writing, and discover new possibilities between the lines.\n\nFeatures:\n\n- Character-based puzzle mechanics: Change character blocks through combination, decomposition, and transformation, with puzzles closely tied to the shapes and meanings of Chinese characters.\n\n- Multiple ways to solve puzzles: There is often more than one way to clear a level. A different perspective may lead to an unexpected solution.\n\n- Built-in dictionary system: Newly created characters are recorded in the dictionary and can be reviewed at any time. You may even learn a few rare characters by accident.\n\n- Hidden achievements: In certain levels, creating something especially fitting may unlock an achievement. Sometimes, making your own little scene can be just as enjoyable as clearing the level.",
+  "description_short": "A puzzle game centered around Chinese character transformation. Push character blocks, create new characters based on their shapes and meanings, and complete each level’s objective. Combination, decomposition, radicals, synonyms, antonyms... Explore the vast world of Characters.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 647,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/75566d696c5b9eda7ba50b5e305b9093f88318b9/ss_75566d696c5b9eda7ba50b5e305b9093f88318b9.1920x1080.jpg?t=1784202660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/3254a035d46a70d599c6a3483f8802fb9c4f06b3/ss_3254a035d46a70d599c6a3483f8802fb9c4f06b3.1920x1080.jpg?t=1784202660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/8cf6caa475c1a956bff0ad0116e214338af9403c/ss_8cf6caa475c1a956bff0ad0116e214338af9403c.1920x1080.jpg?t=1784202660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/9927f4548256786baa404a3cafb3cf627fe2a695/ss_9927f4548256786baa404a3cafb3cf627fe2a695.1920x1080.jpg?t=1784202660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/aae67adb340f5c3ecadcde3a82b05e03f4520b4d/ss_aae67adb340f5c3ecadcde3a82b05e03f4520b4d.1920x1080.jpg?t=1784202660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/96181cef565dd86584bb8fd9fa2d2981cc0e98ef/ss_96181cef565dd86584bb8fd9fa2d2981cc0e98ef.1920x1080.jpg?t=1784202660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/1fbede692186c85af8f9b72dffce2470e22098eb/ss_1fbede692186c85af8f9b72dffce2470e22098eb.1920x1080.jpg?t=1784202660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772250/83798d89f625fa49cd56d4f652c1fe4dca716e8f/ss_83798d89f625fa49cd56d4f652c1fe4dca716e8f.1920x1080.jpg?t=1784202660"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-16T13:41:04Z"
+}

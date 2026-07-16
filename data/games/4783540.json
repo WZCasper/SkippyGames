@@ -1,8 +1,8 @@
 {
   "id": 4783540,
   "title": "Intertwined - Season 1",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/6201ab43f2ed3e8b431fee7672501b9ec92ee62c/header.jpg?t=1783930572",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4783540?t=1783930572",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/6201ab43f2ed3e8b431fee7672501b9ec92ee62c/header.jpg?t=1784194563",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4783540?t=1784194563",
   "description": "Follow the story of a young man returning to his hometown after years away, hoping to leave the past behind and rebuild his life. But old friendships, unresolved feelings, and long-buried secrets quickly pull him back into a world he thought he had escaped.\n\nAs familiar faces reenter your life and new relationships begin to form, every choice you make will shape the future of the people around you. Rekindle old flames, forge unexpected romances, or watch relationships crumble under the weight of jealousy, betrayal, and hidden truths.\n\nSet against a backdrop of personal drama, emotional conflict, and intertwined lives, your decisions will determine not only who you become, but who will stand beside you when everything begins to unravel.\n\nExperience a branching, story-driven adventure where choices matter, relationships evolve, and every path leads to a different outcome — with romance, passion, and plenty of unforgettable moments along the way.",
   "description_short": "Intertwined is a romance, slice-of-life adult visual novel. You play as a young man returning to his hometown after years away, reconnecting with old friends and forming new relationships. Your choices shape the story, character relationships, and potential romances.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1009,
+  "price_rub": 1012,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "58Z8_wVtTyk",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/88591d2e34d2c59e2e6143693353ae8a79c8ebe3/ss_88591d2e34d2c59e2e6143693353ae8a79c8ebe3.1920x1080.jpg?t=1783930572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/32d44975926dd367037c425127265af7df297280/ss_32d44975926dd367037c425127265af7df297280.1920x1080.jpg?t=1783930572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/367180492d97a36b56ca91a8f81a8239e9864bdd/ss_367180492d97a36b56ca91a8f81a8239e9864bdd.1920x1080.jpg?t=1783930572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/47d8994106f064bd6ae4c9c224494a0f0b44f4dd/ss_47d8994106f064bd6ae4c9c224494a0f0b44f4dd.1920x1080.jpg?t=1783930572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/3c3cb278c5dfdd0a8cbb4d075e6ed300d4ecc67f/ss_3c3cb278c5dfdd0a8cbb4d075e6ed300d4ecc67f.1920x1080.jpg?t=1783930572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/b98d771194d263c90e8d328a41d046e7a7692145/ss_b98d771194d263c90e8d328a41d046e7a7692145.1920x1080.jpg?t=1783930572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/5b18a8a1e7452a8717627239648a3ed60cf815ed/ss_5b18a8a1e7452a8717627239648a3ed60cf815ed.1920x1080.jpg?t=1783930572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/da00acff72ef5bddfeba934518a85831a7e7232c/ss_da00acff72ef5bddfeba934518a85831a7e7232c.1920x1080.jpg?t=1783930572"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/88591d2e34d2c59e2e6143693353ae8a79c8ebe3/ss_88591d2e34d2c59e2e6143693353ae8a79c8ebe3.1920x1080.jpg?t=1784194563",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/32d44975926dd367037c425127265af7df297280/ss_32d44975926dd367037c425127265af7df297280.1920x1080.jpg?t=1784194563",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/367180492d97a36b56ca91a8f81a8239e9864bdd/ss_367180492d97a36b56ca91a8f81a8239e9864bdd.1920x1080.jpg?t=1784194563",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/47d8994106f064bd6ae4c9c224494a0f0b44f4dd/ss_47d8994106f064bd6ae4c9c224494a0f0b44f4dd.1920x1080.jpg?t=1784194563",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/3c3cb278c5dfdd0a8cbb4d075e6ed300d4ecc67f/ss_3c3cb278c5dfdd0a8cbb4d075e6ed300d4ecc67f.1920x1080.jpg?t=1784194563",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/b98d771194d263c90e8d328a41d046e7a7692145/ss_b98d771194d263c90e8d328a41d046e7a7692145.1920x1080.jpg?t=1784194563",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/5b18a8a1e7452a8717627239648a3ed60cf815ed/ss_5b18a8a1e7452a8717627239648a3ed60cf815ed.1920x1080.jpg?t=1784194563",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/da00acff72ef5bddfeba934518a85831a7e7232c/ss_da00acff72ef5bddfeba934518a85831a7e7232c.1920x1080.jpg?t=1784194563"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T08:43:57Z"
+  "updated_at": "2026-07-16T13:29:44Z"
 }
