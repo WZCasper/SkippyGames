@@ -1,9 +1,9 @@
 {
   "id": 3534790,
   "title": "Mesmalie",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/555fe109b7ffc548bea016a60df6f9e642d78cd1/header.jpg?t=1783616365",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/555fe109b7ffc548bea016a60df6f9e642d78cd1/header.jpg?t=1783968773",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3534790/library_hero.jpg",
-  "description": "StoryYou wake up to a fire in the middle of the night. This was probably caused by your Magick, which you have very little control over...\n\nTo tame this ability, you decide to take matters into your own hand, and end up at a small witches' coven- a decrepit house in the middle of nowhere. Mesmer, one of these witches, greets you at the door, and thus your Magickal training commences,,,\n\n,,, though, not without a few bumps along the road.\n\nFeatures• A handcrafted point & click narrative with branching dialogue and impactful choices\n\n• Three \"sessions\" with distinct gameplay styles to train your magickal ability\n\n• Many interactable objects to practice your Magick on\n\n• A convenient chapter select system, allowing you to hop into any desired story beat\n\n• Ending variations for abandoning the story in the middle\n\n• An enchanting original soundtrack\n\n• Secrets! Lots of them...\n\nmesma,,,",
+  "description": "An occult visual novel with point and click mechanics.\n\nStoryYou wake up to a fire in the middle of the night. This was probably caused by your Magick, which you have very little control over...\n\nTo tame this ability, you decide to take matters into your own hand, and end up at a small witches' coven- a decrepit house in the middle of nowhere. Mesmer, one of these witches, greets you at the door, and thus your Magickal training commences,,,\n\n,,, though, not without a few bumps along the road.\n\nFeatures• A handcrafted point & click narrative with branching dialogue and impactful choices\n\n• Three \"sessions\" with distinct gameplay styles to train your magickal ability\n\n• Many interactable objects to practice your Magick on\n\n• A convenient chapter select system, allowing you to hop into any desired story beat\n\n• Ending variations for abandoning the story in the middle\n\n• An enchanting original soundtrack\n\n• Secrets! Lots of them...\n\nmesma,,,",
   "description_short": "MESMALIE is an occult visual novel with point and click mechanics. A magickal incident in your personal life brings you to a small witches' coven in the middle of nowhere. Here, you'll learn to tame your ability... though, not without some bumps along the way.",
   "genres": [
     "Экшен"
@@ -11,26 +11,26 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 807,
+  "price_rub": 809,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "v6VWQpICSNo",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/150ff10051da0d1dc2e4832304eca56b2bf89daf/ss_150ff10051da0d1dc2e4832304eca56b2bf89daf.1920x1080.jpg?t=1783616365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/ecf16e735b94d98146a7f34d466458f6cfb06601/ss_ecf16e735b94d98146a7f34d466458f6cfb06601.1920x1080.jpg?t=1783616365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/9cef6d42320123177f70bcb33e8443574660724b/ss_9cef6d42320123177f70bcb33e8443574660724b.1920x1080.jpg?t=1783616365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/cfefd7f30aa638035c41635ce8ac8d37b502f59b/ss_cfefd7f30aa638035c41635ce8ac8d37b502f59b.1920x1080.jpg?t=1783616365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/06481b962720d80810fab35c66cec982b2c2243f/ss_06481b962720d80810fab35c66cec982b2c2243f.1920x1080.jpg?t=1783616365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/fcc5a8609f19d163c6846d7fbcc63af24c5d99f7/ss_fcc5a8609f19d163c6846d7fbcc63af24c5d99f7.1920x1080.jpg?t=1783616365"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/150ff10051da0d1dc2e4832304eca56b2bf89daf/ss_150ff10051da0d1dc2e4832304eca56b2bf89daf.1920x1080.jpg?t=1783968773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/ecf16e735b94d98146a7f34d466458f6cfb06601/ss_ecf16e735b94d98146a7f34d466458f6cfb06601.1920x1080.jpg?t=1783968773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/9cef6d42320123177f70bcb33e8443574660724b/ss_9cef6d42320123177f70bcb33e8443574660724b.1920x1080.jpg?t=1783968773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/cfefd7f30aa638035c41635ce8ac8d37b502f59b/ss_cfefd7f30aa638035c41635ce8ac8d37b502f59b.1920x1080.jpg?t=1783968773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/06481b962720d80810fab35c66cec982b2c2243f/ss_06481b962720d80810fab35c66cec982b2c2243f.1920x1080.jpg?t=1783968773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/fcc5a8609f19d163c6846d7fbcc63af24c5d99f7/ss_fcc5a8609f19d163c6846d7fbcc63af24c5d99f7.1920x1080.jpg?t=1783968773"
   ],
   "upsells": [
     {
       "id": 4752360,
       "name": "Mesmalie Soundtrack",
-      "price_rub": 767,
+      "price_rub": 769,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752360/b2aeea32bfd1bf7164a8fae7df59f8adb955e99c/header.jpg?t=1783616393"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T01:25:22Z"
+  "updated_at": "2026-07-16T07:52:01Z"
 }

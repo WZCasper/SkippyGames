@@ -1,0 +1,31 @@
+{
+  "id": 3861800,
+  "title": "Noise Canceler",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/ef8d38aed93978155dd99e27edb24f51c03c6b05/header.jpg?t=1784170840",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3861800/library_hero.jpg",
+  "description": "An overtech AI earphone rhythm game that saves your heart.\n\nStory\n\nOne day, \"Milo\" is chosen as a closed beta tester for the latest earbuds, \"APods.\"\n\nWith AI that generates songs based on the wearer’s emotions,\n\nthe \"APods\" captivate \"Milo,\" leading him to finally decide to confess to \"Sierra\"...\n\nGameplay\n\nThe rhythm game and its controls are very standard (ESC, Space Bar, Enter, Arrow Keys). However, for directional input or movement, we recommend placing your index fingers on the F and J keys for left and right, respectively. (This helps synchronize the sense of direction between your hands and ears.)\n\nContent\n\n(Early Access) The game is composed of 4 chapters, with 3-4 episodes per chapter. \n\nEach chapter is an omnibus-style story centered around a different character. \n\nEach episode features a single rhythm game track.\n\nSoundtrackThe soundtrack for each chapter is composed of genres that align with the main character's preferences.\n\n• Chapter 1: EDM Rock \n\n• Chapter 2: Rock EDM \n\n• Chapter 3: Hip-hop \n\n• Chapter 4: J-POP \n\n• Chapter 5: Epic Orchestral\n\nFeaturesA slice-of-life youth drama that uses a wireless earphone with \"Noise Canceling\" as its central theme. Experience realistic soundscapes as if you were actually wearing wireless earphones and using features like \"Noise Canceling.\"\n\nFirmware Upgrade CompleteYour APods have been upgraded to 99.b.\n\nHello!Your APods are currently running the \"Closed Beta\" firmware. Performance may be unstable, and unexpected bugs may occur frequently.\n\nNew features in this versionAPods now recognize the wearer's emotions.\n\nShiri generates and plays songs in real time to match the wearer's emotions.\n\nCurrently Reported Issues1. Noise Canceling and Ambient Sound modes may switch on and off intermittently depending on the wearer's emotions.\n\n2. The more intense the wearer's emotions, the more frequently problems may occur.\n\n3. Depending on the wearer's emotional range, the audio range may narrow or widen.\n\n4. As the wearer's focus decreases, more power is consumed for emotion recognition.\n\n5. If emotional deficiency is detected from the wearer, the connection may temporarily become unstable.\n\nTry it nowTap \"F\" and \"J\" to the rhythm of the music playing in both ears.\n\nExperience the wonder of music that moves hearts and brings salvation.",
+  "description_short": "APods — AI-powered earbuds that read your emotions and generate music. Drawn to these songs, five ordinary people find themselves moved to action.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 732,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "kUoA4Yx6fq0",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/2b43dc72b4add92b69b05a9526f13752a1fac97d/ss_2b43dc72b4add92b69b05a9526f13752a1fac97d.1920x1080.jpg?t=1784170840",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/cfd24725925bf55e4c280a02da590ae6363bfdd5/ss_cfd24725925bf55e4c280a02da590ae6363bfdd5.1920x1080.jpg?t=1784170840",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/8f883fb0e15d1fab6ca0584406e95cd93198c8a6/ss_8f883fb0e15d1fab6ca0584406e95cd93198c8a6.1920x1080.jpg?t=1784170840",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/0163a6926a03ce09afeb8678856fe71e72b1e95e/ss_0163a6926a03ce09afeb8678856fe71e72b1e95e.1920x1080.jpg?t=1784170840",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/a67bee4acd252c487041ae4bf2b323a0d5710ba2/ss_a67bee4acd252c487041ae4bf2b323a0d5710ba2.1920x1080.jpg?t=1784170840",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/6881341974e8b2e15f54ad89784e8643c61532d9/ss_6881341974e8b2e15f54ad89784e8643c61532d9.1920x1080.jpg?t=1784170840",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/c32656024793caf3c88324ebe2ddcfe674e0c07a/ss_c32656024793caf3c88324ebe2ddcfe674e0c07a.1920x1080.jpg?t=1784170840",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/f5e1b3a2d26ef3c73612d495bb263b6f1c0d9c33/ss_f5e1b3a2d26ef3c73612d495bb263b6f1c0d9c33.1920x1080.jpg?t=1784170840"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-16T07:53:05Z"
+}

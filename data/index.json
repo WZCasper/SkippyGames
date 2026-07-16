@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-16T01:24:15Z",
+  "generated_at": "2026-07-16T07:53:23Z",
   "uah_to_rub_rate": 1.734272,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 713,
+  "count": 732,
   "games": [
     {
       "id": 4675010,
@@ -107,6 +107,19 @@
         "PC"
       ],
       "price_rub": 1127,
+      "is_free": false
+    },
+    {
+      "id": 3635130,
+      "title": "4D Intuition",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635130/29e84952bd1043d5ce07685c10f8e3f8ed59170a/header.jpg?t=1784166704",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1022,
       "is_free": false
     },
     {
@@ -656,7 +669,7 @@
     {
       "id": 4822820,
       "title": "Audictrl",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822820/d76c93aee05087d4000b76db85ff259be0270f59/header.jpg?t=1783865246",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822820/d76c93aee05087d4000b76db85ff259be0270f59/header.jpg?t=1783954186",
       "genres": [
         "Экшен"
       ],
@@ -1073,6 +1086,19 @@
       "is_free": false
     },
     {
+      "id": 4596000,
+      "title": "CODEX vs SCIENCE (Not Talos Principles)",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596000/cbf35f325d04777e5d914427e99e8238fd3c740b/header.jpg?t=1784141898",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 819,
+      "is_free": false
+    },
+    {
       "id": 4481560,
       "title": "CORGI & WOOLLY - Little Horizon -",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481560/fae60558982f1bf7767fa55bf04a217375549cee/header.jpg?t=1783745946",
@@ -1160,7 +1186,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 629,
+      "price_rub": 630,
       "is_free": false
     },
     {
@@ -1192,14 +1218,14 @@
     {
       "id": 4380490,
       "title": "Cat Mail Co.",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1783683473",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1784045214",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 949,
+      "price_rub": 951,
       "is_free": false
     },
     {
@@ -1515,6 +1541,19 @@
       "is_free": false
     },
     {
+      "id": 4500660,
+      "title": "Cosmic Robots",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500660/449f313bfdb5c7d575cf0bb8338be1c4bae6fa9c/header.jpg?t=1784174569",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 647,
+      "is_free": false
+    },
+    {
       "id": 3722660,
       "title": "Cosmodrill",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722660/910b19ab03841c54e98c5eaeba83f4948b3c20ff/header.jpg?t=1783437301",
@@ -1578,7 +1617,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 655,
+      "price_rub": 656,
       "is_free": false
     },
     {
@@ -1630,7 +1669,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 748,
+      "price_rub": 750,
       "is_free": false
     },
     {
@@ -1647,6 +1686,19 @@
       "is_free": false
     },
     {
+      "id": 4841520,
+      "title": "Cutesor - Cursor Studio",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/bfeccfa71e2859a2ae5fd1bfb16b0f277f8231d9/header.jpg?t=1784186297",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 680,
+      "is_free": false
+    },
+    {
       "id": 1349930,
       "title": "Cyber Psychosis",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1349930/capsule_616x353.jpg",
@@ -1656,7 +1708,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 638,
+      "price_rub": 639,
       "is_free": false
     },
     {
@@ -1742,6 +1794,19 @@
       ],
       "price_rub": 604,
       "is_free": false
+    },
+    {
+      "id": 2712460,
+      "title": "DUNGEON SLASHER",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2712460/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4333240,
@@ -1872,7 +1937,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 586,
+      "price_rub": 587,
       "is_free": false
     },
     {
@@ -2250,6 +2315,19 @@
       "is_free": false
     },
     {
+      "id": 4832790,
+      "title": "EVIL Agribusiness Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832790/463e7162a685507a23dbdb8a299b3806bd883fcb/header.jpg?t=1784185995",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 795,
+      "is_free": false
+    },
+    {
       "id": 4474430,
       "title": "EchoLink: Recursion",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474430/329022f74e1d8b514c01927a3c7783d5b27c3e60/header.jpg?t=1783890586",
@@ -2259,7 +2337,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 764,
+      "price_rub": 765,
       "is_free": false
     },
     {
@@ -2421,14 +2499,14 @@
     {
       "id": 4373160,
       "title": "Evil Thing",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373160/723591e687fa343de08b8f9ef7d251684993a005/header.jpg?t=1783617110",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373160/723591e687fa343de08b8f9ef7d251684993a005/header.jpg?t=1784084512",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 655,
+      "price_rub": 656,
       "is_free": false
     },
     {
@@ -2822,7 +2900,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 705,
+      "price_rub": 706,
       "is_free": false
     },
     {
@@ -3790,6 +3868,19 @@
       "is_free": false
     },
     {
+      "id": 4613170,
+      "title": "InTheLake",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613170/72b2f5a7d9f12df46bfbe014cadf036b954518fb/header.jpg?t=1784164519",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 809,
+      "is_free": false
+    },
+    {
       "id": 1831380,
       "title": "Incarnation - Lifetimes",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1831380/capsule_616x353.jpg",
@@ -3924,6 +4015,32 @@
       "is_free": false
     },
     {
+      "id": 4237400,
+      "title": "KOOO TO JUMP!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237400/b0a3d19f677954876bccbb4bd60f815584bc953d/header.jpg?t=1784185398",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 828,
+      "is_free": false
+    },
+    {
+      "id": 4449410,
+      "title": "KYOTO XANADU -the Blooming Phantom-",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4449410/242441aa29ff46770ca930f90e758a5f89e8ec04/header.jpg?t=1784185157",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3360,
+      "is_free": false
+    },
+    {
       "id": 4412950,
       "title": "Kamikaze Survivors",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412950/1959cc1026685f220db91146c1c0978dca6e963c/header.jpg?t=1783351271",
@@ -4015,7 +4132,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1602,
+      "price_rub": 1608,
       "is_free": false
     },
     {
@@ -4041,7 +4158,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 785,
+      "price_rub": 786,
       "is_free": false
     },
     {
@@ -4314,7 +4431,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 552,
+      "price_rub": 587,
       "is_free": false
     },
     {
@@ -4485,6 +4602,19 @@
       "is_free": false
     },
     {
+      "id": 2481810,
+      "title": "MeowCraft",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2481810/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 859,
+      "is_free": false
+    },
+    {
       "id": 4799530,
       "title": "Mesh Storm",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799530/e82f1d6572be3ebb3e3f026c3e67fe650ba244a5/header.jpg?t=1784014156",
@@ -4500,14 +4630,14 @@
     {
       "id": 3534790,
       "title": "Mesmalie",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/555fe109b7ffc548bea016a60df6f9e642d78cd1/header.jpg?t=1783616365",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534790/555fe109b7ffc548bea016a60df6f9e642d78cd1/header.jpg?t=1783968773",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 807,
+      "price_rub": 809,
       "is_free": false
     },
     {
@@ -4751,6 +4881,19 @@
       "is_free": true
     },
     {
+      "id": 4013010,
+      "title": "My Life For Thee!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013010/0fc94cfacc37c48a0562b19c983e60746d2b4d65/header.jpg?t=1784163574",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 882,
+      "is_free": false
+    },
+    {
       "id": 4353610,
       "title": "My Pocket Paradise",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/f6f4c5eddcdbcf6c6d4a043a13c705bf730a82f3/header.jpg?t=1783962383",
@@ -4942,7 +5085,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 702,
+      "price_rub": 725,
       "is_free": false
     },
     {
@@ -5003,6 +5146,19 @@
       "is_free": false
     },
     {
+      "id": 3861800,
+      "title": "Noise Canceler",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861800/ef8d38aed93978155dd99e27edb24f51c03c6b05/header.jpg?t=1784170840",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 732,
+      "is_free": false
+    },
+    {
       "id": 3642850,
       "title": "North Hunt",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642850/f16cbf95bd6ad31d7199e71315d12bc743641f99/header_alt_assets_0.jpg?t=1783962543",
@@ -5031,14 +5187,14 @@
     {
       "id": 4530260,
       "title": "Now",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530260/2ae1d7a3366866b7dfe9d70aa08df5c6ee9f7052/header.jpg?t=1783608070",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530260/2ae1d7a3366866b7dfe9d70aa08df5c6ee9f7052/header.jpg?t=1784147799",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 598,
+      "price_rub": 599,
       "is_free": false
     },
     {
@@ -5103,7 +5259,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 631,
+      "price_rub": 632,
       "is_free": false
     },
     {
@@ -5129,7 +5285,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 616,
+      "price_rub": 656,
       "is_free": false
     },
     {
@@ -5317,6 +5473,19 @@
         "PC"
       ],
       "price_rub": 655,
+      "is_free": false
+    },
+    {
+      "id": 4593070,
+      "title": "Palm Farm: Idle Crops",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593070/feffaa492d416f812906de5d77aff61bac9a76c0/header.jpg?t=1784184323",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 580,
       "is_free": false
     },
     {
@@ -5597,7 +5766,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 857,
+      "price_rub": 859,
       "is_free": false
     },
     {
@@ -6079,7 +6248,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 673,
       "is_free": false
     },
     {
@@ -6203,6 +6372,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 3430910,
+      "title": "Samurai Conqueror",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430910/9887e62dde5f3178fc2e4edc59c25d6722957017/header.jpg?t=1784167346",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 972,
+      "is_free": false
     },
     {
       "id": 526870,
@@ -6545,7 +6727,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 692,
+      "price_rub": 693,
       "is_free": false
     },
     {
@@ -7047,7 +7229,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 999,
+      "price_rub": 1001,
       "is_free": false
     },
     {
@@ -7061,6 +7243,19 @@
         "PC"
       ],
       "price_rub": 702,
+      "is_free": false
+    },
+    {
+      "id": 4896210,
+      "title": "Sudoku Haven",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896210/707cc09f52b9debd72a1f7da0135fb7fc95738c2/header.jpg?t=1784159149",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 635,
       "is_free": false
     },
     {
@@ -7232,7 +7427,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 767,
+      "price_rub": 769,
       "is_free": false
     },
     {
@@ -7354,6 +7549,19 @@
       "is_free": false
     },
     {
+      "id": 4300740,
+      "title": "The Final Shuffle",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300740/6c1bb92bf137c1ea6e81b490fcd95265701e2165/header.jpg?t=1784145628",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 899,
+      "is_free": false
+    },
+    {
       "id": 4876770,
       "title": "The Fishercat",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876770/b9ac04ae8686264f71d2d06ea7b8d13ad18ccc3d/header.jpg?t=1784129742",
@@ -7364,6 +7572,19 @@
         "PC"
       ],
       "price_rub": 657,
+      "is_free": false
+    },
+    {
+      "id": 3201830,
+      "title": "The Hidden Scrolls",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201830/8cb7bf9692142b570236b8b7c449b3daf86d5ad8/header.jpg?t=1784168442",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 850,
       "is_free": false
     },
     {
@@ -7590,6 +7811,19 @@
         "PC"
       ],
       "price_rub": 767,
+      "is_free": false
+    },
+    {
+      "id": 4554390,
+      "title": "The Remnants",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/0220507815fba5e135c3c5c2ad31c584e8b6d5f1/header.jpg?t=1784165353",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 795,
       "is_free": false
     },
     {
@@ -8092,6 +8326,19 @@
       "is_free": true
     },
     {
+      "id": 4524580,
+      "title": "Vecchio Furioso",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524580/f4e0c1593a3a2a6747ec98e2d6fb23e95bcacda7/header.jpg?t=1784176783",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 887,
+      "is_free": false
+    },
+    {
       "id": 3955290,
       "title": "Veilscripture AI",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/3b22e4567b31fde9963893768ee94e09d200425c/header.jpg?t=1783683146",
@@ -8179,7 +8426,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 680,
       "is_free": false
     },
     {
@@ -8287,7 +8534,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 574,
+      "price_rub": 575,
       "is_free": false
     },
     {
@@ -8668,7 +8915,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 802,
+      "price_rub": 803,
       "is_free": false
     },
     {
@@ -8749,7 +8996,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 676,
+      "price_rub": 677,
       "is_free": false
     },
     {
@@ -8853,7 +9100,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 676,
+      "price_rub": 677,
       "is_free": false
     },
     {
