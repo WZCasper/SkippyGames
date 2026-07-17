@@ -1,8 +1,8 @@
 {
   "id": 4488570,
   "title": "Fresh Food Merge",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/0b1e7b52a56be80b3e9cda1c7708373912d14b1e/header.jpg?t=1783963447",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/efa1281846cf273df3939f77c27a360adfda9fd1/page_bg_raw.jpg?t=1783963447",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/0b1e7b52a56be80b3e9cda1c7708373912d14b1e/header.jpg?t=1784088576",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/efa1281846cf273df3939f77c27a360adfda9fd1/page_bg_raw.jpg?t=1784088576",
   "description": "● 3D-физическая головоломка в стиле Suika Game Уклоняйтесь от летящих препятствий и складывайте еду. Объединяйте одинаковые продукты, чтобы создавать гигантские фрукты и овощи. С повышением уровня еды сложность возрастает.\n\n• Режим головоломок\n\nАккуратно складывайте еду без препятствий.\n\n• Режим действия\n\nСкладывайте еду, избегая случайно появляющихся препятствий.\n\n● Разнообразные режимы Попробуйте разные варианты игры: [Режим фруктов], где нужно ронять еду сверху; [Режим овощей], где еда бросается по параболе; и [2.5D режим] с ограниченным пространством и перемещением вправо-влево.\n\n● Кастомизация Создайте свой уникальный стиль! Настраивайте скины еды, подставки для мисок, дропперы, щиты и фон гостиной.",
   "description_short": "Уклоняйтесь от летящих препятствий и складывайте еду. Объединяйте одинаковые продукты, чтобы создавать гигантские фрукты и овощи. Управляйте характеристиками и уменьшайте еду, чтобы освободить место. Соревнуйтесь с игроками со всего мира в общем рейтинге.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 907,
+  "price_rub": 793,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/1be105af1470a90827cd4113de187e6116a4032c/ss_1be105af1470a90827cd4113de187e6116a4032c.1920x1080.jpg?t=1783963447",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/fa0877b1c1eb9d21db54f864f8734153d41a54e3/ss_fa0877b1c1eb9d21db54f864f8734153d41a54e3.1920x1080.jpg?t=1783963447",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/3c85a975c75c840ca42afcb687eca043d4ebda85/ss_3c85a975c75c840ca42afcb687eca043d4ebda85.1920x1080.jpg?t=1783963447",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/5809f341d1c80025e8608a393263b672c9e91ed0/ss_5809f341d1c80025e8608a393263b672c9e91ed0.1920x1080.jpg?t=1783963447",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/4e1fbccc6bb9e93fa19c8fbda310e082cac9cf44/ss_4e1fbccc6bb9e93fa19c8fbda310e082cac9cf44.1920x1080.jpg?t=1783963447",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/ab4a5215c0d7b5657ca86e73aa55abffa3881678/ss_ab4a5215c0d7b5657ca86e73aa55abffa3881678.1920x1080.jpg?t=1783963447",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/1f35316b778775e673b6c871bd840fd27f56a012/ss_1f35316b778775e673b6c871bd840fd27f56a012.1920x1080.jpg?t=1783963447",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/addb7df699104b6c1b661d77cc7332a3ae29c2df/ss_addb7df699104b6c1b661d77cc7332a3ae29c2df.1920x1080.jpg?t=1783963447"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/1be105af1470a90827cd4113de187e6116a4032c/ss_1be105af1470a90827cd4113de187e6116a4032c.1920x1080.jpg?t=1784088576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/fa0877b1c1eb9d21db54f864f8734153d41a54e3/ss_fa0877b1c1eb9d21db54f864f8734153d41a54e3.1920x1080.jpg?t=1784088576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/3c85a975c75c840ca42afcb687eca043d4ebda85/ss_3c85a975c75c840ca42afcb687eca043d4ebda85.1920x1080.jpg?t=1784088576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/5809f341d1c80025e8608a393263b672c9e91ed0/ss_5809f341d1c80025e8608a393263b672c9e91ed0.1920x1080.jpg?t=1784088576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/4e1fbccc6bb9e93fa19c8fbda310e082cac9cf44/ss_4e1fbccc6bb9e93fa19c8fbda310e082cac9cf44.1920x1080.jpg?t=1784088576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/addb7df699104b6c1b661d77cc7332a3ae29c2df/ss_addb7df699104b6c1b661d77cc7332a3ae29c2df.1920x1080.jpg?t=1784088576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/b0ad935a26b883c5b891eb0f323dde9d50559727/ss_b0ad935a26b883c5b891eb0f323dde9d50559727.1920x1080.jpg?t=1784088576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/cf3e879b8145e8aeb2c0eeda1ec8f63d4cd40602/ss_cf3e879b8145e8aeb2c0eeda1ec8f63d4cd40602.1920x1080.jpg?t=1784088576"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T19:09:54Z"
+  "updated_at": "2026-07-17T01:31:42Z"
 }
