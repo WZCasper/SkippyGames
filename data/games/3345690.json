@@ -1,0 +1,36 @@
+{
+  "id": 3345690,
+  "title": "Gladiator",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/1483c5c585e308ff6424290863717c4547f51d4a/header.jpg?t=1784290959",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3345690/library_hero.jpg",
+  "description": "Попробуй выжить ради чести и славы как Эльван в средневековом мире. Строй города, собирай своих людей, возводи замки и следуй главной истории. Исследуя открытый мир, сосредоточься на раскрытии тайн и опасностей, которые тебя ждут. Выживай и раскрывай секреты прошлого.",
+  "description_short": "Попробуй выжить ради чести и славы как Эльван в средневековом мире. Строй города, собирай своих людей, возводи замки и следуй главной истории. Исследуя открытый мир, сосредоточься на раскрытии тайн и опасностей, которые тебя ждут. Выживай и раскрывай секреты прошлого.",
+  "genres": [
+    "Приключения",
+    "Технические симуляторы",
+    "Экшен",
+    "Экшен-адвенчуры",
+    "Экшен-РПГ (Action-RPG)",
+    "Симуляторы жизни"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 599,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/ss_4da9cdb55f9c5c0267dc9617da3ab86581e2163a.1920x1080.jpg?t=1784290959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/ss_9b35f1c9505a7580e054861e69b359f40100260e.1920x1080.jpg?t=1784290959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/ss_cfc1ef5369c15d97014ef335e3a810dde15e42ce.1920x1080.jpg?t=1784290959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/ss_8f4fadf6566aa3d8347526349706deaba27470b6.1920x1080.jpg?t=1784290959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/ss_6470750ff58417ae01ee8ff363db8e5ae6a5cf82.1920x1080.jpg?t=1784290959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/ss_c909e7c4915dd9575aaadf18f5bba6e7eb23b6c4.1920x1080.jpg?t=1784290959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/ss_f7a83205d6c27387c39c96706d41bc3ce759d20e.1920x1080.jpg?t=1784290959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345690/ss_560588d64154932f5b6e281955cb13ae40c7c798.1920x1080.jpg?t=1784290959"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-17T12:58:21Z"
+}
