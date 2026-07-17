@@ -1,8 +1,8 @@
 {
   "id": 2243890,
   "title": "A Simpler World",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/28f1b7b6101cb70d7568608656214f07e40698d0/header.jpg?t=1784013817",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2243890?t=1784013817",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/28f1b7b6101cb70d7568608656214f07e40698d0/header.jpg?t=1784075613",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2243890?t=1784075613",
   "description": "«A Simpler World» — это небольшая уютная игра-симулятор строительства, в которой главное внимание уделяется творчеству и расслаблению.\n\nНачните с заросшего острова, приведите его в порядок и превратите в свой собственный уютный домик.\n\nВсе предметы декора доступны с самого начала, поэтому вы можете свободно украшать как внутренние помещения, так и территорию вокруг дома по своему усмотрению.\n\nЭто небольшая игра без каких-либо целей, но если вы всегда хотели расслабиться в очаровательном мире пиксельной графики, то эта игра может быть именно для вас!\n\nОсобенности• Свободное оформление: все предметы декора доступны сразу, ничего не нужно разблокировать!\n\n• Случайно сгенерированные острова: начните игру на своём собственном, случайно сгенерированном острове.\n\n• Расслабленная игра: никаких целей, никакого давления — просто расслабьтесь и создайте что-нибудь красивое.\n\n• Питомцы: Питомцы!",
   "description_short": "Небольшая уютная игра-строитель, в которой вы приводите в порядок и украшаете свой собственный маленький островной домик.",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 764,
+  "price_rub": 767,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/0e37b0f64b0b43338870b8c5e3b7997afcfeb18b/ss_0e37b0f64b0b43338870b8c5e3b7997afcfeb18b.1920x1080.jpg?t=1784013817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/f1a9b0817f87fdde1e2f087b65611742f2573eb4/ss_f1a9b0817f87fdde1e2f087b65611742f2573eb4.1920x1080.jpg?t=1784013817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/e69465a6f81a5090179d48dd27f7c9117aeb0a57/ss_e69465a6f81a5090179d48dd27f7c9117aeb0a57.1920x1080.jpg?t=1784013817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/bf735505a71f28b6f0af0ce4ce8e9f43c25ea155/ss_bf735505a71f28b6f0af0ce4ce8e9f43c25ea155.1920x1080.jpg?t=1784013817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/2f8d01cb17d4b1c1aa1cb9267a38c2e672b170b5/ss_2f8d01cb17d4b1c1aa1cb9267a38c2e672b170b5.1920x1080.jpg?t=1784013817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/dd2d5e300d9c1f4db39f6a3282f4ec017206aa83/ss_dd2d5e300d9c1f4db39f6a3282f4ec017206aa83.1920x1080.jpg?t=1784013817"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/0e37b0f64b0b43338870b8c5e3b7997afcfeb18b/ss_0e37b0f64b0b43338870b8c5e3b7997afcfeb18b.1920x1080.jpg?t=1784075613",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/f1a9b0817f87fdde1e2f087b65611742f2573eb4/ss_f1a9b0817f87fdde1e2f087b65611742f2573eb4.1920x1080.jpg?t=1784075613",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/e69465a6f81a5090179d48dd27f7c9117aeb0a57/ss_e69465a6f81a5090179d48dd27f7c9117aeb0a57.1920x1080.jpg?t=1784075613",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/bf735505a71f28b6f0af0ce4ce8e9f43c25ea155/ss_bf735505a71f28b6f0af0ce4ce8e9f43c25ea155.1920x1080.jpg?t=1784075613",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/2f8d01cb17d4b1c1aa1cb9267a38c2e672b170b5/ss_2f8d01cb17d4b1c1aa1cb9267a38c2e672b170b5.1920x1080.jpg?t=1784075613",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/dd2d5e300d9c1f4db39f6a3282f4ec017206aa83/ss_dd2d5e300d9c1f4db39f6a3282f4ec017206aa83.1920x1080.jpg?t=1784075613"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-14T13:10:18Z"
+  "updated_at": "2026-07-17T19:07:42Z"
 }

@@ -1,0 +1,31 @@
+{
+  "id": 4039140,
+  "title": "Subway Builder",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/442e78193cee36ffdbb535d9d6a24f6d75652971/header.jpg?t=1784313011",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/6a9fb88be7522e4786825bfaa8ec640f206c1071/page_bg_raw.jpg?t=1784313011",
+  "description": "Subway Builder — гиперреалистичная симуляция общественного транспорта, созданная на основе актуальных данных из городов США и Великобритании.\n\nСимуляция реальных пассажиров\n\nМиллионы пассажиров генерируются на основе данных переписи и Redistricter и моделируются с помощью тех же алгоритмов поиска маршрутов, которые вы используете в своём телефоне. Ваша задача — спроектировать сеть маршрутов, которая доставит как можно больше людей к месту назначения как можно быстрее. Балансируйте расположение станций, динамику пересадок и частоту поездов, чтобы максимизировать пассажиропоток.\n\nУглублённый анализ\n\nИзучите, как отдельные пассажиры взвешивают компромиссы между временем ожидания, пересадками, распределением доходов, задержками и многим другим, выбирая свой маршрут. Разберитесь, какие маршруты, станции и поезда используют ваши пассажиры, и используйте эту информацию для оптимизации своей сети.\n\nС помощью этого анализа вам также нужно найти правильный баланс между стоимостью и временем. Слишком много поездов на линии или переполненная станция могут вызвать задержки или сбои.\n\nДостоверные данные\n\nПереписи населения США и Великобритании фиксируют местоположение жилья и мест работы. Игра генерирует на этой основе миллионы пассажиров с местами жительства, а затем с помощью гравитационной модели на основе расстояния назначает им всем места работы. Им также назначается время выезда на работу и с работы в распределении, близком к реальной жизни.\n\nЗатем это решение принимается на основе того, сколько времени занимает каждый способ поездки, сколько он стоит и какова ценность их времени (у разных пассажиров могут быть разные доходы).\n\nЕсли они решат поехать на метро, вы можете следить за их поездкой (и одновременно за поездками тысяч других) по пути на работу. Если поезд задерживается или отменяется, это повлияет на их поездку, и будущие пассажиры учтут это.\n\nТакже моделируются пассажиры, едущие в университеты и аэропорты, и они ведут себя иначе, поскольку у них другое распределение доходов и другое время в пути. Для числа студентов используются федеральные данные, а для аэропортов — данные FAA.\n\nГорода, доступные в Subway Builder на данный момент, включают в США: Atlanta, Austin, Baltimore, Boston, Charlotte, Chicago, Cincinnati, Cleveland, Columbus, Dallas, Denver, Detroit, Honolulu, Houston, Indianapolis, Miami, Milwaukee, Minneapolis, New York, Philadelphia, Phoenix, Pittsburgh, Portland, Salt Lake City, San Diego, San Francisco, Seattle, St Louis и Washington. Birmingham, Liverpool, London, Manchester и Newcastle — города, доступные в Великобритании.",
+  "description_short": "Subway Builder — гиперреалистичная симуляция общественного транспорта. Постройте новую систему метро с нуля, справляясь с реальными ограничениями и затратами. Создайте метро, которого заслуживает ваш город.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 1062,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/7d0ea88c1360d6b416a015e73cec168695377a58/ss_7d0ea88c1360d6b416a015e73cec168695377a58.1920x1080.jpg?t=1784313011",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/1ea1c156c043dcb40be9efc9b8e3aab090062ba7/ss_1ea1c156c043dcb40be9efc9b8e3aab090062ba7.1920x1080.jpg?t=1784313011",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/a8db40f6985e5fa2229cc96436c12df1c3afc31c/ss_a8db40f6985e5fa2229cc96436c12df1c3afc31c.1920x1080.jpg?t=1784313011",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/4c4622f11ef90e2e35a9591a83c8b529a48eda68/ss_4c4622f11ef90e2e35a9591a83c8b529a48eda68.1920x1080.jpg?t=1784313011",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/59570bfe9662a63f3ba8810a04c20621cb0ad3d9/ss_59570bfe9662a63f3ba8810a04c20621cb0ad3d9.1920x1080.jpg?t=1784313011",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/37574d2ec84ec15c690fc7a0d6500c32347140a6/ss_37574d2ec84ec15c690fc7a0d6500c32347140a6.1920x1080.jpg?t=1784313011",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/593e8648bc4fcd3467bdd8ca5325233bdbe115af/ss_593e8648bc4fcd3467bdd8ca5325233bdbe115af.1920x1080.jpg?t=1784313011",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039140/00d04fea230c7cbc9aec4d599ba14934aab086e5/ss_00d04fea230c7cbc9aec4d599ba14934aab086e5.1920x1080.jpg?t=1784313011"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-17T19:16:26Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3950130,
+  "title": "Database Detective: Minor Crimes Division",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/ed5315c85ccaeaa8deb05aa6a91fc08e245d1e05/header.jpg?t=1784303268",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3950130/library_hero.jpg",
+  "description": "There’s been a backlog of unsolved cases piling up in the Minor Crimes Division of the Los Zorangeles Police Department and we’ll need a Database Detective to help solve them. \n\nWe’ll need you to analyze clues and manipulate data using SQL, a database querying language, to figure out who perpetrated crimes from as minor as littering to as serious as not checking out of a hotel after the check-out time.\n\nDon’t worry! This role is intended to be accessible for those without any SQL experience, so each Database Detective is given an introductory textbook when they start! This short textbook is less than 20 pages and explains everything that’s needed to solve each case.\n\nIf you still have trouble writing queries, our comprehensive error messaging system will tell you exactly where your query went wrong, making it easy to correct your mistakes.\n\nStill not enough? Each Database Detective is assigned an assistant who’s ready to answer any questions you might have, whether they be about the case itself or the SQL queries you’ll need to write!\n\nUnderstanding how to manipulate data using SQL is not the only part of being a Database Detective! Your job will also require you to piece together evidence and clues, just like a real detective! Further on in your Database Detective career, you’ll have to sleuth through the internet and piece cases together yourself.\n\nJob benefits also include…• Fully voice acted mission briefings at the beginning of each case!\n\n• Fully hand drawn art for you to enjoy!\n\n• More than 40 websites to explore!\n\n• 10 cases for you to solve, each case getting longer and more complex!\n\n• A total of around 8-10 hours of valuable work experience to add to your resume!",
+  "description_short": "Solve criminal cases through the power of SQL queries! Help out the city of Los Zorangeles by becoming a Database Detective in this new (unpaid) work from home opportunity.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 737,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/514c624fa339e77ec626f44e9b4422e79ae6a063/ss_514c624fa339e77ec626f44e9b4422e79ae6a063.1920x1080.jpg?t=1784303268",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/9930f3999d14885bf22ae3656cb8d58d554b4018/ss_9930f3999d14885bf22ae3656cb8d58d554b4018.1920x1080.jpg?t=1784303268",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/fe433aef34a8fda473ac0ed187cbc9bb15dc7782/ss_fe433aef34a8fda473ac0ed187cbc9bb15dc7782.1920x1080.jpg?t=1784303268",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/c1a375dd99be92f8f436355d3a8033336f1f87f9/ss_c1a375dd99be92f8f436355d3a8033336f1f87f9.1920x1080.jpg?t=1784303268",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/ae137837e26e95315e0221f0c220f6e3d11b5765/ss_ae137837e26e95315e0221f0c220f6e3d11b5765.1920x1080.jpg?t=1784303268",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/eba3d91b19096469ae273999c63432f22ecbb1f1/ss_eba3d91b19096469ae273999c63432f22ecbb1f1.1920x1080.jpg?t=1784303268",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/ff61831eaf9588b58dfcc95655b60069e4b07b07/ss_ff61831eaf9588b58dfcc95655b60069e4b07b07.1920x1080.jpg?t=1784303268",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950130/8ceb7181cbd43df61812a88bd7d18c04a235a400/ss_8ceb7181cbd43df61812a88bd7d18c04a235a400.1920x1080.jpg?t=1784303268"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-17T19:21:40Z"
+}
