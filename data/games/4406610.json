@@ -1,0 +1,28 @@
+{
+  "id": 4406610,
+  "title": "Link Empire",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406610/8727d8deaf6ffb3473654795a5622539982df977/header.jpg?t=1784257367",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4406610?t=1784257367",
+  "description": "Link Empire is a hexagon grid-based real-time strategy game. Unlike most traditional RTS games with a high barrier to entry, this game completely removes micromanagement and focuses on simplifying gameplay, allowing you to experience the pure joy of commanding forces!\n\nSimplified Development• Build resource structures to automatically gather resources—no complex worker allocation or management needed.\n\n• Set unit production in barracks to automate the creation of specific units. No more worrying about forgetting to train units!\n\n• No complicated tech tree. As long as you have enough resources, you can immediately produce advanced units.\n\nSimplified Controls• Link two nodes to move forcesfrom one to another. Units will automatically pathfind, engage enemies, and fight—all without manual input.\n\n• Worried the battlefield might be too vast to keep track of? No problem. Switch to the strategic view anytime for a God’s-eye perspective and manage the entire game easily.\n\n• Send forces to enemy nodes. Once your forces eliminate all enemy units and structures, you’ll capture the node. Occupy all nodes, and you win!\n\nOther Features• Dozens of unique unit can be unlocked outside, freely compose, and led to battle under your command.\n\n• Multiple AI lords with varied personalities—some foolish and slow, others cunning and cruel.\n\n• 30 different map levels await your challenge.",
+  "description_short": "Link Empire is a real-time strategy game based on a hexagonal grid. In this game, you just need to link nodes to command your forces, not control every unit. Focus on your development, unit combination. Choose your attack timing and path carefully. Defeat your enemies on a truly strategic level!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 640,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406610/3eee7b7bc40d20270a91382e07f8e3670665dc7c/ss_3eee7b7bc40d20270a91382e07f8e3670665dc7c.1920x1080.jpg?t=1784257367",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406610/a6b6eb53c349ea7e6583adeb57f8f49e3ef38442/ss_a6b6eb53c349ea7e6583adeb57f8f49e3ef38442.1920x1080.jpg?t=1784257367",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406610/fa73bc4b43e6c4e0e5ca7f9e3dbb4a16ee44a3d5/ss_fa73bc4b43e6c4e0e5ca7f9e3dbb4a16ee44a3d5.1920x1080.jpg?t=1784257367",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406610/2a2958acb56e4ef58881fcfc0c1345642c8d7eca/ss_2a2958acb56e4ef58881fcfc0c1345642c8d7eca.1920x1080.jpg?t=1784257367",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406610/3b7ccea7488199f3bb87566d486038c567825f44/ss_3b7ccea7488199f3bb87566d486038c567825f44.1920x1080.jpg?t=1784257367"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-17T08:06:31Z"
+}

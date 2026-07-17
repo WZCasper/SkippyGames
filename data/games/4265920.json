@@ -1,8 +1,8 @@
 {
   "id": 4265920,
   "title": "Co-Drive Chaos",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/b390627f12550ef1a04970d5549be618bc66c5d0/header.jpg?t=1783976687",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/99019e1b51e39f8ddbd3e96b0733027a9e9cadcf/page_bg_raw.jpg?t=1783976687",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/b390627f12550ef1a04970d5549be618bc66c5d0/header.jpg?t=1784115329",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/99019e1b51e39f8ddbd3e96b0733027a9e9cadcf/page_bg_raw.jpg?t=1784115329",
   "description": "Co-Drive Chaos – Одна машина, два водителя, бесконечный хаосУправляйте одной машиной вместе с другом и попытайтесь преодолеть трассы. Конечно, если у вас получится. В этой 3D-игре с препятствиями, которая проверит вашу дружбу на прочность, вас ждут немного напряжения, немного ссор и море веселья.\n\nЧТО ЖДЁТ ВАС В ЭТОЙ ИГРЕ?• СОВМЕСТНОЕ УПРАВЛЕНИЕ: В этой игре два игрока управляют одной машиной. Один игрок может поворачивать только вправо, а другой — только влево. Чтобы пройти трассы, вам придётся координировать действия и работать вместе.\n\n• ОБЩИЕ МЕХАНИКИ: Газ, тормоз и нитро могут использовать оба игрока, а одновременное использование усиливает их эффект. Хотя эти элементы управления не разделены между игроками, координация по-прежнему крайне важна.\n\n• ФИЗИЧЕСКИЕ ПРЕПЯТСТВИЯ: Движущиеся кактусы, подвижные платформы, толкающие стены и колонны с вращающимися пропеллерами.\n\n• МУМИЯ: Остерегайтесь мумий, которые попытаются усложнить вам путь с помощью бомб. Особенно будьте осторожны с мумиями, вооружёнными базуками. Они сделают всё возможное, чтобы сбить вас с дороги.\n\n• СВЯЩЕННИК: Если вы заблудились, следуйте за священником. Он покажет вам дорогу.",
   "description_short": "Co-Drive Chaos — это хаотичная кооперативная игра о вождении, в которой одной машиной управляют несколько игроков. Играйте в одиночку или онлайн с 2–4 игроками, выживайте на напряжённых дорогах в стиле хоррора, избегайте препятствий и работайте вместе, чтобы добраться до конца.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 621,
+  "price_rub": 622,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "QC75PMm9x-o",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/007c5f07a33feeb92f2c4485f3679baec207410a/ss_007c5f07a33feeb92f2c4485f3679baec207410a.1920x1080.jpg?t=1783976687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/b2cb015fd800fea895d678525e27e18be1122805/ss_b2cb015fd800fea895d678525e27e18be1122805.1920x1080.jpg?t=1783976687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/6900d99b094ce4f0c067f1e53277a4c3dfcc84e5/ss_6900d99b094ce4f0c067f1e53277a4c3dfcc84e5.1920x1080.jpg?t=1783976687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/d4d5684f8e64da0bb677234b38ffc04fedaab741/ss_d4d5684f8e64da0bb677234b38ffc04fedaab741.1920x1080.jpg?t=1783976687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/c4d4da8106c023f6e42907e7700d57fcc51b238b/ss_c4d4da8106c023f6e42907e7700d57fcc51b238b.1920x1080.jpg?t=1783976687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/3a41f234948354ea694c1109931df9792ba63bc0/ss_3a41f234948354ea694c1109931df9792ba63bc0.1920x1080.jpg?t=1783976687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/65ca7da03e114691cd5fa1ed9179b9b21963afed/ss_65ca7da03e114691cd5fa1ed9179b9b21963afed.1920x1080.jpg?t=1783976687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/83dc6f7884642338d7a757cbb8cf978276c7f642/ss_83dc6f7884642338d7a757cbb8cf978276c7f642.1920x1080.jpg?t=1783976687"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/007c5f07a33feeb92f2c4485f3679baec207410a/ss_007c5f07a33feeb92f2c4485f3679baec207410a.1920x1080.jpg?t=1784115329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/b2cb015fd800fea895d678525e27e18be1122805/ss_b2cb015fd800fea895d678525e27e18be1122805.1920x1080.jpg?t=1784115329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/6900d99b094ce4f0c067f1e53277a4c3dfcc84e5/ss_6900d99b094ce4f0c067f1e53277a4c3dfcc84e5.1920x1080.jpg?t=1784115329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/d4d5684f8e64da0bb677234b38ffc04fedaab741/ss_d4d5684f8e64da0bb677234b38ffc04fedaab741.1920x1080.jpg?t=1784115329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/c4d4da8106c023f6e42907e7700d57fcc51b238b/ss_c4d4da8106c023f6e42907e7700d57fcc51b238b.1920x1080.jpg?t=1784115329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/3a41f234948354ea694c1109931df9792ba63bc0/ss_3a41f234948354ea694c1109931df9792ba63bc0.1920x1080.jpg?t=1784115329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/65ca7da03e114691cd5fa1ed9179b9b21963afed/ss_65ca7da03e114691cd5fa1ed9179b9b21963afed.1920x1080.jpg?t=1784115329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265920/83dc6f7884642338d7a757cbb8cf978276c7f642/ss_83dc6f7884642338d7a757cbb8cf978276c7f642.1920x1080.jpg?t=1784115329"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-14T07:45:12Z"
+  "updated_at": "2026-07-17T07:56:36Z"
 }

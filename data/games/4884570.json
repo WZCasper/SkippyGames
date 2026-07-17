@@ -1,0 +1,30 @@
+{
+  "id": 4884570,
+  "title": "Floating Ink VR",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/f9595ac182071a2dd98e4f46f0da789e167e230b/header.jpg?t=1784245983",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/7d0022e7dae23ce6554830f63b322089dd8919e4/page_bg_raw.jpg?t=1784245983",
+  "description": "A calligraphy and painting tool for virtual reality. Write and draw on a floating canvas with a pressure-sensitive brush that behaves like real ink on paper.\n\nFeatures\n\n• Physically simulated brush: the ink stroke is the true cross-section of the brush tip pressing through the canvas surface — pressure and angle affect stroke width and shape\n\n• Draws over other VR apps as an overlay (negligible latency increase!) — use it with your favorite VR app, in SteamVR Home, or simply with the SteamVR background grid\n\n• Two interchangeable tips: a soft round-section bristle brush and a rigid chisel nib reed pen\n\n• Wet-ink bleed simulation — fresh strokes spread and diffuse on the canvas in real time (adjustable by sliders)\n\n• HSV color picker \n\n• Save and load drawings as PNG\n\n• Toggleable and resizable grids for calligraphy practice\n\n• Grab, pin, and resize the canvas freely in your space",
+  "description_short": "A VR calligraphy and painting simulator overlay with physically simulated brush strokes and wet-ink bleed",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 931,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/83b16ff9bd2477a056426f6eeda49ad9c9289e04/ss_83b16ff9bd2477a056426f6eeda49ad9c9289e04.1920x1080.jpg?t=1784245983",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/dc21f403acea50a8c688efcf868bf2e834847013/ss_dc21f403acea50a8c688efcf868bf2e834847013.1920x1080.jpg?t=1784245983",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/eea0f430791811bae575b0206d23c0ceb9f8c95f/ss_eea0f430791811bae575b0206d23c0ceb9f8c95f.1920x1080.jpg?t=1784245983",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/102a55fb5f3a0fb9d9adbcbd7271e684b3ae2f9f/ss_102a55fb5f3a0fb9d9adbcbd7271e684b3ae2f9f.1920x1080.jpg?t=1784245983",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/1045efab1cf12c963b036dbf620dba51dd3f4a7e/ss_1045efab1cf12c963b036dbf620dba51dd3f4a7e.1920x1080.jpg?t=1784245983",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/1a3851b2ca2fea09e6aaae7ba51c93a8040c12fd/ss_1a3851b2ca2fea09e6aaae7ba51c93a8040c12fd.1920x1080.jpg?t=1784245983",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884570/6aefee4c420c2253f55f0f94cfd0edcea75f39be/ss_6aefee4c420c2253f55f0f94cfd0edcea75f39be.1920x1080.jpg?t=1784245983"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-17T08:10:42Z"
+}

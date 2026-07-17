@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 801,
+  "price_rub": 694,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Zn4XEWAsiz0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/916dd983df4cb735c3c80651a55766fcba71574f/ss_916dd983df4cb735c3c80651a55766fcba71574f.1920x1080.jpg?t=1783704580",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643440/8220282c1cd6c4d717525c37ab85fd97021407c2/ss_8220282c1cd6c4d717525c37ab85fd97021407c2.1920x1080.jpg?t=1783704580",
@@ -29,10 +29,10 @@
     {
       "id": 4906810,
       "name": "Harvester vs. Zombies - Harvest Expansion Pack",
-      "price_rub": 576,
+      "price_rub": 577,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906810/9be9506c63e3a21aa3e4e04c6aff216e3a93e002/header.jpg?t=1783704568"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T01:28:30Z"
+  "updated_at": "2026-07-17T07:48:53Z"
 }

@@ -1,0 +1,31 @@
+{
+  "id": 4899040,
+  "title": "至高传奇",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/7809565fdc374efbe4f3a7367c9111e77cb5d23e/header.jpg?t=1784267683",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/aeae3ac00b2e8471962bf54c3cd241d68c93add2/page_bg_raw.jpg?t=1784267683",
+  "description": "本游戏是一个自动化的挂机刷宝放置游戏，支持装备属性范围，随机词条，强化，升阶，附魔！你需要在9个角色中组建一个3人小队，探索各种主题的挑战刷取装备，强化自己。直至打倒最终的敌人。\n\n游戏设计本游戏为爽刷而设计，你能从开局的个位数打到后期的7位数。\n\n属性系统共物理，炎，冰，雷，自然，暗影，魔法7种属性。\n\n装备系统（本作之重）碎片合成，范围随机属性，随机词条，品质系统，强化系统，品质升阶，附魔石。\n\n组装12个极品装备！\n\n细节：暗金装备可升阶至先祖，一般来说仅少1个词条，多一个孔（不用打孔了），有些词条数据还不如暗金升阶。\n\n养成成本还特别贵，非必要无需持有！\n\n附魔石总计65种附魔石。\n\n附魔石作为后期玩法，既有挤牙膏式的属性增强（兜底），也有细分领域的具体玩法。\n\n当你刷不动的时候，自然会花时间研究这个附魔系统。\n\n技能系统每个角色做多携带4个技能，分主动、被动技能，你需要向装备武器那样去装备技能才会生效。\n\n游戏后期百万伤害激情互秒！敌我双方全是纸做的，不拖你的挂机效率。\n\n大概时长双刷30个钟，不过30个钟并非上限！。\n\n超轻量存档和性能优化\n\n到后期存档数据只占用20~30kb，只有缓存不能即时加载，极大程度减轻了RM系游戏后期卡顿的问题。",
+  "description_short": "本游戏是一个自动化的挂机刷宝放置游戏，支持装备属性范围，随机词条，强化，升阶，附魔！你需要在11个角色中组建一个3人小队，探索各种主题的挑战刷取装备，强化自己。直至打倒最终的敌人。",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 767,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/033fa752c12e43ad48bdeced6b5edb0d1f5af7dc/ss_033fa752c12e43ad48bdeced6b5edb0d1f5af7dc.1920x1080.jpg?t=1784267683",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/cf06e40a60b9243e4761e52eb32e833049a651a2/ss_cf06e40a60b9243e4761e52eb32e833049a651a2.1920x1080.jpg?t=1784267683",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/136969d3a28a87ca5b8d64cda3569f1894abc875/ss_136969d3a28a87ca5b8d64cda3569f1894abc875.1920x1080.jpg?t=1784267683",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/b798033daf3c8b6b617f99e6245e25a7b8fddd17/ss_b798033daf3c8b6b617f99e6245e25a7b8fddd17.1920x1080.jpg?t=1784267683",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/e85724538070d6c16caa1e1d248c9ac1b55cc6fe/ss_e85724538070d6c16caa1e1d248c9ac1b55cc6fe.1920x1080.jpg?t=1784267683",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/54debfcb5b8e6c9d2a2b01e312ec8a6a7dd47519/ss_54debfcb5b8e6c9d2a2b01e312ec8a6a7dd47519.1920x1080.jpg?t=1784267683",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/f8522cb1d848d991a4591fb735ed261add18f919/ss_f8522cb1d848d991a4591fb735ed261add18f919.1920x1080.jpg?t=1784267683",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/03b8492b85afe545d0c622292c84c28d3c97240d/ss_03b8492b85afe545d0c622292c84c28d3c97240d.1920x1080.jpg?t=1784267683"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-17T08:02:49Z"
+}

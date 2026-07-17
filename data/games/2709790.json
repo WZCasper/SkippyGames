@@ -1,0 +1,31 @@
+{
+  "id": 2709790,
+  "title": "Tiny Circuits",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2709790/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2709790/library_hero.jpg",
+  "description": "⚡ New Updated Demo Build AvailableExperience updated puzzles, polished controls, improved visuals, and new electrical mechanics in the latest Tiny Circuits demo update.\n\nОб игреWelcome to your first shift! You've been hired as the circuit factory's tiniest robot, and the only way up the org chart is to solve circuit-board puzzles.\n\nRotate and place tiles, route electrical signals, and unlock clever electronic components across 70+ handcrafted puzzles where your position on the board matters just as much as the connections themselves.\n\nHow is this different?You are standing on the puzzle board itself. Your robot takes up a cell on the grid, so as levels grow more complex you'll need to think about where each signal goes, and where your little robot needs to stand, move, and stay out of the way.\n\nAnd there's no cheat sheet. Your starting position is randomized every attempt, so you can't memorize a list of moves. Each puzzle has only one or two valid solutions, which means you have to genuinely understand how each component pushes signals around.\n\nApproachable Challenge.Tiny Circuits includes 6 main worlds, each introducing a new mechanic and building on what you learned before.\n\nEach world also includes optional challenge levels for more experienced players. Clear all 6 worlds with a 3-spark rating to unlock a special 7th world with challenge puzzles.\n\nNo pressure though. You can restart any level without penalty and try a different approach until it clicks. Prefer to just unwind? Free Play unlocks every level from the start, with progression and achievements turned off, so you can tinker at your own pace.\n\nInteresting Mechanics.Each new component changes how you think about the board. Redirect signals, flip signal types, combine inputs, and bend space with mechanics that stack together in surprising ways. Including:\n\nOne-Way Diodes.\n\nForce signals to travel in a single direction, and rethink every path that used to flow both ways.\n\nSignal Inverters.\n\nFlip a signal into its opposite type mid-route to reach components that reject the original.\n\nLogic Gates.\n\nCombine two inputs into one output, and control exactly which signals are allowed to reach the CPU.\n\nTeleporters.\n\nJump signals across the board to open up paths the grid alone can't reach.\n\nBecome the best.Explore 70+ handcrafted levels, unlock new mechanics, and relax to a cozy lo-fi soundtrack as you climb your way from Unpaid Intern to Employee of the Month.\n\nWelcome to the circuit factory!",
+  "description_short": "Tiny Circuits is a cozy logic puzzle game where you play as a tiny robot routing electrical signals across 70+ handcrafted circuit boards. You stand on the board itself, and your start randomizes every run, so there's no solution to memorize. Climb from Unpaid Intern to Employee of the Month!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 840,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709790/261849313ce043ea55a4be570bde353bcb372cc2/ss_261849313ce043ea55a4be570bde353bcb372cc2.1920x1080.jpg?t=1784239722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709790/615263c61aa4600e327be2111ef9df6c2e478923/ss_615263c61aa4600e327be2111ef9df6c2e478923.1920x1080.jpg?t=1784239722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709790/3f7825bc6f3a12149014e23f69a80eabc6623ffa/ss_3f7825bc6f3a12149014e23f69a80eabc6623ffa.1920x1080.jpg?t=1784239722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709790/b2dfe2f4376e7d1ebc6f335aebe8f99a69ee1e21/ss_b2dfe2f4376e7d1ebc6f335aebe8f99a69ee1e21.1920x1080.jpg?t=1784239722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709790/01ab4db620c33a0fdfe0dd0fb3fcd1de2df89b12/ss_01ab4db620c33a0fdfe0dd0fb3fcd1de2df89b12.1920x1080.jpg?t=1784239722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709790/f187ce65ec936dda7a928934c205783a7edfb064/ss_f187ce65ec936dda7a928934c205783a7edfb064.1920x1080.jpg?t=1784239722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709790/eba454b126148ecc39fa1be7b4a264ecc4972485/ss_eba454b126148ecc39fa1be7b4a264ecc4972485.1920x1080.jpg?t=1784239722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709790/fcc3d4056d90d7fcbd871aea801ac350ffea0762/ss_fcc3d4056d90d7fcbd871aea801ac350ffea0762.1920x1080.jpg?t=1784239722"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-17T08:11:14Z"
+}

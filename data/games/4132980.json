@@ -1,0 +1,28 @@
+{
+  "id": 4132980,
+  "title": "Please One More Block",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132980/7b2c220961e96045dd596056e3282c5415df29db/header.jpg?t=1784275076",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4132980?t=1784275076",
+  "description": "Please One More Block is a puzzle platformer with asynchronous cooperative elements. Clear stages using blocks left by previous players, and leave a block behind for the next one!\n\nPlatformer games are often too difficult, aren’t they? At least they are for me. So I designed this game so players can help each other. Press the ‘Help!’ button to receive a block created by another player. Of course, whether it actually helps you… is another story.\n\nAren’t you curious about which blocks received the most likes? Or the most dislikes? I’m planning to experiment with player behavior data and share the results occasionally through announcements. — DeveloperFeatures• Maps that change every run and blocks left by unknown players\n\n• Press the ‘Help!’ button to receive blocks left by others\n\n• Leave a block on the map whenever you clear a stage or die\n\n• Check the ratings of the blocks you left",
+  "description_short": "Please One More Block is a puzzle platformer with asynchronous cooperative elements. Clear stages using blocks left by previous players, and leave a block behind for the next one!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 542,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132980/15a2693891f52c156dd1f9f21f3cd39ffe97d399/ss_15a2693891f52c156dd1f9f21f3cd39ffe97d399.1920x1080.jpg?t=1784275076",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132980/21753776abf96e1c7044ba959176d359dd8560de/ss_21753776abf96e1c7044ba959176d359dd8560de.1920x1080.jpg?t=1784275076",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132980/a4095c71fa000207d528f8b58e8d4d509adf511c/ss_a4095c71fa000207d528f8b58e8d4d509adf511c.1920x1080.jpg?t=1784275076",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132980/5c2b304e0578dd80b39501e10744e14c77738b1f/ss_5c2b304e0578dd80b39501e10744e14c77738b1f.1920x1080.jpg?t=1784275076",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132980/56d08067309918b0bdf326c95fcae1b668e213e1/ss_56d08067309918b0bdf326c95fcae1b668e213e1.1920x1080.jpg?t=1784275076"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-17T08:00:12Z"
+}
