@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-18T12:45:10Z",
+  "generated_at": "2026-07-18T18:52:21Z",
   "uah_to_rub_rate": 1.750183,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 894,
+  "count": 901,
   "games": [
     {
       "id": 4675010,
@@ -249,7 +249,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 655,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -328,6 +328,19 @@
         "PC"
       ],
       "price_rub": 528,
+      "is_free": false
+    },
+    {
+      "id": 4656180,
+      "title": "Again. Faster!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656180/5abd1407f30857e22db41b4bd21498bb6cbce31a/header.jpg?t=1784368728",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 752,
       "is_free": false
     },
     {
@@ -676,7 +689,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 941,
+      "price_rub": 948,
       "is_free": false
     },
     {
@@ -702,7 +715,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 739,
+      "price_rub": 771,
       "is_free": false
     },
     {
@@ -1069,7 +1082,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 702,
+      "price_rub": 705,
       "is_free": false
     },
     {
@@ -1082,7 +1095,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 610,
+      "price_rub": 633,
       "is_free": false
     },
     {
@@ -1160,7 +1173,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 638,
       "is_free": false
     },
     {
@@ -1374,7 +1387,7 @@
     {
       "id": 4481560,
       "title": "CORGI & WOOLLY - Little Horizon -",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481560/fae60558982f1bf7767fa55bf04a217375549cee/header.jpg?t=1783745946",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481560/fae60558982f1bf7767fa55bf04a217375549cee/header.jpg?t=1784190611",
       "genres": [
         "Экшен"
       ],
@@ -1680,7 +1693,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 673,
       "is_free": false
     },
     {
@@ -1946,6 +1959,19 @@
       "is_free": false
     },
     {
+      "id": 4782520,
+      "title": "Cozy Radiation Cleaner",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782520/0b1c2c590177340ab4f82cdfa114d2d90a50e62e/header.jpg?t=1784368442",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 605,
+      "is_free": false
+    },
+    {
       "id": 4809010,
       "title": "Cozy Tide",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809010/daeaa9de9b50419aa7a207e38b0e50567b612828/header.jpg?t=1783616611",
@@ -2077,20 +2103,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2910,
+      "price_rub": 2949,
       "is_free": false
     },
     {
       "id": 4015010,
       "title": "DEATHLOOP 4 YOU",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015010/6b12f3b27419325966fb3574bd3788cc064b08e6/header.jpg?t=1784105791",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015010/6b12f3b27419325966fb3574bd3788cc064b08e6/header.jpg?t=1784272499",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 746,
+      "price_rub": 750,
       "is_free": false
     },
     {
@@ -2396,6 +2422,19 @@
       "is_free": false
     },
     {
+      "id": 4772840,
+      "title": "Deep Reach",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772840/340a4865298d676b813cc3e9b4c0489dbcae1065/header.jpg?t=1784389361",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 624,
+      "is_free": false
+    },
+    {
       "id": 1712110,
       "title": "Deep Space Outpost",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1712110/capsule_616x353.jpg",
@@ -2499,7 +2538,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 609,
+      "price_rub": 610,
       "is_free": false
     },
     {
@@ -2526,6 +2565,19 @@
         "PC"
       ],
       "price_rub": 590,
+      "is_free": false
+    },
+    {
+      "id": 4414210,
+      "title": "Dice Carnival",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414210/e840629f12374b35f30e1cd8196f778b3f26709e/header.jpg?t=1784379496",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 717,
       "is_free": false
     },
     {
@@ -2818,7 +2870,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3599,
+      "price_rub": 3649,
       "is_free": false
     },
     {
@@ -3341,7 +3393,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 646,
+      "price_rub": 649,
       "is_free": false
     },
     {
@@ -3930,7 +3982,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 929,
+      "price_rub": 936,
       "is_free": false
     },
     {
@@ -3972,7 +4024,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2393,
+      "price_rub": 2423,
       "is_free": false
     },
     {
@@ -4055,7 +4107,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1322,
+      "price_rub": 1335,
       "is_free": false
     },
     {
@@ -4571,14 +4623,14 @@
     {
       "id": 4651470,
       "title": "Hypatia",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651470/5a7d59d098e129b2070710229311425e9c35525f/header.jpg?t=1784106070",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651470/5a7d59d098e129b2070710229311425e9c35525f/header.jpg?t=1784394243",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1018,
+      "price_rub": 1027,
       "is_free": false
     },
     {
@@ -5149,6 +5201,19 @@
       "is_free": false
     },
     {
+      "id": 3426430,
+      "title": "LOVE Hotel Simulator 🏩",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3426430/473b7f0960e3424bb1f02b80284942ecf451fd19/header.jpg?t=1784400494",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 826,
+      "is_free": false
+    },
+    {
       "id": 4540610,
       "title": "Labyrinth of Whiskers",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540610/23990a2e278f3bf49f0f1a7bc0d6cefe39671451/header.jpg?t=1783542406",
@@ -5158,7 +5223,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 648,
+      "price_rub": 717,
       "is_free": false
     },
     {
@@ -5452,14 +5517,14 @@
     {
       "id": 4443160,
       "title": "Lux Anima",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443160/d3d3e01233df12e8f05c9feeebde1ff23a7b143a/header.jpg?t=1784101711",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443160/d3d3e01233df12e8f05c9feeebde1ff23a7b143a/header.jpg?t=1784188425",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 660,
+      "price_rub": 663,
       "is_free": false
     },
     {
@@ -5563,7 +5628,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 707,
+      "price_rub": 710,
       "is_free": false
     },
     {
@@ -5656,7 +5721,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 552,
+      "price_rub": 553,
       "is_free": false
     },
     {
@@ -5912,7 +5977,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 621,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -5938,7 +6003,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 682,
       "is_free": false
     },
     {
@@ -6495,7 +6560,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 631,
+      "price_rub": 633,
       "is_free": false
     },
     {
@@ -6894,7 +6959,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 617,
+      "price_rub": 619,
       "is_free": false
     },
     {
@@ -6907,7 +6972,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 617,
+      "price_rub": 619,
       "is_free": false
     },
     {
@@ -6972,7 +7037,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 724,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -7080,7 +7145,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 689,
+      "price_rub": 693,
       "is_free": false
     },
     {
@@ -7184,7 +7249,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 531,
+      "price_rub": 532,
       "is_free": false
     },
     {
@@ -7272,14 +7337,14 @@
     {
       "id": 4781720,
       "title": "Pun-ishment",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781720/4b24d13a6d57c9b3b9c8d307ab27d82ba92ee3c3/header.jpg?t=1783561897",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781720/4b24d13a6d57c9b3b9c8d307ab27d82ba92ee3c3/header.jpg?t=1784186310",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 757,
+      "price_rub": 761,
       "is_free": false
     },
     {
@@ -7383,7 +7448,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 796,
+      "price_rub": 903,
       "is_free": false
     },
     {
@@ -7548,7 +7613,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 634,
+      "price_rub": 637,
       "is_free": false
     },
     {
@@ -7606,14 +7671,14 @@
     {
       "id": 4397780,
       "title": "Roll Together",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397780/23d51289c57bf56b0dc809b71f67e53f1dc6aabe/header.jpg?t=1784104548",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397780/9bfeb81e3fa7d0aef312eb2cbf15e81e75c50949/header.jpg?t=1784205583",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 702,
+      "price_rub": 705,
       "is_free": false
     },
     {
@@ -7942,7 +8007,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1226,
       "is_free": false
     },
     {
@@ -8082,7 +8147,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 817,
+      "price_rub": 822,
       "is_free": false
     },
     {
@@ -8464,7 +8529,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1241,
+      "price_rub": 1253,
       "is_free": false
     },
     {
@@ -9068,7 +9133,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -9225,7 +9290,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -9472,7 +9537,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1739,
+      "price_rub": 1758,
       "is_free": false
     },
     {
@@ -9828,7 +9893,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 857,
+      "price_rub": 862,
       "is_free": false
     },
     {
@@ -9932,7 +9997,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 567,
+      "price_rub": 568,
       "is_free": false
     },
     {
@@ -10016,14 +10081,14 @@
     {
       "id": 4863520,
       "title": "Urban Rangers Arcade 2",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863520/92c22c9e598b3041c9aca119d1868d718dc7692a/header.jpg?t=1783852656",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863520/92c22c9e598b3041c9aca119d1868d718dc7692a/header.jpg?t=1784161720",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 896,
+      "price_rub": 903,
       "is_free": false
     },
     {
@@ -10216,14 +10281,14 @@
     {
       "id": 4508570,
       "title": "Veritas Tales: Witch of the Dark Castle",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1783665720",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1784192856",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1074,
+      "price_rub": 1083,
       "is_free": false
     },
     {
@@ -10431,14 +10496,14 @@
     {
       "id": 4178950,
       "title": "What Surrounds Us",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178950/71d880b4dcccd01783b44733ba3c0bb1d5aef515/header.jpg?t=1784109225",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178950/71d880b4dcccd01783b44733ba3c0bb1d5aef515/header.jpg?t=1784290556",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 907,
+      "price_rub": 913,
       "is_free": false
     },
     {
@@ -10832,7 +10897,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 553,
+      "price_rub": 591,
       "is_free": false
     },
     {
@@ -10846,6 +10911,19 @@
         "PC"
       ],
       "price_rub": 633,
+      "is_free": false
+    },
+    {
+      "id": 4563880,
+      "title": "walk",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563880/d7186f52ff41c641171bc2d936598ea8acc4db10/header.jpg?t=1784379334",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 572,
       "is_free": false
     },
     {
@@ -10900,7 +10978,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2135,
+      "price_rub": 2161,
       "is_free": false
     },
     {
@@ -11160,7 +11238,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 975,
+      "price_rub": 983,
       "is_free": false
     },
     {
@@ -11199,7 +11277,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 638,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -11212,7 +11290,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 702,
+      "price_rub": 705,
+      "is_free": false
+    },
+    {
+      "id": 4868150,
+      "title": "仙门守护者",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868150/9c3fdf0df7960838984b79edbe83874d76e638b7/header.jpg?t=1784384318",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 623,
       "is_free": false
     },
     {
@@ -11568,15 +11659,15 @@
     },
     {
       "id": 4060660,
-      "title": "爆射的哈基米 - 哈基米幸存者",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4060660/3b416b2fca83c2d1c63e630a8e04a8a194436ada/header.jpg?t=1784091596",
+      "title": "爆射的哈基米",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4060660/3b416b2fca83c2d1c63e630a8e04a8a194436ada/header.jpg?t=1784210124",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 531,
+      "price_rub": 532,
       "is_free": false
     },
     {
@@ -11615,7 +11706,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 578,
+      "price_rub": 588,
       "is_free": false
     },
     {
@@ -11680,7 +11771,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 767,
+      "price_rub": 771,
       "is_free": false
     },
     {
@@ -11777,14 +11868,14 @@
     {
       "id": 4886100,
       "title": "魔法少女甜心3D Magical Girl Sweetheart 3D",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886100/2c024ccff5f6b33741d701daec4596b84175d0fc/header.jpg?t=1783849644",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886100/2c024ccff5f6b33741d701daec4596b84175d0fc/header.jpg?t=1784308472",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 536,
+      "price_rub": 537,
       "is_free": false
     },
     {
