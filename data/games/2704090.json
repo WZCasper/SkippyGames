@@ -11,28 +11,34 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 810,
+  "price_rub": 815,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/f6b0e3086b8919dd39446dff4953e57933b61e5d/ss_f6b0e3086b8919dd39446dff4953e57933b61e5d.1920x1080.jpg?t=1784048688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/a460f700e6d0edcda66f68ac644f4a8fab16d043/ss_a460f700e6d0edcda66f68ac644f4a8fab16d043.1920x1080.jpg?t=1784048688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/77d23ea29c7465f095a654c70e2d17168f09868d/ss_77d23ea29c7465f095a654c70e2d17168f09868d.1920x1080.jpg?t=1784048688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/ade9cf2346b5c39416c3d7d8636851db334dda7b/ss_ade9cf2346b5c39416c3d7d8636851db334dda7b.1920x1080.jpg?t=1784048688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/a8e84cf7f51c3ee8c9de0bdb076f2c9fc82432c4/ss_a8e84cf7f51c3ee8c9de0bdb076f2c9fc82432c4.1920x1080.jpg?t=1784048688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/10281a62bbdd7637bbd6788faaa9fb22d177b599/ss_10281a62bbdd7637bbd6788faaa9fb22d177b599.1920x1080.jpg?t=1784048688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/8c821586b4be8243ef1c3a8ec136888167dc2589/ss_8c821586b4be8243ef1c3a8ec136888167dc2589.1920x1080.jpg?t=1784048688",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/dca914fb55e4d9c96ba5756ac0fff8d0f1fd0d4e/ss_dca914fb55e4d9c96ba5756ac0fff8d0f1fd0d4e.1920x1080.jpg?t=1784048688"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/f6b0e3086b8919dd39446dff4953e57933b61e5d/ss_f6b0e3086b8919dd39446dff4953e57933b61e5d.1920x1080.jpg?t=1784247199",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/a460f700e6d0edcda66f68ac644f4a8fab16d043/ss_a460f700e6d0edcda66f68ac644f4a8fab16d043.1920x1080.jpg?t=1784247199",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/77d23ea29c7465f095a654c70e2d17168f09868d/ss_77d23ea29c7465f095a654c70e2d17168f09868d.1920x1080.jpg?t=1784247199",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/ade9cf2346b5c39416c3d7d8636851db334dda7b/ss_ade9cf2346b5c39416c3d7d8636851db334dda7b.1920x1080.jpg?t=1784247199",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/a8e84cf7f51c3ee8c9de0bdb076f2c9fc82432c4/ss_a8e84cf7f51c3ee8c9de0bdb076f2c9fc82432c4.1920x1080.jpg?t=1784247199",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/10281a62bbdd7637bbd6788faaa9fb22d177b599/ss_10281a62bbdd7637bbd6788faaa9fb22d177b599.1920x1080.jpg?t=1784247199",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/8c821586b4be8243ef1c3a8ec136888167dc2589/ss_8c821586b4be8243ef1c3a8ec136888167dc2589.1920x1080.jpg?t=1784247199",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704090/dca914fb55e4d9c96ba5756ac0fff8d0f1fd0d4e/ss_dca914fb55e4d9c96ba5756ac0fff8d0f1fd0d4e.1920x1080.jpg?t=1784247199"
   ],
   "upsells": [
     {
       "id": 3224170,
       "name": "Celestial Return - Artbook",
-      "price_rub": 679,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224170/d2988093eafa8340125cffe3936bc2e8970b9119/header.jpg?t=1784047951"
+      "price_rub": 682,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224170/d2988093eafa8340125cffe3936bc2e8970b9119/header.jpg?t=1784083600"
+    },
+    {
+      "id": 4925800,
+      "name": "Celestial Return Soundtrack",
+      "price_rub": 682,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925800/d2988093eafa8340125cffe3936bc2e8970b9119/header.jpg?t=1784063914"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T19:18:41Z"
+  "updated_at": "2026-07-18T01:36:27Z"
 }

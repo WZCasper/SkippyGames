@@ -29,28 +29,28 @@
     {
       "id": 4871490,
       "name": "The Infinite Grimoire - Apprentice's Cache",
-      "price_rub": 541,
+      "price_rub": 542,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871490/52752a1e94887f10c17b3301d6fb6f5da524968e/header.jpg?t=1784048588"
     },
     {
       "id": 4871500,
       "name": "The Infinite Grimoire - Archmage's Treasury",
-      "price_rub": 590,
+      "price_rub": 591,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871500/7202c3cc15865458f3162559ba8fa895bf26a1f5/header.jpg?t=1784048564"
     },
     {
       "id": 4871510,
       "name": "The Infinite Grimoire - Forbidden Vault",
-      "price_rub": 610,
+      "price_rub": 612,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871510/cb53735012f813617ba765f529794ae229c1686b/header.jpg?t=1784049965"
     },
     {
       "id": 4871520,
       "name": "The Infinite Grimoire - The Distant Lands",
-      "price_rub": 531,
+      "price_rub": 532,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871520/51463033a0c297b4b3b83bb35eda4ced01c281f2/header.jpg?t=1784048609"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T19:13:26Z"
+  "updated_at": "2026-07-18T01:31:10Z"
 }

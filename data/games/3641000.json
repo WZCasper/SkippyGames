@@ -1,7 +1,7 @@
 {
   "id": 3641000,
   "title": "The Incident at Galley House",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/c36fe32e992c59c8eb560fd5d97bed0f96c08ff5/header.jpg?t=1784037785",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/c36fe32e992c59c8eb560fd5d97bed0f96c08ff5/header.jpg?t=1784213715",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3641000/library_hero.jpg",
   "description": "On Sunday the 7th of March, 1936, a group of locals made their way up the long, muddy track to Galley House. As far as any of them knew, the house had stood empty for decades. \n\nInside, they discovered the bloody aftermath of something horrific. \n\nThe authorities were summoned, and the crime scene was eventually cleared away. But nobody ever figured out what happened that dreadful night. It seemed likely that no one ever would.\n\nNow, many years later, you have access to a peculiar machine — one that lets you listen in on echoes of the past. Can you piece together the events behind The Incident at Galley House? \n\nThe Chilling Detective Game, Reimagined on Steam\n\nThe Incident at Galley House is based on the acclaimed text-based browser game Type Help, remastered for Steam by the creators of The Roottrees Are Dead. It's the same haunting game of deduction, now with many enhancements:\n\n• An all-new, fully illustrated visual novel presentation\n\n• Full professional voice acting\n\n• A mysterious 3D interface for navigating memories\n\n• An eerie original soundtrack\n\n• New content and puzzles to explore",
   "description_short": "In 1936, something terrible happened at Galley House. Decades later, with a strange contraption that reveals echoes of the past, you must uncover the truth behind this grisly mystery.",
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1167,
+  "price_rub": 1177,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/3fff449397908b076576510e37b1fbff5f4c1c59/ss_3fff449397908b076576510e37b1fbff5f4c1c59.1920x1080.jpg?t=1784037785",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/38b8de5af491e86ec5835f86f75ab8ef999d3db3/ss_38b8de5af491e86ec5835f86f75ab8ef999d3db3.1920x1080.jpg?t=1784037785",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/d75354abd1f747e86dcc7dece06a7e93ada1ddcc/ss_d75354abd1f747e86dcc7dece06a7e93ada1ddcc.1920x1080.jpg?t=1784037785",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/90acb3685e77c79bcd570a6fd777d4205de53d40/ss_90acb3685e77c79bcd570a6fd777d4205de53d40.1920x1080.jpg?t=1784037785",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/42a955efbbe6a14b8455fdbef7cfd83201789423/ss_42a955efbbe6a14b8455fdbef7cfd83201789423.1920x1080.jpg?t=1784037785"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/3fff449397908b076576510e37b1fbff5f4c1c59/ss_3fff449397908b076576510e37b1fbff5f4c1c59.1920x1080.jpg?t=1784213715",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/38b8de5af491e86ec5835f86f75ab8ef999d3db3/ss_38b8de5af491e86ec5835f86f75ab8ef999d3db3.1920x1080.jpg?t=1784213715",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/d75354abd1f747e86dcc7dece06a7e93ada1ddcc/ss_d75354abd1f747e86dcc7dece06a7e93ada1ddcc.1920x1080.jpg?t=1784213715",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/90acb3685e77c79bcd570a6fd777d4205de53d40/ss_90acb3685e77c79bcd570a6fd777d4205de53d40.1920x1080.jpg?t=1784213715",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/42a955efbbe6a14b8455fdbef7cfd83201789423/ss_42a955efbbe6a14b8455fdbef7cfd83201789423.1920x1080.jpg?t=1784213715"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-14T19:25:32Z"
+  "updated_at": "2026-07-18T01:42:49Z"
 }
