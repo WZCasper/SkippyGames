@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-18T01:58:02Z",
+  "generated_at": "2026-07-18T07:23:53Z",
   "uah_to_rub_rate": 1.750183,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 882,
+  "count": 887,
   "games": [
     {
       "id": 4675010,
@@ -3580,7 +3580,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 714,
+      "price_rub": 684,
       "is_free": false
     },
     {
@@ -4020,6 +4020,19 @@
       "is_free": false
     },
     {
+      "id": 4731310,
+      "title": "HOOK",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731310/4b737b9b3e3e7b5c69e1dfc9ae73bf19192f674f/header.jpg?t=1784335305",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 728,
+      "is_free": false
+    },
+    {
       "id": 4864540,
       "title": "HOT HOLES",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864540/748cc384f83d83d2a3d5cdd3698136ab4e2be1dd/header.jpg?t=1784315620",
@@ -4380,7 +4393,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 751,
+      "price_rub": 756,
       "is_free": false
     },
     {
@@ -6034,7 +6047,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 576,
+      "price_rub": 577,
       "is_free": false
     },
     {
@@ -8657,7 +8670,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 634,
+      "price_rub": 637,
       "is_free": false
     },
     {
@@ -10002,7 +10015,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 857,
+      "price_rub": 862,
       "is_free": false
     },
     {
@@ -10403,6 +10416,19 @@
       "is_free": false
     },
     {
+      "id": 3586450,
+      "title": "World Tree Ranch: Elven Legacy",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586450/2c3049f0b41fc80976f4b0278043cfee861c289d/header.jpg?t=1784343604",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1067,
+      "is_free": false
+    },
+    {
       "id": 4527270,
       "title": "World: 23806",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527270/62d54b8ac625f4f3a478ba6131dd8f7ee6c33b5e/header.jpg?t=1783444488",
@@ -10754,7 +10780,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 655,
+      "price_rub": 658,
       "is_free": false
     },
     {
@@ -10993,6 +11019,19 @@
       ],
       "price_rub": 692,
       "is_free": false
+    },
+    {
+      "id": 4542640,
+      "title": "三国：谋定天下",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542640/fb2c3041e71251456359876acfd5bf7d18e7df52/header.jpg?t=1784339593",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 3406890,
@@ -11385,6 +11424,19 @@
       "is_free": true
     },
     {
+      "id": 4169410,
+      "title": "末日货轮：Doomsday Cargo Ship",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169410/160e416e269c74da8a98abaea11674b45a57d1b6/header.jpg?t=1784307384",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 854,
+      "is_free": false
+    },
+    {
       "id": 4113370,
       "title": "検品作業",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113370/06c270d697ec4618eb603a0461c04c2d5c3d1b08/header.jpg?t=1784050750",
@@ -11394,7 +11446,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 538,
+      "price_rub": 539,
       "is_free": false
     },
     {
@@ -11447,6 +11499,19 @@
         "PC"
       ],
       "price_rub": 572,
+      "is_free": false
+    },
+    {
+      "id": 4847680,
+      "title": "異世界拷問官 〜忠犬女騎士リリアの甘美なる屈服〜",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847680/fd1e62ff58035d5cbde36d8020105357c1aaa966/header.jpg?t=1784338227",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 952,
       "is_free": false
     },
     {
