@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 810,
+  "price_rub": 815,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "BfIFlUMIhLY",
+  "trailer_youtube_id": "dnSEfTYH3UA",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377340/3adc45dcca9689ffbb7de4e740792e119ab1c5ab/ss_3adc45dcca9689ffbb7de4e740792e119ab1c5ab.1920x1080.jpg?t=1783244636",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377340/2f100c300945c974688922d2254c386a81d839a4/ss_2f100c300945c974688922d2254c386a81d839a4.1920x1080.jpg?t=1783244636",
@@ -29,10 +29,10 @@
     {
       "id": 4553300,
       "name": "Cage Bar: The Hunting Game - DLC",
-      "price_rub": 888,
+      "price_rub": 894,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553300/3e31efe343e9167d4fa3cf25392d49be0233eb01/header.jpg?t=1776619743"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T07:46:37Z"
+  "updated_at": "2026-07-18T12:43:47Z"
 }

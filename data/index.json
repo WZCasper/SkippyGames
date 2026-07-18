@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-18T07:23:53Z",
+  "generated_at": "2026-07-18T12:45:10Z",
   "uah_to_rub_rate": 1.750183,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 887,
+  "count": 894,
   "games": [
     {
       "id": 4675010,
@@ -54,7 +54,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 553,
+      "price_rub": 554,
       "is_free": false
     },
     {
@@ -94,6 +94,19 @@
         "PC"
       ],
       "price_rub": 640,
+      "is_free": false
+    },
+    {
+      "id": 4773130,
+      "title": "27 Survivors",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/c3b411a54e120c5798ccbfea44bb2e258bbe5806/header.jpg?t=1784358281",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 743,
       "is_free": false
     },
     {
@@ -474,7 +487,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 901,
+      "price_rub": 908,
       "is_free": false
     },
     {
@@ -650,7 +663,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 724,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -756,6 +769,19 @@
       ],
       "price_rub": 555,
       "is_free": false
+    },
+    {
+      "id": 4277200,
+      "title": "Awakeness: YALDA Night",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277200/c3b817043581b21da372db8c0b270a71a278fe9d/header.jpg?t=1784366006",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4856850,
@@ -965,7 +991,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 617,
+      "price_rub": 633,
       "is_free": false
     },
     {
@@ -1216,6 +1242,19 @@
       "is_free": false
     },
     {
+      "id": 4860480,
+      "title": "Breadwalk",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/bb3bd80fed0e04ec381a29ce7f65e7817376a13e/header.jpg?t=1784360936",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 1087090,
       "title": "Brick Game",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/35fbc4b392b4d98c47ad8b1ca5c6594df849b7f5/header.jpg?t=1783166885",
@@ -1368,7 +1407,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 810,
+      "price_rub": 815,
       "is_free": false
     },
     {
@@ -1381,7 +1420,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 634,
+      "price_rub": 637,
       "is_free": false
     },
     {
@@ -1707,6 +1746,19 @@
         "PC"
       ],
       "price_rub": 640,
+      "is_free": false
+    },
+    {
+      "id": 752530,
+      "title": "Close Call Extreme",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/752530/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 658,
       "is_free": false
     },
     {
@@ -2460,7 +2512,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 910,
+      "price_rub": 917,
       "is_free": false
     },
     {
@@ -2796,6 +2848,19 @@
       "is_free": false
     },
     {
+      "id": 1959020,
+      "title": "ERODE",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959020/b14f34e4eee39038a6129f8ad0158beb06de170e/header.jpg?t=1784360394",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 551,
+      "is_free": false
+    },
+    {
       "id": 4517370,
       "title": "EULA ~2026 Human Creativity Report~",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517370/e29a1649b9ac68ada8b2f93b1e6f2e2ad68b6821/header.jpg?t=1783681235",
@@ -2850,14 +2915,14 @@
     {
       "id": 4389140,
       "title": "Edd Skeleton VR",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389140/82eac957c33a7a111529a81921ebca92a7769b58/header.jpg?t=1784086266",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389140/82eac957c33a7a111529a81921ebca92a7769b58/header.jpg?t=1784257546",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 682,
       "is_free": false
     },
     {
@@ -3065,7 +3130,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 729,
+      "price_rub": 733,
       "is_free": false
     },
     {
@@ -3449,7 +3514,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 590,
+      "price_rub": 591,
       "is_free": false
     },
     {
@@ -3475,7 +3540,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 541,
+      "price_rub": 542,
       "is_free": false
     },
     {
@@ -3645,7 +3710,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 646,
+      "price_rub": 649,
       "is_free": false
     },
     {
@@ -4016,7 +4081,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 910,
+      "price_rub": 917,
       "is_free": false
     },
     {
@@ -4133,7 +4198,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 922,
+      "price_rub": 929,
       "is_free": false
     },
     {
@@ -4185,7 +4250,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 689,
+      "price_rub": 693,
       "is_free": false
     },
     {
@@ -4263,7 +4328,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 571,
+      "price_rub": 572,
+      "is_free": false
+    },
+    {
+      "id": 4685790,
+      "title": "Hentai Nectar",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685790/95d62d3659c37b9e320737d57f431af87b64f559/header.jpg?t=1784341368",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 593,
       "is_free": false
     },
     {
@@ -5632,14 +5710,14 @@
     {
       "id": 3583940,
       "title": "Master of Balance",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583940/b9ce47b864c536bef43491f448dc78ba0542f790/header.jpg?t=1784080792",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583940/95df83f01c4e77a1976060e2ab1b295b9c29651d/header.jpg?t=1784268287",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 789,
+      "price_rub": 794,
       "is_free": false
     },
     {
@@ -6210,7 +6288,7 @@
     {
       "id": 4863030,
       "title": "Naomi’s End",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863030/a23d0e0cecbcff624532f0bac82051f58833ebb4/header.jpg?t=1784062770",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863030/a23d0e0cecbcff624532f0bac82051f58833ebb4/header.jpg?t=1784203199",
       "genres": [
         "Экшен"
       ],
@@ -6308,7 +6386,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 590,
+      "price_rub": 591,
       "is_free": false
     },
     {
@@ -6881,7 +6959,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 617,
+      "price_rub": 619,
       "is_free": false
     },
     {
@@ -7055,6 +7133,19 @@
         "PC"
       ],
       "price_rub": 859,
+      "is_free": false
+    },
+    {
+      "id": 4902050,
+      "title": "Pomodoro: Focus Timer",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902050/ae62d2360b8b2aa68d96dd1d63133aefc7b7c998/header.jpg?t=1784355502",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 652,
       "is_free": false
     },
     {
@@ -8147,7 +8238,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 574,
+      "price_rub": 575,
       "is_free": false
     },
     {
@@ -8399,7 +8490,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -9081,7 +9172,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -9264,7 +9355,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 795,
+      "price_rub": 799,
       "is_free": false
     },
     {
@@ -9633,7 +9724,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1143,
+      "price_rub": 1153,
       "is_free": false
     },
     {
@@ -9750,7 +9841,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1775,
+      "price_rub": 1795,
       "is_free": false
     },
     {
@@ -9789,7 +9880,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1413,
+      "price_rub": 1428,
       "is_free": false
     },
     {
@@ -10399,7 +10490,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 767,
+      "price_rub": 771,
       "is_free": false
     },
     {
@@ -10607,7 +10698,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 900,
+      "price_rub": 906,
       "is_free": false
     },
     {
@@ -10926,7 +11017,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 638,
+      "price_rub": 640,
       "is_free": false
     },
     {
@@ -11368,7 +11459,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 603,
+      "price_rub": 605,
       "is_free": false
     },
     {
@@ -11472,7 +11563,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 655,
+      "price_rub": 658,
       "is_free": false
     },
     {
@@ -11654,7 +11745,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 925,
+      "price_rub": 932,
       "is_free": false
     },
     {
@@ -11667,7 +11758,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 681,
+      "price_rub": 684,
       "is_free": false
     },
     {

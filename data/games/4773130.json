@@ -1,0 +1,29 @@
+{
+  "id": 4773130,
+  "title": "27 Survivors",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/c3b411a54e120c5798ccbfea44bb2e258bbe5806/header.jpg?t=1784358281",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/aa1c3942768b2a24a9cbc8f87f0b9f8ebf705849/page_bg_raw.jpg?t=1784358281",
+  "description": "═══════════════════════════════════════════════════════════════\n\nREGISTRY: TAUCETI\n\n═══════════════════════════════════════════════════════════════\n\nOver a century ago, you and 99 other passengers left Earth aboard the colony ship Orpheus, bound for Tau Ceti G in cryogenic stasis. Now the ship has awakened you early, decades before arrival, and only 26 other passengers remain. Make repairs, handle emergencies, and stay alive while you investigate what happened to the rest.\n\nA first-person narrative horror inspired by classic sci-fi, rendered in 90s style, and designed around 80s the-game-hates-you philosophy.\n\n• Survive a Ship That's Falling Apart: The Orpheus is decaying around you. Emergencies strike without warning: Food replicator malfunctions, doors locking themselves shut, reactor shutdowns, even stasis pod malfunctions risking the lives of the few remaining survivors. Triage the problems, fix them before they get worse, and keep the ship running and the hibernating passengers alive.\n\n• Uncover the Mystery: Why did the ship wake you early? What happened to 73 passengers awakened before you? Piece together the truth by exploring five fully-mapped decks, recovering logs from those before you, and interrogating the ship's AI... and decide for yourself if the clanker can be trusted. The mystery unfolds across a web of clues; how you connect them shapes what you uncover.\n\n• Match Wits With the Enemy: You aren't alone. There's something else aboard the Orpheus making decisions of its own, reacting to your choices. Will you run from it or take the offensive? Regardless, every move you make it's watching and adapting.\n\n• Death with Consequences: If you die, you die. There's no bringing back that passenger. Eventually the ship will awaken another, maybe in a few days or maybe in a few years. Every death, every mistake, is the loss of an irreplaceable life.\n\n• The Unknown: Maybe you've played the game before. Explored every corner of the ship, noted where the clues were and how to solve the mystery. That won't help you here. The story, the ship itself, everything is just a bit different every time. An atmospheric narrative with multiple endings with the narrative assembled at the start of a new game, and hand-crafted levels with procedural elements to keep you guessing. \n\n• Artisanal Human Effort: Every art asset was lovingly crafted by a real human, not generative AI.\n\n• Made With FOSS: Built on Godot 4, models and textures made in Blender, all on Debian Linux.",
+  "description_short": "Over a century ago, you and 99 other passengers left Earth aboard a colony ship in stasis. Now, the ship has awakened you early and you find only you and 26 other passengers remain. Make repairs and keep yourself alive while you investigate what happened to the rest of the passengers.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 743,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "cakgBPJapZY",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/94bb05383e761adeebf26860b30a668efa0ecbbc/ss_94bb05383e761adeebf26860b30a668efa0ecbbc.1920x1080.jpg?t=1784358281",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/1cb73dc8b16709f34f4a59039837faa8e515e42e/ss_1cb73dc8b16709f34f4a59039837faa8e515e42e.1920x1080.jpg?t=1784358281",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/9a3b7c74453198af5e9dbcbedb4db3f2a0784bd6/ss_9a3b7c74453198af5e9dbcbedb4db3f2a0784bd6.1920x1080.jpg?t=1784358281",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/d7b7c14129a2e23aceeaec53868e0a6befb6211c/ss_d7b7c14129a2e23aceeaec53868e0a6befb6211c.1920x1080.jpg?t=1784358281",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/3092e48c3aee2dc2be04db9aeed03f29420b75e4/ss_3092e48c3aee2dc2be04db9aeed03f29420b75e4.1920x1080.jpg?t=1784358281",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/bde9a3cec05a63be9e2f1a91c288a5fe00fcfe1b/ss_bde9a3cec05a63be9e2f1a91c288a5fe00fcfe1b.1920x1080.jpg?t=1784358281"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-18T12:45:03Z"
+}
