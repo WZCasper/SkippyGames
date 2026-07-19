@@ -15,10 +15,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1608,
+  "price_rub": 3298,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "wMZFM6JC47Q",
+  "trailer_youtube_id": "BQu-uuQYrXY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_935ddb59f90bc2c21c706132cb9b446fe7851c19.1920x1080.jpg?t=1777975568",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_709f3329562cd2cfe6db70bac908b3e72eaef83b.1920x1080.jpg?t=1777975568",
@@ -33,64 +33,64 @@
     {
       "id": 3368620,
       "name": "Kingdom Come: Deliverance II Mysteria Ecclesiae",
-      "price_rub": 1017,
+      "price_rub": 1153,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3368620/e3ce73d9a3ffdff9a94beeb152d9018acc0974c5/header.jpg?t=1783693355"
     },
     {
       "id": 3368610,
       "name": "Kingdom Come: Deliverance II Legacy of the Forge",
-      "price_rub": 953,
+      "price_rub": 1153,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3368610/5ee1f4f1536ad7b363ae5dc15aa3145d980c7943/header.jpg?t=1768313326"
     },
     {
       "id": 3119920,
       "name": "Kingdom Come: Deliverance II Expansion Pass",
-      "price_rub": 1400,
+      "price_rub": 1898,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/header.jpg?t=1765298349"
     },
     {
       "id": 3368600,
       "name": "Kingdom Come: Deliverance II Brushes with Death",
-      "price_rub": 666,
+      "price_rub": 780,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3368600/b1e1896c95699a85ad51332bd48653586c968e3c/header.jpg?t=1768307734"
     },
     {
       "id": 4184930,
       "name": "Kingdom Come: Deliverance II Extended Official Soundtrack",
-      "price_rub": 868,
+      "price_rub": 965,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184930/0db5decab98e9a2af82dfeb0354688afad82c3f0/header.jpg?t=1781038009"
     },
     {
       "id": 3468550,
       "name": "Kingdom Come: Deliverance II Soundtrack",
-      "price_rub": 684,
+      "price_rub": 873,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3468550/header.jpg?t=1738684749"
     },
     {
       "id": 4075290,
       "name": "Kingdom Come: Deliverance II Artbook",
-      "price_rub": 868,
+      "price_rub": 965,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075290/28ef80c160d82bd72df3c0eac3319e503a1df1f0/header.jpg?t=1781037937"
     },
     {
       "id": 3118100,
       "name": "Kingdom Come: Deliverance II The Lion’s Crest",
-      "price_rub": 649,
+      "price_rub": 733,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118100/header.jpg?t=1744805852"
     },
     {
       "id": 3118110,
       "name": "Kingdom Come: Deliverance II Gallant Huntsman’s Kit",
-      "price_rub": 597,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118110/header.jpg?t=1744735612"
     },
     {
       "id": 3118120,
       "name": "Kingdom Come: Deliverance II Shields of Seasons Passing",
-      "price_rub": 597,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118120/68ceefbc9989dcd9e4d4731eabaf1da79dd89f6b/header.jpg?t=1745311058"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T07:51:30Z"
+  "updated_at": "2026-07-19T07:54:54Z"
 }

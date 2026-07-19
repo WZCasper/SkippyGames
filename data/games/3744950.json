@@ -1,8 +1,8 @@
 {
   "id": 3744950,
   "title": "Monochrome Echoes - black -",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/f67fa26c4fe022c1aa39bcd0b858ab4397f9df14/header.jpg?t=1784157199",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3744950?t=1784157199",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/f67fa26c4fe022c1aa39bcd0b858ab4397f9df14/header.jpg?t=1784206766",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3744950?t=1784206766",
   "description": "RPG summoned to another world \"Monochrome Echoes\"Game Design : Hironori Kato\n\nProduce : Toshimichi Kuwahara (Thousand Games)\n\n• A bold reimagining of Monochrome Echoes White Edition, now transformed into the highly replayable Black Edition with randomly generated dungeons!\n\n• One of the most requested features, Character Creation, has now been fully implemented.\n\n• You can even register and use your own favorite image data to personalize your adventure.\n\n• To make party building even more exciting, multiple new classes have been added.\n\n• The Weapon Modification system has also been significantly enhanced, alongside a full rebalance and overhaul of all equipment.\n\nWorld SettingYou are one of the Clan of Sealing, a bloodline blessed with the power to seal away Demon Lords.\n\nWhen the appointed time comes, the Clan borrows the power of the goddess and journeys across many worlds, carrying out its sacred duty:\n\nto reseal the revived Demon Lords.\n\nAt present, there are four worlds that require the Demon Lord’s resealing:\n\n• Jambier, the world of dense jungles\n\n• Blue Moon, the world of vast oceans\n\n• Gomastra, the world of endless deserts\n\n• Gilgis, the world filled with the stench of decay\n\nWithin each of these worlds, a Demon Lord that once rampaged across the land remains sealed.\n\nThough the seals are layered many times over, it is only a matter of time before they are broken.\n\nEach Demon Lord is imprisoned on an isolated island known as the Isle of Sealing.\n\nTo reach the Isle of Sealing, you must first defeat the beings who hold the Sealing Keys in each world — the stage bosses.\n\nOnly then can you invade the Isle of Sealing itself and venture deep into its labyrinth to seal the Demon Lord once more.\n\nThis mission must be repeated across all four worlds.\n\nBut the time you are given is short:\n\nIn each world, on each island, you have only five days.",
   "description_short": "Monochrome Echoes White Edition has been boldly reworked into Black Edition, featuring randomized dungeons for endless replayability and Character Creation that lets you use your own favorite images.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1107,
+  "price_rub": 1112,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": "Z91R-JGOTKk",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/d391a52941cbbe9b958c7b86a874dbb487d70424/ss_d391a52941cbbe9b958c7b86a874dbb487d70424.1920x1080.jpg?t=1784157199",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/adbbb63c4fe2c6a73863d3e9a52a5662956169ff/ss_adbbb63c4fe2c6a73863d3e9a52a5662956169ff.1920x1080.jpg?t=1784157199",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/792f8832dbca95eb715febec80d90b41da1cfff9/ss_792f8832dbca95eb715febec80d90b41da1cfff9.1920x1080.jpg?t=1784157199",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/081b24f287ff81fbb116abd59e1d2851e22cc2f5/ss_081b24f287ff81fbb116abd59e1d2851e22cc2f5.1920x1080.jpg?t=1784157199",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/a070958481d027bda89c857fe45e397f24785fa1/ss_a070958481d027bda89c857fe45e397f24785fa1.1920x1080.jpg?t=1784157199"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/d391a52941cbbe9b958c7b86a874dbb487d70424/ss_d391a52941cbbe9b958c7b86a874dbb487d70424.1920x1080.jpg?t=1784206766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/adbbb63c4fe2c6a73863d3e9a52a5662956169ff/ss_adbbb63c4fe2c6a73863d3e9a52a5662956169ff.1920x1080.jpg?t=1784206766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/792f8832dbca95eb715febec80d90b41da1cfff9/ss_792f8832dbca95eb715febec80d90b41da1cfff9.1920x1080.jpg?t=1784206766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/081b24f287ff81fbb116abd59e1d2851e22cc2f5/ss_081b24f287ff81fbb116abd59e1d2851e22cc2f5.1920x1080.jpg?t=1784206766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/a070958481d027bda89c857fe45e397f24785fa1/ss_a070958481d027bda89c857fe45e397f24785fa1.1920x1080.jpg?t=1784206766"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-16T01:20:31Z"
+  "updated_at": "2026-07-19T07:54:17Z"
 }

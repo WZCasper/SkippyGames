@@ -1,8 +1,8 @@
 {
   "id": 4799080,
   "title": "Hakoniwa Base Ball",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/1dad76a758551a916a11578c453c9e4aa455edad/header.jpg?t=1784161494",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4799080?t=1784161494",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/1dad76a758551a916a11578c453c9e4aa455edad/header.jpg?t=1784447499",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4799080?t=1784447499",
   "description": "Hakoniwa Base Ball is a full-featured baseball simulation game inspired by Japanese professional baseball.\n\nScout and draft promising rookies, strengthen your roster through free agency, and negotiate contracts face to face. Simulate games instantly or watch them unfold pitch by pitch — the choice is yours. Build a dynasty and experience the thrill of watching your players shine, season after season.\n\nFully customize your league structure, team count, and season length. Play a Japanese-style league, recreate the KBO, CPBL, or go full MLB scale — it's your call.\n\nFeatures:\n\nLeague structure inspired by Japanese professional baseball\n\nWatch every game on full auto, or call every shot yourself — it's up to you!\n\nDraft, free agency, trades, and development player system\n\nSign contracts all at once, or negotiate one by one while reviewing each player's stats.\n\nTeam budget, sponsorship, and stadium management\n\nThe key to securing funds: ticket pricing and adding more seats.\n\nFully customizable leagues, teams, and season format\n\nFrom your own original rules to recreating real-world leagues — play it your way.\n\nAvailable in Japanese, English, Korean, and Traditional Chinese\n\nBuilt in Japanese, available in four languages. Spot an odd translation? Let me know!\n\nFrom the developerBuilt by a solo developer. The features I set out to make are all in — this launches as a complete game.\n\nI'll keep updating it after release, at a steady solo pace, based on your feedback.",
   "description_short": "A baseball simulation inspired by Japanese professional baseball. Manage drafts, FA, contracts, and stadium finances with an accessible interface. Customize your league, team count, and season length to recreate KBO, CPBL, or MLB-scale play. Depth without complexity.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 838,
+  "price_rub": 841,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": "f-bPbzStxh4",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/7cfd8cccf50833764bcc14218e7b95e25613541b/ss_7cfd8cccf50833764bcc14218e7b95e25613541b.1920x1080.jpg?t=1784161494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/5c7d172d65527136ceb53db70de107f738a597e8/ss_5c7d172d65527136ceb53db70de107f738a597e8.1920x1080.jpg?t=1784161494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/eae37e5b247929200c3a25507aea197a0672d020/ss_eae37e5b247929200c3a25507aea197a0672d020.1920x1080.jpg?t=1784161494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/4e679d68acbcebc10be43e1f3c1c1e78ed066d5d/ss_4e679d68acbcebc10be43e1f3c1c1e78ed066d5d.1920x1080.jpg?t=1784161494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/9101b6f78107db04ead71d88ffbe94efb9ba28ce/ss_9101b6f78107db04ead71d88ffbe94efb9ba28ce.1920x1080.jpg?t=1784161494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/7ad728dc51e73f9927b49f5f94a7122efe4665cc/ss_7ad728dc51e73f9927b49f5f94a7122efe4665cc.1920x1080.jpg?t=1784161494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/6a140e80fc272af813b9e982ed05113c8b12152b/ss_6a140e80fc272af813b9e982ed05113c8b12152b.1920x1080.jpg?t=1784161494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/fc131ded42e7905f76b3dba5af7ad6955c09e98c/ss_fc131ded42e7905f76b3dba5af7ad6955c09e98c.1920x1080.jpg?t=1784161494"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/7cfd8cccf50833764bcc14218e7b95e25613541b/ss_7cfd8cccf50833764bcc14218e7b95e25613541b.1920x1080.jpg?t=1784447499",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/5c7d172d65527136ceb53db70de107f738a597e8/ss_5c7d172d65527136ceb53db70de107f738a597e8.1920x1080.jpg?t=1784447499",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/eae37e5b247929200c3a25507aea197a0672d020/ss_eae37e5b247929200c3a25507aea197a0672d020.1920x1080.jpg?t=1784447499",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/4e679d68acbcebc10be43e1f3c1c1e78ed066d5d/ss_4e679d68acbcebc10be43e1f3c1c1e78ed066d5d.1920x1080.jpg?t=1784447499",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/9101b6f78107db04ead71d88ffbe94efb9ba28ce/ss_9101b6f78107db04ead71d88ffbe94efb9ba28ce.1920x1080.jpg?t=1784447499",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/7ad728dc51e73f9927b49f5f94a7122efe4665cc/ss_7ad728dc51e73f9927b49f5f94a7122efe4665cc.1920x1080.jpg?t=1784447499",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/6a140e80fc272af813b9e982ed05113c8b12152b/ss_6a140e80fc272af813b9e982ed05113c8b12152b.1920x1080.jpg?t=1784447499",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/fc131ded42e7905f76b3dba5af7ad6955c09e98c/ss_fc131ded42e7905f76b3dba5af7ad6955c09e98c.1920x1080.jpg?t=1784447499"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-16T01:20:33Z"
+  "updated_at": "2026-07-19T07:54:19Z"
 }
