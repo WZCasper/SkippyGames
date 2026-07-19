@@ -1,0 +1,29 @@
+{
+  "id": 4794980,
+  "title": "Funge",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/d3d16e128c6c98b9735f327d22220f2bdc177c4c/header.jpg?t=1784463016",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4794980?t=1784463016",
+  "description": "Befunge is an esoteric programming language known for its two-dimensional grid structure and unconventional execution flow. This game transforms its quirky mechanics into a clean, satisfying puzzle experience.\n\nKey Features:\n\n• Step-by-Step Learning: An interactive tutorial designed to teach you the fundamentals of Befunge from scratch.\n\n• Clever Levels: A curated collection of puzzles built to push your logic, optimization, and creativity to the limit.\n\n• Visual Execution: Run your code with real-time visible output, watching your instructions flow through the grid.\n\n• Focused Experience: A distraction-free, minimalist aesthetic that lets you focus entirely on the logic.\n\nWhether you're a veteran developer or a curious puzzle enthusiast, dive deep into one of the weirdest languages ever invented.\n\nMinimalist interface. Maximal challenge.",
+  "description_short": "A minimalist programming puzzle game based on a modified version of the esolang Befunge. Learn its unique rules, execute your code, and conquer mind-bending logic challenges.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 682,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/4f1a0397302d15cd382f3af519da95661f0a13ce/ss_4f1a0397302d15cd382f3af519da95661f0a13ce.1920x1080.jpg?t=1784463016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/e3d7f272d8e70de7aa6cd40ec72cf7e9d68157aa/ss_e3d7f272d8e70de7aa6cd40ec72cf7e9d68157aa.1920x1080.jpg?t=1784463016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/1d7d3d53ac2310212ff3e4650270887b35caec24/ss_1d7d3d53ac2310212ff3e4650270887b35caec24.1920x1080.jpg?t=1784463016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/74e439459579a71024c78caa651e1e0db754ef45/ss_74e439459579a71024c78caa651e1e0db754ef45.1920x1080.jpg?t=1784463016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/b77d860a68497519d128fd6c040cc426dd3e13a3/ss_b77d860a68497519d128fd6c040cc426dd3e13a3.1920x1080.jpg?t=1784463016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/b06fada3755b716ba54555fde51a58a8ab667f95/ss_b06fada3755b716ba54555fde51a58a8ab667f95.1920x1080.jpg?t=1784463016"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-19T19:36:36Z"
+}

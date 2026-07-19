@@ -1,8 +1,8 @@
 {
   "id": 4808420,
   "title": "Bitloop",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/59e4ca38019a94421b97d48d8ca619fd64254448/header.jpg?t=1784205044",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4808420?t=1784205044",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/59e4ca38019a94421b97d48d8ca619fd64254448/header.jpg?t=1784395939",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4808420?t=1784395939",
   "description": "Твой дрон вращается вокруг ядра хранилища и стреляет сам. Ты управляешь только окружностью: в какую сторону она крутится и насколько плотно режет. Подлети ближе, и внешнее кольцо разлетится за секунды, но неверно прочитанная атака стоит прочности корпуса. Держись шире, и переживёшь почти всё, но пробудешь там внизу куда дольше. Каждое хранилище задаёт один вопрос: где проходит грань?\n\nВЗЛОМАЙ ЯДРО, ПАДАЙ НИЖЕ\n\nОчисти внешнее кольцо от обломков и защитников, затем разбей ядро под ним. Пол раскрывается, и ты падаешь в следующее хранилище. Каждое плотнее предыдущего: новые типы ядер, более жёсткие схемы взлома, новые биомы со своими угрозами. Чем глубже спускаешься, тем лучше добыча и тем злее становится этаж.\n\nКАЖДЫЙ ЗАБЕГ ДЕЛАЕТ СЛЕДУЮЩИЙ НАПРЯЖЕННЕЕ\n\nВсё, что ты вырываешь, поднимается наверх вместе с тобой. Трать это между забегами на карты улучшений: скорострельность, корпус, точность орбиты, магнитное притяжение, крит и полноценное дерево навыков, которое меняет ход забегов. Ничто не пропадает. Каждый забег проталкивает пол ещё немного ниже.",
   "description_short": "Управляй орбитой дрона, пока он стреляет за тебя. Подлетай ближе, чтобы быстрее вскрыть хранилище, держись шире, чтобы выжить. Снеси кольцо, взломай ядро и провались в следующее хранилище. Роглайт об орбитальной добыче с управлением одним стиком.",
   "genres": [
@@ -11,20 +11,20 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 647,
+  "price_rub": 649,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/7b3ffe1e8c64dc1706d7b260d12d402fcf41730c/ss_7b3ffe1e8c64dc1706d7b260d12d402fcf41730c.1920x1080.jpg?t=1784205044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/638bc8ac7254cb7fce8f08d6c21939d51c1cfecc/ss_638bc8ac7254cb7fce8f08d6c21939d51c1cfecc.1920x1080.jpg?t=1784205044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/a15c9d954a131b8f466aed71afec08281ac4e386/ss_a15c9d954a131b8f466aed71afec08281ac4e386.1920x1080.jpg?t=1784205044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/a7c3d3f95148d47ed4787fa929b3b8a050f0f555/ss_a7c3d3f95148d47ed4787fa929b3b8a050f0f555.1920x1080.jpg?t=1784205044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/3ca4d24b8576e64fc937824094694a18b7bfde49/ss_3ca4d24b8576e64fc937824094694a18b7bfde49.1920x1080.jpg?t=1784205044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/fea3944a26b4a4887b11d9b7a32f89191cbbae31/ss_fea3944a26b4a4887b11d9b7a32f89191cbbae31.1920x1080.jpg?t=1784205044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/7728c1b20322ee1f8d9dbd90d4adbc6d0f496e12/ss_7728c1b20322ee1f8d9dbd90d4adbc6d0f496e12.1920x1080.jpg?t=1784205044"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/7b3ffe1e8c64dc1706d7b260d12d402fcf41730c/ss_7b3ffe1e8c64dc1706d7b260d12d402fcf41730c.1920x1080.jpg?t=1784395939",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/638bc8ac7254cb7fce8f08d6c21939d51c1cfecc/ss_638bc8ac7254cb7fce8f08d6c21939d51c1cfecc.1920x1080.jpg?t=1784395939",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/a15c9d954a131b8f466aed71afec08281ac4e386/ss_a15c9d954a131b8f466aed71afec08281ac4e386.1920x1080.jpg?t=1784395939",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/a7c3d3f95148d47ed4787fa929b3b8a050f0f555/ss_a7c3d3f95148d47ed4787fa929b3b8a050f0f555.1920x1080.jpg?t=1784395939",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/3ca4d24b8576e64fc937824094694a18b7bfde49/ss_3ca4d24b8576e64fc937824094694a18b7bfde49.1920x1080.jpg?t=1784395939",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/fea3944a26b4a4887b11d9b7a32f89191cbbae31/ss_fea3944a26b4a4887b11d9b7a32f89191cbbae31.1920x1080.jpg?t=1784395939",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808420/7728c1b20322ee1f8d9dbd90d4adbc6d0f496e12/ss_7728c1b20322ee1f8d9dbd90d4adbc6d0f496e12.1920x1080.jpg?t=1784395939"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-16T13:39:31Z"
+  "updated_at": "2026-07-19T19:25:21Z"
 }

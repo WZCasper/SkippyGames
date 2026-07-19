@@ -1,8 +1,8 @@
 {
   "id": 4596160,
   "title": "Gray Trading",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/453d15dca3b04778f789bdf36b3b6a44dae1e47b/header.jpg?t=1783616850",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4596160?t=1783616850",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/453d15dca3b04778f789bdf36b3b6a44dae1e47b/header.jpg?t=1784477707",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4596160?t=1784477707",
   "description": "Gray Trading — инкрементальная игра с механиками, вдохновлёнными современным трейдингом из реальной жизни. Разблокируй улучшения, которые склоняют рынок в твою пользу, открывай новые виды торговли и покупай ботов для автоматизации сделок.\n\nТоргуй АкциямиПредскажи, является ли рынок медвежьим или бычьим, затем откинься назад и наблюдай, как твои акции улетают в небо.\n\nОткрой АвтоматизациюАвтоматизируй свои сделки с помощью ботов.\n\nОткрывай Новые МеханикиНачинай погружаться в другие виды торговли, чтобы зарабатывать новые валюты.\n\nРазблокируй Мета-УлучшенияРазблокируй постоянные улучшения, чтобы максимизировать прибыль и в конечном счёте покорить каждый вид торговли.",
   "description_short": "Gray Trading — инкрементальная игра, в которой ты покупаешь и продаёшь акции, торгуешь на форексе и погружаешься в другие необычные рынки. Зарабатывай деньги, открывай улучшения и покоряй каждый вид торговли.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 639,
+  "price_rub": 675,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/d6e4220df311269395c9cb942ec1de44c69b5ad8/ss_d6e4220df311269395c9cb942ec1de44c69b5ad8.1920x1080.jpg?t=1783616850",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/07450c27549612c2c314477d6e1f1b173183b38d/ss_07450c27549612c2c314477d6e1f1b173183b38d.1920x1080.jpg?t=1783616850",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/24a8726f821777a849fb66d1896a08d81e2c0ce7/ss_24a8726f821777a849fb66d1896a08d81e2c0ce7.1920x1080.jpg?t=1783616850",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/3f66be6b57577fb9495c8545db5d5176ded5a15f/ss_3f66be6b57577fb9495c8545db5d5176ded5a15f.1920x1080.jpg?t=1783616850",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/2b8b66d5dc9d3d0aecb0d11e29b773946cbd5bce/ss_2b8b66d5dc9d3d0aecb0d11e29b773946cbd5bce.1920x1080.jpg?t=1783616850"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/d6e4220df311269395c9cb942ec1de44c69b5ad8/ss_d6e4220df311269395c9cb942ec1de44c69b5ad8.1920x1080.jpg?t=1784477707",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/07450c27549612c2c314477d6e1f1b173183b38d/ss_07450c27549612c2c314477d6e1f1b173183b38d.1920x1080.jpg?t=1784477707",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/24a8726f821777a849fb66d1896a08d81e2c0ce7/ss_24a8726f821777a849fb66d1896a08d81e2c0ce7.1920x1080.jpg?t=1784477707",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/3f66be6b57577fb9495c8545db5d5176ded5a15f/ss_3f66be6b57577fb9495c8545db5d5176ded5a15f.1920x1080.jpg?t=1784477707",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596160/2b8b66d5dc9d3d0aecb0d11e29b773946cbd5bce/ss_2b8b66d5dc9d3d0aecb0d11e29b773946cbd5bce.1920x1080.jpg?t=1784477707"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-16T13:28:10Z"
+  "updated_at": "2026-07-19T19:14:28Z"
 }

@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 3967,
+  "price_rub": 3998,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,22 +29,22 @@
     {
       "id": 4337740,
       "name": "Echoes of Aincrad - Expansion Pack",
-      "price_rub": 1626,
+      "price_rub": 1636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337740/960993bcd37b4ecc699cd7c5964eeccafbf94951/header.jpg?t=1783634548"
     },
     {
       "id": 4337770,
       "name": "Echoes of Aincrad - Ultimate Upgrade Pack",
-      "price_rub": 2233,
+      "price_rub": 2248,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337770/76564094620667b012431bbe32db3ea8c0b81327/header.jpg?t=1783634520"
     },
     {
       "id": 4249250,
       "name": "Echoes of Aincrad - Weapon Pack: Proto-Elucidator Series",
-      "price_rub": 776,
+      "price_rub": 778,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249250/5e47860d058f83ab3330eb5a9fbfe0d701df8ec8/header.jpg?t=1783672787"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T13:20:17Z"
+  "updated_at": "2026-07-19T19:06:39Z"
 }

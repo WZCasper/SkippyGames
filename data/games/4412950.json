@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 798,
+  "price_rub": 801,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "iSFG4losMOI",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412950/53ead7629758c954c415569c5d0e2b3bb9343a76/ss_53ead7629758c954c415569c5d0e2b3bb9343a76.1920x1080.jpg?t=1783351271",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412950/5fb58105281c18ed5634777da74eb810501444af/ss_5fb58105281c18ed5634777da74eb810501444af.1920x1080.jpg?t=1783351271",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-16T13:17:06Z"
+  "updated_at": "2026-07-19T19:02:29Z"
 }
