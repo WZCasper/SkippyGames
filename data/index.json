@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-18T18:52:21Z",
-  "uah_to_rub_rate": 1.750183,
+  "generated_at": "2026-07-19T01:53:25Z",
+  "uah_to_rub_rate": 1.749717,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 901,
+  "count": 908,
   "games": [
     {
       "id": 4675010,
@@ -41,7 +41,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 553,
+      "price_rub": 554,
       "is_free": false
     },
     {
@@ -158,7 +158,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1647,
+      "price_rub": 1665,
       "is_free": false
     },
     {
@@ -190,14 +190,14 @@
     {
       "id": 4512570,
       "title": "A Game About Chopping Trees",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/3bb6001526b9f15a81b0c59d006012b8702d2059/header.jpg?t=1784122534",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/3bb6001526b9f15a81b0c59d006012b8702d2059/header.jpg?t=1784385897",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 801,
+      "price_rub": 806,
       "is_free": false
     },
     {
@@ -320,14 +320,14 @@
     {
       "id": 4872540,
       "title": "AeroBird",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872540/ae47a8e4d404296d35aac6c32ad178dfa7c63838/header.jpg?t=1783783942",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872540/ae47a8e4d404296d35aac6c32ad178dfa7c63838/header.jpg?t=1784289116",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 528,
+      "price_rub": 547,
       "is_free": false
     },
     {
@@ -418,7 +418,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 769,
+      "price_rub": 773,
       "is_free": false
     },
     {
@@ -483,7 +483,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 591,
+      "price_rub": 593,
       "is_free": false
     },
     {
@@ -591,14 +591,14 @@
     {
       "id": 4634940,
       "title": "Architect of War",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634940/f99e6a8d25dc4bb096d88cca91283645c367b6f6/header.jpg?t=1784118284",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634940/f99e6a8d25dc4bb096d88cca91283645c367b6f6/header.jpg?t=1784162473",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 969,
+      "price_rub": 976,
       "is_free": false
     },
     {
@@ -819,7 +819,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 553,
+      "price_rub": 554,
       "is_free": false
     },
     {
@@ -845,7 +845,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1775,
+      "price_rub": 1795,
       "is_free": false
     },
     {
@@ -1049,14 +1049,14 @@
     {
       "id": 4819200,
       "title": "Biletide",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/1706581f9e0ee9eb947817e34f362c936a0d8b07/header.jpg?t=1784123968",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/1706581f9e0ee9eb947817e34f362c936a0d8b07/header.jpg?t=1784189985",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 739,
+      "price_rub": 743,
       "is_free": false
     },
     {
@@ -1140,14 +1140,14 @@
     {
       "id": 4549870,
       "title": "Booox",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549870/026d23ac57822ba804aec2d57aa16c9243cfafa8/header.jpg?t=1783859331",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549870/026d23ac57822ba804aec2d57aa16c9243cfafa8/header.jpg?t=1784170850",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 638,
+      "price_rub": 640,
       "is_free": false
     },
     {
@@ -1342,7 +1342,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 567,
+      "price_rub": 568,
       "is_free": false
     },
     {
@@ -1836,7 +1836,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 603,
+      "price_rub": 605,
       "is_free": false
     },
     {
@@ -1868,14 +1868,14 @@
     {
       "id": 4600920,
       "title": "CoreBreaker: Desktop Swarm",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600920/5c222f3127c1146072a9ab319a71d18e7a74e465/header.jpg?t=1784134818",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600920/5c222f3127c1146072a9ab319a71d18e7a74e465/header.jpg?t=1784212777",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 638,
+      "price_rub": 640,
       "is_free": false
     },
     {
@@ -1948,14 +1948,14 @@
     {
       "id": 2021960,
       "title": "Cozy Grove: Camp Spirit",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021960/2498ce95677d2cd9f8cf834adffeb35bc4681f89/header.jpg?t=1784139338",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021960/2498ce95677d2cd9f8cf834adffeb35bc4681f89/header.jpg?t=1784230562",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1167,
+      "price_rub": 1177,
       "is_free": false
     },
     {
@@ -2252,7 +2252,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 724,
+      "price_rub": 727,
       "is_free": false
     },
     {
@@ -2479,14 +2479,14 @@
     {
       "id": 2524850,
       "title": "Denshattack!",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/6d05ab4b41ac7fc89896b9ae03a79e7fb9f9177b/header_alt_assets_0.jpg?t=1784129650",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/6d05ab4b41ac7fc89896b9ae03a79e7fb9f9177b/header_alt_assets_0.jpg?t=1784356856",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1273,
+      "price_rub": 1286,
       "is_free": false
     },
     {
@@ -2633,6 +2633,19 @@
       "is_free": false
     },
     {
+      "id": 3428870,
+      "title": "Disconnect 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/2d7008defe97a0f6f39cf21a40e77e8c8b6d8d1a/header.jpg?t=1784405810",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 670,
+      "is_free": false
+    },
+    {
       "id": 4872710,
       "title": "Dollar Desktop Pet",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/5c4ad0e01e67a3b8aba278df0e2ec7869421ba3d/header.jpg?t=1784152856",
@@ -2643,6 +2656,19 @@
         "PC"
       ],
       "price_rub": 587,
+      "is_free": false
+    },
+    {
+      "id": 4907970,
+      "title": "Don't Stop Bullying me, Beastgirls!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4907970/3c80de17c8d1d6c765741deb832feb86179f7c6a/header.jpg?t=1784403759",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 528,
       "is_free": false
     },
     {
@@ -2896,7 +2922,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 590,
+      "price_rub": 591,
       "is_free": false
     },
     {
@@ -3188,14 +3214,14 @@
     {
       "id": 3985060,
       "title": "FLASH AND DIE",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985060/18df36b3f6e7832b5ca43bdea6b06042ac66479e/header.jpg?t=1784134824",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985060/18df36b3f6e7832b5ca43bdea6b06042ac66479e/header.jpg?t=1784149205",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 702,
+      "price_rub": 705,
       "is_free": false
     },
     {
@@ -3250,7 +3276,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 702,
+      "price_rub": 705,
       "is_free": false
     },
     {
@@ -3445,7 +3471,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1077,
+      "price_rub": 1086,
       "is_free": false
     },
     {
@@ -3671,7 +3697,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3084,
+      "price_rub": 3125,
       "is_free": false
     },
     {
@@ -3788,7 +3814,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 699,
+      "price_rub": 701,
       "is_free": false
     },
     {
@@ -4591,7 +4617,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 658,
+      "price_rub": 661,
       "is_free": false
     },
     {
@@ -4604,7 +4630,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 826,
+      "price_rub": 831,
       "is_free": false
     },
     {
@@ -4682,7 +4708,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 801,
+      "price_rub": 806,
       "is_free": false
     },
     {
@@ -4773,7 +4799,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 724,
+      "price_rub": 727,
       "is_free": false
     },
     {
@@ -4985,7 +5011,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 574,
+      "price_rub": 575,
       "is_free": false
     },
     {
@@ -6081,7 +6107,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 603,
+      "price_rub": 605,
       "is_free": false
     },
     {
@@ -6664,7 +6690,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 722,
+      "price_rub": 726,
       "is_free": false
     },
     {
@@ -6807,7 +6833,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 603,
+      "price_rub": 605,
       "is_free": false
     },
     {
@@ -7050,7 +7076,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 724,
+      "price_rub": 727,
       "is_free": false
     },
     {
@@ -7064,6 +7090,19 @@
         "PC"
       ],
       "price_rub": 755,
+      "is_free": false
+    },
+    {
+      "id": 4736530,
+      "title": "Pixel Q (Your Personal AI Agent)",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736530/d2fce6215eb175d9c6f4f7f6b7af459e21951b77/header.jpg?t=1784383695",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1112,
       "is_free": false
     },
     {
@@ -7465,6 +7504,19 @@
       "is_free": false
     },
     {
+      "id": 4303210,
+      "title": "Race the Planet",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303210/48209fad41e2de9a0a059d272dae2f08642d4cd3/header.jpg?t=1784389842",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 640,
+      "is_free": false
+    },
+    {
       "id": 3762240,
       "title": "Rail Estate",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3762240/b7ea8eb90f9a3147790322a012a88c3c8a1e1eee/header.jpg?t=1784221321",
@@ -7772,7 +7824,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 784,
+      "price_rub": 841,
       "is_free": false
     },
     {
@@ -8025,7 +8077,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 673,
       "is_free": false
     },
     {
@@ -8199,7 +8251,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1413,
+      "price_rub": 1427,
       "is_free": false
     },
     {
@@ -8231,14 +8283,14 @@
     {
       "id": 4524800,
       "title": "Shellshock",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/e45f3dd44941dc4166ee62cd50816e6245903783/header.jpg?t=1784135588",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/e45f3dd44941dc4166ee62cd50816e6245903783/header.jpg?t=1784210308",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 602,
+      "price_rub": 603,
       "is_free": false
     },
     {
@@ -8386,7 +8438,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 819,
+      "price_rub": 824,
       "is_free": false
     },
     {
@@ -8703,7 +8755,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1015,
+      "price_rub": 1023,
       "is_free": false
     },
     {
@@ -9045,14 +9097,14 @@
     {
       "id": 4451820,
       "title": "Swordless",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451820/04405893fb5a14ffaa4c385366b1eae323f60ca3/header.jpg?t=1783859329",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451820/04405893fb5a14ffaa4c385366b1eae323f60ca3/header.jpg?t=1784173515",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 638,
+      "price_rub": 640,
       "is_free": false
     },
     {
@@ -9198,7 +9250,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 988,
       "is_free": false
     },
     {
@@ -9342,7 +9394,20 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 657,
+      "price_rub": 659,
+      "is_free": false
+    },
+    {
+      "id": 4821980,
+      "title": "The Guest",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821980/33a6ad04e5e4f11247dec3423f2142908cc586bd/header.jpg?t=1784364620",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 582,
       "is_free": false
     },
     {
@@ -9459,7 +9524,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 738,
+      "price_rub": 741,
       "is_free": false
     },
     {
@@ -9698,7 +9763,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1335,
+      "price_rub": 1349,
       "is_free": false
     },
     {
@@ -9854,7 +9919,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 789,
+      "price_rub": 794,
       "is_free": false
     },
     {
@@ -10379,7 +10444,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 702,
+      "price_rub": 705,
       "is_free": false
     },
     {
@@ -10594,7 +10659,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 793,
+      "price_rub": 797,
       "is_free": false
     },
     {
@@ -10633,7 +10698,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1241,
+      "price_rub": 1252,
       "is_free": false
     },
     {
@@ -10724,7 +10789,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 702,
+      "price_rub": 705,
       "is_free": false
     },
     {
@@ -10808,7 +10873,7 @@
     {
       "id": 4128400,
       "title": "eBaseball™: PRO SPIRIT",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/89639ca2b8f37f7c4b2ce26d5890fef8939f0714/header.jpg?t=1784141008",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/89639ca2b8f37f7c4b2ce26d5890fef8939f0714/header.jpg?t=1784277252",
       "genres": [
         "Экшен"
       ],
@@ -10937,6 +11002,19 @@
         "PC"
       ],
       "price_rub": 803,
+      "is_free": false
+    },
+    {
+      "id": 4819490,
+      "title": "Аварийная Поза",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819490/dddf30df3b6f7a68fe72b91f045a169a7dc2ea70/header.jpg?t=1784398960",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 678,
       "is_free": false
     },
     {
@@ -11437,6 +11515,19 @@
       "is_free": true
     },
     {
+      "id": 4856670,
+      "title": "夏まつり零",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/420213a627e817d115c452d9c703ee30a22b5e87/header.jpg?t=1784379123",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 643,
+      "is_free": false
+    },
+    {
       "id": 3863840,
       "title": "如梦金色雪",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863840/697c45f597c2117730f1fd6f7e499b74c540a119/header.jpg?t=1783677135",
@@ -11888,7 +11979,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 826,
+      "price_rub": 831,
       "is_free": false
     },
     {
@@ -11914,7 +12005,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1008,
+      "price_rub": 1016,
       "is_free": false
     },
     {

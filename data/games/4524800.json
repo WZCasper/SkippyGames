@@ -1,8 +1,8 @@
 {
   "id": 4524800,
   "title": "Shellshock",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/e45f3dd44941dc4166ee62cd50816e6245903783/header.jpg?t=1784135588",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4524800?t=1784135588",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/e45f3dd44941dc4166ee62cd50816e6245903783/header.jpg?t=1784210308",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4524800?t=1784210308",
   "description": "You are a British soldier during WW1, trapped in an endlessly looping trench. To get out, you will need to reach the final trench by identifying any anomalous changes that were not there before.\n\n \n\nCarefully inspect the trench — things may not be as they seem!\n\n• If you spot an anomalous change, you have something to report. Go Left!\n\n• If you have nothing to report. Go Right!\n\nShellshock is a short anomaly hunting experience (up to 30 minutes) inspired by liminal spaces and psychological horror. If you correctly Identify any changes in the trench you will progress to the next loop.  If you do not correctly identify a change or you think there was a change when there wasn't, you'll go back to trench 0 and start again.  Your goal is the reach the final trench and escape.\n\nGameplay• There is nothing to report in the first trench.\n\n• Walk through all following trenches and look for changes.\n\n• Take your time. Pay attention.\n\n• Some changes are easy to spot; others are more difficult.\n\n• The trench is short, but the differences are randomised in each loop — sometimes there are no changes at all.\n\n• Once you are sure whether there is a change or not, exit using the appropriate door.\n\nFeatures• Playtime is around 10–30 minutes depending on difficulty.\n\n• Difficulty level determines which trench number you must reach to escape.\n\n• Simple controls:\nWASD – Move\nMouse – Look\nShift - Run\nCTRL - Crouch\n\n• Controller supported\n\n• Anomalous changes in the trench will only occur once.\n\n• Anomalous changes will reset once all anomalies have been identified.\n\n• Anomalous changes can be manually reset from the options menu.\n\n• Some changes may include upsetting or graphic content related to themes of war and injury.",
   "description_short": "You are a British WW1 soldier, trapped in an endless looping trench. Inspect your surroundings and report anything that is out of place. Will you escape? Shellshock is a short anomaly hunting experience (-30 minutes) inspired by liminal spaces and psychological horror.",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 602,
+  "price_rub": 603,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/2f140daad4734dfabba70ed87973d24c9d8bd56f/ss_2f140daad4734dfabba70ed87973d24c9d8bd56f.1920x1080.jpg?t=1784135588",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/28a941c4a6e06bbb19bcfd7115bb20d91f5f373c/ss_28a941c4a6e06bbb19bcfd7115bb20d91f5f373c.1920x1080.jpg?t=1784135588",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/373a7abda9fe9687217040e3c100612c8c44e185/ss_373a7abda9fe9687217040e3c100612c8c44e185.1920x1080.jpg?t=1784135588",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/e98df34404fbffd3662db2d853ed56f497fc68c1/ss_e98df34404fbffd3662db2d853ed56f497fc68c1.1920x1080.jpg?t=1784135588",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/c5a091c81170555f807a28ce91cce7986b0eee7c/ss_c5a091c81170555f807a28ce91cce7986b0eee7c.1920x1080.jpg?t=1784135588",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/a4a2d9c25074af7e08048e7ee8f8861ae611865c/ss_a4a2d9c25074af7e08048e7ee8f8861ae611865c.1920x1080.jpg?t=1784135588"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/2f140daad4734dfabba70ed87973d24c9d8bd56f/ss_2f140daad4734dfabba70ed87973d24c9d8bd56f.1920x1080.jpg?t=1784210308",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/28a941c4a6e06bbb19bcfd7115bb20d91f5f373c/ss_28a941c4a6e06bbb19bcfd7115bb20d91f5f373c.1920x1080.jpg?t=1784210308",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/373a7abda9fe9687217040e3c100612c8c44e185/ss_373a7abda9fe9687217040e3c100612c8c44e185.1920x1080.jpg?t=1784210308",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/e98df34404fbffd3662db2d853ed56f497fc68c1/ss_e98df34404fbffd3662db2d853ed56f497fc68c1.1920x1080.jpg?t=1784210308",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/c5a091c81170555f807a28ce91cce7986b0eee7c/ss_c5a091c81170555f807a28ce91cce7986b0eee7c.1920x1080.jpg?t=1784210308",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524800/a4a2d9c25074af7e08048e7ee8f8861ae611865c/ss_a4a2d9c25074af7e08048e7ee8f8861ae611865c.1920x1080.jpg?t=1784210308"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-15T19:04:06Z"
+  "updated_at": "2026-07-19T01:33:36Z"
 }

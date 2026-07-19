@@ -1,8 +1,8 @@
 {
   "id": 4819200,
   "title": "Biletide",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/1706581f9e0ee9eb947817e34f362c936a0d8b07/header.jpg?t=1784123968",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/5ae234a2fd6a848d56128a7011cad1014d48e640/page_bg_raw.jpg?t=1784123968",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/1706581f9e0ee9eb947817e34f362c936a0d8b07/header.jpg?t=1784189985",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/5ae234a2fd6a848d56128a7011cad1014d48e640/page_bg_raw.jpg?t=1784189985",
   "description": "An atmospheric tower-defence strategy game about holding back an oozing toxic Tide. A distant mining colony has awakened a living flood that seeps from breaches in the ground. Dig for resources, raise the land for defence, and burn your way to seal the breaches. Can you survive the Biletide?\n\n• Dig, raise and reshape a 3D voxel battlefield\n\n• Control the flow of an unthinking but rising toxic enemy\n\n• Burn, block or redirect with towers and defences\n\n• Build to manage scarce resources\n\n• Deal with pollution as burning the Biletide releases toxic smog\n\n• Survive an escalating campaign where every decision matters\n\n• Design and share your own levels through Steam workshop\n\nManage Your ResourcesDig into the voxel terrain to gather the resources your colony needs to survive. Every building or raised tile costs precious material, so expansion always comes with risk. Dig too deep and you provide riverbeds for the tide.\n\nBurn, Burn, Burn!The only way to push back the Biletide is with fire. Build plasma flamethrower towers to hold key choke points and fight your way towards the breaches. But each burn comes with a risk, releasing a toxic smog into the air and suffocating your solar panels.\n\nRedirect The TideThe Biletide flows seeking the lowest ground. Dig channels and reshape the battlefield to redirect it away from your base.\n\nProtect Your Power LinesSome buildings need to be powered, and woe betide you if you get surrounded.\n\nPlay The Campaign To Save The ColonistsPlay through a campaign as colonists struggle to survive on a doomed mining colony. Each mission introduces new pressures and harder choices as the Biletide spreads further across the planet.\n\n​Create Your Own LevelsDesign your own Biletide missions with the built-in level editor. Place terrain, buildings and of course the Biletide. Then share through the Steam Workshop or play levels made by other players.",
   "description_short": "An atmospheric tower-defence strategy game about holding back an oozing toxic Tide. A distant mining colony has awakened a living flood that seeps from breaches in the ground. Dig for resources, raise defensive terrain, and burn your way to seal the breaches. Can you survive the Biletide?",
   "genres": [
@@ -11,19 +11,20 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 739,
+  "price_rub": 743,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/b39c9e2c3a697d761b3d75620e185cbed3c479c6/ss_b39c9e2c3a697d761b3d75620e185cbed3c479c6.1920x1080.jpg?t=1784123968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/3017e3e40132cbcb0aab411daf3ec5dc855e711f/ss_3017e3e40132cbcb0aab411daf3ec5dc855e711f.1920x1080.jpg?t=1784123968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/d67c5635ec1ee72606ea8762395e15e8b30e5065/ss_d67c5635ec1ee72606ea8762395e15e8b30e5065.1920x1080.jpg?t=1784123968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/d5f35d2a112f0c082e3f1bfc987084b4bd3f8958/ss_d5f35d2a112f0c082e3f1bfc987084b4bd3f8958.1920x1080.jpg?t=1784123968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/e42b52b5a72a0e07a1c1f5d94e300bbfc443ec83/ss_e42b52b5a72a0e07a1c1f5d94e300bbfc443ec83.1920x1080.jpg?t=1784123968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/8dc8fed9f1172284bbac5616aaf171b410adabc1/ss_8dc8fed9f1172284bbac5616aaf171b410adabc1.1920x1080.jpg?t=1784123968"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/4b5f282cd7b17343d479e39e3ea0eaa84adf7f8e/ss_4b5f282cd7b17343d479e39e3ea0eaa84adf7f8e.1920x1080.jpg?t=1784189985",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/ea45ba5edb3b3186eb35f88d092fafa947e6f41d/ss_ea45ba5edb3b3186eb35f88d092fafa947e6f41d.1920x1080.jpg?t=1784189985",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/3017e3e40132cbcb0aab411daf3ec5dc855e711f/ss_3017e3e40132cbcb0aab411daf3ec5dc855e711f.1920x1080.jpg?t=1784189985",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/447d458c5ba0f9c3c1e2ce1ac5e12f0b83bb3c77/ss_447d458c5ba0f9c3c1e2ce1ac5e12f0b83bb3c77.1920x1080.jpg?t=1784189985",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/a4d3fa3803d68ed08f9f380c02b28dc237b7fa8c/ss_a4d3fa3803d68ed08f9f380c02b28dc237b7fa8c.1920x1080.jpg?t=1784189985",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/1064307548a4ac40fbba84625a7b38afeb959c58/ss_1064307548a4ac40fbba84625a7b38afeb959c58.1920x1080.jpg?t=1784189985",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819200/8dc8fed9f1172284bbac5616aaf171b410adabc1/ss_8dc8fed9f1172284bbac5616aaf171b410adabc1.1920x1080.jpg?t=1784189985"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-15T19:17:17Z"
+  "updated_at": "2026-07-19T01:46:43Z"
 }
