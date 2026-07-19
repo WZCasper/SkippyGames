@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-07-19T07:57:03Z",
+  "generated_at": "2026-07-19T12:45:26Z",
   "uah_to_rub_rate": 1.749717,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 915,
+  "count": 921,
   "games": [
+    {
+      "id": 4881310,
+      "title": "0N35H07",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4881310/89047bf06c6607026dc82872ed18d4055f378851/header.jpg?t=1784369139",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
     {
       "id": 4675010,
       "title": "100 Hidden Cats Stream Live",
@@ -4094,6 +4107,19 @@
       "is_free": false
     },
     {
+      "id": 4843580,
+      "title": "Gone Exploring",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843580/18832549bb085e88832680bdfe360b76e10273d3/header.jpg?t=1784453973",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4246340,
       "title": "Gorotsuki Paradise",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246340/c35c595d86141f1e701e966d0c491c4aa4f7b0c7/header.jpg?t=1783352874",
@@ -4729,6 +4755,19 @@
       "is_free": false
     },
     {
+      "id": 4849920,
+      "title": "Hyper Hitmans",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849920/f5b01e7b7159192c9dd4ccf6278470fb4004aad5/header.jpg?t=1784460590",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 3164460,
       "title": "Hyper_Sea_5000",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164460/e1a66f973d1b6a317b4f3fcc0a0f640d2636e346/header.jpg?t=1783106815",
@@ -5025,6 +5064,19 @@
         "PC"
       ],
       "price_rub": 704,
+      "is_free": false
+    },
+    {
+      "id": 915680,
+      "title": "Jaws of Hell",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/915680/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 841,
       "is_free": false
     },
     {
@@ -6825,6 +6877,21 @@
         "PC"
       ],
       "price_rub": 590,
+      "is_free": false
+    },
+    {
+      "id": 3101700,
+      "title": "Ops",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3101700/capsule_616x353.jpg",
+      "genres": [
+        "Аркадные гонки",
+        "Казуальные игры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 587,
       "is_free": false
     },
     {
@@ -10677,6 +10744,19 @@
         "PC"
       ],
       "price_rub": 761,
+      "is_free": false
+    },
+    {
+      "id": 4848950,
+      "title": "Whisker Tales",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848950/bc8e2ffe9a41408b96afdbe9010145c85706af77/header.jpg?t=1784462766",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 622,
       "is_free": false
     },
     {
