@@ -1,0 +1,28 @@
+{
+  "id": 4902910,
+  "title": "Yoink! - Texture ripper",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902910/df8e072fbbd89df58f788efa3ab104f4ddf13d73/header.jpg?t=1784538576",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4902910?t=1784538576",
+  "description": "Texture RippingExtract textures from any surface, even if its curved. \n\nYoink automatically corrects perspective distortion. \n\nStylized TexturesTake full control of your art. Yoink lets you create stylized textures with custom color quantization.\n\nTiling previewSee exactly how your texture tiles before you export.\n\nSeamless texturesYoink offers tools to speed up seamless texture creation.\n\nLens CorrectionYoink corrects lens distortion and chromatic aberration automatically when camera and lens metadata is present.\n\nRAW Files SupportWork directly with RAW files (ARW, RW2, CR2, and more) alongside standard formats (JPG, PNG, WEBP, AVIF).",
+  "description_short": "Make textures for your next project quickly with Yoink!, the best tool for ripping textures from images.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 863,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902910/8cba5c01362aa29d88d3fd5feffb5d9f793df831/ss_8cba5c01362aa29d88d3fd5feffb5d9f793df831.1920x1080.jpg?t=1784538576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902910/8a2e783cd1428a14f095ad21afbc7ad7d45bfd0c/ss_8a2e783cd1428a14f095ad21afbc7ad7d45bfd0c.1920x1080.jpg?t=1784538576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902910/3069c5ff257914d43fc03e9b3040177f222a38c3/ss_3069c5ff257914d43fc03e9b3040177f222a38c3.1920x1080.jpg?t=1784538576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902910/fc70aa526a4a58d324441ca0536dd9c916080f37/ss_fc70aa526a4a58d324441ca0536dd9c916080f37.1920x1080.jpg?t=1784538576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902910/80ec6cbe2cf3f35e4cad44f92bd9e7de9f9bb0cc/ss_80ec6cbe2cf3f35e4cad44f92bd9e7de9f9bb0cc.1920x1080.jpg?t=1784538576"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-20T14:16:01Z"
+}

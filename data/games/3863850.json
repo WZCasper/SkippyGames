@@ -1,8 +1,8 @@
 {
   "id": 3863850,
   "title": "Stuck In Luck",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/34da7d8f88ef9eb2bf7d048c3e4ecdb3c4e24273/header.jpg?t=1784275711",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/d8b34bca10fa7f3f42d51ca44c62358e695cde5b/page_bg_raw.jpg?t=1784275711",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/34da7d8f88ef9eb2bf7d048c3e4ecdb3c4e24273/header.jpg?t=1784317230",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/d8b34bca10fa7f3f42d51ca44c62358e695cde5b/page_bg_raw.jpg?t=1784317230",
   "description": "Classic poker hand gameplay reimaginedUse the “Law Card” to control poker card positions、change their values and suits, easily forming the desired poker hands.\n\nTight synergy between itemsThe interaction between “Relics” and “Law Cards” can produce unexpected effects.\n\nSimple item-use mechanics to charge your Poker cards for high scores.\n\nMoment of reckoningWhere luck meets strategy—how high can you score?\n\nPlanning and buildingExpand your Poker cards and Rule Cards based on the current situation, and push beyond your limits.",
   "description_short": "A roguelike light-strategy card game inspired by classic poker hands. Each run is a new challenge, with poker hands and items interacting to create dynamic strategy. Explore nearly 300 items in procedurally generated challenges.",
   "genres": [
@@ -11,20 +11,20 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 840,
+  "price_rub": 772,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/ae4b88c215864509d58404c768cb8b8d41ab1b41/ss_ae4b88c215864509d58404c768cb8b8d41ab1b41.1920x1080.jpg?t=1784275711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/83e41926c11fe9f2093cc941c432134e5cad3375/ss_83e41926c11fe9f2093cc941c432134e5cad3375.1920x1080.jpg?t=1784275711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/e3f400f64931d2c4a60cd484ef8f8e6995a4e78e/ss_e3f400f64931d2c4a60cd484ef8f8e6995a4e78e.1920x1080.jpg?t=1784275711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/2fefb9c6fdf7455df724816402b01b42208cbf2f/ss_2fefb9c6fdf7455df724816402b01b42208cbf2f.1920x1080.jpg?t=1784275711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/bcdf58670ab48904c53fabe145b2e5123222cfc6/ss_bcdf58670ab48904c53fabe145b2e5123222cfc6.1920x1080.jpg?t=1784275711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/e8f1cd1c895ef433c3b41a978022d48bf0c47a46/ss_e8f1cd1c895ef433c3b41a978022d48bf0c47a46.1920x1080.jpg?t=1784275711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/44e708c17a96f2ce434df002699d59dff57608d7/ss_44e708c17a96f2ce434df002699d59dff57608d7.1920x1080.jpg?t=1784275711"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/ae4b88c215864509d58404c768cb8b8d41ab1b41/ss_ae4b88c215864509d58404c768cb8b8d41ab1b41.1920x1080.jpg?t=1784317230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/83e41926c11fe9f2093cc941c432134e5cad3375/ss_83e41926c11fe9f2093cc941c432134e5cad3375.1920x1080.jpg?t=1784317230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/e3f400f64931d2c4a60cd484ef8f8e6995a4e78e/ss_e3f400f64931d2c4a60cd484ef8f8e6995a4e78e.1920x1080.jpg?t=1784317230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/2fefb9c6fdf7455df724816402b01b42208cbf2f/ss_2fefb9c6fdf7455df724816402b01b42208cbf2f.1920x1080.jpg?t=1784317230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/bcdf58670ab48904c53fabe145b2e5123222cfc6/ss_bcdf58670ab48904c53fabe145b2e5123222cfc6.1920x1080.jpg?t=1784317230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/e8f1cd1c895ef433c3b41a978022d48bf0c47a46/ss_e8f1cd1c895ef433c3b41a978022d48bf0c47a46.1920x1080.jpg?t=1784317230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863850/44e708c17a96f2ce434df002699d59dff57608d7/ss_44e708c17a96f2ce434df002699d59dff57608d7.1920x1080.jpg?t=1784317230"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-17T13:04:10Z"
+  "updated_at": "2026-07-20T14:07:44Z"
 }

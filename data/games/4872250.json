@@ -1,0 +1,30 @@
+{
+  "id": 4872250,
+  "title": "The Living Atlas: A Fantasy Chronicler",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872250/8918aa9e55812e8aaf8e6fab76e30cdbbc29fdc9/header.jpg?t=1784548708",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872250?t=1784548708",
+  "description": "The Living Atlas is a procedural fantasy world generator and civilization observer. Press a button and watch a planet emerge — tectonic forces shaping the land, rivers finding their way to the sea, 27 distinct biomes populated by dozens of fantasy species from Mammothkin on the frozen tundra to Efreeti in the volcanic wastes.\n\nEvery world is seeded from a single number. Share a seed, share a world.\n\nOnce the planet forms, history begins. Hundreds of small realms carve out territory across the surface. Civilizations that master diverse terrain grow powerful. Those that cannot adapt are absorbed or forgotten. Watch empires rise from chaos, species vanish from the map, and the slow churn of a world remaking itself.\n\nFeatures:\n\n• Procedurally generated planets with tectonic simulation, river systems, lakes, and 27 biomes across a latitude × altitude × humidity classification system\n\n• 100+ fantasy species distributed across biomes, each with ecological archetypes\n\n• Emergent realm simulation — civilizations expand based on size and terrain affinity, with a full state machine governing peace, war, and recovery\n\n• Historical event log tracking extinctions, territorial milestones, and cultural achievements\n\n• Cinematic orbital camera entrance for every new world\n\n• Seed-based generation — every world is reproducible and shareable\n\n• Custom world builder — tune ocean coverage, continent scale, mountain height, terrain relief, and detail level\n\n• Variable simulation speed\n\n• Infinite replayability — no two worlds are alike\n\nWhat this is:\n\nThe Living Atlas is a toy, in the best sense of the word. There are no objectives, no failure states, no tutorial. You watch. You explore. You wonder what happened to the Thunder Minotaurs and why the Elves control half a continent. It is a lava lamp with civilizations in it.",
+  "description_short": "A procedural fantasy world generator and civilization simulator. Every world is unique — explore its biomes, species, and emerging realms as civilizations rise, expand, and vanish across an infinite variety of planets. No objectives. No failure states. Just worlds worth watching.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 591,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872250/86cc8003f2bc18be93a47c312c43be97caee2a08/ss_86cc8003f2bc18be93a47c312c43be97caee2a08.1920x1080.jpg?t=1784548708",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872250/7fee20b1d954149e50938c7735cddb717d329996/ss_7fee20b1d954149e50938c7735cddb717d329996.1920x1080.jpg?t=1784548708",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872250/30b3afc2d2ec78e8d1528b435ea27429ccec0cd9/ss_30b3afc2d2ec78e8d1528b435ea27429ccec0cd9.1920x1080.jpg?t=1784548708",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872250/90adae54a77b2b04b3e56df789adc880e70f44a3/ss_90adae54a77b2b04b3e56df789adc880e70f44a3.1920x1080.jpg?t=1784548708",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872250/f5d516aad4b09394e38e7933c7616f363848aa18/ss_f5d516aad4b09394e38e7933c7616f363848aa18.1920x1080.jpg?t=1784548708",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872250/c2ed0a728a3f911814f17c4187872a521f239f22/ss_c2ed0a728a3f911814f17c4187872a521f239f22.1920x1080.jpg?t=1784548708",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872250/ec1d74776f2e89facadf21cfdbbc613508a3de58/ss_ec1d74776f2e89facadf21cfdbbc613508a3de58.1920x1080.jpg?t=1784548708"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-20T14:13:23Z"
+}

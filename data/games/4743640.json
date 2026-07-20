@@ -1,0 +1,38 @@
+{
+  "id": 4743640,
+  "title": "Hydro Chicks",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/30105ffbe86a14ef91d238347a8d96d1d2025e98/header.jpg?t=1784534278",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/0f9c7001322742787418897a427adc81034f09ef/page_bg_raw.jpg?t=1784534278",
+  "description": "Безумная физика водыОсвойте безумную физику воды: сражайтесь с течением, покоряйте огромные волны и избегайте опасностей на своём верном водном скутере.\n\nГейзерные shortcutsПроходите испытания с монетами, чтобы открывать гейзеры и создавать shortcuts. Стоит ли риск награды?\n\nДевчонки на любой вкусВыберите свою девчонку и отправляйтесь в беспощадное водное приключение. Покорите ли вы реку или сорвётесь вниз с горы?\n\nОсобенности:• Безумное водное передвижение на основе физики на водном скутере.\n\n• Ручная, выводящая из себя река с разными зонами.\n\n• Проходите испытания с монетами, чтобы открывать гейзерные shortcuts.\n\n• 5 девчонок на выбор.\n\n• Резиновые уточки, которые можно собирать по пути.",
+  "description_short": "Оседлайте водный скутер и поднимайтесь против течения к вершине Hydro Mountain",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 807,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/23d1aab895e3dbaa015d74f28dcde6450d6ec2bd/ss_23d1aab895e3dbaa015d74f28dcde6450d6ec2bd.1920x1080.jpg?t=1784534278",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/ca6e7fa205cf70271fd201a108aa6b2ac4d18718/ss_ca6e7fa205cf70271fd201a108aa6b2ac4d18718.1920x1080.jpg?t=1784534278",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/41b3293a3fad5c14114acdcceada4da72a7e914e/ss_41b3293a3fad5c14114acdcceada4da72a7e914e.1920x1080.jpg?t=1784534278",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/52929cec91d39b1ae4ccb9de7ba1a3770a48d6a7/ss_52929cec91d39b1ae4ccb9de7ba1a3770a48d6a7.1920x1080.jpg?t=1784534278",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/ccc5c5195599b83e8c1226a464b2593d22ab4aa9/ss_ccc5c5195599b83e8c1226a464b2593d22ab4aa9.1920x1080.jpg?t=1784534278",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/3571da90a9a01eb75e4f07b25de1a9ed46f78857/ss_3571da90a9a01eb75e4f07b25de1a9ed46f78857.1920x1080.jpg?t=1784534278",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/713cb878d6bfc2de1d6333d5e4c93b6ea0fbef99/ss_713cb878d6bfc2de1d6333d5e4c93b6ea0fbef99.1920x1080.jpg?t=1784534278",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743640/4a8a86825fd2aacedac08cecdd9b466707c9a858/ss_4a8a86825fd2aacedac08cecdd9b466707c9a858.1920x1080.jpg?t=1784534278"
+  ],
+  "upsells": [
+    {
+      "id": 4816090,
+      "name": "Hydro Chicks: Goth Mommy Supporter Pack",
+      "price_rub": 633,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816090/bc91f883f723a6ae0cd819ea90cf97259e9de9a4/header.jpg?t=1784534307"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-20T14:19:43Z"
+}
