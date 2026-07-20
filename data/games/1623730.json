@@ -15,7 +15,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1228,
+  "price_rub": 1237,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,10 +33,10 @@
     {
       "id": 2771110,
       "name": "Palworld - Soundtrack",
-      "price_rub": 680,
+      "price_rub": 682,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2771110/header.jpg?t=1705651206"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T19:19:05Z"
+  "updated_at": "2026-07-20T01:49:45Z"
 }
