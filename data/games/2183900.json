@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1179,
+  "price_rub": 1182,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "A_HljUo8Jjk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/14e7422dda767d6397b9552b0c8bf3f493094e2a/ss_14e7422dda767d6397b9552b0c8bf3f493094e2a.1920x1080.jpg?t=1780329761",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_ee88e4cc463b7b25b0ec03930a9e58e5fba2afdf.1920x1080.jpg?t=1780329761",
@@ -32,70 +32,70 @@
     {
       "id": 3871390,
       "name": "Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack",
-      "price_rub": 847,
+      "price_rub": 849,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871390/a67fa89952f991193b28a473326bbc74c39d0fe3/header.jpg?t=1783342940"
     },
     {
       "id": 3871370,
       "name": "Warhammer 40,000: Space Marine 2 - Raven Guard Champion Pack",
-      "price_rub": 760,
+      "price_rub": 761,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871370/c2280a9baf6b49f6aa43ea29dec7c68a21221933/header.jpg?t=1772100161"
     },
     {
       "id": 3871380,
       "name": "Warhammer 40,000: Space Marine 2 - Carcharodons Cosmetic Pack",
-      "price_rub": 641,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871380/390a165826dcd474af17be77dcdda8875f3eb63e/header.jpg?t=1772100182"
     },
     {
       "id": 3871350,
       "name": "Warhammer 40,000: Space Marine 2 - Blood Angels Champion Pack",
-      "price_rub": 760,
+      "price_rub": 761,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871350/6c2629467fb57d21d7a59e47cdb5ac6acb541a86/header.jpg?t=1764064531"
     },
     {
       "id": 3871360,
       "name": "Warhammer 40,000: Space Marine 2 - Salamanders Cosmetic Pack",
-      "price_rub": 641,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871360/fe55cf50a9a7b93070586474f534cbd4cb4c3a90/header.jpg?t=1783342283"
     },
     {
       "id": 3871320,
       "name": "Warhammer 40,000: Space Marine 2 - Season Pass 2",
-      "price_rub": 1741,
+      "price_rub": 1747,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871320/b57307ad10631ea21ad7ff9d37c2bf9a63e4e534/header.jpg?t=1783331269"
     },
     {
       "id": 2792140,
       "name": "Warhammer 40,000: Space Marine 2 - Ultramarines Champion Pack",
-      "price_rub": 760,
+      "price_rub": 761,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792140/header.jpg?t=1757007056"
     },
     {
       "id": 3871330,
       "name": "Warhammer 40,000: Space Marine 2 - Black Templars Champion Pack",
-      "price_rub": 760,
+      "price_rub": 761,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871330/d7d2586bdb1bf145eb82f046a076f4b72866759e/header.jpg?t=1757004090"
     },
     {
       "id": 3871340,
       "name": "Warhammer 40,000: Space Marine 2 - Imperial Fists Cosmetic Pack",
-      "price_rub": 641,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871340/0b2cea31aa54cd2f92739eeeb28c23e84abe8fd8/header.jpg?t=1783341670"
     },
     {
       "id": 3274440,
       "name": "Warhammer 40,000: Space Marine 2 - Blood Angels Cosmetic Pack",
-      "price_rub": 641,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3274440/9dd45a32604ff536063f0127068c35b5be67ad51/header.jpg?t=1783340704"
     },
     {
       "id": 2792190,
       "name": "Warhammer 40,000: Space Marine 2 - White Scars Chapter Pack",
-      "price_rub": 825,
+      "price_rub": 826,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792190/51474ca168c0fb0a5cc5c498ae85acf915fcb318/header.jpg?t=1783075141"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-17T01:57:02Z"
+  "updated_at": "2026-07-20T08:35:25Z"
 }

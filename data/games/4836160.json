@@ -1,8 +1,8 @@
 {
   "id": 4836160,
   "title": "BoxBox",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/dfef840fa4433bfbe3282ac619816f4aa2acae62/header.jpg?t=1784118279",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4836160?t=1784118279",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/dfef840fa4433bfbe3282ac619816f4aa2acae62/header.jpg?t=1784378766",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4836160?t=1784378766",
   "description": "The game follows a brand new robot prototype created by a powerful supercomputer AI\n\n that has decided to take warehouse work into its own hands.\n\nAs the newest prototype, you are put through a series of tests to determine whether this\n\n model is worthy of entering mass production as the future of automated warehouse labor.\n\nHowever...\n\nThings don't go according to plan.\n\n Instead of being trained solely by AI, this prototype is shaped by human imagination through\n\n you, the player. The supercomputer's rigid logic cannot accept this unpredictable behavior,\n\n and the robot is soon labeled obsolete. Now marked for replacement, it must fight to prove\n\n that creativity is just as valuable as perfect logic.\n\n• Unique Physics Puzzles: No two levels are the same. Use weight scales, conveyor belts, and industrial traps to find your way out.\n\n• Pick Up, Rotate, Throw: Master the laborer's toolkit to interact with boxes made of wood, iron, glass, and more.\n\n• Relaxing Atmosphere: Solve puzzles at your own pace with a lo-fi, relaxing soundtrack.\n\n• Arcade Break: Blow off some steam in the Arcade Basketball mode with high-score combos and special ball types.\n\n• More to Come: The facility is expanding, with new levels and mechanics planned for future updates.",
   "description_short": "Deploy UNIT-WR-7821! You as Input Manager, train its AI to conquer complex physics-based obstacles and become a successful warehouse laborer. Navigate grueling trials and solve dynamic environmental puzzles to prove your test subject's worth. The future of automated labor is in your hands!",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 704,
+  "price_rub": 705,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "NgSpUcCBewI",
+  "trailer_youtube_id": "c9vDOG1PsOs",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/c0afa0d594189badf68c165bcf66eb880eeec934/ss_c0afa0d594189badf68c165bcf66eb880eeec934.1920x1080.jpg?t=1784118279",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/f54df3ebcc073a1c71e48c586d80f9b3b52970f5/ss_f54df3ebcc073a1c71e48c586d80f9b3b52970f5.1920x1080.jpg?t=1784118279",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/75f5c4e012993877bf2b66fc44bc64101ffb567f/ss_75f5c4e012993877bf2b66fc44bc64101ffb567f.1920x1080.jpg?t=1784118279",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/d25a5687c054aab6c0089529113de95fb96e8dc8/ss_d25a5687c054aab6c0089529113de95fb96e8dc8.1920x1080.jpg?t=1784118279",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/8c40aee13e8344ae49a9951d703a3660df625165/ss_8c40aee13e8344ae49a9951d703a3660df625165.1920x1080.jpg?t=1784118279",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/2a1b9b5a592d3c12d013e925529d17add710ced2/ss_2a1b9b5a592d3c12d013e925529d17add710ced2.1920x1080.jpg?t=1784118279",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/074b1fc04acf0191fc5a154a22a10f1cd94ced56/ss_074b1fc04acf0191fc5a154a22a10f1cd94ced56.1920x1080.jpg?t=1784118279",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/51deeaf5c09d448cd655310dc4ec7efa258b7e63/ss_51deeaf5c09d448cd655310dc4ec7efa258b7e63.1920x1080.jpg?t=1784118279"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/c0afa0d594189badf68c165bcf66eb880eeec934/ss_c0afa0d594189badf68c165bcf66eb880eeec934.1920x1080.jpg?t=1784378766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/f54df3ebcc073a1c71e48c586d80f9b3b52970f5/ss_f54df3ebcc073a1c71e48c586d80f9b3b52970f5.1920x1080.jpg?t=1784378766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/75f5c4e012993877bf2b66fc44bc64101ffb567f/ss_75f5c4e012993877bf2b66fc44bc64101ffb567f.1920x1080.jpg?t=1784378766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/d25a5687c054aab6c0089529113de95fb96e8dc8/ss_d25a5687c054aab6c0089529113de95fb96e8dc8.1920x1080.jpg?t=1784378766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/8c40aee13e8344ae49a9951d703a3660df625165/ss_8c40aee13e8344ae49a9951d703a3660df625165.1920x1080.jpg?t=1784378766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/2a1b9b5a592d3c12d013e925529d17add710ced2/ss_2a1b9b5a592d3c12d013e925529d17add710ced2.1920x1080.jpg?t=1784378766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/074b1fc04acf0191fc5a154a22a10f1cd94ced56/ss_074b1fc04acf0191fc5a154a22a10f1cd94ced56.1920x1080.jpg?t=1784378766",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836160/51deeaf5c09d448cd655310dc4ec7efa258b7e63/ss_51deeaf5c09d448cd655310dc4ec7efa258b7e63.1920x1080.jpg?t=1784378766"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-17T07:49:11Z"
+  "updated_at": "2026-07-20T08:40:53Z"
 }

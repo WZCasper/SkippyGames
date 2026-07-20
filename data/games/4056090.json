@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "3Huic1LM_8U",
+  "trailer_youtube_id": "oKLEZbbF6I8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056090/67dd36ce0c1dc55538822d684eddead593118d01/ss_67dd36ce0c1dc55538822d684eddead593118d01.1920x1080.jpg?t=1783702300",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056090/a3fa89bc5604dcad0a08072dbb139ca405183402/ss_a3fa89bc5604dcad0a08072dbb139ca405183402.1920x1080.jpg?t=1783702300",
@@ -28,10 +28,10 @@
     {
       "id": 4652960,
       "name": "SmarterWaysProductions: Andromeda - Supporter Pack",
-      "price_rub": 716,
+      "price_rub": 772,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652960/3fa21da3f159bb4ce9769247a52ae24efa196921/header.jpg?t=1783702360"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-17T07:48:44Z"
+  "updated_at": "2026-07-20T08:36:57Z"
 }

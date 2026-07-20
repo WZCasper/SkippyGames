@@ -14,7 +14,7 @@
   "price_rub": 547,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "JvMVe2-B3VU",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3406920/6388b775d2d8adfe2f59e4634fbdf7e3a343d225/ss_6388b775d2d8adfe2f59e4634fbdf7e3a343d225.1920x1080.jpg?t=1783693528",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3406920/fa39f40ea8329ba90f51e12857ca9b67e92c7da5/ss_fa39f40ea8329ba90f51e12857ca9b67e92c7da5.1920x1080.jpg?t=1783693528",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-17T07:49:14Z"
+  "updated_at": "2026-07-20T08:41:27Z"
 }

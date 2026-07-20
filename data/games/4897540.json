@@ -1,8 +1,8 @@
 {
   "id": 4897540,
   "title": "Шахтёр-Выживший",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/fd13ee79a0868b18422f7a19ba33b4e8257be851/header.jpg?t=1783987294",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4897540?t=1783987294",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/60ac8b8bb48ae0b7e4308f589995510a5dba0ded/header.jpg?t=1784465088",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4897540?t=1784465088",
   "description": "Добывай. Строй. Выживай. Теперь сражайся с друзьями.Miner Survivor — это динамичная 2D-игра с видом сверху, где ты добываешь золото, строишь башни и дронов и отражаешь волны монстров. С каждым забегом становится сложнее, и чем глубже ты спускаешься, тем хаотичнее поле боя.\n\nНОВОЕ: Онлайн PvP! Сражайся с другими игроками в матчах 1v1. Трать золото в середине матча, чтобы напустить жутких врагов на сторону противника. Кто первым потеряет здоровье — проиграл. Соединение оборвалось посреди матча? Игра тебя запомнила — можешь сразу вернуться.\n\nЕщё что стоит полюбить:\n\n• Боссы роняют случайные сферы навыков — подбирай их, чтобы получить мощные способности\n\n• Пять дронов-компаньонов на выбор, у каждого свой стиль\n\n• Редкое жуткое облако, которое замораживает тебя на месте\n\n• Бесконечный режим, в котором волны не прекращаются\n\n• Бесплатная демоверсия в Steam — попробуй перед покупкой",
   "description_short": "Добывай. Строй. Выживай. Теперь сражайся с друзьями. Динамичная 2D-игра на выживание, где ты добываешь золото, строишь башни и дронов, сражаешься с ордами монстров, а теперь ещё можешь вызвать на дуэль других игроков в онлайн PvP 1v1. Бесплатная демоверсия доступна.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 743,
+  "price_rub": 744,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "3ungVR0iomo",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/1d2e56ab0ad73118fd5929fded8a81544e73c776/ss_1d2e56ab0ad73118fd5929fded8a81544e73c776.1920x1080.jpg?t=1783987294",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/e73830c792e8b7337b1ee1a50d0d72a4fb278f28/ss_e73830c792e8b7337b1ee1a50d0d72a4fb278f28.1920x1080.jpg?t=1783987294",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/adb10806852e451068b0d1ac0a3c355669727ab8/ss_adb10806852e451068b0d1ac0a3c355669727ab8.1920x1080.jpg?t=1783987294",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/6b072cde136ba467e5ebc344da5c5dafb4513fd3/ss_6b072cde136ba467e5ebc344da5c5dafb4513fd3.1920x1080.jpg?t=1783987294",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/ea95728c91422efd7700e2f1ff382bb278ee09cb/ss_ea95728c91422efd7700e2f1ff382bb278ee09cb.1920x1080.jpg?t=1783987294",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/72890b8f568741398b0d81e71e5cae8ac10ac7a4/ss_72890b8f568741398b0d81e71e5cae8ac10ac7a4.1920x1080.jpg?t=1783987294",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/b979b00a3564702ce7eb402c7aa6bc1430d2a194/ss_b979b00a3564702ce7eb402c7aa6bc1430d2a194.1920x1080.jpg?t=1783987294",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/6fecfddf0842b84cedd544c048af787638a87bcd/ss_6fecfddf0842b84cedd544c048af787638a87bcd.1920x1080.jpg?t=1783987294"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/1d2e56ab0ad73118fd5929fded8a81544e73c776/ss_1d2e56ab0ad73118fd5929fded8a81544e73c776.1920x1080.jpg?t=1784465088",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/e73830c792e8b7337b1ee1a50d0d72a4fb278f28/ss_e73830c792e8b7337b1ee1a50d0d72a4fb278f28.1920x1080.jpg?t=1784465088",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/adb10806852e451068b0d1ac0a3c355669727ab8/ss_adb10806852e451068b0d1ac0a3c355669727ab8.1920x1080.jpg?t=1784465088",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/6b072cde136ba467e5ebc344da5c5dafb4513fd3/ss_6b072cde136ba467e5ebc344da5c5dafb4513fd3.1920x1080.jpg?t=1784465088",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/ea95728c91422efd7700e2f1ff382bb278ee09cb/ss_ea95728c91422efd7700e2f1ff382bb278ee09cb.1920x1080.jpg?t=1784465088",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/72890b8f568741398b0d81e71e5cae8ac10ac7a4/ss_72890b8f568741398b0d81e71e5cae8ac10ac7a4.1920x1080.jpg?t=1784465088",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/b979b00a3564702ce7eb402c7aa6bc1430d2a194/ss_b979b00a3564702ce7eb402c7aa6bc1430d2a194.1920x1080.jpg?t=1784465088",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897540/6fecfddf0842b84cedd544c048af787638a87bcd/ss_6fecfddf0842b84cedd544c048af787638a87bcd.1920x1080.jpg?t=1784465088"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-17T07:49:26Z"
+  "updated_at": "2026-07-20T08:44:37Z"
 }
