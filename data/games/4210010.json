@@ -1,0 +1,38 @@
+{
+  "id": 4210010,
+  "title": "Incremental Infinity",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/eb6cf2e7c2d5bfb19888909534908b6eaa2eafd0/header.jpg?t=1784565742",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4210010?t=1784565742",
+  "description": "Incremental Infinity — это игра о достижении бесконечности. В абстрактном мире, управляемом числами, ты становишься экспоненциально сильнее благодаря по-настоящему бесконечному, процедурно генерируемому древу навыков.\n\nТы стреляешь автоматически. Никаких действий не требуется, кроме взаимодействия с древом навыков.\n\nТвоё число — это не только здоровье, но и твой размер. Чем больше число, тем крупнее и могущественнее ты становишься. Стремись стать самым большим числом среди всех абстрактных миров… Но помни: одно поражение отбросит тебя обратно к «1», хотя улучшения сохранятся.\n\nОткрывай новые сектора бесконечного древа навыков, находи уникальные улучшения и продолжай ускорять своё развитие.\n\nОсобенности• Бесконечное процедурно генерируемое древо навыков\n\n• Открывайте новые сектора, чтобы бесконечно расширять древо навыков\n\n• Добавляйте новые улучшения в пул, чтобы создавать свой билд\n\n• Играйте в полноэкранном режиме или в небольшом боковом окне во время других занятий\n\n• Выполняйте задания, чтобы получать больше ресурсов\n\n• Совершайте Вознесение, чтобы открывать постоянные улучшения и увеличивать получение XP\n\n• Силе нет предела",
+  "description_short": "Инкрементальная игра, в которой вы исследуете бесконечное процедурно генерируемое древо навыков. Защищайтесь от постоянно растущих волн чисел. Открывайте новые способности, выполняйте задания и расширяйте своё древо навыков, чтобы стать бесконечно могущественным.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 674,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/67faf7a8dd518bfc744458e2fc30969a02c2f034/ss_67faf7a8dd518bfc744458e2fc30969a02c2f034.1920x1080.jpg?t=1784565742",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/a19e00f74c7e1c7bc234acc9308c9acf46d9fd01/ss_a19e00f74c7e1c7bc234acc9308c9acf46d9fd01.1920x1080.jpg?t=1784565742",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/9b1bb39d771426b3a4ca9309192a0e4c4dae0de8/ss_9b1bb39d771426b3a4ca9309192a0e4c4dae0de8.1920x1080.jpg?t=1784565742",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/09675735deb859e7196002e0be1d0d34e2e4bc58/ss_09675735deb859e7196002e0be1d0d34e2e4bc58.1920x1080.jpg?t=1784565742",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/e1d9915e26f3aaca1a672c670ca57dbde041e8b7/ss_e1d9915e26f3aaca1a672c670ca57dbde041e8b7.1920x1080.jpg?t=1784565742",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/274216f59398650674c33ee29edbc93e146129ec/ss_274216f59398650674c33ee29edbc93e146129ec.1920x1080.jpg?t=1784565742",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/3e42a1895e2ecbf3a70be3b54dd44a15a074f2ab/ss_3e42a1895e2ecbf3a70be3b54dd44a15a074f2ab.1920x1080.jpg?t=1784565742",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210010/5f3fcf8538a64e0241947b451ce44c374a7ef94a/ss_5f3fcf8538a64e0241947b451ce44c374a7ef94a.1920x1080.jpg?t=1784565742"
+  ],
+  "upsells": [
+    {
+      "id": 4890940,
+      "name": "Incremental Infinity Soundtrack",
+      "price_rub": 591,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890940/c6b58f6c82923add76b33866614dbe71073ce3a9/header.jpg?t=1784571386"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-20T20:03:06Z"
+}

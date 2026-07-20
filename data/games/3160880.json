@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1262,
+  "price_rub": 1267,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,10 +29,10 @@
     {
       "id": 3943020,
       "name": "Tavern Legends Bardsongs",
-      "price_rub": 760,
+      "price_rub": 761,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3943020/1cc1d432f75fb14ea19cb71a1327b9f83f7ef008/header.jpg?t=1759843825"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-17T19:20:38Z"
+  "updated_at": "2026-07-20T19:52:37Z"
 }

@@ -1,0 +1,31 @@
+{
+  "id": 4261870,
+  "title": "Pixel Orbit",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/b9dbd9720b55ad5a13be53147d4e2708e7272403/header.jpg?t=1784556152",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4261870?t=1784556152",
+  "description": "Игра в жанре инкрементал, посвященная защите Земли от надвигающейся опасности. Развивайте дерево навыков, чтобы устанавливать автоматические турели и различные другие защитные механизмы.\n\nВыживайте как можно дольше\n\nРазвивайте дерево навыков\n\nПобеждайте боссов",
+  "description_short": "Пошаговая игра о защите Земли от надвигающейся опасности. Развивайте дерево навыков, чтобы устанавливать автоматические турели и различные другие защитные механизмы.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 798,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/15df1a87f42b9fa9c5b9195788fd83a1a9e39a9e/ss_15df1a87f42b9fa9c5b9195788fd83a1a9e39a9e.1920x1080.jpg?t=1784556152",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/6227b7c4ad021cd924ca3100ffbcaa194afe4048/ss_6227b7c4ad021cd924ca3100ffbcaa194afe4048.1920x1080.jpg?t=1784556152",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/d3adee66368c1cda40465101b350f715950b3880/ss_d3adee66368c1cda40465101b350f715950b3880.1920x1080.jpg?t=1784556152",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/55f8068ca24402cbb10fe19906db1a7d39053807/ss_55f8068ca24402cbb10fe19906db1a7d39053807.1920x1080.jpg?t=1784556152",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/d9a9f7c0b667ea168fad58b963cf767859647134/ss_d9a9f7c0b667ea168fad58b963cf767859647134.1920x1080.jpg?t=1784556152",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/c2b30c3ebd0114ff009ced3b427568f5c7c3d586/ss_c2b30c3ebd0114ff009ced3b427568f5c7c3d586.1920x1080.jpg?t=1784556152",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/c03790822e2638f1fa05181ab0c112de7931cdd3/ss_c03790822e2638f1fa05181ab0c112de7931cdd3.1920x1080.jpg?t=1784556152",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/bc4e4a32ce6fee1c76716c5b403734c421b95add/ss_bc4e4a32ce6fee1c76716c5b403734c421b95add.1920x1080.jpg?t=1784556152"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-20T20:09:56Z"
+}
