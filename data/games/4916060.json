@@ -1,0 +1,31 @@
+{
+  "id": 4916060,
+  "title": "WANDERLAND",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/cca4300b483fdd0101d2953ad11f0d6ddd25a66f/header.jpg?t=1784644205",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/688ca07b70cd94ebfca98d2925f1701911fc205a/page_bg_raw.jpg?t=1784644205",
+  "description": "不思議な箱庭をめぐる、3Dのアドベンチャーゲームです。\n\nこれはなに？2021年にPC用フリーウェアとして公開されたゲームです。\n\n夢の中に迷い込んだプレイヤーを操作し現実を目指します。\n\n箱庭世界をさまよいながらテキストを読んで話を進めます。\n\nSteamにて配信するにあたり少しだけ調整していますが、\n\n・非圧縮で保存されていた音声ファイルを適切に圧縮\n\n・テキストが読みやすくなるようフォントを変更\n\n・タイトル画面へ戻る隠しコマンドを追加\n\nなど、必要最低限にとどめています。\n\n稚拙さ　未熟さ　ぎこちなさ　そのままにしてあります。\n\n故にフリーウェアです。\n\n操作についてキーボードの場合\n\n移動・・・・・・・・WASD / 方向キー\n\nダッシュ・・・・・・Shift（移動中）\n\n話す・決定・・・・・Enter / Z / スペースキー\n\nキャンセル・・・・・Esc / X\n\nフルスクリーン・・・F4\n\nXInputに対応したコントローラーを使用できます。\n\nタイトル画面へ戻るには\n\nShift + Z + X を長押ししてください。（コントローラーの場合は X + A + B 長押し）\n\n（イベント中にこのコマンドを入力した場合はイベントが終わってからタイトルに戻ります。）\n\n（ダッシュ・決定・キャンセル の組み合わせであれば、どのキーを押してもコマンドが発動します。）",
+  "description_short": "不思議な箱庭をめぐる、3Dのアドベンチャーゲームです。",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/1a8c0e44aa0128df0ce22d0cc5795bba75f71b17/ss_1a8c0e44aa0128df0ce22d0cc5795bba75f71b17.1920x1080.jpg?t=1784644205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/ece43b8f9d78e5593c192515d67f32e7db897be5/ss_ece43b8f9d78e5593c192515d67f32e7db897be5.1920x1080.jpg?t=1784644205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/e30fe0e52653997df4761a039e92f0ca4c6da75a/ss_e30fe0e52653997df4761a039e92f0ca4c6da75a.1920x1080.jpg?t=1784644205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/6fa12c86f9bc6dcc5b36c7ca2426d9c3fde00e0a/ss_6fa12c86f9bc6dcc5b36c7ca2426d9c3fde00e0a.1920x1080.jpg?t=1784644205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/69a90d5a58a2c31d7b66fd60a00621f5efde109c/ss_69a90d5a58a2c31d7b66fd60a00621f5efde109c.1920x1080.jpg?t=1784644205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/8f1e10c908659f380c5962246e08e40c8e3a16b3/ss_8f1e10c908659f380c5962246e08e40c8e3a16b3.1920x1080.jpg?t=1784644205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/c6d93d6baa00e02c2e25aa52a2e603c9518853a2/ss_c6d93d6baa00e02c2e25aa52a2e603c9518853a2.1920x1080.jpg?t=1784644205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916060/9d05dc3172b98ee6990fd1890a69ad18fa2b3b28/ss_9d05dc3172b98ee6990fd1890a69ad18fa2b3b28.1920x1080.jpg?t=1784644205"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-21T19:47:36Z"
+}

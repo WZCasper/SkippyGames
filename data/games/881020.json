@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2423,
+  "price_rub": 2426,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "yIajXL-h2Yo",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_cdda0cdcd1f5aec78bb9edea1fa7d80feaf46d77.1920x1080.jpg?t=1783524179",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_26d3bbdddbf5f1b2c21c59bd0a1fe1fdd109cce4.1920x1080.jpg?t=1783524179",
@@ -32,13 +32,13 @@
     {
       "id": 3839790,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
-      "price_rub": 1898,
+      "price_rub": 1900,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/b503541d57a9cb8f2b4af8b11f2d458a4e601e7e/header.jpg?t=1784178909"
     },
     {
       "id": 4306890,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)",
-      "price_rub": 3124,
+      "price_rub": 3127,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306890/a558cc704e2fedc385785e8a65c98a7845c29b1e/header.jpg?t=1784178911"
     },
     {
@@ -56,7 +56,7 @@
     {
       "id": 4528540,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Special Pack",
-      "price_rub": 1051,
+      "price_rub": 1052,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528540/f34657b4b3e7b38fd937980e1838a3e7b99dbd03/header.jpg?t=1783522912"
     },
     {
@@ -68,7 +68,7 @@
     {
       "id": 2799850,
       "name": "Granblue Fantasy: Relink - Upgrade pack",
-      "price_rub": 1051,
+      "price_rub": 1052,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799850/header.jpg?t=1778737215"
     },
     {
@@ -80,7 +80,7 @@
     {
       "id": 2944850,
       "name": "Granblue Fantasy: Relink - Color Pack 5",
-      "price_rub": 953,
+      "price_rub": 954,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944850/header.jpg?t=1727673321"
     },
     {
@@ -103,5 +103,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-18T18:43:07Z"
+  "updated_at": "2026-07-21T19:17:36Z"
 }

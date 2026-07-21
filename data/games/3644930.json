@@ -1,0 +1,38 @@
+{
+  "id": 3644930,
+  "title": "MEATHOOK",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/85fa9bc94a7dd44a1330c4823960fd20cec3c053/header.jpg?t=1784653757",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3644930/library_hero.jpg",
+  "description": "Демо включает 7/10 уровней. Попробуйте!\n\n• Таинственный культ захватил вас. Вы подвешены на конвейерном механизме и вынуждены участвовать в серии ритуальных испытаний.\n\n• Освойте тактильную физическую систему оружия с уникальной функцией ручной перезарядки.\n\n• Перемещайтесь по небольшим взаимосвязанным уровням, выбирая маркеры, к которым нужно двигаться. Открывайте новые пути и разблокируйте короткие маршруты. Оптимизируйте свою стратегию, исследуя и переигрывая.\n\n• Собирайте полезные ресурсы, такие как еда, боеприпасы, ключи и оружие. Перфекционисты также найдут секретные предметы.\n\n• Раскройте новую тайну в сюрреалистическом мире моей первой игры Barbotine.\n\n• Очистите туннели от культистов.\n\n• Сможете ли вы покорить туннели и сбежать живым?",
+  "description_short": "Survival horror FPS с физически управляемой системой оружия. Вы прикованы к зловещему конвейерному механизму. Тянитесь к оружию и предметам, пробирайтесь по лабиринтным туннелям и прокладывайте путь к достоинству!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 752,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/c78519739390acf673b2c680c590e04569c1885c/ss_c78519739390acf673b2c680c590e04569c1885c.1920x1080.jpg?t=1784653757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/d8bbe48a74ae11cb31850a05571d028185791686/ss_d8bbe48a74ae11cb31850a05571d028185791686.1920x1080.jpg?t=1784653757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/40c84ed5820556ec2a614194870464f1960b4a33/ss_40c84ed5820556ec2a614194870464f1960b4a33.1920x1080.jpg?t=1784653757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/b2cf0912d0dd1f6f8a97fa7fe79c8b3d5bd00042/ss_b2cf0912d0dd1f6f8a97fa7fe79c8b3d5bd00042.1920x1080.jpg?t=1784653757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/72463b806a448e14e9350159ffde03370790bd02/ss_72463b806a448e14e9350159ffde03370790bd02.1920x1080.jpg?t=1784653757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/5a8e1d287330ff2a6527304f44cba48c1d9045ce/ss_5a8e1d287330ff2a6527304f44cba48c1d9045ce.1920x1080.jpg?t=1784653757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/088580605e5535a31a6063812898ea89e7365f33/ss_088580605e5535a31a6063812898ea89e7365f33.1920x1080.jpg?t=1784653757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644930/a5f2698da554ba7b38a0ac6bf4ae369422de738b/ss_a5f2698da554ba7b38a0ac6bf4ae369422de738b.1920x1080.jpg?t=1784653757"
+  ],
+  "upsells": [
+    {
+      "id": 4808380,
+      "name": "MEATHOOK Soundtrack",
+      "price_rub": 649,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808380/f4c6ddc5218171731fef6584ff2578b802a2af0e/header.jpg?t=1784653385"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-21T19:36:30Z"
+}

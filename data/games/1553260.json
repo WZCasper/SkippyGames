@@ -1,0 +1,38 @@
+{
+  "id": 1553260,
+  "title": "Scarlet Deer Inn",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1553260/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1553260/library_hero.jpg",
+  "description": "Works great on Steam Deck!We're still waiting for Valve to officially verify Scarlet Deer Inn, but we designed the game to work well on it.\n\nABOUT\n\nScarlet Deer Inn is an embroidered dark medieval folk tale. While life in a seemingly ordinary village is all about simple chores and idle gossip, sinister secrets hide below.\n\n• Beautiful hand-painted backgrounds and traditional animations crafted from physically embroidered frames. \n\n• A world filled with colourful characters.\n\n• Hidden shortcuts in the dark that make each playthrough easier. \n\n• Folk music inspired by the Middle Ages and performed on traditional instruments. \n\nTHE STORY \n\nElise is a mother of two. She is not exactly extraordinary, and there are no heroic epics written about her. \nHer circumstances will force her to explore unusual places and face dark, terrifying situations. \n\nTHE TEAM \n\nAttu Games is a husband-and-wife team from the Czech Republic. During the development of Scarlet Deer Inn, their duo expanded into a trio with the birth of their baby, bringing a whole new level of chaos to the process.",
+  "description_short": "An embroidered dark medieval folk tale. While life in a seemingly ordinary village is all about simple chores and idle gossip, sinister secrets hide below.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 1178,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/a16375e51ba2449b1deae9f56b564625087ef035/ss_a16375e51ba2449b1deae9f56b564625087ef035.1920x1080.jpg?t=1784647757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/e0b676fcc00d97409bb6b44f456ceb929dc64b03/ss_e0b676fcc00d97409bb6b44f456ceb929dc64b03.1920x1080.jpg?t=1784647757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/88b67ad3e18d3bd12cc0094177720160d586f9ac/ss_88b67ad3e18d3bd12cc0094177720160d586f9ac.1920x1080.jpg?t=1784647757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/d24e0d69a76441a5015e529f88fdf6c3677fe3f2/ss_d24e0d69a76441a5015e529f88fdf6c3677fe3f2.1920x1080.jpg?t=1784647757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/8d2e255d50252975f78dee11fe7a0870cf96951c/ss_8d2e255d50252975f78dee11fe7a0870cf96951c.1920x1080.jpg?t=1784647757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/dfac6db79908c3b1a6e17f4246a8dece286e95a6/ss_dfac6db79908c3b1a6e17f4246a8dece286e95a6.1920x1080.jpg?t=1784647757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/4e46a54f8677095f9dcdf6da3b28578e35b4eac4/ss_4e46a54f8677095f9dcdf6da3b28578e35b4eac4.1920x1080.jpg?t=1784647757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553260/21b4d0252553cebb5592046720eddee004fd288e/ss_21b4d0252553cebb5592046720eddee004fd288e.1920x1080.jpg?t=1784647757"
+  ],
+  "upsells": [
+    {
+      "id": 4955870,
+      "name": "Scarlet Deer Inn Soundtrack",
+      "price_rub": 772,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4955870/0902f499ff339e63fcbbc7ac2d56ce4d4cfb7bdd/header.jpg?t=1784645451"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-21T19:44:56Z"
+}

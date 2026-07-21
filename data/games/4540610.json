@@ -14,7 +14,7 @@
   "price_rub": 717,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "DK3JnWsMoto",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540610/4f56469ac1cab2bc8defc492995f30f401197c25/ss_4f56469ac1cab2bc8defc492995f30f401197c25.1920x1080.jpg?t=1783542406",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540610/f9900509aa70b48078b4144febc61d06397ef872/ss_f9900509aa70b48078b4144febc61d06397ef872.1920x1080.jpg?t=1783542406",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-18T18:42:01Z"
+  "updated_at": "2026-07-21T19:01:38Z"
 }

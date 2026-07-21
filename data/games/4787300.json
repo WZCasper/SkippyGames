@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "2nlkEY-3CMI",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787300/eef909ff4168ab34a453068d86ebee038dd9d4af/ss_eef909ff4168ab34a453068d86ebee038dd9d4af.1920x1080.jpg?t=1783568681",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787300/6f0b5ff73d91e1da267ed146113c5d744d5fb7a1/ss_6f0b5ff73d91e1da267ed146113c5d744d5fb7a1.1920x1080.jpg?t=1783568681",
@@ -23,7 +23,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787300/575d8b927b5287be59b8d9021646cdb55abc11f9/ss_575d8b927b5287be59b8d9021646cdb55abc11f9.1920x1080.jpg?t=1783568681",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787300/5685fae10a5f6173a959a0069a69d8391cc6c388/ss_5685fae10a5f6173a959a0069a69d8391cc6c388.1920x1080.jpg?t=1783568681"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4805990,
+      "name": "Zerion: Infinite Space - Premium",
+      "price_rub": 2515,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4805990/90244151e4330497a27d67113028ed14bc9975fa/header.jpg?t=1784587919"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-18T18:42:51Z"
+  "updated_at": "2026-07-21T19:14:23Z"
 }

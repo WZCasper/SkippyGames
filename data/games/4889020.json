@@ -1,0 +1,28 @@
+{
+  "id": 4889020,
+  "title": "Fat File Finder",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889020/95ff3a910704e9c95b506a65583a9d5ce7809409/header.jpg?t=1784642828",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889020/269aa35e07d22f0e5a200eeda425ecba5451a4ef/page_bg_raw.jpg?t=1784642828",
+  "description": "Поиск Больших Файлов сканирует ваши диски и дает вам четкую визуальную разбивку того, что именно занимает ваше хранилище.\n\nБольшая интерактивная treemap занимает большую часть экрана, давая вам мгновенный обзор всего диска. Большие блоки означают большие файлы, поэтому худших нарушителей невозможно пропустить. Подробный список файлов находится рядом, позволяя сортировать по возрастанию или убыванию по размеру, чтобы вы могли сосредоточиться на крупнейших потребителях пространства или отследить самый мелкий мусор.\n\nХотите увидеть, что Windows скрывал от вас? Включите скрытые файлы, чтобы получить полную картину того, что действительно находится в вашей системе.\n\nБез копания в Проводнике, без угадывания. Просто найдите большое и удалите это.",
+  "description_short": "У вас когда-нибудь заканчивалось место на хранилище без понятия, что его занимает? Поиск Больших Файлов сканирует ваши диски и показывает, что monopolizирует ваше хранилище, чтобы вы могли быстро найти и удалить это.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 798,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "H_MaWDN9umk",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889020/12a4a515cdb837c9dad1ae4413f78662445ed55a/ss_12a4a515cdb837c9dad1ae4413f78662445ed55a.1920x1080.jpg?t=1784642828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889020/db4fca2b3ae252fb9365ed1959748332ba994c51/ss_db4fca2b3ae252fb9365ed1959748332ba994c51.1920x1080.jpg?t=1784642828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889020/638287a501c8692a66ffa0d8e3c4e3cd7db1879f/ss_638287a501c8692a66ffa0d8e3c4e3cd7db1879f.1920x1080.jpg?t=1784642828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889020/f3ea3129962a89de12d821cfe370aac34037b85e/ss_f3ea3129962a89de12d821cfe370aac34037b85e.1920x1080.jpg?t=1784642828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889020/889343c0a6ca503bd0f6c0ebf7c9aa54f3f4d88b/ss_889343c0a6ca503bd0f6c0ebf7c9aa54f3f4d88b.1920x1080.jpg?t=1784642828"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-21T19:46:32Z"
+}

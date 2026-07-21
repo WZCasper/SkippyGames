@@ -1,0 +1,44 @@
+{
+  "id": 3883970,
+  "title": "Love at Work",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/5b833a595d55d5c9d91ee20d645198295fb8b32f/header.jpg?t=1784653172",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3883970/library_hero.jpg",
+  "description": "Начни новую жизнь, устроившись на работу в престижную офисную компанию. Ты — новичок в команде, где за каждым столом скрываются не только отчёты и дедлайны, но и обаятельные коллеги с яркими характерами. Заводи связи, справляйся с рабочими (и не только) задачами, поднимайся по карьерной лестнице — и открой для себя, что офисная жизнь может быть куда жарче, чем кажется на первый взгляд.\n\n• Несколько персонажей, с которыми можно познакомиться и завести роман \n\n• У каждого персонажа своя проработанная история. \n\n• Геймплей в стиле песочницы: свободное перемещение и исследование \n\n• 18+ сцены с 2D скелетной анимацией \n\n• Мини-игры \n\n• Смесь юмора, интриги и жарких офисных моментов",
+  "description_short": "Что может быть жарче офисной драмы? Только Love at Work — визуальная новелла, где каждый диалог может привести к новому повороту... или к постели. Развивайте отношения с героинями, открывайте откровенные сцены, выбирайте подарки и вливайтесь в насыщенную повседневную (и не только) жизнь на работе.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 779,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/fc25f25aba8532a9fb59d2a388907af8e3b1494c/ss_fc25f25aba8532a9fb59d2a388907af8e3b1494c.1920x1080.jpg?t=1784653172",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/bbfe48e53ceff52fd698ab61d768c8b09e11ca60/ss_bbfe48e53ceff52fd698ab61d768c8b09e11ca60.1920x1080.jpg?t=1784653172",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/d4e2b2d7aea4de2bb952273d9b2730538e39122d/ss_d4e2b2d7aea4de2bb952273d9b2730538e39122d.1920x1080.jpg?t=1784653172",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/1597383fb2a7e32af3ae4b111c90365dc330d9e9/ss_1597383fb2a7e32af3ae4b111c90365dc330d9e9.1920x1080.jpg?t=1784653172",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/28d70cb591cbd2f1cc210e21b55737da1a956561/ss_28d70cb591cbd2f1cc210e21b55737da1a956561.1920x1080.jpg?t=1784653172",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/b8415eb286f2d1792280a90110e0943b0ac8cbb6/ss_b8415eb286f2d1792280a90110e0943b0ac8cbb6.1920x1080.jpg?t=1784653172",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/3ed6ef19a500c3f5dfcb1f5ade5f9e15006d55a6/ss_3ed6ef19a500c3f5dfcb1f5ade5f9e15006d55a6.1920x1080.jpg?t=1784653172",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/51ec11c99385739812e09a704f5c5472a335ed59/ss_51ec11c99385739812e09a704f5c5472a335ed59.1920x1080.jpg?t=1784653172"
+  ],
+  "upsells": [
+    {
+      "id": 4879980,
+      "name": "Love at Work Soundtrack",
+      "price_rub": 547,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879980/ef73b1af9a83f05eba10e2d20045204a021717ed/header.jpg?t=1784653194"
+    },
+    {
+      "id": 4880070,
+      "name": "Love at Work - Digital Artbook",
+      "price_rub": 633,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880070/f54a18334afd62d88490a8c8ebbfc6ce373a388c/header.jpg?t=1784653199"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-21T19:39:40Z"
+}
