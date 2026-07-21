@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 743,
+  "price_rub": 744,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "cakgBPJapZY",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/94bb05383e761adeebf26860b30a668efa0ecbbc/ss_94bb05383e761adeebf26860b30a668efa0ecbbc.1920x1080.jpg?t=1784358281",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/1cb73dc8b16709f34f4a59039837faa8e515e42e/ss_1cb73dc8b16709f34f4a59039837faa8e515e42e.1920x1080.jpg?t=1784358281",
@@ -25,5 +25,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-18T12:45:03Z"
+  "updated_at": "2026-07-21T13:27:17Z"
 }

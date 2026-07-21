@@ -1,8 +1,8 @@
 {
   "id": 4707970,
   "title": "攻击就能加攻击",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/a6961e03e803cfe97a755aa933c895cc2c9ab839/header.jpg?t=1784081911",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/09ec60714354ab0809c698f8851a4d31614f77b0/page_bg_raw.jpg?t=1784081911",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/a6961e03e803cfe97a755aa933c895cc2c9ab839/header.jpg?t=1784427668",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/09ec60714354ab0809c698f8851a4d31614f77b0/page_bg_raw.jpg?t=1784427668",
   "description": "Main gameplay:\n\nInfinite Stack:Attack boosts Attack\n\nLooter's Joy:Gear & collectibles rain down\n\nStrategic Trade-off:Attack Power doubles as your currency\n\nEasy Play:Turn-based, one-hand control\n\nDefeat CGs: Over 100 illustrations – punishment or reward?",
   "description_short": "A solo turn-based RPG. An ordinary girl awakens a seemingly trivial ability: each attack boosts her Attack Power. No shortcuts, no godly gear. Just keep attacking. When countless strikes become a torrent, even mortals can shake the gods!",
   "genres": [
@@ -14,18 +14,18 @@
   "price_rub": 605,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "nGaXThXWTLc",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/c9c4bcfb575ba2d8c4bf556546c35c6a78d7e1ae/ss_c9c4bcfb575ba2d8c4bf556546c35c6a78d7e1ae.1920x1080.jpg?t=1784081911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/6f2383f26a626af465d637f7fab341d909b47d38/ss_6f2383f26a626af465d637f7fab341d909b47d38.1920x1080.jpg?t=1784081911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/e727b20437a483d474aff512654d36f846b318c4/ss_e727b20437a483d474aff512654d36f846b318c4.1920x1080.jpg?t=1784081911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/12f8176b10b3cc176d22019336783c919d222227/ss_12f8176b10b3cc176d22019336783c919d222227.1920x1080.jpg?t=1784081911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/fa8e906b8d502de83d4309eadab107f54a1eb3b9/ss_fa8e906b8d502de83d4309eadab107f54a1eb3b9.1920x1080.jpg?t=1784081911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/bf80af0e01ad0ce2205bd3edfce33bd6ccea2cb6/ss_bf80af0e01ad0ce2205bd3edfce33bd6ccea2cb6.1920x1080.jpg?t=1784081911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/7cddc381b9e19f5f7666b8771d32a203365faf97/ss_7cddc381b9e19f5f7666b8771d32a203365faf97.1920x1080.jpg?t=1784081911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/1478c99c2cdad60f8d585bd5b01cff383146b6a2/ss_1478c99c2cdad60f8d585bd5b01cff383146b6a2.1920x1080.jpg?t=1784081911"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/c9c4bcfb575ba2d8c4bf556546c35c6a78d7e1ae/ss_c9c4bcfb575ba2d8c4bf556546c35c6a78d7e1ae.1920x1080.jpg?t=1784427668",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/6f2383f26a626af465d637f7fab341d909b47d38/ss_6f2383f26a626af465d637f7fab341d909b47d38.1920x1080.jpg?t=1784427668",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/e727b20437a483d474aff512654d36f846b318c4/ss_e727b20437a483d474aff512654d36f846b318c4.1920x1080.jpg?t=1784427668",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/12f8176b10b3cc176d22019336783c919d222227/ss_12f8176b10b3cc176d22019336783c919d222227.1920x1080.jpg?t=1784427668",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/fa8e906b8d502de83d4309eadab107f54a1eb3b9/ss_fa8e906b8d502de83d4309eadab107f54a1eb3b9.1920x1080.jpg?t=1784427668",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/bf80af0e01ad0ce2205bd3edfce33bd6ccea2cb6/ss_bf80af0e01ad0ce2205bd3edfce33bd6ccea2cb6.1920x1080.jpg?t=1784427668",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/7cddc381b9e19f5f7666b8771d32a203365faf97/ss_7cddc381b9e19f5f7666b8771d32a203365faf97.1920x1080.jpg?t=1784427668",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/1478c99c2cdad60f8d585bd5b01cff383146b6a2/ss_1478c99c2cdad60f8d585bd5b01cff383146b6a2.1920x1080.jpg?t=1784427668"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-18T12:44:27Z"
+  "updated_at": "2026-07-21T13:22:35Z"
 }

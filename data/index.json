@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T08:08:48Z",
+  "generated_at": "2026-07-21T13:38:19Z",
   "uah_to_rub_rate": 1.752351,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1016,
+  "count": 1032,
   "games": [
     {
       "id": 4881310,
@@ -67,7 +67,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 554,
+      "price_rub": 591,
       "is_free": false
     },
     {
@@ -119,7 +119,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 743,
+      "price_rub": 744,
       "is_free": false
     },
     {
@@ -211,6 +211,19 @@
         "PC"
       ],
       "price_rub": 806,
+      "is_free": false
+    },
+    {
+      "id": 4695530,
+      "title": "A Game About Getting Bigger",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/a168fdf4fafdbaa2a32e6eba1eb1491c866c12e1/header.jpg?t=1784623922",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -1576,7 +1589,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 815,
+      "price_rub": 894,
       "is_free": false
     },
     {
@@ -1840,6 +1853,19 @@
       "is_free": false
     },
     {
+      "id": 4899300,
+      "title": "Cheminots",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899300/e85a70dd8abec33713e3b6dd5f7f69210f65238b/header.jpg?t=1784621764",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 682,
+      "is_free": false
+    },
+    {
       "id": 4273380,
       "title": "Chesscent",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273380/a075ba1494e21082c85e6b9f4c3094d70bbce48e/header.jpg?t=1784048413",
@@ -1902,6 +1928,19 @@
         "PC"
       ],
       "price_rub": 675,
+      "is_free": false
+    },
+    {
+      "id": 4478730,
+      "title": "Chippy Beaver",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478730/13597fed92b14e709eaa76e91650314a682ff0d1/header.jpg?t=1784608555",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 542,
       "is_free": false
     },
     {
@@ -2058,6 +2097,19 @@
         "PC"
       ],
       "price_rub": 623,
+      "is_free": false
+    },
+    {
+      "id": 4601880,
+      "title": "Cobalt Miner",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601880/50f066fec87fa286bd27eee520a89a5330674a1e/header.jpg?t=1784630557",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -2790,6 +2842,19 @@
         "PC"
       ],
       "price_rub": 581,
+      "is_free": false
+    },
+    {
+      "id": 3367990,
+      "title": "Delicious - Taste of Truth",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367990/a19c62f7feb09db3af9860c96d986a2b8a74dde1/header.jpg?t=1784634383",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1154,
       "is_free": false
     },
     {
@@ -3685,7 +3750,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -3725,6 +3790,19 @@
         "PC"
       ],
       "price_rub": 675,
+      "is_free": false
+    },
+    {
+      "id": 2467880,
+      "title": "Fading Echo",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/e39036b077d6aee96e3e0b2e7929a55c4735957e/header.jpg?t=1784622856",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1154,
       "is_free": false
     },
     {
@@ -4362,7 +4440,7 @@
     {
       "id": 4890720,
       "title": "Galatria",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890720/da17485797f1d0003ed5c2df855a3bbd0bcfea69/header.jpg?t=1784096547",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890720/da17485797f1d0003ed5c2df855a3bbd0bcfea69/header.jpg?t=1784387642",
       "genres": [
         "Экшен"
       ],
@@ -4988,6 +5066,19 @@
         "PC"
       ],
       "price_rub": 537,
+      "is_free": false
+    },
+    {
+      "id": 4881700,
+      "title": "Hentai Clicker: Kaia is streaming",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4881700/98e6057626e58b533f21498a5c382663a3013964/header.jpg?t=1784622612",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 588,
       "is_free": false
     },
     {
@@ -5886,6 +5977,19 @@
       "is_free": true
     },
     {
+      "id": 4119110,
+      "title": "Kujira no Hara",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119110/847a3124ea5bc25b79e22213b01d6647e7fcf570/header.jpg?t=1784634875",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4474500,
       "title": "Kvga",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474500/efe153ce2de1fbd5bb033ecafaf7767fbf9fd499/header.jpg?t=1783894375",
@@ -6757,6 +6861,19 @@
       "is_free": false
     },
     {
+      "id": 1361970,
+      "title": "Millennium Conflict",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1361970/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 570,
+      "is_free": false
+    },
+    {
       "id": 4397070,
       "title": "MindPrompt: Party Games with AI",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397070/f796e3af3f707ef831677549a5c5ce5e1c070b16/header.jpg?t=1783450778",
@@ -6858,6 +6975,19 @@
         "PC"
       ],
       "price_rub": 667,
+      "is_free": false
+    },
+    {
+      "id": 3864290,
+      "title": "Monkey Wave",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864290/edf985267d6d15bc5f16eaaac85ad21bf907a310/header.jpg?t=1784628051",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 779,
       "is_free": false
     },
     {
@@ -7641,6 +7771,19 @@
       "is_free": false
     },
     {
+      "id": 4918020,
+      "title": "Orbital Tower Defence",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4918020/3ac8197577d46f8509d10aba1718775d5dee46c3/header.jpg?t=1784638432",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 542,
+      "is_free": false
+    },
+    {
       "id": 4210580,
       "title": "Ore Factory Squad ⛏️",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784286903",
@@ -7919,7 +8062,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 619,
+      "price_rub": 633,
       "is_free": false
     },
     {
@@ -10602,6 +10745,19 @@
       "is_free": true
     },
     {
+      "id": 4839430,
+      "title": "The King Got Too Much Gold",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839430/25c11a84e31cf0975c31ada101359e4787ca8b68/header.jpg?t=1784630716",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 693,
+      "is_free": false
+    },
+    {
       "id": 4590610,
       "title": "The King's Game: Through the Veil",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590610/4fdf9668682273c1e393851a96b76e2f898a8caa/header.jpg?t=1783432912",
@@ -10611,7 +10767,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 799,
+      "price_rub": 800,
       "is_free": false
     },
     {
@@ -11024,7 +11180,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1153,
+      "price_rub": 1154,
       "is_free": false
     },
     {
@@ -11154,7 +11310,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1795,
+      "price_rub": 1797,
       "is_free": false
     },
     {
@@ -11193,7 +11349,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1428,
+      "price_rub": 1429,
       "is_free": false
     },
     {
@@ -11907,7 +12063,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 771,
+      "price_rub": 772,
       "is_free": false
     },
     {
@@ -12154,7 +12310,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 906,
+      "price_rub": 907,
       "is_free": false
     },
     {
@@ -12633,6 +12789,19 @@
       "is_free": true
     },
     {
+      "id": 2421340,
+      "title": "不倫婚姻審判官",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421340/180551992fc33c3063e2bb41e86baf7a740fe2e8/header.jpg?t=1784620426",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 933,
+      "is_free": false
+    },
+    {
       "id": 3406890,
       "title": "东方神域传 ~在游戏里展示威严~",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3406890/cf6c0415f21023f6067080c400549f90ee2894b3/header.jpg?t=1784273459",
@@ -12867,6 +13036,19 @@
       "is_free": true
     },
     {
+      "id": 4571100,
+      "title": "单词牌",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4571100/4a14ac01e3a69c9888f8463e8e6cb07368810ee8/header.jpg?t=1784638502",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 738,
+      "is_free": false
+    },
+    {
       "id": 4740600,
       "title": "咸鱼搬运工",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740600/277260cbe93ffb39aa8667c5c9b73d15c9107f7b/header.jpg?t=1783845282",
@@ -13051,7 +13233,7 @@
     {
       "id": 4707970,
       "title": "攻击就能加攻击",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/a6961e03e803cfe97a755aa933c895cc2c9ab839/header.jpg?t=1784081911",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707970/a6961e03e803cfe97a755aa933c895cc2c9ab839/header.jpg?t=1784427668",
       "genres": [
         "Экшен"
       ],
@@ -13112,6 +13294,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4905950,
+      "title": "无尽扫雷模拟器",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905950/88a5c63af633f6df8d463d6b74035d744a3fa811/header.jpg?t=1784618836",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 563,
+      "is_free": false
     },
     {
       "id": 4169410,
@@ -13357,7 +13552,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 933,
       "is_free": false
     },
     {
@@ -13397,6 +13592,19 @@
         "PC"
       ],
       "price_rub": 537,
+      "is_free": false
+    },
+    {
+      "id": 2812920,
+      "title": "龙与自然",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2812920/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 616,
       "is_free": false
     },
     {

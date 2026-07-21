@@ -1,0 +1,37 @@
+{
+  "id": 4695530,
+  "title": "A Game About Getting Bigger",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/a168fdf4fafdbaa2a32e6eba1eb1491c866c12e1/header.jpg?t=1784623922",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4695530?t=1784623922",
+  "description": "A Game About Getting Bigger — это incremental-игра с лутом, в которой вы кормите растущую чёрную дыру. Уничтожайте астероиды, планеты и другие небесные тела, чтобы чёрная дыра в центре становилась всё больше и больше.\n\nКаждый забег короткий и ограничен по времени. Ваша цель — уничтожить как можно больше ближайших объектов до того, как закончится время. Разрушенные остатки затягиваются в чёрную дыру, увеличивая её массу и постепенно приближая её к масштабам легендарных чёрных дыр, существующих в реальной вселенной.\n\nВ конце каждого забега вы будете получать Beacon-ы. Открывайте их, чтобы собирать Gems разных редкостей, а затем устанавливайте их в соответствующие слоты, усиливая свой build и делая будущие забеги ещё мощнее.\n\nПросто... становиться больше.",
+  "description_short": "A Game About Getting Bigger — это incremental-игра с лутом, в которой вы кормите растущую чёрную дыру. Уничтожайте небесные тела, чтобы чёрная дыра в центре становилась всё больше и больше.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 631,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/1616092396caa56fbd293f039f9ceeb0cae0de40/ss_1616092396caa56fbd293f039f9ceeb0cae0de40.1920x1080.jpg?t=1784623922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/a93465ae46b095a98910f795b78497f05f358f1d/ss_a93465ae46b095a98910f795b78497f05f358f1d.1920x1080.jpg?t=1784623922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/f1656ad500f91672ae68dd37db2963ef0728fb72/ss_f1656ad500f91672ae68dd37db2963ef0728fb72.1920x1080.jpg?t=1784623922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/b8d9673f20e31c08bc2e544c2fd33ffeaba4d15d/ss_b8d9673f20e31c08bc2e544c2fd33ffeaba4d15d.1920x1080.jpg?t=1784623922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/b6786c055a0a419ff2878a2463eb0337ab4f2b6c/ss_b6786c055a0a419ff2878a2463eb0337ab4f2b6c.1920x1080.jpg?t=1784623922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/6f8b32516b2f9ce649e6d84a4e8bde83d04b02f3/ss_6f8b32516b2f9ce649e6d84a4e8bde83d04b02f3.1920x1080.jpg?t=1784623922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/6b05265db8771d034880f572014b840b707aad30/ss_6b05265db8771d034880f572014b840b707aad30.1920x1080.jpg?t=1784623922"
+  ],
+  "upsells": [
+    {
+      "id": 4695700,
+      "name": "A Game About Getting Bigger: Supporter Pack",
+      "price_rub": 537,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695700/e3fc0828da47fde32aced1a5de03e03a9333f965/header.jpg?t=1780622991"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-21T13:34:05Z"
+}

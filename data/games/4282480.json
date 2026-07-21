@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 932,
+  "price_rub": 933,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "xSQLY6mst6E",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282480/4716f9e813c1af087044e3799023a5f39de803c9/ss_4716f9e813c1af087044e3799023a5f39de803c9.1920x1080.jpg?t=1784094907",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282480/6e4bdf436edd4ccede980d6de74d7d6f9d82ebe5/ss_6e4bdf436edd4ccede980d6de74d7d6f9d82ebe5.1920x1080.jpg?t=1784094907",
@@ -28,10 +28,10 @@
     {
       "id": 4893660,
       "name": "運行管理シミュレーター - 東京神奈川急行シナリオ",
-      "price_rub": 862,
+      "price_rub": 863,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4893660/925fe231daa363fed6982bc265f5fa86ceffd7a2/header.jpg?t=1784103219"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-18T12:44:19Z"
+  "updated_at": "2026-07-21T13:19:26Z"
 }
