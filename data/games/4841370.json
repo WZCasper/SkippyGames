@@ -14,7 +14,7 @@
   "price_rub": 728,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "aptdSGM1TKA",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841370/5320a890c398e93d846667e2a6a4ed4f6d6fb088/ss_5320a890c398e93d846667e2a6a4ed4f6d6fb088.1920x1080.jpg?t=1784308416",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841370/0dff27bc5e90f28ce7f701f2f05d4daceb5f13a6/ss_0dff27bc5e90f28ce7f701f2f05d4daceb5f13a6.1920x1080.jpg?t=1784308416",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-18T01:55:24Z"
+  "updated_at": "2026-07-21T08:05:19Z"
 }

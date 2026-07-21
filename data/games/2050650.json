@@ -1,0 +1,103 @@
+{
+  "id": 2050650,
+  "title": "Resident Evil 4",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_hero.jpg",
+  "description": "Resident Evil 4 Gold Edition\n\nПримечания:\n— Предметы, входящие в данный набор, можно приобрести по отдельности. Обратите на это внимание, чтобы избежать повторных покупок.\n— Установите новейший патч для Resident Evil 4, прежде чем играть в «Два пути» или воспользоваться дополнительным набором загружаемого контента.\n\nResident Evil 4 Gold Edition включает Resident Evil 4 и два дополнения: «Два пути», в котором вы сможете взглянуть на сюжет глазами Ады Вонг, и дополнительный набор загружаемого контента, содержащий дополнительные наряды для персонажей, а также полезное оружие и предметы.\n\nResident Evil 4:\nС момента биологической катастрофы в Раккун-Сити прошло 6 лет. Леон С. Кеннеди разыскивает пропавшую дочь президента в глухой европейской деревне, с жителями которой творится что-то ужасное.\n\nБлагодаря новым игровым механикам, переосмыслению сюжетной линии и яркой детализированной графике Resident Evil 4 становится настоящим возрождением культовой классики. Окунитесь в кошмар, совершивший революцию в жанре survival horror.\n\n«Два пути»:\nНайдите ответы на вопросы, возникшие после прохождения основного сюжета, сыграв за Аду Вонг. Какой путь она выберет во время поиска Янтаря?\n\nДополнительный набор загружаемого контента:\n— Повседневные костюмы для Леона и Эшли\n— Костюмы для Леона и Эшли «Романтика»\n— Костюм для Леона и фильтр «Герой»\n— Костюм для Леона и фильтр «Злодей»\n— Аксессуар для Леона «Тёмные очки (спорт)»\n— Особое оружие Sentinel Nine\n— Особое оружие «Головолом»\n— Замена звуковой дорожки «Оригинальная версия»\n— Карта сокровищ: дополнение\n\nОб игреВыжить — это лишь первый шаг.\n\nПосле биологической катастрофы в Раккун-Сити прошло шесть лет. Агента Леона С. Кеннеди, пережившего те события, отправили на задание по спасению похищенной дочери президента. В попытках отыскать ее он оказывается в укромной европейской деревеньке, где с местными жителями творится что-то не то. Сорвите занавес с этой увлекательной и жуткой истории о смелом герое и познайте жизнь и смерть, ужас и восхищение.\n\nResident Evil 4, настоящий гигант индустрии, возрождается. Вас ждут обновленный игровой процесс, переработанный сюжет и крайне детализированная графика.\n\nВновь переживите кошмар, полностью изменивший жанр ужасов.",
+  "description_short": "Выжить — это лишь первый шаг. Resident Evil 4, настоящий гигант индустрии, возрождается. Вас ждут обновленный игровой процесс, переработанный сюжет и крайне детализированная графика. Вновь переживите кошмар, полностью изменивший жанр ужасов.",
+  "genres": [
+    "Психологические хорроры",
+    "Экшен",
+    "Хорроры на выживание (Survival Horror)",
+    "Шутеры от третьего лица (TPS)",
+    "Выживание (Survival)",
+    "Приключения"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 1026,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "Id2EaldBaWw",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_59d1b19964cc532213df92c8287b75a0bffeb33c.1920x1080.jpg?t=1772502922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_ab807f8ad9e968a620777caf483cb6020367b9ee.1920x1080.jpg?t=1772502922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0442f7fb4327d79802c2db8ea8d23d228a28d896.1920x1080.jpg?t=1772502922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_69810f4cd155912fdfdd21da70181df7d454c874.1920x1080.jpg?t=1772502922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0596bac955340495562f3ff2538756ebd9a7f073.1920x1080.jpg?t=1772502922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0554b945aafc847d55f780f7968de00aafa968a3.1920x1080.jpg?t=1772502922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_29ffb23060c862bcbe1d1434e83d41ab10484d8e.1920x1080.jpg?t=1772502922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_22d21ef8c4e54cc5f8418f9b233178bf7869ee01.1920x1080.jpg?t=1772502922"
+  ],
+  "upsells": [
+    {
+      "id": 2109300,
+      "name": "Resident Evil 4 — «Два пути»",
+      "price_rub": 1078,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109300/header.jpg?t=1772502990"
+    },
+    {
+      "id": 2593600,
+      "name": "Resident Evil 4 Original Soundtrack",
+      "price_rub": 1935,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593600/header.jpg?t=1695385514"
+    },
+    {
+      "id": 2109301,
+      "name": "Resident Evil 4 — карта сокровищ: дополнение",
+      "price_rub": 668,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109301/header.jpg?t=1772503000"
+    },
+    {
+      "id": 2109303,
+      "name": "Resident Evil 4 — повседневные костюмы для Леона и Эшли",
+      "price_rub": 668,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109303/header.jpg?t=1772503008"
+    },
+    {
+      "id": 2109304,
+      "name": "Resident Evil 4 — Костюмы для Леона и Эшли «Романтика»",
+      "price_rub": 668,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109304/header.jpg?t=1772503015"
+    },
+    {
+      "id": 2109305,
+      "name": "Resident Evil 4 — костюм для Леона и фильтр «Герой»",
+      "price_rub": 630,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109305/header.jpg?t=1772503022"
+    },
+    {
+      "id": 2109306,
+      "name": "Resident Evil 4 — костюм для Леона и фильтр «Злодей»",
+      "price_rub": 630,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109306/header.jpg?t=1772503029"
+    },
+    {
+      "id": 2109307,
+      "name": "Resident Evil 4 — замена звуковой дорожки «Оригинальная версия»",
+      "price_rub": 630,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109307/header.jpg?t=1772503035"
+    },
+    {
+      "id": 2109308,
+      "name": "Resident Evil 4 — особое оружие Sentinel Nine",
+      "price_rub": 584,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109308/header.jpg?t=1772503041"
+    },
+    {
+      "id": 2109309,
+      "name": "Resident Evil 4 — особое оружие «Головолом»",
+      "price_rub": 584,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109309/header.jpg?t=1772503048"
+    },
+    {
+      "id": 2109310,
+      "name": "Resident Evil 4 — аксессуар для Леона «Тёмные очки (спорт)»",
+      "price_rub": 554,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109310/header.jpg?t=1772503054"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-21T08:06:20Z"
+}

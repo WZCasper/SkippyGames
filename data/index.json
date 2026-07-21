@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T01:38:26Z",
+  "generated_at": "2026-07-21T08:08:48Z",
   "uah_to_rub_rate": 1.752351,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 998,
+  "count": 1016,
   "games": [
     {
       "id": 4881310,
@@ -132,7 +132,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1137,
+      "price_rub": 1138,
       "is_free": false
     },
     {
@@ -1238,7 +1238,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 806,
+      "price_rub": 807,
       "is_free": false
     },
     {
@@ -1355,7 +1355,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -1409,6 +1409,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4704170,
+      "title": "BreakDespair2D",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704170/42b686cd2411e894ac42b9a644059aee3f2d4802/header.jpg?t=1784615333",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 619,
+      "is_free": false
     },
     {
       "id": 1087090,
@@ -1567,6 +1580,19 @@
       "is_free": false
     },
     {
+      "id": 4200450,
+      "title": "Calamity Cait",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200450/b4480fc4dc4c952c36cd84cb9a67ad5015507fa2/header.jpg?t=1784595728",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4799150,
       "title": "Calculus of Rot",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799150/d9cae5d47394c853b32c8e3e7ea6d260893c8802/header.jpg?t=1783772566",
@@ -1673,7 +1699,7 @@
     {
       "id": 4163030,
       "title": "Cat Chess",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163030/20c4d944cbe1e07e0fb0ba64950b96b453fd8923/header.jpg?t=1784284772",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163030/20c4d944cbe1e07e0fb0ba64950b96b453fd8923/header.jpg?t=1784560644",
       "genres": [
         "Экшен"
       ],
@@ -1686,7 +1712,7 @@
     {
       "id": 2965020,
       "title": "Cat Climbing",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2965020/beec20f0f63caf0369957956ac393074ed9d78d8/header.jpg?t=1784336338",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2965020/beec20f0f63caf0369957956ac393074ed9d78d8/header.jpg?t=1784449778",
       "genres": [
         "Экшен"
       ],
@@ -1694,6 +1720,19 @@
         "PC"
       ],
       "price_rub": 663,
+      "is_free": false
+    },
+    {
+      "id": 3347200,
+      "title": "Cat Gladiator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347200/aeab304f3de8f05af2a49215931c5603c6c2ccc8/header.jpg?t=1784598625",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 831,
       "is_free": false
     },
     {
@@ -1810,7 +1849,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 806,
+      "price_rub": 807,
       "is_free": false
     },
     {
@@ -2258,7 +2297,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1069,
+      "price_rub": 984,
       "is_free": false
     },
     {
@@ -2712,6 +2751,19 @@
       "is_free": false
     },
     {
+      "id": 4402510,
+      "title": "Deep Sea Idle: Infinity Abyss",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402510/82ccf22682237ce43d28e776376c28c3be3aba47/header.jpg?t=1784616994",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 682,
+      "is_free": false
+    },
+    {
       "id": 1712110,
       "title": "Deep Space Outpost",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1712110/capsule_616x353.jpg",
@@ -2724,7 +2776,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 995,
+      "price_rub": 996,
       "is_free": false
     },
     {
@@ -2782,6 +2834,19 @@
         "PC"
       ],
       "price_rub": 1506,
+      "is_free": false
+    },
+    {
+      "id": 4436820,
+      "title": "Deserted Island Where Desire Blossoms",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436820/b8cf8c8d44510cc8989577bd9f0ef50a9ef3ebe4/header.jpg?t=1784612206",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 744,
       "is_free": false
     },
     {
@@ -2937,7 +3002,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 862,
+      "price_rub": 863,
       "is_free": false
     },
     {
@@ -3086,6 +3151,19 @@
         "PC"
       ],
       "price_rub": 691,
+      "is_free": false
+    },
+    {
+      "id": 3819770,
+      "title": "Dragon Ruins II: Aftermath",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/4a2b9cad4f8f4f2fb902fd063ecc9d6b5a083038/header.jpg?t=1784599044",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 854,
       "is_free": false
     },
     {
@@ -3377,6 +3455,19 @@
       "is_free": false
     },
     {
+      "id": 2880640,
+      "title": "Egg Chef",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2880640/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 616,
+      "is_free": false
+    },
+    {
       "id": 4865210,
       "title": "Egg-cremental",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865210/3d55da7448ef3df7e1e48043cffee626aade65d5/header.jpg?t=1784134899",
@@ -3596,6 +3687,19 @@
       ],
       "price_rub": 733,
       "is_free": false
+    },
+    {
+      "id": 4541290,
+      "title": "FISH KISSER",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541290/3b8de042420905ca6986f6dfc772d8241be14285/header.jpg?t=1784611670",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 3985060,
@@ -4045,6 +4149,32 @@
       ],
       "price_rub": 4523,
       "is_free": false
+    },
+    {
+      "id": 4568910,
+      "title": "FragMiner",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568910/f95770cca4110cf9977679aade04a83e41fd3e2b/header.jpg?t=1784619998",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 640,
+      "is_free": false
+    },
+    {
+      "id": 4714650,
+      "title": "Freestyle Dunker",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714650/8e2e50db7d70b607cb779fc895a3b846b34746ec/header.jpg?t=1784601849",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4488570,
@@ -5406,7 +5536,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 637,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -5875,7 +6005,7 @@
     {
       "id": 3853410,
       "title": "LazyLegions",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853410/2944d5a608ee6cc29f81de7282c667a87319c19e/header.jpg?t=1784058747",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853410/2944d5a608ee6cc29f81de7282c667a87319c19e/header.jpg?t=1784367823",
       "genres": [
         "Экшен"
       ],
@@ -6183,7 +6313,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 869,
+      "price_rub": 870,
       "is_free": false
     },
     {
@@ -6445,6 +6575,19 @@
       "is_free": false
     },
     {
+      "id": 4305030,
+      "title": "Max Savage",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305030/ceab747e63aa146f0cf7d0cc9622d4e2f9f54a57/header.jpg?t=1784609276",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 854,
+      "is_free": false
+    },
+    {
       "id": 3418250,
       "title": "Mech Shop",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418250/fd0b363abed96304eddabc8b0767114a3b2a0c16/header.jpg?t=1784307356",
@@ -6454,7 +6597,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 841,
+      "price_rub": 842,
       "is_free": false
     },
     {
@@ -7136,7 +7279,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 949,
       "is_free": false
     },
     {
@@ -7402,6 +7545,19 @@
         "PC"
       ],
       "price_rub": 657,
+      "is_free": false
+    },
+    {
+      "id": 4904130,
+      "title": "Ofuda Placement Service",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4904130/df74eea77f6640bc28c55e42ae7c6102ac18dc3b/header.jpg?t=1784617883",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 717,
       "is_free": false
     },
     {
@@ -8419,6 +8575,37 @@
       "is_free": false
     },
     {
+      "id": 2050650,
+      "title": "Resident Evil 4",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_616x353.jpg",
+      "genres": [
+        "Психологические хорроры",
+        "Экшен",
+        "Хорроры на выживание (Survival Horror)",
+        "Шутеры от третьего лица (TPS)",
+        "Выживание (Survival)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1026,
+      "is_free": false
+    },
+    {
+      "id": 3764200,
+      "title": "Resident Evil Requiem",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3302,
+      "is_free": false
+    },
+    {
       "id": 3346740,
       "title": "Retro Soccer",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/header.jpg?t=1784276718",
@@ -8521,7 +8708,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 806,
+      "price_rub": 807,
       "is_free": false
     },
     {
@@ -8693,7 +8880,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1790,
+      "price_rub": 1791,
       "is_free": false
     },
     {
@@ -8895,6 +9082,19 @@
         "PC"
       ],
       "price_rub": 673,
+      "is_free": false
+    },
+    {
+      "id": 4635600,
+      "title": "Scoundrel: Deck Crawler",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635600/4f8f6bc17c63dfe7749631f4950749cce3d7d99d/header.jpg?t=1784619722",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 693,
       "is_free": false
     },
     {
@@ -9147,6 +9347,19 @@
         "PC"
       ],
       "price_rub": 728,
+      "is_free": false
+    },
+    {
+      "id": 4874340,
+      "title": "Signal Foundry",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4874340/a4f4c7801a2569da4ba6dfc868b514c0b8527bf7/header.jpg?t=1784584843",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -9404,14 +9617,14 @@
     {
       "id": 4121610,
       "title": "Something to Drink?",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121610/dcc9df7b770199e2a17b28afd874f8eefab968f7/header.jpg?t=1784044981",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121610/dcc9df7b770199e2a17b28afd874f8eefab968f7/header.jpg?t=1784458931",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 862,
+      "price_rub": 863,
       "is_free": false
     },
     {
@@ -9862,7 +10075,7 @@
     {
       "id": 4860070,
       "title": "SusDoku: Clues & Suspects",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/2041a8c02937aa422e637ff3099b8f5a2377b609/header.jpg?t=1784185505",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/2041a8c02937aa422e637ff3099b8f5a2377b609/header.jpg?t=1784582901",
       "genres": [
         "Экшен"
       ],
@@ -10372,7 +10585,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1177,
+      "price_rub": 1178,
       "is_free": false
     },
     {
@@ -10815,6 +11028,19 @@
       "is_free": false
     },
     {
+      "id": 4808280,
+      "title": "Toll Plaza Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808280/5c6d4022717c53857658540ef82bc967130754c0/header.jpg?t=1784605525",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 705,
+      "is_free": false
+    },
+    {
       "id": 2143690,
       "title": "TooneQuest",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143690/9105b6a7625dbbac4553b6d470d88bade53f8311/header.jpg?t=1783759627",
@@ -11036,6 +11262,19 @@
       "is_free": false
     },
     {
+      "id": 4894220,
+      "title": "Typerain",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894220/cd82ab903a976bafdd5e0e310e1c331068794153/header.jpg?t=1784587187",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 593,
+      "is_free": false
+    },
+    {
       "id": 4605950,
       "title": "UNSIGHT",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605950/a98bf74e773d8999444043f09dc6e8d0a1b275ad/header.jpg?t=1784569165",
@@ -11219,7 +11458,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 862,
+      "price_rub": 863,
       "is_free": false
     },
     {
@@ -11694,7 +11933,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1067,
+      "price_rub": 1068,
       "is_free": false
     },
     {
@@ -11941,7 +12180,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1061,
       "is_free": false
     },
     {
@@ -11993,7 +12232,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2117,
+      "price_rub": 2119,
       "is_free": false
     },
     {
@@ -12611,7 +12850,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 547,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -12708,7 +12947,7 @@
     {
       "id": 4579210,
       "title": "幻域 Fantasy Domain",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579210/c5862be9fcec31ab5c26ec56d40f17ee6fb3f341/header.jpg?t=1784257471",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579210/c5862be9fcec31ab5c26ec56d40f17ee6fb3f341/header.jpg?t=1784373810",
       "genres": [
         "Экшен"
       ],
@@ -12955,14 +13194,14 @@
     {
       "id": 4847680,
       "title": "異世界拷問官 〜忠犬女騎士リリアの甘美なる屈服〜",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847680/fd1e62ff58035d5cbde36d8020105357c1aaa966/header.jpg?t=1784338227",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847680/fd1e62ff58035d5cbde36d8020105357c1aaa966/header.jpg?t=1784510970",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 952,
+      "price_rub": 742,
       "is_free": false
     },
     {
