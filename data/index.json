@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-20T20:09:57Z",
-  "uah_to_rub_rate": 1.754215,
+  "generated_at": "2026-07-21T01:38:26Z",
+  "uah_to_rub_rate": 1.752351,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 986,
+  "count": 998,
   "games": [
     {
       "id": 4881310,
@@ -1002,7 +1002,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 756,
+      "price_rub": 758,
       "is_free": false
     },
     {
@@ -1043,7 +1043,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1226,
+      "price_rub": 1227,
       "is_free": false
     },
     {
@@ -1160,7 +1160,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 788,
+      "price_rub": 789,
       "is_free": false
     },
     {
@@ -1251,7 +1251,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 852,
+      "price_rub": 854,
       "is_free": false
     },
     {
@@ -1498,7 +1498,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 781,
+      "price_rub": 782,
       "is_free": false
     },
     {
@@ -1760,6 +1760,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4859260,
+      "title": "Celebrity Memory - 12in12 Game 1",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859260/eccd21973f5a72793d072c2fe5bfd747617cbf9b/header.jpg?t=1784565219",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 551,
+      "is_free": false
     },
     {
       "id": 2704090,
@@ -2032,6 +2045,19 @@
         "PC"
       ],
       "price_rub": 605,
+      "is_free": false
+    },
+    {
+      "id": 4854320,
+      "title": "Conquer for Glory",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854320/1450edcb949e77dc5d306428568d183173b94538/header.jpg?t=1784571098",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 568,
       "is_free": false
     },
     {
@@ -2503,7 +2529,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 737,
+      "price_rub": 738,
       "is_free": false
     },
     {
@@ -2741,6 +2767,24 @@
       "is_free": false
     },
     {
+      "id": 588030,
+      "title": "Derail Valley",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/588030/capsule_616x353.jpg",
+      "genres": [
+        "Технические симуляторы",
+        "Песочницы (Sandbox)",
+        "Шутеры от первого лица (FPS)",
+        "Иммерсивные симуляторы (Immersive Sim)",
+        "Экономические симуляторы",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1506,
+      "is_free": false
+    },
+    {
       "id": 4745780,
       "title": "Desk Kanojo",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745780/225a84bd01e93ac48d53db4e490ee2dc0ecfd217/header.jpg?t=1784431644",
@@ -2854,7 +2898,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 706,
+      "price_rub": 707,
       "is_free": false
     },
     {
@@ -2920,6 +2964,19 @@
         "PC"
       ],
       "price_rub": 587,
+      "is_free": false
+    },
+    {
+      "id": 4912930,
+      "title": "Don't Play Their Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912930/0c4a0f24794885b222a0753297f1dac3231392f9/header.jpg?t=1784563259",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 693,
       "is_free": false
     },
     {
@@ -3333,6 +3390,19 @@
       "is_free": false
     },
     {
+      "id": 4273390,
+      "title": "Empire at Risk",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273390/9ed9be9096700fd51900eb6268b2efb1c1fefd0b/header.jpg?t=1784568045",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 682,
+      "is_free": false
+    },
+    {
       "id": 4566880,
       "title": "Endless Roll",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566880/d90eb621aa43415c6121b09d24a4a77fcf8d024c/header.jpg?t=1783954975",
@@ -3408,6 +3478,19 @@
         "PC"
       ],
       "price_rub": 863,
+      "is_free": false
+    },
+    {
+      "id": 4134600,
+      "title": "EverRail",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134600/a9ac500333406730bbabf503f872cf39165cfcfe/header.jpg?t=1784573524",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1027,
       "is_free": false
     },
     {
@@ -4609,6 +4692,19 @@
       "is_free": false
     },
     {
+      "id": 2806050,
+      "title": "Halo: Campaign Evolved",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1783544553",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4003,
+      "is_free": false
+    },
+    {
       "id": 4236810,
       "title": "Halu - The Fish",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236810/5cec9c5cc44bab451e14d2caf8c4ee19d65154ba/header.jpg?t=1784026811",
@@ -5210,6 +5306,19 @@
       "is_free": false
     },
     {
+      "id": 4917030,
+      "title": "Idle Turrets Pixel Defense",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917030/0434d2bedfdd8e34e174a732f22a45ee6e7ecb2d/header.jpg?t=1784559609",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 789,
+      "is_free": false
+    },
+    {
       "id": 2684890,
       "title": "Idle Village",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684890/06e28a9e4cd360dd9dad18d472cf8d3719bfa9a8/header.jpg?t=1783288884",
@@ -5799,7 +5908,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 814,
+      "price_rub": 815,
       "is_free": false
     },
     {
@@ -8000,7 +8109,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1226,
+      "price_rub": 1227,
       "is_free": false
     },
     {
@@ -8985,7 +9094,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 637,
       "is_free": false
     },
     {
@@ -9868,6 +9977,19 @@
       "is_free": true
     },
     {
+      "id": 4914460,
+      "title": "TERMies Duels",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914460/3c626095ae758c570e4342dd20cd3c7bf811e60e/header.jpg?t=1784570256",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 591,
+      "is_free": false
+    },
+    {
       "id": 4733520,
       "title": "TRUE LOVE'S CURSE",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733520/b4c6745a3ec77f16b799ad1e74ff017b99cae409/header.jpg?t=1784252343",
@@ -10489,7 +10611,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 771,
+      "price_rub": 772,
       "is_free": false
     },
     {
@@ -11498,6 +11620,19 @@
       "is_free": false
     },
     {
+      "id": 4669350,
+      "title": "WinHack 95",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669350/9d7da2d8b667f6c933eb31cea6fadb07f72a7e1d/header.jpg?t=1784575843",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 675,
+      "is_free": false
+    },
+    {
       "id": 4664920,
       "title": "Wiseman: No More Breakups",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4664920/6dd33fa30f041847095dccf9f96e2270cde60150/header.jpg?t=1784559613",
@@ -12298,6 +12433,19 @@
       "is_free": false
     },
     {
+      "id": 4117890,
+      "title": "九天",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117890/b59ca033a3a0f657a1db858574dfc1fc99f2c213/header.jpg?t=1784567276",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 675,
+      "is_free": false
+    },
+    {
       "id": 4549560,
       "title": "互联便签引擎",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549560/0d17daf01e364094579ba7a71159916ad0a784fe/header.jpg?t=1784087734",
@@ -12833,14 +12981,14 @@
     {
       "id": 4227420,
       "title": "福报镖局",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227420/32ad7ddcfe2e4477bd0ec87a6a454a67adbeed0f/header.jpg?t=1784297536",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227420/32ad7ddcfe2e4477bd0ec87a6a454a67adbeed0f/header.jpg?t=1784525265",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 655,
+      "price_rub": 656,
       "is_free": false
     },
     {
@@ -12920,6 +13068,19 @@
       ],
       "price_rub": 537,
       "is_free": false
+    },
+    {
+      "id": 3913460,
+      "title": "言灵",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/9131a88255d92e7b3a3017f0cf60089ab3244949/header.jpg?t=1784580400",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 2943310,

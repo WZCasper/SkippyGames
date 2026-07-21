@@ -1,0 +1,38 @@
+{
+  "id": 3913460,
+  "title": "言灵",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/9131a88255d92e7b3a3017f0cf60089ab3244949/header.jpg?t=1784580400",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/963b7afc1be30570e7ddf7e678e50a22ad0b30d8/page_bg_raw.jpg?t=1784580400",
+  "description": "💎 言灵的亮点• ⚡ 即时响应——所有推理在本地 GPU 完成，从录音结束到出字只有毫秒级延迟，说话的速度就是打字的速度。\n\n• 🔒 绝对私密——五大顶尖开源 AI 模型全部本地运行，数据零上传，无云端依赖，断网照样跑得飞快，没人能用你的内容训练模型。\n\n• 🧠 透明可控——每个模型三态切换（关闭/内存/显存），一键分配算力，显存与内存占用实时监控，你想怎么用就怎么用。\n\n• 🚫 无广告、无月费、无订阅——本体免费，每天 1000 字语音输入额度（普通人日均输入仅一二百字，几乎用不完），一次买断即解锁无限使用与全部功能，永不扣费，永久离线可用。\n\n• 🚀 榨干你的高端显卡——言灵专为 GPU 推理优化，不支持在 CPU 上慢吞吞地跑。你的 RTX 5090（RTX 3050 也行）不再闲置——用它跑本地 AI 语音输入，物尽其用，钱花得值。以后买显卡，你可以理直气壮地说：“我是为了更快地运行 AI 语音输入法，提高工作效率，赚更多的钱。”\n\n• 🛠️ 独门绝活——智能汉字转数字——“九点零五到九点一”自动变成“9.05~9.1”，绝不会误转成“9:05到9.1”；根据语境拿捏哪些数字该转、哪些保留，比无脑全转聪明得多。\n\n• 🧩 内置 5 大顶尖开源 AI 模型——语音识别 Qwen3-ASR、截图识字 GLM-OCR+PP-DocLayoutV3、大语言模型 Qwen3.5-4B、语音合成 Qwen3-TTS、英文单词配音 Kokoro-82M，全部以进程内 ONNX Runtime 本地推理，无需额外安装，开箱即用。\n\n• 🛎️ 贴心细节，随叫随到——全局键盘/鼠标钩子、系统托盘常驻、悬浮窗鼠标避让、自动跟随系统明暗主题、多实例运行、一键导出/导入全部设置、恢复出厂设置……让你的工作流丝滑无阻。\n🚀 六大功能，一次到位🎙️ 一、语音输入法一键录音、松开停止、即时识别、秒级出结果，识别完自动「粘贴」。\n• 话音落，字就上屏：按住录音键说话，松开瞬间出文字，并自动粘贴到当前光标位置。\n\n• 智能汉字转数字：精准区分该转和不该转的数字，如“零点零三到一点半”→“0:03~1:30”，“七七四十九天”保持中文。\n\n• 双录音来源：麦克风录音与系统环回录音（直接转录电脑正在播放的声音）。\n\n• 开关自由：转数字、识别后自动粘贴、说话时静音，均可独立控制。\n\n• 后处理三件套：词库、词语映射、黑名单，让专业术语也认得准。\n\n• 悬浮窗音量曲线、30 天历史柱状图、独立历史窗口。\n\n• 语音输入历史记录窗口，会临时保存你输入的语音和转换的结果，你可以回放或导出。\n🗣️ 二、快捷助手 · 动嘴操控电脑按住「命令键」说话，语音直接变成控制电脑的指令——别再去菜单里翻半天。\n五大类全覆盖：\n• 模拟按键（含自定义「按键流」序列）\n\n• 系统功能：关机/重启/锁屏/设音量/设显示器亮度/网络搜索/改注册表/环境变量\n\n• 启动应用：开应用/打开网址/调搜索引擎，自动扫描已装程序\n\n• 内置功能：截图/翻译/语音合成/纠错/计算/一键打开各种窗口\n\n• 文件操作：新建指定类型文件并在资源管理器或桌面就地重命名\n🖼️ 三、截图识字（OCR）截图里的文字，不用再照着手打。\n• 输入随心：粘贴、拖放、选择文件、使用示例图，或用内置全屏截图工具。\n\n• 全屏截图工具：覆盖窗采集，支持标注（序号、矩形、椭圆、箭头、画笔），点击自动框选窗口，Ctrl+Z 撤销。\n\n• 「自动优化」一步到位：先由 PP-DocLayoutV3 做版面分析分区，再分类型识别，合并为整页 Markdown，复杂排版干净提取。\n\n• 结果用 Markdown 查看器展示，可复制文本、导出图片。表格支持合并单元格。\n💬 四、本地大语言模型随叫随到的本地 AI 助手，一句话都不会发到云上。\n• 结果以 Markdown 优雅呈现。\n\n• 可以执行翻译、生成例句、纠错等任务。\n\n• 响应速度快。\n🔊 五、语音合成（TTS）把文字变成自然语音，临时想读出来也行。\n• 支持多国语言，适合长句子；还可添加语气指令（语气不会被朗读）。\n\n• 流式播放 + 独立历史窗口（可拖动进度条回放），可以一键导出 MP3。\n\n• 可选合成后自动播放。\n📖 六、翻译 · 查词看英文资料卡在生词上，不用再切到浏览器打断思路。\n• 英文单词/短句用词典（ECDICT）查询，查不到自动用本地大模型兜底翻译。\n\n• Kokoro 模型给单词配音，支持自动朗读；大模型可生成例句。\n\n• 候选下拉按 COCA 词频排序，显示释义高亮；查词历史像浏览器一样前进后退。",
+  "description_short": "🎙️ 言出法随：说话有多快，打字就有多快！🚀 《言灵》是专为 Windows 打造的本地🛡️AI 效率神器，主要功能包括：🎤语音输入法、🗣️快捷助手、🖼️截图识字、💬大语言模型、🔊语音合成、📖翻译。功能强大，上手简单，界面简洁易懂，可以大幅提高你使用电脑的效率。⚡",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/ac7c0ec9e4d9ebaf9a061049d6e4f787f99fc122/ss_ac7c0ec9e4d9ebaf9a061049d6e4f787f99fc122.1920x1080.jpg?t=1784580400",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/676e6b63cbb64ed13b3cf1a861e3e8e131370659/ss_676e6b63cbb64ed13b3cf1a861e3e8e131370659.1920x1080.jpg?t=1784580400",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/ed3885fc5d71178b81969a26d0b8a2207f7e88e7/ss_ed3885fc5d71178b81969a26d0b8a2207f7e88e7.1920x1080.jpg?t=1784580400",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/74f28df8403d7b030cf3dbb24d68aa061deb5bf0/ss_74f28df8403d7b030cf3dbb24d68aa061deb5bf0.1920x1080.jpg?t=1784580400",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/ad1d5a0610d3ff5cd39534c423e78c8537445ccb/ss_ad1d5a0610d3ff5cd39534c423e78c8537445ccb.1920x1080.jpg?t=1784580400",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/594c7ee6489e5c7d821c7233366e55b5caf9f946/ss_594c7ee6489e5c7d821c7233366e55b5caf9f946.1920x1080.jpg?t=1784580400",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/5c4f52543d6d138b1a1fb2e0945e5911563be525/ss_5c4f52543d6d138b1a1fb2e0945e5911563be525.1920x1080.jpg?t=1784580400",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/9857615e8142193df669ca37b1a7145876c55f8f/ss_9857615e8142193df669ca37b1a7145876c55f8f.1920x1080.jpg?t=1784580400"
+  ],
+  "upsells": [
+    {
+      "id": 4775950,
+      "name": "言灵 - 完整版",
+      "price_rub": 591,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775950/b6e52d0777f8394b2230b2da9d5fa04080aa02d8/header.jpg?t=1782222540"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-21T01:33:40Z"
+}
