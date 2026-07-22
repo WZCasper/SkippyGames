@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "ThAnAY6lNgM",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849630/1b010ea5c6a6107bcee71effaeeabf546eb8e617/ss_1b010ea5c6a6107bcee71effaeeabf546eb8e617.1920x1080.jpg?t=1783616729",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849630/a395206dc9f434487ca5632daac143f80923f1eb/ss_a395206dc9f434487ca5632daac143f80923f1eb.1920x1080.jpg?t=1783616729",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-19T07:55:15Z"
+  "updated_at": "2026-07-22T08:07:25Z"
 }

@@ -1,8 +1,8 @@
 {
   "id": 4856670,
   "title": "夏まつり零",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/420213a627e817d115c452d9c703ee30a22b5e87/header.jpg?t=1784379123",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/73b4fbf2c9474e8f2f1ba6624940ca239f25620c/page_bg_raw.jpg?t=1784379123",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/420213a627e817d115c452d9c703ee30a22b5e87/header.jpg?t=1784532347",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/73b4fbf2c9474e8f2f1ba6624940ca239f25620c/page_bg_raw.jpg?t=1784532347",
   "description": "とある夏の日、二人の少女と村で遊ぶことに\n\n縄跳び、水鉄砲、虫相撲、かくれんぼ…\n\n気づけばその日は賑やかで、大人たちが色んな遊びを用意してくれていた\n\n的あて、水鉄砲、虫相撲、縄跳び、鬼ごっこ、花火…\n\nしかし夜になると、突然一人だけいなくなってしまい…\n\nいろんな遊び満載のとある夏の日の出来事\n\n＿＿＿＿\n\n【ジャンル】\n\nアドベンチャーゲーム\n\nプレイ時間 \n\nEDまで：約１時間\n\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
   "description_short": "とある夏の日、二人の少女と村で遊ぶことに 的あて、水鉄砲、虫相撲、縄跳び、鬼ごっこ、花火… しかし夜になると、突然一人だけいなくなってしまい… いろんな遊び満載の、とある夏の日の出来事",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 643,
+  "price_rub": 644,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Z_1auCO27gk",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/f5ce191dd0be539fddb27dc18279d17802407065/ss_f5ce191dd0be539fddb27dc18279d17802407065.1920x1080.jpg?t=1784379123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/59ef9f8e124b4a225c0333b688024c9cf069f2d5/ss_59ef9f8e124b4a225c0333b688024c9cf069f2d5.1920x1080.jpg?t=1784379123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/34f51c908d1325882d464279a4f4783ac741078c/ss_34f51c908d1325882d464279a4f4783ac741078c.1920x1080.jpg?t=1784379123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/ce70011fc0edca1657da1f7e128880d523823618/ss_ce70011fc0edca1657da1f7e128880d523823618.1920x1080.jpg?t=1784379123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/6a56d727a0ac83ea61acb060b93a312aadec1d15/ss_6a56d727a0ac83ea61acb060b93a312aadec1d15.1920x1080.jpg?t=1784379123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/f2866a76c538848f4b8c0fad58e86c00561f17a6/ss_f2866a76c538848f4b8c0fad58e86c00561f17a6.1920x1080.jpg?t=1784379123"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/f5ce191dd0be539fddb27dc18279d17802407065/ss_f5ce191dd0be539fddb27dc18279d17802407065.1920x1080.jpg?t=1784532347",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/59ef9f8e124b4a225c0333b688024c9cf069f2d5/ss_59ef9f8e124b4a225c0333b688024c9cf069f2d5.1920x1080.jpg?t=1784532347",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/34f51c908d1325882d464279a4f4783ac741078c/ss_34f51c908d1325882d464279a4f4783ac741078c.1920x1080.jpg?t=1784532347",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/ce70011fc0edca1657da1f7e128880d523823618/ss_ce70011fc0edca1657da1f7e128880d523823618.1920x1080.jpg?t=1784532347",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/6a56d727a0ac83ea61acb060b93a312aadec1d15/ss_6a56d727a0ac83ea61acb060b93a312aadec1d15.1920x1080.jpg?t=1784532347",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856670/f2866a76c538848f4b8c0fad58e86c00561f17a6/ss_f2866a76c538848f4b8c0fad58e86c00561f17a6.1920x1080.jpg?t=1784532347"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-19T01:52:53Z"
+  "updated_at": "2026-07-22T08:05:48Z"
 }

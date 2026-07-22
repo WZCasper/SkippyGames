@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1286,
+  "price_rub": 1289,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "fGwCOW0czNw",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/6b1b99a0b8d64dcb24c61bc4ccea9233935ae1fc/ss_6b1b99a0b8d64dcb24c61bc4ccea9233935ae1fc.1920x1080.jpg?t=1784356856",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524850/5d74ba514a0567a98318ee91bbc6ee33ccb1d73b/ss_5d74ba514a0567a98318ee91bbc6ee33ccb1d73b.1920x1080.jpg?t=1784356856",
@@ -29,16 +29,16 @@
     {
       "id": 4609680,
       "name": "Denshattack! Seasonal Skin Pack",
-      "price_rub": 673,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609680/d4e3088d3279cae621487d16b7b52cdc853a2c2b/header.jpg?t=1784127152"
+      "price_rub": 674,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609680/d4e3088d3279cae621487d16b7b52cdc853a2c2b/header.jpg?t=1784648036"
     },
     {
       "id": 4719220,
       "name": "Denshattack! Soundtrack",
-      "price_rub": 867,
+      "price_rub": 869,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719220/a100f26ea948aea4d5017a9eb9c490ccdb8edc7e/header.jpg?t=1784128957"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-19T01:33:04Z"
+  "updated_at": "2026-07-22T08:04:42Z"
 }

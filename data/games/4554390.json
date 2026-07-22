@@ -1,8 +1,8 @@
 {
   "id": 4554390,
   "title": "The Remnants",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/0220507815fba5e135c3c5c2ad31c584e8b6d5f1/header.jpg?t=1784165353",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/e680608e0442b5a456b13fee81dae9c7c1260522/page_bg_raw.jpg?t=1784165353",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/0220507815fba5e135c3c5c2ad31c584e8b6d5f1/header.jpg?t=1784670634",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/e680608e0442b5a456b13fee81dae9c7c1260522/page_bg_raw.jpg?t=1784670634",
   "description": "SILENCE MEANS DANGER\n\nYou are a supernatural detective assigned to investigate Hawthorne Residences, a sealed complex tied to a series of disturbing incidents on the Cunningham property. What begins as a routine case quickly unravels into something far more unstable, where the environment shifts, perception breaks down, and the truth is buried beneath layers of distortion.\n\nThe Remnants is a first-person psychological horror experience focused on investigation, environmental storytelling, and puzzle-driven progression. Every space is intentional. Every sound carries weight. What you observe, and how you interpret it, determines how far you go.\n\nAs you explore Hawthorne Residences, you will:\n\n• Investigate interconnected rooms and uncover hidden narrative fragments\n\n• Solve layered puzzles that require observation, logic, and interpretation\n\n• Experience psychological horror through atmosphere, sound design, and environmental shifts\n\n• Progress through a tension-driven experience centered on mystery rather than combat\n\nThere are no constant weapons or traditional combat systems. The focus is on immersion, unease, and the growing uncertainty of what is real.\n\nThe deeper you go, the less you can trust what surrounds you.",
   "description_short": "You, a supernatural detective, are sent to investigate Hawthorne Residences on the Cunningham property. Something isn’t right. Observe carefully, solve puzzles, and uncover the truth before the building begins to distort around you.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 797,
+  "price_rub": 799,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "7k0j3w3tyYA",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/d56da197254da5fabbc046894f3ddb53a1a72854/ss_d56da197254da5fabbc046894f3ddb53a1a72854.1920x1080.jpg?t=1784165353",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/9dfda8a98f25dc33691b0bf0b3b6064174d458e9/ss_9dfda8a98f25dc33691b0bf0b3b6064174d458e9.1920x1080.jpg?t=1784165353",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/dd47758cb3fb060747019920af4844d1013aa3cb/ss_dd47758cb3fb060747019920af4844d1013aa3cb.1920x1080.jpg?t=1784165353",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/a3db93759a2d9ac04ac221b88e48a54a4f95f867/ss_a3db93759a2d9ac04ac221b88e48a54a4f95f867.1920x1080.jpg?t=1784165353",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/41446d2f220fc96976e417271d15c13fc5b47135/ss_41446d2f220fc96976e417271d15c13fc5b47135.1920x1080.jpg?t=1784165353"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/d56da197254da5fabbc046894f3ddb53a1a72854/ss_d56da197254da5fabbc046894f3ddb53a1a72854.1920x1080.jpg?t=1784670634",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/9dfda8a98f25dc33691b0bf0b3b6064174d458e9/ss_9dfda8a98f25dc33691b0bf0b3b6064174d458e9.1920x1080.jpg?t=1784670634",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/dd47758cb3fb060747019920af4844d1013aa3cb/ss_dd47758cb3fb060747019920af4844d1013aa3cb.1920x1080.jpg?t=1784670634",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/a3db93759a2d9ac04ac221b88e48a54a4f95f867/ss_a3db93759a2d9ac04ac221b88e48a54a4f95f867.1920x1080.jpg?t=1784670634",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554390/41446d2f220fc96976e417271d15c13fc5b47135/ss_41446d2f220fc96976e417271d15c13fc5b47135.1920x1080.jpg?t=1784670634"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-19T07:56:20Z"
+  "updated_at": "2026-07-22T08:18:57Z"
 }

@@ -1,0 +1,31 @@
+{
+  "id": 4275920,
+  "title": "Pickochet",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/de4c4221d98426f33db1cb89131bba28a9a4a5a2/header.jpg?t=1784706324",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/8c6ce8f6a7eb8c815bdf05d4a5010da5e99f9942/page_bg_raw.jpg?t=1784706324",
+  "description": "Pickochet — это короткая инкрементальная игра про добычу, в которой вы добываете руду, улучшаете кирки, открываете способности и находите новые места для добычи. \n\nДобывайте руду и зарабатывайте деньгиКликайте, чтобы разбивать руду и зарабатывать кучу денег!\n\nАвтоматизацияНадоело кликать? Автоматизируйте добычу с помощью кирок, которые рикошетят и отскакивают между залежами руды. Первая кирка — за наш счёт!\n\nСпособностиНужно больше мощности? Экипируйте до 3 активных или пассивных способностей одновременно и добывайте руду быстрее, чем когда-либо!\n\nУлучшенияПора потратить накопленные деньги. Улучшайте и открывайте новую руду, кирки и способности, чтобы увеличить прибыль от добычи!\n\nМеста добычиОткрывайте и перемещайтесь между различными местами добычи, каждое из которых содержит уникальные виды руды!",
+  "description_short": "Pickochet это короткая инкрементальная игра про добычу ресурсов, в которой вы добываете руду с помощью отскакивающих кирок, покупаете улучшения, открываете способности и исследуете новые места для добычи.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 690,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/d58272ec1c523b31ea47f0a055d9e6499b4288c6/ss_d58272ec1c523b31ea47f0a055d9e6499b4288c6.1920x1080.jpg?t=1784706324",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/c5caf571b7761b249768fc5a5f134ceb0e2345f1/ss_c5caf571b7761b249768fc5a5f134ceb0e2345f1.1920x1080.jpg?t=1784706324",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/5b744df8242dc56676b84e8cfef7d53c5cab21f4/ss_5b744df8242dc56676b84e8cfef7d53c5cab21f4.1920x1080.jpg?t=1784706324",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/67c98fecf3e4f3c35b2222a1ed6728960648c729/ss_67c98fecf3e4f3c35b2222a1ed6728960648c729.1920x1080.jpg?t=1784706324",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/246a94918e5ca9935a028b5dc4922caa2064b379/ss_246a94918e5ca9935a028b5dc4922caa2064b379.1920x1080.jpg?t=1784706324",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/990b906a3b2b4450a132273c5892339431f0e6dd/ss_990b906a3b2b4450a132273c5892339431f0e6dd.1920x1080.jpg?t=1784706324",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/8334ade40155d8e39e6789204924a62b47892c06/ss_8334ade40155d8e39e6789204924a62b47892c06.1920x1080.jpg?t=1784706324",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/dcf00bd9d3e78dbc64f3591ca5ba55ec98bc06e5/ss_dcf00bd9d3e78dbc64f3591ca5ba55ec98bc06e5.1920x1080.jpg?t=1784706324"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-22T08:26:42Z"
+}

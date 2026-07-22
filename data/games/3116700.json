@@ -1,0 +1,44 @@
+{
+  "id": 3116700,
+  "title": "请君入殓",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3116700/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3116700/library_hero.jpg",
+  "description": "《Приглашение в загробный мир》 — это рогалик-адвенчура с видом сверху, где игроки могут свободно комбинировать навыки, выбирать пути их усиления и исследовать загадочные сельские просторы, наполненные духами и монстрами китайской мифологии.\n\n \n\nДействие игры разворачивается в лесах и деревнях, населённых призраками и демонами. Вы играете за \"посланника загробного мира\", чья задача — истреблять монстров на границе между миром живых и мёртвых.\n\nИгрок — это временно \"нанятый\" загробным миром охотник на нечисть, отправляющийся на границу двух миров. Среди этих \"временных охотников\" есть как знакомые персонажи китайского фольклора, так и уникальные герои, созданные разработчиками на основе мифов.\n\nМонстры, которых предстоит уничтожить, — это классические \"злые духи и демоны\" из народных легенд, у каждого из которых своя запутанная история, дающая игрокам простор для воображения.\n\nУбивая монстров, игроки получают награды, которые позволяют изучать новые навыки и создавать мощные комбинации для боя.\n\nВы в любой момент можете изменить свои умения, перенастроить их усиление — каждый бой будет уникальным!\n\nРазработчики стремятся предоставлять игрокам свежий, увлекательный контент и будут регулярно выпускать обновления по заранее подготовленному плану.\n\nМы с радостью выслушаем ваши предложения и идеи — давайте вместе сделаем эту игру ещё лучше!",
+  "description_short": "《Приглашение в загробный мир》 — это рогалик-адвенчура в стиле китайских мифов о призраках. Игроки могут комбинировать умения, выбирать направление их усиления, что обеспечивает бесконечную реиграбельность и глубокую стратегическую составляющую.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 920,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/a4d772135887e766d9ac667d6bd94a5d1e03a03b/ss_a4d772135887e766d9ac667d6bd94a5d1e03a03b.1920x1080.jpg?t=1784707024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/b2f5d890830165cdb31958d2e0b9f64afa63b089/ss_b2f5d890830165cdb31958d2e0b9f64afa63b089.1920x1080.jpg?t=1784707024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/f708c4b3c5e54a4d1ef0d093ec836bb08af10393/ss_f708c4b3c5e54a4d1ef0d093ec836bb08af10393.1920x1080.jpg?t=1784707024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/045935164561f066cb1e399c10b6285b8553fa89/ss_045935164561f066cb1e399c10b6285b8553fa89.1920x1080.jpg?t=1784707024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/104b7264846dc64580f1340be781f15ba3f7bc6a/ss_104b7264846dc64580f1340be781f15ba3f7bc6a.1920x1080.jpg?t=1784707024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/ss_f9a524703ff3fb2cd630aa35ea5523e99278ae6c.1920x1080.jpg?t=1784707024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/3b9328a126571e0fcdacbf5a817aafd009315468/ss_3b9328a126571e0fcdacbf5a817aafd009315468.1920x1080.jpg?t=1784707024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116700/9e60ccf2f5c05ae2e954509b60218879f3426bbe/ss_9e60ccf2f5c05ae2e954509b60218879f3426bbe.1920x1080.jpg?t=1784707024"
+  ],
+  "upsells": [
+    {
+      "id": 4942620,
+      "name": "Supporter Bundle DLC",
+      "price_rub": 588,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942620/751cb3fc2a4198ce22929f6c0f914e628494ea67/header.jpg?t=1784682588"
+    },
+    {
+      "id": 4942910,
+      "name": "地府有点忙 Soundtrack",
+      "price_rub": 588,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942910/294b4ce342d6b58577301b80fe095f6e02ddd917/header.jpg?t=1784682615"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-22T08:29:52Z"
+}

@@ -1,8 +1,8 @@
 {
   "id": 4512570,
   "title": "A Game About Chopping Trees",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/3bb6001526b9f15a81b0c59d006012b8702d2059/header.jpg?t=1784385897",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/300c15ca0e667a3896adc3fb72c9508c95947ca9/page_bg_raw.jpg?t=1784385897",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/3bb6001526b9f15a81b0c59d006012b8702d2059/header.jpg?t=1784656351",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/300c15ca0e667a3896adc3fb72c9508c95947ca9/page_bg_raw.jpg?t=1784656351",
   "description": "РУБИТЕ ДЕРЕВЬЯ\n\nОставьте шум окружающего мира позади и окунитесь в тихую, размеренную жизнь лесоруба. A Game About Chopping Trees — это медитативный опыт, созданный для тех, кто находит покой в ​​простых делах, — в спокойной и расслабляющей атмосфере, где нет таймеров, давления и стресса. По сути, это игра о чистой радости рубки деревьев.\n\nИССЛЕДУЙТЕ\n\nКогда придет время отправиться на следующий участок леса, садитесь на свою верную ручную дрезину. Нажимайте на рычаги и скользите по рельсам через безмятежный, тихий пейзаж — путешествие между лесами так же умиротворяет, как и сама работа. Просто. Удовлетворяюще. Наслаждайтесь в своем собственном темпе.\n\nУЛУЧШАЙТЕСЬ\n\nПрислушайтесь к приятному треску древесины, когда стволы расщепляются и падают под вашей твердой рукой. Пробираясь сквозь лес, вкладывайте заработанные деньги в улучшение своих навыков рубки — более острый топор, более сильный удар и более эффективную технику, которые сделают этот процесс приятным.\n\nРАСТИТЕ\n\nЛес — это цикл, который вы можете помочь поддерживать. После вырубки леса уделите немного времени, чтобы отдать должное земле, посадив новые саженцы на расчищенных участках. Наблюдайте, как ваши усилия укореняются, а маленькие ростки со временем превращаются в высокие деревья. Этот бережный акт лесовосстановления гарантирует, что лес останется пышным и ярким, позволяя вам возделывать свои собственные идеальные, постоянно меняющиеся земли.",
   "description_short": "Берите топор, запрыгивайте на дрезину и потеряйтесь в лесу. Рубите деревья, улучшайте снаряжение и наслаждайтесь путешествием - в одиночку или с другом.",
   "genres": [
@@ -11,28 +11,28 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 806,
+  "price_rub": 807,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "7j7gy0tzj40",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/0da32315214dced2031a6bfa807c849e3f1e7e22/ss_0da32315214dced2031a6bfa807c849e3f1e7e22.1920x1080.jpg?t=1784385897",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/97332b8f68d30fadc41901a6e49ee5222e090e3c/ss_97332b8f68d30fadc41901a6e49ee5222e090e3c.1920x1080.jpg?t=1784385897",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/515826c379497b0ce0b368670dc17fc3785243d0/ss_515826c379497b0ce0b368670dc17fc3785243d0.1920x1080.jpg?t=1784385897",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/1d5961609b9f1dd90e20addcf3c7c9f9ad85c84b/ss_1d5961609b9f1dd90e20addcf3c7c9f9ad85c84b.1920x1080.jpg?t=1784385897",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/ca78eab2d3e990a696284d5a114f53a519fef34b/ss_ca78eab2d3e990a696284d5a114f53a519fef34b.1920x1080.jpg?t=1784385897",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/0899ac50d41f0da6c83734792bddc031b4537d3d/ss_0899ac50d41f0da6c83734792bddc031b4537d3d.1920x1080.jpg?t=1784385897",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/df4e33505734ea76d8a7dfd01cd162109521b45f/ss_df4e33505734ea76d8a7dfd01cd162109521b45f.1920x1080.jpg?t=1784385897",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/27dc1ff6aa42bf4a03fae6bee7487ec781514aaf/ss_27dc1ff6aa42bf4a03fae6bee7487ec781514aaf.1920x1080.jpg?t=1784385897"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/0da32315214dced2031a6bfa807c849e3f1e7e22/ss_0da32315214dced2031a6bfa807c849e3f1e7e22.1920x1080.jpg?t=1784656351",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/97332b8f68d30fadc41901a6e49ee5222e090e3c/ss_97332b8f68d30fadc41901a6e49ee5222e090e3c.1920x1080.jpg?t=1784656351",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/515826c379497b0ce0b368670dc17fc3785243d0/ss_515826c379497b0ce0b368670dc17fc3785243d0.1920x1080.jpg?t=1784656351",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/1d5961609b9f1dd90e20addcf3c7c9f9ad85c84b/ss_1d5961609b9f1dd90e20addcf3c7c9f9ad85c84b.1920x1080.jpg?t=1784656351",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/ca78eab2d3e990a696284d5a114f53a519fef34b/ss_ca78eab2d3e990a696284d5a114f53a519fef34b.1920x1080.jpg?t=1784656351",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/0899ac50d41f0da6c83734792bddc031b4537d3d/ss_0899ac50d41f0da6c83734792bddc031b4537d3d.1920x1080.jpg?t=1784656351",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/df4e33505734ea76d8a7dfd01cd162109521b45f/ss_df4e33505734ea76d8a7dfd01cd162109521b45f.1920x1080.jpg?t=1784656351",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512570/27dc1ff6aa42bf4a03fae6bee7487ec781514aaf/ss_27dc1ff6aa42bf4a03fae6bee7487ec781514aaf.1920x1080.jpg?t=1784656351"
   ],
   "upsells": [
     {
       "id": 4848700,
       "name": "A Game About Chopping Trees Soundtrack",
-      "price_rub": 580,
+      "price_rub": 581,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848700/67e1b91ae73292382b7f78f301ebdd89a3f8fab5/header.jpg?t=1784120860"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-19T01:48:49Z"
+  "updated_at": "2026-07-22T08:05:35Z"
 }

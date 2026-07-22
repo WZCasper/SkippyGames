@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 3385,
+  "price_rub": 3397,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "rfCE7n0yCa4",
+  "trailer_youtube_id": "kBbjE__gKDw",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4449410/6105f9b17fc7a0a8fd3d4719dc56fbd7cd2a296e/ss_6105f9b17fc7a0a8fd3d4719dc56fbd7cd2a296e.1920x1080.jpg?t=1784185157",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4449410/ed39e1e64521aec2e5e8c70b06413e1be41a009b/ss_ed39e1e64521aec2e5e8c70b06413e1be41a009b.1920x1080.jpg?t=1784185157",
@@ -29,7 +29,7 @@
     {
       "id": 4790000,
       "name": "KYOTO XANADU -the Blooming Phantom- - Virtual Singer Costume Set",
-      "price_rub": 901,
+      "price_rub": 902,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790000/4da14bc8dfd18846aa312c3da4d76dd252382613/header.jpg?t=1784184195"
     },
     {
@@ -59,7 +59,7 @@
     {
       "id": 4790160,
       "name": "KYOTO XANADU -the Blooming Phantom- - Costume Set \"Unique Japanese Robe\"",
-      "price_rub": 647,
+      "price_rub": 648,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790160/1bf1247908515f196a957234194cae6445ef4dcf/header.jpg?t=1784184368"
     },
     {
@@ -71,7 +71,7 @@
     {
       "id": 4790180,
       "name": "KYOTO XANADU -the Blooming Phantom- - Money: 100,000 Yen",
-      "price_rub": 647,
+      "price_rub": 648,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790180/3a40803bc69aa0b686950d31fb7df05fa7c68536/header.jpg?t=1784184440"
     },
     {
@@ -83,7 +83,7 @@
     {
       "id": 4790220,
       "name": "KYOTO XANADU -the Blooming Phantom- - Phantom Aether 1500ml",
-      "price_rub": 647,
+      "price_rub": 648,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790220/3a40803bc69aa0b686950d31fb7df05fa7c68536/header.jpg?t=1784184497"
     },
     {
@@ -94,5 +94,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-19T07:55:59Z"
+  "updated_at": "2026-07-22T08:12:07Z"
 }
