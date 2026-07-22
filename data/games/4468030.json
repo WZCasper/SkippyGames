@@ -1,0 +1,42 @@
+{
+  "id": 4468030,
+  "title": "OFFBEAT",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/4e5b3aea6bc0e4d8c764a6dfd00e231f1f8ee858/header.jpg?t=1784732331",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/459956f8451a6be26b6e13e4bf1527913780f4a0/page_bg_raw.jpg?t=1784732331",
+  "description": "The year is 198X, and you're a jobbing composer. You start out with nothing but a toy keyboard shaped like a tiger, and a brand new sequence-o-matic 4-track that your uncle bought from a shady geezer in the pub.\n\nWord quickly spreads about the new producer on the block, and soon the commissions are rolling in. Things start humble, recording tracks for weddings, workout videos and corporate presentations, but before long you're getting asked to score fantasy movies, museum openings, and all kinds of crazy stuff.\n\nOf course, you'll have to upgrade your kit along the way. Turns out, the local second-hand magazine is a treasure trove of objects that make interesting sounds, from singing garden gnomes and shredders-that-shred-sound-as-well-as-paper, to high-end synthesisers and musical effects. By the end, you'll have figured out a sound that's all your own.\n\nBut OFFBEAT isn't just a game. All the musical instruments are fully simulated, and the music you're recording is real. The game is secretly a complete audio production tool. Every piece of music you create in the game gets exported and saved locally on your computer as a WAV file, which you can use for whatever you want.\n\nMusic production can be costly and complex to get into, especially for beginners. We created OFFBEAT to lower barrier to entry and to offer a playful, low-pressure way to learn the basics of audio producion. The goal is just to be expressive and experimental, but by the end you'll have learned a little about synthesizers, sound design, composition and recording. Our hope is that when the game's finished, you'll have the confidence and expertise to carry on composing and recording music.\n\n• Game meets a real audio production tool.\n\n• Accept jobs, compose music, earn money. \n\n• Browse the Riches & Rags Catalogue to buy new synthesizers, then get Electric Lacey to upgrade and mod 'em.\n\n• Make music in a low-pressure and beginner-friendly setting.\n\n• Meet a whole host of weird characters.\n\n• Export your tracks as a WAV files onto your computer.\n\n• Share your tracks with the world, or just friends – up to you. \n\n• Play through chapters themed after different styles of electronic music.",
+  "description_short": "OFFBEAT is a music-tycoon game where you build the recording studio of your dreams. Collect and upgrade increasingly strange musical objects, complete jobs for cash, and record real, actual music.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 934,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/5941ae6500fd6ce6e54cc78cb22413bedb18804f/ss_5941ae6500fd6ce6e54cc78cb22413bedb18804f.1920x1080.jpg?t=1784732331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/a70a3048c1b337632dd7e8262aa350ae27d80882/ss_a70a3048c1b337632dd7e8262aa350ae27d80882.1920x1080.jpg?t=1784732331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/4ea71d26ddd9db5b814fa91cf195a71146bf1fc3/ss_4ea71d26ddd9db5b814fa91cf195a71146bf1fc3.1920x1080.jpg?t=1784732331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/16b48509a8aaa8f690a20fb4f097aa0e2b963f3f/ss_16b48509a8aaa8f690a20fb4f097aa0e2b963f3f.1920x1080.jpg?t=1784732331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/c92a61eca6a50bb118ed09d08fb1a398620c298d/ss_c92a61eca6a50bb118ed09d08fb1a398620c298d.1920x1080.jpg?t=1784732331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/161f1ffe1b1f545855f7ebdcc9661155b1a68f63/ss_161f1ffe1b1f545855f7ebdcc9661155b1a68f63.1920x1080.jpg?t=1784732331"
+  ],
+  "upsells": [
+    {
+      "id": 4915040,
+      "name": "OFFBEAT - Nice Cup of Tea",
+      "price_rub": 634,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915040/242ca1bded37e8a8a2d75890da362c2a81fe12ec/header.jpg?t=1784731239"
+    },
+    {
+      "id": 4935090,
+      "name": "OFFBEAT - Producer's Handbook",
+      "price_rub": 634,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935090/9de37829abcd79613d39243175e3d9254bcb56c7/header.jpg?t=1784731211"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-22T19:29:34Z"
+}

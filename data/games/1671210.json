@@ -12,10 +12,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1198,
+  "price_rub": 1377,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "CN4ZcGJoZac",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_b19eda9efcabf0fe27741eb126427048541780f0.1920x1080.jpg?t=1782314340",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_3fb0a253a8fa2f08a49f982d8c1e93c283e27f6d.1920x1080.jpg?t=1782314340",
@@ -30,10 +30,10 @@
     {
       "id": 3752270,
       "name": "DELTARUNE Soundtrack",
-      "price_rub": 955,
+      "price_rub": 1071,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3752270/39a843cd979a784831cd15a540ff454a3532eea6/header.jpg?t=1749048949"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-19T18:45:35Z"
+  "updated_at": "2026-07-22T18:58:40Z"
 }

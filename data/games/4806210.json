@@ -1,8 +1,8 @@
 {
   "id": 4806210,
   "title": "Ian's Rocket",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/94ef77249930b89631e25983b22f7a909b25a75c/header.jpg?t=1783099498",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/0a51128396a3046ddc7b43597d445266b99d081d/page_bg_raw.jpg?t=1783099498",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/94ef77249930b89631e25983b22f7a909b25a75c/header.jpg?t=1784584017",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/0a51128396a3046ddc7b43597d445266b99d081d/page_bg_raw.jpg?t=1784584017",
   "description": "Help Ian build a rocket to return home! Guide the locals from the stone age to the modern world\n\nPlay 4 open-world starting regions-- Each with its own resources, wonders, units, buildings, and characters --\n\nResearch through 5 eras of time-- Every technology researched unlocks a new building, unit, wonder, or upgrade --\n\nEstablish an economy that builds wonders and gathers, crafts, and sells resources through hiring and training labor\n\nBuild 24 wonders of the world-- Each with its own unique ability to improve your economy --\n\nGather, craft, and trade for over 75 resources-- Sell over 35 of the resources to the inhabitants of the world --\n\nDevelop labor into 12 unique specializations-- Each specialization improves on the output of the resources specific to that specialization --\n\nFamous figures of history are scattered throughout, but some will work against you, while others will trade with you\n\nFight 20 historical conquerors-- Each conqueror has his own set of unique units within his army --\n\nTrade and work with 24 additional characters-- Each character asks for your help on tasks and each trades a unique resource --\n\nSet up trade routes to automate the delivery of resources to and from cities all over the world\n\nSet up trade routes on land, sea, air or rail-- Routes can be saved and loaded to improve trade route design time --\n\nConstruct hundreds of buildings across all eras-- Each building will either gather raw materials, craft additional resources, or supplement the city it is built in --",
   "description_short": "A history-based, strategy, open-world game in which a nation's economy is built from scratch by utilizing all available resources. Create cities and wonders, hire labor, sell crafted products, and build armies. Meet historical figures who will either fight to stop your efforts or trade with you.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1427,
+  "price_rub": 1431,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "V_g_Ut0jO-0",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/d95e78171972c9273a23f9e1bb2ea23476ec58d9/ss_d95e78171972c9273a23f9e1bb2ea23476ec58d9.1920x1080.jpg?t=1783099498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/60dea19bf1635a97d4475f907ebf34aa56064d3c/ss_60dea19bf1635a97d4475f907ebf34aa56064d3c.1920x1080.jpg?t=1783099498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/e0f6f1185e97bc45b3ccaf8a8259fab68c4e087e/ss_e0f6f1185e97bc45b3ccaf8a8259fab68c4e087e.1920x1080.jpg?t=1783099498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/b799fc2ede3e14dfb04339ec7e4b374f0a63d9c2/ss_b799fc2ede3e14dfb04339ec7e4b374f0a63d9c2.1920x1080.jpg?t=1783099498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/15f2f95bc309decadb62bf4f0ec266ab1a6de8e9/ss_15f2f95bc309decadb62bf4f0ec266ab1a6de8e9.1920x1080.jpg?t=1783099498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/a9a6849c43d79197ddb278eb0c5cfd7abfc335b7/ss_a9a6849c43d79197ddb278eb0c5cfd7abfc335b7.1920x1080.jpg?t=1783099498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/b6e6c33f538d9ba2076211f853d6a50a32fcb2cc/ss_b6e6c33f538d9ba2076211f853d6a50a32fcb2cc.1920x1080.jpg?t=1783099498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/e362635c1675b546efbeb6e4e12f0349fdb5a83f/ss_e362635c1675b546efbeb6e4e12f0349fdb5a83f.1920x1080.jpg?t=1783099498"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/d95e78171972c9273a23f9e1bb2ea23476ec58d9/ss_d95e78171972c9273a23f9e1bb2ea23476ec58d9.1920x1080.jpg?t=1784584017",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/60dea19bf1635a97d4475f907ebf34aa56064d3c/ss_60dea19bf1635a97d4475f907ebf34aa56064d3c.1920x1080.jpg?t=1784584017",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/e0f6f1185e97bc45b3ccaf8a8259fab68c4e087e/ss_e0f6f1185e97bc45b3ccaf8a8259fab68c4e087e.1920x1080.jpg?t=1784584017",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/b799fc2ede3e14dfb04339ec7e4b374f0a63d9c2/ss_b799fc2ede3e14dfb04339ec7e4b374f0a63d9c2.1920x1080.jpg?t=1784584017",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/15f2f95bc309decadb62bf4f0ec266ab1a6de8e9/ss_15f2f95bc309decadb62bf4f0ec266ab1a6de8e9.1920x1080.jpg?t=1784584017",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/a9a6849c43d79197ddb278eb0c5cfd7abfc335b7/ss_a9a6849c43d79197ddb278eb0c5cfd7abfc335b7.1920x1080.jpg?t=1784584017",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/b6e6c33f538d9ba2076211f853d6a50a32fcb2cc/ss_b6e6c33f538d9ba2076211f853d6a50a32fcb2cc.1920x1080.jpg?t=1784584017",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806210/e362635c1675b546efbeb6e4e12f0349fdb5a83f/ss_e362635c1675b546efbeb6e4e12f0349fdb5a83f.1920x1080.jpg?t=1784584017"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-19T18:45:37Z"
+  "updated_at": "2026-07-22T18:59:13Z"
 }

@@ -1,0 +1,31 @@
+{
+  "id": 4924380,
+  "title": "Stickman Adventure",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/8098df97e3f835b6620765f55374bd67e4b34e8c/header.jpg?t=1784736538",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/a025f38fbfdf34dc87ffe95d5090d652ff03ad29/page_bg_raw.jpg?t=1784736538",
+  "description": "Welcome to the ultimate 2D platforming challenge!\n\nThis is a pure, reflex-driven 2D platformer that focuses entirely on skill and precision. No distractions—just a classic stickman, meticulously designed geometric levels, and the ultimate test of your gaming mechanics.\n\n🎮 GameplayTake control of a stickman as you run and leap through a world filled with unknown dangers. Your objective is simple: learn the layout of the levels through trial and error, dodge every lethal trap along the way, and safely reach the checkpoint!\n\n🌟 Key Features• Hardcore Level Design: Every ledge and every gap has been fine-tuned. To survive, you must master the exact timing and distance of your jumps.\n\n• Lethal Trap Matrices: Spikes, chasms, and sudden obstacles await. The terrain itself is your greatest enemy—one wrong move, and it's instant restart!\n\n• Minimalist Visual Style: Clean stickman animations and crisp lines allow you to stay 100% focused on your inputs and strategies.\n\n• Die, Retry, and Triumph: Build muscle memory through failure. The unparalleled sense of accomplishment when you finally hit that safe checkpoint makes every attempt worth it.",
+  "description_short": "A 2D stickman platformer where players control a stickman to dodge traps and obstacles along the way to reach the checkpoint.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/26cdca5c6af8dc1a938df00f81e6d2842c620f64/ss_26cdca5c6af8dc1a938df00f81e6d2842c620f64.1920x1080.jpg?t=1784736538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/ab4d317854235ff7facd5f92a96c1bf8675265e1/ss_ab4d317854235ff7facd5f92a96c1bf8675265e1.1920x1080.jpg?t=1784736538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/492e1b84c950c8788178bd2c0d062a8594465b62/ss_492e1b84c950c8788178bd2c0d062a8594465b62.1920x1080.jpg?t=1784736538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/922d660303ea7c114325058f5f605f5517de84e7/ss_922d660303ea7c114325058f5f605f5517de84e7.1920x1080.jpg?t=1784736538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/4da546924c8d3518de2f47e52c3306a336da35eb/ss_4da546924c8d3518de2f47e52c3306a336da35eb.1920x1080.jpg?t=1784736538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/750f59ac123fafcc5cb2827fe7732b0c22a82c8c/ss_750f59ac123fafcc5cb2827fe7732b0c22a82c8c.1920x1080.jpg?t=1784736538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/629251e3450ab3bff486bfca821ffcc6e40f853e/ss_629251e3450ab3bff486bfca821ffcc6e40f853e.1920x1080.jpg?t=1784736538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924380/d4e72075aab439cfda3e6acf7efb2c8f32ef7f98/ss_d4e72075aab439cfda3e6acf7efb2c8f32ef7f98.1920x1080.jpg?t=1784736538"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-22T19:21:57Z"
+}

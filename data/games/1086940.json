@@ -12,10 +12,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2073,
+  "price_rub": 2079,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "1T22wNvoNiU",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.1920x1080.jpg?t=1777363040",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.1920x1080.jpg?t=1777363040",
@@ -30,10 +30,10 @@
     {
       "id": 2378500,
       "name": "Baldur's Gate 3 - Digital Deluxe Edition DLC",
-      "price_rub": 761,
+      "price_rub": 762,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2378500/header.jpg?t=1692306965"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-19T18:44:59Z"
+  "updated_at": "2026-07-22T18:56:02Z"
 }

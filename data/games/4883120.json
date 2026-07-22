@@ -1,0 +1,28 @@
+{
+  "id": 4883120,
+  "title": "Cosmic Roll",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883120/d1679a83c1c92bcc25950abd11748548b864221e/header.jpg?t=1784743653",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4883120?t=1784743653",
+  "description": "Cosmic Roll is a simple 2D game about rolling a ball in space. Collect stardusts across 60 levels of varying difficulties.",
+  "description_short": "Cosmic Roll is a simple 2D top-down platforming game about rolling a ball in space. Roll your way through levels and collect star dusts.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883120/a35e262a4891b69a0d6d5ed7cb02bbdd6e1f4983/ss_a35e262a4891b69a0d6d5ed7cb02bbdd6e1f4983.1920x1080.jpg?t=1784743653",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883120/67725fa66b4311bae2bb8f4c2ef97ae2137bd691/ss_67725fa66b4311bae2bb8f4c2ef97ae2137bd691.1920x1080.jpg?t=1784743653",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883120/89389dd91cbddd1cafc63eaf5e71301cdd97c6e3/ss_89389dd91cbddd1cafc63eaf5e71301cdd97c6e3.1920x1080.jpg?t=1784743653",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883120/812b55f3cf5b312e228c4bf107facf8b007ef09f/ss_812b55f3cf5b312e228c4bf107facf8b007ef09f.1920x1080.jpg?t=1784743653",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883120/de154458fb13fdf88fc3861557a702dab341fbb5/ss_de154458fb13fdf88fc3861557a702dab341fbb5.1920x1080.jpg?t=1784743653"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-22T19:15:41Z"
+}
