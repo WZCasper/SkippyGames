@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-22T08:33:34Z",
+  "generated_at": "2026-07-22T13:24:40Z",
   "uah_to_rub_rate": 1.756939,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1090,
+  "count": 1102,
   "games": [
     {
       "id": 4881310,
@@ -927,6 +927,19 @@
       "is_free": false
     },
     {
+      "id": 4588520,
+      "title": "Athletes Student For Living",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588520/03c8bb05ada572bbf092bae0424e3be9fd2c9ecd/header.jpg?t=1784713599",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 934,
+      "is_free": false
+    },
+    {
       "id": 4822820,
       "title": "Audictrl",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822820/d76c93aee05087d4000b76db85ff259be0270f59/header.jpg?t=1783954186",
@@ -1068,6 +1081,19 @@
         "PC"
       ],
       "price_rub": 825,
+      "is_free": false
+    },
+    {
+      "id": 3106470,
+      "title": "Baramon: Gotta Fu*k 'em All",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3106470/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1180,
       "is_free": false
     },
     {
@@ -1239,6 +1265,19 @@
         "PC"
       ],
       "price_rub": 649,
+      "is_free": false
+    },
+    {
+      "id": 4570770,
+      "title": "Blast'N Bounty",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570770/fda81efb2382716214da0f44993935637665ef41/header.jpg?t=1784718343",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -4346,6 +4385,19 @@
       "is_free": false
     },
     {
+      "id": 4783490,
+      "title": "Force Escape",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783490/c5b920335c6190c31a54420f1fc790419cf389f0/header.jpg?t=1784707961",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 634,
+      "is_free": false
+    },
+    {
       "id": 3765010,
       "title": "Forensics: Crime Scene Detective",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765010/898a2e973e596586efd395516404834099b96e9d/header.jpg?t=1784037063",
@@ -4617,6 +4669,19 @@
         "PC"
       ],
       "price_rub": 684,
+      "is_free": false
+    },
+    {
+      "id": 4774990,
+      "title": "FutaPunk 🌚",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774990/d22b3e0bf60d88e670f3d618aa64cd4b5592b2c9/header.jpg?t=1784716882",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 681,
       "is_free": false
     },
     {
@@ -6045,7 +6110,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 841,
+      "price_rub": 843,
       "is_free": false
     },
     {
@@ -6232,6 +6297,19 @@
         "PC"
       ],
       "price_rub": 768,
+      "is_free": false
+    },
+    {
+      "id": 4855560,
+      "title": "Kingdom Chronicle",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855560/ab53aef506b6bc83449cf0dcdfd4b92e7f51c99b/header.jpg?t=1784717428",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 772,
       "is_free": false
     },
     {
@@ -6631,6 +6709,19 @@
       "is_free": false
     },
     {
+      "id": 3846580,
+      "title": "Lost in Tandem",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846580/b30057db344f5955e95d8ab0257ba228d879edac/header.jpg?t=1784725231",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1029,
+      "is_free": false
+    },
+    {
       "id": 4275570,
       "title": "Lost in the Fire",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275570/0912747f0890bc9fb3fa7bb9d9c9b80cccf56936/header.jpg?t=1784653226",
@@ -6680,6 +6771,19 @@
         "PC"
       ],
       "price_rub": 779,
+      "is_free": false
+    },
+    {
+      "id": 3530240,
+      "title": "Love is a Demon",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3530240/header.jpg?t=1784706882",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 790,
       "is_free": false
     },
     {
@@ -7479,6 +7583,19 @@
       "is_free": false
     },
     {
+      "id": 4356090,
+      "title": "MonsterGuest",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356090/2598d703448f32a95b31d8a6941143be73bfe73e/header.jpg?t=1784710897",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 579,
+      "is_free": false
+    },
+    {
       "id": 2209900,
       "title": "Moonlight Peaks",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2209900/capsule_616x353.jpg",
@@ -8224,7 +8341,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 587,
+      "price_rub": 646,
       "is_free": false
     },
     {
@@ -9087,6 +9204,19 @@
         "PC"
       ],
       "price_rub": 947,
+      "is_free": false
+    },
+    {
+      "id": 4860730,
+      "title": "Race Town: Kids and Toddlers Car Racing Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860730/903935674934b97978872d86adbae87ec0dc109e/header.jpg?t=1784709809",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 934,
       "is_free": false
     },
     {
@@ -12702,7 +12832,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 622,
+      "price_rub": 623,
       "is_free": false
     },
     {
@@ -13415,6 +13545,19 @@
       "is_free": false
     },
     {
+      "id": 4341590,
+      "title": "Случайный остров",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341590/f0f6320402ff661c4240837c9ce60ffee912dfbb/header.jpg?t=1784714414",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 683,
+      "is_free": false
+    },
+    {
       "id": 4848340,
       "title": "Смертоносный Воин",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848340/fb4e08d650ad07af1afed680506b856f22c54039/header.jpg?t=1783734236",
@@ -13438,6 +13581,19 @@
         "PC"
       ],
       "price_rub": 744,
+      "is_free": false
+    },
+    {
+      "id": 4864560,
+      "title": "виртуальные прятки",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864560/511f42b7104f524279bfb4bd580dcd4fbd030361/header.jpg?t=1784725173",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 641,
       "is_free": false
     },
     {
