@@ -1,0 +1,38 @@
+{
+  "id": 4301300,
+  "title": "Incrempire",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/96a7fa69f48b8ed490df7a32f236489e04b1ed96/header_alt_assets_3.jpg?t=1784660849",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/c079608aa1eac8c65b19b928cbeb9d67cd2280c0/page_bg_raw.jpg?t=1784660849",
+  "description": "Защитите своё королевствоIncrempire — инкрементальная игра на выживание, в которой вы будете защищать своё королевство от наступающей орды монстров. Выиграть все битвы не получится, но с каждым поражением вы будете становиться сильнее.\n\nСтановитесь сильнее с каждой битвойНаводите курсор на наступающих врагов, чтобы убить их.\n\nПобеждённые враги приносят вам деньги!\n\nРазблокируйте мощные навыкиТратьте деньги в дереве навыков.\n\nОткрывайте мощные заклинания или навсегда улучшайте свои параметры, чтобы побеждать даже самых сильных врагов.\n\nЗаслужите благосклонность королевыПеред каждым заходом вы можете выбрать временное благословение.\n\nКаждая битва уникальна.\n\nПройдите приключение до конца• 25 уровней\n\n• 5 уникальных биомов\n\n• 50 достижений\n\n• 4-6 часов игры в зависимости от вашей стратегии и стиля",
+  "description_short": "Защищайте. Улучшайте. Доминируйте. Инкрементальная игра о защите базы со множеством мощных навыков и проработанным деревом навыков.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 757,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/6b96978440f555506addd9c82e4e7547bef76925/ss_6b96978440f555506addd9c82e4e7547bef76925.1920x1080.jpg?t=1784660849",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/48842f86b3c8bca89cc8d3ee77c9e4c10969b6f1/ss_48842f86b3c8bca89cc8d3ee77c9e4c10969b6f1.1920x1080.jpg?t=1784660849",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/8bfceee7d08b7fdd1bd173ab4c0cf587ea97caff/ss_8bfceee7d08b7fdd1bd173ab4c0cf587ea97caff.1920x1080.jpg?t=1784660849",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/5f52033fe6f2f488fd0f10a97b1b0fec43bdbebf/ss_5f52033fe6f2f488fd0f10a97b1b0fec43bdbebf.1920x1080.jpg?t=1784660849",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/d73df63ef616ac8d19747fa4a5748109b2a845dd/ss_d73df63ef616ac8d19747fa4a5748109b2a845dd.1920x1080.jpg?t=1784660849",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/c5757cb9f3fcd20530a039ca3c39e43aff64490e/ss_c5757cb9f3fcd20530a039ca3c39e43aff64490e.1920x1080.jpg?t=1784660849",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/7c4c1e9482a7a8845d1bf37260a0ed0cde1747a2/ss_7c4c1e9482a7a8845d1bf37260a0ed0cde1747a2.1920x1080.jpg?t=1784660849",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/f65842f32dfc1ebc3e810bfe9949240bfa0abba6/ss_f65842f32dfc1ebc3e810bfe9949240bfa0abba6.1920x1080.jpg?t=1784660849"
+  ],
+  "upsells": [
+    {
+      "id": 4776290,
+      "name": "Incrempire - Supporter Pack",
+      "price_rub": 676,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776290/ee73a75aea701142ad57692f0b695b3543a46a39/header.jpg?t=1784660910"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-22T01:20:56Z"
+}

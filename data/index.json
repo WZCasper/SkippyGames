@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T19:48:39Z",
-  "uah_to_rub_rate": 1.752351,
+  "generated_at": "2026-07-22T01:25:42Z",
+  "uah_to_rub_rate": 1.756939,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1062,
+  "count": 1075,
   "games": [
     {
       "id": 4881310,
@@ -1538,6 +1538,19 @@
         "PC"
       ],
       "price_rub": 1088,
+      "is_free": false
+    },
+    {
+      "id": 4918690,
+      "title": "CARNEVALE: Blades in the Crowd",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4918690/8d26e7d9fc63d460ca6c6dbfd9dfdec020991117/header.jpg?t=1784648653",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 769,
       "is_free": false
     },
     {
@@ -3650,6 +3663,19 @@
       "is_free": false
     },
     {
+      "id": 3884650,
+      "title": "End of Blackjack",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884650/90ce1057faa1bd07ca42f7e626fb991640184186/header.jpg?t=1784673909",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 648,
+      "is_free": false
+    },
+    {
       "id": 4566880,
       "title": "Endless Roll",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566880/d90eb621aa43415c6121b09d24a4a77fcf8d024c/header.jpg?t=1783954975",
@@ -4333,6 +4359,19 @@
       "is_free": false
     },
     {
+      "id": 4790650,
+      "title": "Forge Maiden",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790650/813dba12dcacb5b61879b626e9b51750d4db34d3/header.jpg?t=1784650622",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 572,
+      "is_free": false
+    },
+    {
       "id": 4858720,
       "title": "Forsaken Rules",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858720/f9236aee8da2e24ae158baa8f75f99298ef71918/header.jpg?t=1784647603",
@@ -4408,6 +4447,19 @@
         "PC"
       ],
       "price_rub": 816,
+      "is_free": false
+    },
+    {
+      "id": 4282810,
+      "title": "From Devil's Womb",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282810/fab787a60feadef9e4b1188519652359ed0ad95b/header.jpg?t=1784660412",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 739,
       "is_free": false
     },
     {
@@ -5027,6 +5079,21 @@
         "PC"
       ],
       "price_rub": 705,
+      "is_free": false
+    },
+    {
+      "id": 1145350,
+      "title": "Hades II",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145350/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Слэшеры",
+        "Экшен-РПГ (Action-RPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1066,
       "is_free": false
     },
     {
@@ -5784,6 +5851,32 @@
         "PC"
       ],
       "price_rub": 674,
+      "is_free": false
+    },
+    {
+      "id": 4301300,
+      "title": "Incrempire",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/96a7fa69f48b8ed490df7a32f236489e04b1ed96/header_alt_assets_3.jpg?t=1784660849",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 757,
+      "is_free": false
+    },
+    {
+      "id": 4873050,
+      "title": "International Memes",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873050/12ce6efaf1a63c966036fdc03a8ffeb83ee3368a/header.jpg?t=1784661429",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 532,
       "is_free": false
     },
     {
@@ -6694,6 +6787,19 @@
       "is_free": false
     },
     {
+      "id": 4779000,
+      "title": "Majestria: Incremental Survival",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779000/68cbc584f834d9d6d13fe59a1d4df6f01ccbddbd/header.jpg?t=1784655507",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 663,
+      "is_free": false
+    },
+    {
       "id": 4834080,
       "title": "Make it! Shaved Ice",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834080/1e1d3e3aa99b83e36cee82524b51434d6006b332/header.jpg?t=1783552826",
@@ -7504,6 +7610,19 @@
       "is_free": false
     },
     {
+      "id": 4703870,
+      "title": "NIGHTMIST",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703870/8fb72a1ba8683a6572d036c69dc4012ea88ebaf4/header.jpg?t=1784653332",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 769,
+      "is_free": false
+    },
+    {
       "id": 4826160,
       "title": "NO DOUBT",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826160/dfbba9e6ede4878c81885d9a04fa2c76737ad16f/header.jpg?t=1783681195",
@@ -7948,6 +8067,19 @@
         "PC"
       ],
       "price_rub": 574,
+      "is_free": false
+    },
+    {
+      "id": 4344730,
+      "title": "Only Good Babysitters Go To Heaven",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344730/ae8bff3891a6ca1f437b4456adb22a4eb2f9da29/header.jpg?t=1784653229",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 744,
       "is_free": false
     },
     {
@@ -8431,6 +8563,19 @@
         "PC"
       ],
       "price_rub": 542,
+      "is_free": false
+    },
+    {
+      "id": 4899210,
+      "title": "Please Proceed To The Dungeon",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899210/2df4bd3514915ed5d93ad1736763fb869a0d9eea/header.jpg?t=1784661051",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -8949,6 +9094,19 @@
         "PC"
       ],
       "price_rub": 654,
+      "is_free": false
+    },
+    {
+      "id": 4388810,
+      "title": "Reptilarium",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4388810/4a99b0fcbd4b631723c5dd4351ecd0136c6cbe32/header.jpg?t=1784653630",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 697,
       "is_free": false
     },
     {
@@ -11650,6 +11808,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4883780,
+      "title": "Trenchcoat Adventurer Vol 1 : Gone Rogue",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883780/9c47352411db7314abc92b71c8b6ab5cdfaa0ec4/header.jpg?t=1784650104",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 820,
+      "is_free": false
     },
     {
       "id": 2414410,
