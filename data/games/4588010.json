@@ -1,8 +1,8 @@
 {
   "id": 4588010,
   "title": "PROJECT: OJISAN",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/bcf703355670f5a584d74e86953f189ec1cb7bda/header.jpg?t=1783404056",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/046022799d91fceda5e807d20c89d9453c64d9ec/page_bg_raw.jpg?t=1783404056",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/bcf703355670f5a584d74e86953f189ec1cb7bda/header.jpg?t=1784783139",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/046022799d91fceda5e807d20c89d9453c64d9ec/page_bg_raw.jpg?t=1784783139",
   "description": "Это игра, в которой вы складываете мужчин среднего возраста друг на друга.\n\nСкладывайте их до определённой высоты, чтобы перейти на следующий уровень.\n\nОднако не все они обычные.\nНекоторые несут сокровища,\nнекоторые — роботы,\nа по какой-то причине некоторые даже имеют бомбы.\n\nСкладывать их гораздо сложнее, чем вы можете себе представить.\n\nСможете ли вы выдержать этот стресс\nи дойти до конца?",
   "description_short": "Это игра, в которой вы складываете мужчин среднего возраста друг на друга. Играйте, когда хотите очистить разум.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 572,
+  "price_rub": 591,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "emZZexEJO8c",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/85245452861159b2a9096701131efa59130449d3/ss_85245452861159b2a9096701131efa59130449d3.1920x1080.jpg?t=1783404056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/017dbee53d72b4df85f31421d09397d6fc65305e/ss_017dbee53d72b4df85f31421d09397d6fc65305e.1920x1080.jpg?t=1783404056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/44db83eba62b547f3b8ef6599b403968fece1c7f/ss_44db83eba62b547f3b8ef6599b403968fece1c7f.1920x1080.jpg?t=1783404056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/9811b44c7252c33e1de3e698a92b2384713fd11d/ss_9811b44c7252c33e1de3e698a92b2384713fd11d.1920x1080.jpg?t=1783404056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/fbc0ce4a39d26d4457495e1e33988fedae4f25e5/ss_fbc0ce4a39d26d4457495e1e33988fedae4f25e5.1920x1080.jpg?t=1783404056"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/85245452861159b2a9096701131efa59130449d3/ss_85245452861159b2a9096701131efa59130449d3.1920x1080.jpg?t=1784783139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/017dbee53d72b4df85f31421d09397d6fc65305e/ss_017dbee53d72b4df85f31421d09397d6fc65305e.1920x1080.jpg?t=1784783139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/44db83eba62b547f3b8ef6599b403968fece1c7f/ss_44db83eba62b547f3b8ef6599b403968fece1c7f.1920x1080.jpg?t=1784783139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/9811b44c7252c33e1de3e698a92b2384713fd11d/ss_9811b44c7252c33e1de3e698a92b2384713fd11d.1920x1080.jpg?t=1784783139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/fbc0ce4a39d26d4457495e1e33988fedae4f25e5/ss_fbc0ce4a39d26d4457495e1e33988fedae4f25e5.1920x1080.jpg?t=1784783139"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T01:57:32Z"
+  "updated_at": "2026-07-23T08:07:56Z"
 }

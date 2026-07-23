@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Hsy-nr_yQ40",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640060/d1c42a37031af510b2a7746d535d60f1fa2c1285/ss_d1c42a37031af510b2a7746d535d60f1fa2c1285.1920x1080.jpg?t=1783677541",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640060/4595c9125d260c44a9193fdc2fb2085b1e6530d0/ss_4595c9125d260c44a9193fdc2fb2085b1e6530d0.1920x1080.jpg?t=1783677541",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T02:08:58Z"
+  "updated_at": "2026-07-23T08:08:28Z"
 }

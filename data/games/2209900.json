@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2710,
+  "price_rub": 2711,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "VL_15TiRRAM",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/ss_c3ce821141f5bb624c1c8bfdb09747c3d96a9782.1920x1080.jpg?t=1783444081",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/647c28932cea008c5a579f746c713181325b4c03/ss_647c28932cea008c5a579f746c713181325b4c03.1920x1080.jpg?t=1783444081",
@@ -40,5 +40,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-20T01:54:57Z"
+  "updated_at": "2026-07-23T08:07:50Z"
 }

@@ -1,8 +1,8 @@
 {
   "id": 3955290,
   "title": "Veilscripture AI",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/3b22e4567b31fde9963893768ee94e09d200425c/header.jpg?t=1784459949",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/8c2f8aab922d310f583cb15544c9c21120386b03/page_bg_raw.jpg?t=1784459949",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/3b22e4567b31fde9963893768ee94e09d200425c/header.jpg?t=1784621908",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/8c2f8aab922d310f583cb15544c9c21120386b03/page_bg_raw.jpg?t=1784621908",
   "description": "Your Private AI Roleplay StudioLaunch a character, settle into a story, and create your own worlds. Veilscripture is a comprehensive roleplay suite that runs entirely on your machine — no cloud, no subscription, no one watching. Just you and the story.\n\nStories That RememberVeilscripture is built exclusively for roleplay. Characters hold onto what's happened. Conversations carry weight across sessions as you control. And if you want to hear your characters speak, built-in text-to-speech brings them to life. You may even turn entire chats into audiobooks or PDFs as you like and share them!\n\nBuild the Worlds You WantCreate characters from scratch with the built-in Card Manager, or design entire worlds with Veil Atlas and drop them into any story. When you've made something you're proud of, share it on Steam Workshop in one click.\n\nNo Setup. No Fiddling. Just Start.No terminals, no configuration files, no troubleshooting. Veilscripture tunes itself to your hardware the moment you launch it. If you enjoy tinkering, advanced settings are there when you want them for finer control.\n\nPrivate by DefaultYour stories stay on your machine. Veilscripture doesn't phone home or collect data. All chats are encrypted at rest.\n\nWant to continue a story from your phone or another device? Secure remote access keeps everything private through encrypted connections — no data ever touches a third-party server.\n\n✅ Fully offline — no cloud, no subscription\n\n✅ Built exclusively for roleplay — memory optimization, voice, world-building\n\n✅ Complete privacy — no telemetry, no data collection, chat encryption\n\n✅ Your worlds, your characters — export your story to text or audio, or share on Steam Workshop, or not\n\nA note on content: Veilscripture currently filters explicit sexual content to comply with Steam's policy on AI-generated material. Flirting and non-sexual intimacy are unaffected. Our position is that what an adult does with a private tool on their own machine should be their choice; if Steam's policy evolves, Veilscripture will follow.",
   "description_short": "Veilscripture — Roleplay with characters that are yours. On your machine. No one watching.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1960,
+  "price_rub": 2123,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "_vtjlV5331s",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/620a0cee9a5457fafb018483eba2f8e71d1c3f3f/ss_620a0cee9a5457fafb018483eba2f8e71d1c3f3f.1920x1080.jpg?t=1784459949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/42061eb0df24ede12a4e0e7ce3f9f0bb02d50016/ss_42061eb0df24ede12a4e0e7ce3f9f0bb02d50016.1920x1080.jpg?t=1784459949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/76e452dd254376a84d7e9d489fe543dfcb4d1ca7/ss_76e452dd254376a84d7e9d489fe543dfcb4d1ca7.1920x1080.jpg?t=1784459949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/0ecb63e9a7314051c18f7966ce573ddb7ac56d53/ss_0ecb63e9a7314051c18f7966ce573ddb7ac56d53.1920x1080.jpg?t=1784459949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/4b29439b690a248fb46daf34720334f3392af5f7/ss_4b29439b690a248fb46daf34720334f3392af5f7.1920x1080.jpg?t=1784459949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/f9d1bdd6bdf8880749fa5a3029880c253b8b331e/ss_f9d1bdd6bdf8880749fa5a3029880c253b8b331e.1920x1080.jpg?t=1784459949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/ade5925c1999ce5d203e60d850486bcf84c882c8/ss_ade5925c1999ce5d203e60d850486bcf84c882c8.1920x1080.jpg?t=1784459949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/7dec438e8e63e42a3408d28cd8cc2351cf100b32/ss_7dec438e8e63e42a3408d28cd8cc2351cf100b32.1920x1080.jpg?t=1784459949"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/620a0cee9a5457fafb018483eba2f8e71d1c3f3f/ss_620a0cee9a5457fafb018483eba2f8e71d1c3f3f.1920x1080.jpg?t=1784621908",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/42061eb0df24ede12a4e0e7ce3f9f0bb02d50016/ss_42061eb0df24ede12a4e0e7ce3f9f0bb02d50016.1920x1080.jpg?t=1784621908",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/76e452dd254376a84d7e9d489fe543dfcb4d1ca7/ss_76e452dd254376a84d7e9d489fe543dfcb4d1ca7.1920x1080.jpg?t=1784621908",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/0ecb63e9a7314051c18f7966ce573ddb7ac56d53/ss_0ecb63e9a7314051c18f7966ce573ddb7ac56d53.1920x1080.jpg?t=1784621908",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/4b29439b690a248fb46daf34720334f3392af5f7/ss_4b29439b690a248fb46daf34720334f3392af5f7.1920x1080.jpg?t=1784621908",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/f9d1bdd6bdf8880749fa5a3029880c253b8b331e/ss_f9d1bdd6bdf8880749fa5a3029880c253b8b331e.1920x1080.jpg?t=1784621908",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/ade5925c1999ce5d203e60d850486bcf84c882c8/ss_ade5925c1999ce5d203e60d850486bcf84c882c8.1920x1080.jpg?t=1784621908",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955290/7dec438e8e63e42a3408d28cd8cc2351cf100b32/ss_7dec438e8e63e42a3408d28cd8cc2351cf100b32.1920x1080.jpg?t=1784621908"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T02:04:48Z"
+  "updated_at": "2026-07-23T08:08:16Z"
 }

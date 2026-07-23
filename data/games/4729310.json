@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Y0kvdbimI3c",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729310/6f12d00b38fe6f9c8e253d58004e3de8c948d2ba/ss_6f12d00b38fe6f9c8e253d58004e3de8c948d2ba.1920x1080.jpg?t=1784102575",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729310/2a9ea09310fd523f7d07f5b525f6515e0fa9b897/ss_2a9ea09310fd523f7d07f5b525f6515e0fa9b897.1920x1080.jpg?t=1784102575",
@@ -24,7 +24,20 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729310/f86c4a10c7d2ffe5fc64903a3670ba1376f258d8/ss_f86c4a10c7d2ffe5fc64903a3670ba1376f258d8.1920x1080.jpg?t=1784102575",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729310/9322d3a8ccf40ee9ae2454b4a29aa85b4ee85fc3/ss_9322d3a8ccf40ee9ae2454b4a29aa85b4ee85fc3.1920x1080.jpg?t=1784102575"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4729430,
+      "name": "Playing Prague: Boats & Pears",
+      "price_rub": 675,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729430/60aed08a6b71e6eac4d30eb1555f28795d4ed3a6/header.jpg?t=1784103472"
+    },
+    {
+      "id": 4729440,
+      "name": "Playing Prague: Bells & Unicorns",
+      "price_rub": 675,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729440/ba8a9f3050f82b61cd5cf3d477b3a26d98384584/header.jpg?t=1784103454"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-20T02:16:44Z"
+  "updated_at": "2026-07-23T08:08:49Z"
 }
