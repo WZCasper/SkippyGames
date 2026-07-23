@@ -14,7 +14,7 @@
   "price_rub": 632,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "P9g5Sl_fpas",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502210/5914efc9aeafa5492b9883c3e456d27e5742905f/ss_5914efc9aeafa5492b9883c3e456d27e5742905f.1920x1080.jpg?t=1784400380",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502210/ac7c4f4a8a58460f2e149fd3d6def5a4762dab48/ss_ac7c4f4a8a58460f2e149fd3d6def5a4762dab48.1920x1080.jpg?t=1784400380",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T08:34:36Z"
+  "updated_at": "2026-07-23T13:39:58Z"
 }

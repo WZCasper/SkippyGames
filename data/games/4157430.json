@@ -1,8 +1,8 @@
 {
   "id": 4157430,
   "title": "Diggin",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/28fe6101fee318ba4db6654ba8d9656b011828fd/header.jpg?t=1784221891",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4157430?t=1784221891",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/28fe6101fee318ba4db6654ba8d9656b011828fd/header.jpg?t=1784799292",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4157430?t=1784799292",
   "description": "Вы Даг, озорной юный Крот, который решил покорить странный метеоритный кратер, найденный вашим дедушкой Дигби.\n\n \n\nИспользуйте материалы кратера, чтобы улучшать бур, преображать землю и получать новое шахтерское снаряжение в ОГРОМНОМ древе навыков.\n\n \n\nКратер является последним известным местом обитания древнего племени звездоносых Кротов, которое бесследно исчезло!\n\n \n\nЗемля хранит богатые руды, реликвии и тайны пропавшего племени, и именно вам предстоит их раскопать!",
   "description_short": "Пробуритесь в глубины метеоритного кратера в этом инкрементальном приключении. Добывайте руду, открывайте улучшения и найдите космическое сокровище, что скрыто внизу! Сможете ли вы узнать, что случилось с Кротами, жившими до вас?",
   "genres": [
@@ -14,16 +14,16 @@
   "price_rub": 709,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "qORTe1wW3Wg",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/fc07b6cfc18be757f6d9b58268475da9412095f4/ss_fc07b6cfc18be757f6d9b58268475da9412095f4.1920x1080.jpg?t=1784221891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/690bf36ea075b59c054c9a81bdb3dbd88d8e41a2/ss_690bf36ea075b59c054c9a81bdb3dbd88d8e41a2.1920x1080.jpg?t=1784221891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/e45e44035bb92cae5c649823bb4ae6911d6716e1/ss_e45e44035bb92cae5c649823bb4ae6911d6716e1.1920x1080.jpg?t=1784221891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/2f9e18bd7f62db68d071855a005daa39e35bc805/ss_2f9e18bd7f62db68d071855a005daa39e35bc805.1920x1080.jpg?t=1784221891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/64d0b4b88483e366194c955993242bb63e1d8b55/ss_64d0b4b88483e366194c955993242bb63e1d8b55.1920x1080.jpg?t=1784221891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/d29e55cfba2e22338aa7e6e72424062645eece3c/ss_d29e55cfba2e22338aa7e6e72424062645eece3c.1920x1080.jpg?t=1784221891"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/fc07b6cfc18be757f6d9b58268475da9412095f4/ss_fc07b6cfc18be757f6d9b58268475da9412095f4.1920x1080.jpg?t=1784799292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/690bf36ea075b59c054c9a81bdb3dbd88d8e41a2/ss_690bf36ea075b59c054c9a81bdb3dbd88d8e41a2.1920x1080.jpg?t=1784799292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/e45e44035bb92cae5c649823bb4ae6911d6716e1/ss_e45e44035bb92cae5c649823bb4ae6911d6716e1.1920x1080.jpg?t=1784799292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/2f9e18bd7f62db68d071855a005daa39e35bc805/ss_2f9e18bd7f62db68d071855a005daa39e35bc805.1920x1080.jpg?t=1784799292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/64d0b4b88483e366194c955993242bb63e1d8b55/ss_64d0b4b88483e366194c955993242bb63e1d8b55.1920x1080.jpg?t=1784799292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157430/d29e55cfba2e22338aa7e6e72424062645eece3c/ss_d29e55cfba2e22338aa7e6e72424062645eece3c.1920x1080.jpg?t=1784799292"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T08:36:00Z"
+  "updated_at": "2026-07-23T14:04:50Z"
 }

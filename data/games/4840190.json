@@ -1,8 +1,8 @@
 {
   "id": 4840190,
   "title": "VOIDRAVE",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/20d8f0f02c8c4b2dbf92c25897a6c74a66a1ac34/header.jpg?t=1784485751",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/e736054dc29532beee09d9d25053cd617dbd9e84/page_bg_raw.jpg?t=1784485751",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/20d8f0f02c8c4b2dbf92c25897a6c74a66a1ac34/header.jpg?t=1784683970",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/e736054dc29532beee09d9d25053cd617dbd9e84/page_bg_raw.jpg?t=1784683970",
   "description": "Ты не пересекаешь пустоту. Ты внутри неё.Обычный рейд зачистки за краем карт. Обломки здесь складываются в спирали. Лёд над могилами Первого Флота тёплый. Чем глубже летишь, тем меньше это место похоже на космос.\n\n\"Командование говорит: рутина. Командование далеко.\"\n\n20 БОССОВКаждые пять волн что-то огромное. The Watcher. The Twin Pulse. The Coiled God. У каждого свои паттерны атак, свои фазы, своё место в истории. Потому что это не захватчики. Это органы. А на самом дне ждёт Void Heart, сердце существа, внутри которого ты летел всё это время.\n\n100 ВОЛН, ОДНА ИСТОРИЯКлассический аркадный bullet hell: рои, элита, мини-боссы и мутаторы волн, меняющие правила прямо на ходу. Между волнами ты получаешь журналы секторов и передачи Первого Флота, тех, кто летел сюда до тебя и перестал отвечать.\n\n\"Это наши собственные голоса. Проигранные неправильно.\"\n\nВсё, что ты убиваешь, попадает в библиотеку. Десятки записей бестиария и кодекса, каждый враг и босс задокументирован. Половина истории спрятана именно там.\n\nБОЛЬШЕ, ЧЕМ ОДИН ЗАБЕГBOSS RUSH - все 20 боссов подряд, без волн между ними.\n\nDAILY RUN - одна попытка в день, один сид для всех, мировая таблица лидеров. Шанс только один.\n\nWORLD BOSS - один гигантский босс, одна полоса здоровья на всех игроков мира. Твой урон учитывается. У него есть фазы ярости. Удачи.\n\n4 КОРАБЛЯЧетыре корабля, четыре набора вооружения, четыре способа умирать медленнее. Между волнами открывается магазин: дроны, оружие, щиты, криты и безграничный VOID OVERCHARGE. Каждые 10 волн выбирайте 1 из 3 мутаций: вампирские снаряды, рикошет, цепная молния, гравитационные колодцы. Ни один забег не похож на другой. Найдите синергию, которая сломает игру, и доведите её до волны 100.\n\nСОЗДАНА ДЛЯ АРКАДЫГрейз-очки, комбо-множители и таблица лидеров, которая помнит всё. Три уровня сложности: от дружелюбного к новичкам до абсолютного наказания. Полная поддержка контроллера и совместимость со Steam Deck. Пиксель-арт ручной работы, оригинальный саундтрек и ноль микротранзакций. Написана с нуля на C++ и OpenGL. Без движка. Без мидлвари.\n\n\"Оно знает твой позывной. И твой старый тоже.\"",
   "description_short": "Bullet hell шмап с секретом. 100 волн, 20 боссов и медленное осознание: сектор, который ты зачищаешь, не сектор. Ты не пересекаешь пустоту. Ты внутри неё.",
   "genres": [
@@ -11,20 +11,20 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 705,
+  "price_rub": 728,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "B94hkqFq2Rw",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/ea5146997450bd30129e7147084947b18ba57be8/ss_ea5146997450bd30129e7147084947b18ba57be8.1920x1080.jpg?t=1784485751",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/19b3e2d5ee4882faee24c033d0be46bc3212ed81/ss_19b3e2d5ee4882faee24c033d0be46bc3212ed81.1920x1080.jpg?t=1784485751",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/114f852ee9d8072454458db70a918a88a4869750/ss_114f852ee9d8072454458db70a918a88a4869750.1920x1080.jpg?t=1784485751",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/40ddb5015a9add7f06225ba7a32cc7b90f107fd5/ss_40ddb5015a9add7f06225ba7a32cc7b90f107fd5.1920x1080.jpg?t=1784485751",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/ac6fd90753f1462179d9a709fbd5ad3419a6b393/ss_ac6fd90753f1462179d9a709fbd5ad3419a6b393.1920x1080.jpg?t=1784485751",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/f53eaed9563ca65c7c418e233931e32144a30928/ss_f53eaed9563ca65c7c418e233931e32144a30928.1920x1080.jpg?t=1784485751",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/085e1159f5b54b9e352a4fd1069b0a06f2084ad3/ss_085e1159f5b54b9e352a4fd1069b0a06f2084ad3.1920x1080.jpg?t=1784485751"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/ea5146997450bd30129e7147084947b18ba57be8/ss_ea5146997450bd30129e7147084947b18ba57be8.1920x1080.jpg?t=1784683970",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/19b3e2d5ee4882faee24c033d0be46bc3212ed81/ss_19b3e2d5ee4882faee24c033d0be46bc3212ed81.1920x1080.jpg?t=1784683970",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/114f852ee9d8072454458db70a918a88a4869750/ss_114f852ee9d8072454458db70a918a88a4869750.1920x1080.jpg?t=1784683970",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/40ddb5015a9add7f06225ba7a32cc7b90f107fd5/ss_40ddb5015a9add7f06225ba7a32cc7b90f107fd5.1920x1080.jpg?t=1784683970",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/ac6fd90753f1462179d9a709fbd5ad3419a6b393/ss_ac6fd90753f1462179d9a709fbd5ad3419a6b393.1920x1080.jpg?t=1784683970",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/f53eaed9563ca65c7c418e233931e32144a30928/ss_f53eaed9563ca65c7c418e233931e32144a30928.1920x1080.jpg?t=1784683970",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840190/085e1159f5b54b9e352a4fd1069b0a06f2084ad3/ss_085e1159f5b54b9e352a4fd1069b0a06f2084ad3.1920x1080.jpg?t=1784683970"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T08:34:22Z"
+  "updated_at": "2026-07-23T13:35:46Z"
 }

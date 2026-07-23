@@ -1,7 +1,7 @@
 {
   "id": 3843410,
   "title": "Flux Empyrean",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/6328feb5ae0018bdd39b1a59b77add0d0867cce8/header.jpg?t=1783957328",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/6328feb5ae0018bdd39b1a59b77add0d0867cce8/header.jpg?t=1784772107",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3843410/library_hero.jpg",
   "description": "You’ve been absent. Perhaps you once called this world home, but it moved on without you. Where were you? How long has it been? Alone on a boat in a sea of Flux, you set off without destination to find answers.\n\nThe entire planet lies before you. No matter where you go, you find a unique trace of the past. Lost journal letters. Remains of a great temple. Derelict research papers. Ancient conversations between peers. Soon you start making connections, and previous discoveries grow in weight. \n\nKnowledge is progress. There is no combat, waypoints, or skill trees - just you, your ship, your tools, and the waiting world.\n\nConstellations rotate overhead as you glide over the waves. You learn to sail by the stars, using the sky as your guide. \n\nEach location you explore offers up new mysteries and answers. You take note of your discoveries in your journal for later.\n\nYou pause after reviewing your notes. The strange puzzle from a previous location begins to make sense. You know what to do now.",
   "description_short": "The Flux is not keen on giving away its secrets, and you’re one of them. Sail a vast planet under a blanket of stars and use your tools and wits to remind yourself of what was lost and what could come next. An open world mystery about understanding the end of the world.",
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1000,
+  "price_rub": 1088,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "HgHqP9jMJZw",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/e688850c9242663dc6890007b0442aacbcc25193/ss_e688850c9242663dc6890007b0442aacbcc25193.1920x1080.jpg?t=1783957328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/d828c3b17a3a15cce08281967e4083aa0b1ca7a8/ss_d828c3b17a3a15cce08281967e4083aa0b1ca7a8.1920x1080.jpg?t=1783957328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/6d163ced6d054bcfe3d3fb9a2ba4efb46ea988c3/ss_6d163ced6d054bcfe3d3fb9a2ba4efb46ea988c3.1920x1080.jpg?t=1783957328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/41338464b3dad5dcdb9e0094131612020625501b/ss_41338464b3dad5dcdb9e0094131612020625501b.1920x1080.jpg?t=1783957328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/46cab52060b9378b7df8576110c636f1cf4833d2/ss_46cab52060b9378b7df8576110c636f1cf4833d2.1920x1080.jpg?t=1783957328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/bc55d6e91d342e7965291f35b49096fa413af28f/ss_bc55d6e91d342e7965291f35b49096fa413af28f.1920x1080.jpg?t=1783957328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/750595feec320db4bd0edcad7baf693a9e07711e/ss_750595feec320db4bd0edcad7baf693a9e07711e.1920x1080.jpg?t=1783957328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/6f565c78285724c3a0c9b5b866541178456294f2/ss_6f565c78285724c3a0c9b5b866541178456294f2.1920x1080.jpg?t=1783957328"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/e688850c9242663dc6890007b0442aacbcc25193/ss_e688850c9242663dc6890007b0442aacbcc25193.1920x1080.jpg?t=1784772107",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/d828c3b17a3a15cce08281967e4083aa0b1ca7a8/ss_d828c3b17a3a15cce08281967e4083aa0b1ca7a8.1920x1080.jpg?t=1784772107",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/6d163ced6d054bcfe3d3fb9a2ba4efb46ea988c3/ss_6d163ced6d054bcfe3d3fb9a2ba4efb46ea988c3.1920x1080.jpg?t=1784772107",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/41338464b3dad5dcdb9e0094131612020625501b/ss_41338464b3dad5dcdb9e0094131612020625501b.1920x1080.jpg?t=1784772107",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/46cab52060b9378b7df8576110c636f1cf4833d2/ss_46cab52060b9378b7df8576110c636f1cf4833d2.1920x1080.jpg?t=1784772107",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/bc55d6e91d342e7965291f35b49096fa413af28f/ss_bc55d6e91d342e7965291f35b49096fa413af28f.1920x1080.jpg?t=1784772107",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/750595feec320db4bd0edcad7baf693a9e07711e/ss_750595feec320db4bd0edcad7baf693a9e07711e.1920x1080.jpg?t=1784772107",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3843410/6f565c78285724c3a0c9b5b866541178456294f2/ss_6f565c78285724c3a0c9b5b866541178456294f2.1920x1080.jpg?t=1784772107"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T08:34:27Z"
+  "updated_at": "2026-07-23T13:37:20Z"
 }

@@ -1,8 +1,8 @@
 {
   "id": 4353610,
   "title": "My Pocket Paradise",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/5f23bf836004360851f5f9b635283a0b24b05a6d/header.jpg?t=1784416118",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/ed19c903ebae8c971db6cd63e1c0000d4ce5e14f/page_bg_raw.jpg?t=1784416118",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/5f23bf836004360851f5f9b635283a0b24b05a6d/header.jpg?t=1784641912",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/ed19c903ebae8c971db6cd63e1c0000d4ce5e14f/page_bg_raw.jpg?t=1784641912",
   "description": "Welcome to Your New Cozy Corner! \n\nMy Pocket Paradise is a relaxing farming and fishing simulator uniquely designed to live right on the corner of your screen. Whether you are working, studying, or just watching videos, your little pocket world is always there to keep you company!\n\nKey Features:\n\n• Your Desktop Companion: Play in a small, resizable window that sits perfectly on your desktop. It is lightweight, resource-friendly, and designed to be enjoyed at your own pace without interrupting your daily tasks.\n\n• Fish, Farm, & Mine: Cast your line to catch rare and legendary fishes, plant seeds to harvest valuable crops, and explore deep caves to mine precious ores and shiny gems.\n\n• Complete Your Collection: Show off your triumphs! Fill your personal Aquarium with your favorite swimming fishes and build a glorious Museum filled with golden statues of your legendary catches.\n\n• Express Your Style: Visit the local shops and meet quirky villagers! Buy new outfits, hats, and accessories to fully customize your character's look.\n\n• Visit Friends & Flex Your Triumphs: Check the global or friends leaderboard to see who is the ultimate angler. Teleport to their worlds, admire their legendary collections, and get inspired to be the best!\n\nTake a break, cast your line, and build your pocket-sized dream life today!",
   "description_short": "My Pocket Paradise is your cozy pixel-art desktop companion! Fish, farm, mine, and build your ultimate paradise right on the corner of your screen while you work or relax. Catch legendary fishes, customize your character, and show off your golden museum to friends!",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 619,
+  "price_rub": 633,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "QXb83NRKUQM",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/7cca6b5e1c67c94735e2828a9fd80b929bad975d/ss_7cca6b5e1c67c94735e2828a9fd80b929bad975d.1920x1080.jpg?t=1784416118",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/d87f40f844c5d145e2c8cc91fd3185b0f5225397/ss_d87f40f844c5d145e2c8cc91fd3185b0f5225397.1920x1080.jpg?t=1784416118",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/9e1a9bec57c29a8fd6e370e275d33603046aa4f8/ss_9e1a9bec57c29a8fd6e370e275d33603046aa4f8.1920x1080.jpg?t=1784416118",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/bad6f97be3597956210377081a8054cfd7872b44/ss_bad6f97be3597956210377081a8054cfd7872b44.1920x1080.jpg?t=1784416118",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/a7eaecb97c3828684eff6c9ecd0e797866b58c04/ss_a7eaecb97c3828684eff6c9ecd0e797866b58c04.1920x1080.jpg?t=1784416118",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/9f6e107cba63f5dd4f07abedc81c6b0924321241/ss_9f6e107cba63f5dd4f07abedc81c6b0924321241.1920x1080.jpg?t=1784416118",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/3e8ac0e5ef25c5959685d4c3299a10c35de335c7/ss_3e8ac0e5ef25c5959685d4c3299a10c35de335c7.1920x1080.jpg?t=1784416118",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/183abf8eed6837d5a4dd46e187d89ae9898c8b18/ss_183abf8eed6837d5a4dd46e187d89ae9898c8b18.1920x1080.jpg?t=1784416118"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/7cca6b5e1c67c94735e2828a9fd80b929bad975d/ss_7cca6b5e1c67c94735e2828a9fd80b929bad975d.1920x1080.jpg?t=1784641912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/d87f40f844c5d145e2c8cc91fd3185b0f5225397/ss_d87f40f844c5d145e2c8cc91fd3185b0f5225397.1920x1080.jpg?t=1784641912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/9e1a9bec57c29a8fd6e370e275d33603046aa4f8/ss_9e1a9bec57c29a8fd6e370e275d33603046aa4f8.1920x1080.jpg?t=1784641912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/bad6f97be3597956210377081a8054cfd7872b44/ss_bad6f97be3597956210377081a8054cfd7872b44.1920x1080.jpg?t=1784641912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/a7eaecb97c3828684eff6c9ecd0e797866b58c04/ss_a7eaecb97c3828684eff6c9ecd0e797866b58c04.1920x1080.jpg?t=1784641912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/9f6e107cba63f5dd4f07abedc81c6b0924321241/ss_9f6e107cba63f5dd4f07abedc81c6b0924321241.1920x1080.jpg?t=1784641912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/3e8ac0e5ef25c5959685d4c3299a10c35de335c7/ss_3e8ac0e5ef25c5959685d4c3299a10c35de335c7.1920x1080.jpg?t=1784641912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353610/183abf8eed6837d5a4dd46e187d89ae9898c8b18/ss_183abf8eed6837d5a4dd46e187d89ae9898c8b18.1920x1080.jpg?t=1784641912"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T08:34:05Z"
+  "updated_at": "2026-07-23T13:30:30Z"
 }

@@ -14,7 +14,7 @@
   "price_rub": 1114,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "SrxWgHs-Hb4",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914860/b000ce2dd349fdd8c4e82c2051e89228b6718d1f/ss_b000ce2dd349fdd8c4e82c2051e89228b6718d1f.1920x1080.jpg?t=1784211072",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914860/cc91f1a0332db13e69a558fcbce72c7b7ed7b2fa/ss_cc91f1a0332db13e69a558fcbce72c7b7ed7b2fa.1920x1080.jpg?t=1784211072",
@@ -34,5 +34,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-20T08:36:12Z"
+  "updated_at": "2026-07-23T14:08:31Z"
 }
