@@ -1,0 +1,31 @@
+{
+  "id": 4528320,
+  "title": "摸金牌",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/1c3ca5efb01a4d7a4e580ae028942aa30ff2049b/header.jpg?t=1784760709",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4528320?t=1784760709",
+  "description": "• 《摸金牌》是一个盗墓题材的单人卡牌冒险游戏。（非Roguelike）\n\n• 随着流程推进，你将遇到各种风格迥异的墓葬，获得各种稀奇古怪的装备道具，破解那些神秘莫测的机关谜题，探寻世间罕见的秘宝。\n\n• 你是一名客栈掌柜。某日，一位神秘来客登门，打破了客栈的平静。原来看似寻常的客栈地下，埋藏着一段尘封千年的战国旧事。\n\n寻龙点穴，启椁摸金。\n\n擎符秉烛，镇煞封僵。\n\n探路知险，计出万全。",
+  "description_short": "Tomb raiding is an adventure that spans across time. Prepare your tools of the trade and descend into ancient tombs, confronting undead horrors, deadly traps, and unknown dangers as you search for burial treasures and mysterious relics that have slumbered for a thousand years.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 658,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/c655cfe63c4e86dc1dcc064511f896f0a4e299a5/ss_c655cfe63c4e86dc1dcc064511f896f0a4e299a5.1920x1080.jpg?t=1784760709",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/9194e625ded4789a91e68f85054e4fb137ef85ef/ss_9194e625ded4789a91e68f85054e4fb137ef85ef.1920x1080.jpg?t=1784760709",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/e39a5fb63edba78cf6ab12fa723f8e9b70b9dcf5/ss_e39a5fb63edba78cf6ab12fa723f8e9b70b9dcf5.1920x1080.jpg?t=1784760709",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/418cb6ed18e0cbf907b74ca2a8e3c6d38ab6201b/ss_418cb6ed18e0cbf907b74ca2a8e3c6d38ab6201b.1920x1080.jpg?t=1784760709",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/568b33bc8f26977b640a6176d5430a87435cb421/ss_568b33bc8f26977b640a6176d5430a87435cb421.1920x1080.jpg?t=1784760709",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/e221adce27f04a006d06448257bad15fcc991dd3/ss_e221adce27f04a006d06448257bad15fcc991dd3.1920x1080.jpg?t=1784760709",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/ec16ce19db8d613f2115eb97b7152848c891f9af/ss_ec16ce19db8d613f2115eb97b7152848c891f9af.1920x1080.jpg?t=1784760709",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528320/14f744d5ab8447fd49fc4b55db5c6d1757da9157/ss_14f744d5ab8447fd49fc4b55db5c6d1757da9157.1920x1080.jpg?t=1784760709"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-23T02:18:50Z"
+}

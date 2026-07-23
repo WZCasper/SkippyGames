@@ -1,0 +1,37 @@
+{
+  "id": 4051900,
+  "title": "Fish to Cats: Catch & Feed",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/55471c133d0cca53101fc671e4ae5f4f428109a9/header.jpg?t=1784772237",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4051900?t=1784772237",
+  "description": "В мире Fish to Cats наслаждайтесь беззаботной рыбалкой. Инкрементальная игра длительностью около 4–8 часов.\n\n9 морских зон, 65 видов рыб.\n\nПрожорливые котята Кошачьего острова уже не могут дождаться!\n\nНакормите их, чтобы разблокировать мощные баффы для рыбалки!\n\nПризывайте надежных помощников и зарабатывайте состояние, ничего не делая!\n\nВстретили легендарного гигантского рыбьего короля? Поймайте его! Получите эксклюзивные мощные навыки!\n\nЕсть даже гача‑розыгрыши?!",
+  "description_short": "Много рыбы! Много котов! Отправляйтесь на своей лодке в море и покорите каждого пушистика Кошачьего острова самой свежей рыбой. Начните сверхуспокаивающую жизнь по уходу за котами на море!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 619,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/ec1f1099a64f281c1128534f123b210dc24b8cc3/ss_ec1f1099a64f281c1128534f123b210dc24b8cc3.1920x1080.jpg?t=1784772237",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/35d302598d82020b32bf6a3ed0ab4b23b76b4573/ss_35d302598d82020b32bf6a3ed0ab4b23b76b4573.1920x1080.jpg?t=1784772237",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/8968f28f16b108e97f549e2466f8b8c075f5e624/ss_8968f28f16b108e97f549e2466f8b8c075f5e624.1920x1080.jpg?t=1784772237",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/9b58aadce26ccc81237de961ca72a382828ab574/ss_9b58aadce26ccc81237de961ca72a382828ab574.1920x1080.jpg?t=1784772237",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/eb32cc1af943ad17f7d040d3e025f01047a0538e/ss_eb32cc1af943ad17f7d040d3e025f01047a0538e.1920x1080.jpg?t=1784772237",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/0bec1a44faf69d1f023a948169a76e4eb0bca9ee/ss_0bec1a44faf69d1f023a948169a76e4eb0bca9ee.1920x1080.jpg?t=1784772237",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/eff7eec02e7d273a517b3ab4637f4f830b4bad1b/ss_eff7eec02e7d273a517b3ab4637f4f830b4bad1b.1920x1080.jpg?t=1784772237"
+  ],
+  "upsells": [
+    {
+      "id": 4650510,
+      "name": "Fish to Cats Supporter Pack",
+      "price_rub": 581,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650510/414a7e38638a2570bcb06a5d06c927755352ee6b/header.jpg?t=1784772141"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-23T02:13:38Z"
+}

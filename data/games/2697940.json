@@ -1,7 +1,7 @@
 {
   "id": 2697940,
   "title": "Ascend to ZERO",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/2b50769aaa2d06f460a5e2ef6ef13ca9ed88305d/header.jpg?t=1784002409",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/2b50769aaa2d06f460a5e2ef6ef13ca9ed88305d/header.jpg?t=1784630936",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2697940/library_hero.jpg",
   "description": "Часики тикают, но, к счастью, вы обладаете способностью манипулировать временем! Каждая секунда — дополнительное оружие в вашем арсенале. Используйте его все лучше и лучше с каждым забегом!\n\nРазблокируйте множество навыков, технических чипов и способностей, чтобы стать силой, с которой придется считаться!\n\nУвеличивайте параметры персонажа, улучшайте оружие и модифицируйте широкий спектр снаряжения, чтобы стать самым великим аватаром времени!\n\nХотите стать мастером меча, который с высоты смотрит на другие навыки? Прорубайте свой путь сквозь любые препятствия!\nБольше любите действовать издалека? Заряжайте свои пушки и стреляйте по врагам в свое удовольствие!",
   "description_short": "Задумывались ли вы когда-нибудь, каково это — остановить время? Ascend to ZERO — это roguelike с управлением временем, где вы можете использовать свою уникальную способность останавливать само время и эффективно прорываться к вершине.",
@@ -11,34 +11,34 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 885,
+  "price_rub": 886,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/48bba650b0faeacd40de93d8b31a9ccd08112d18/ss_48bba650b0faeacd40de93d8b31a9ccd08112d18.1920x1080.jpg?t=1784002409",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/403fcea149dab9495d0c049bf966514adb673dce/ss_403fcea149dab9495d0c049bf966514adb673dce.1920x1080.jpg?t=1784002409",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/7c762d546ecab1275b881f1e3fee241f7bf52d00/ss_7c762d546ecab1275b881f1e3fee241f7bf52d00.1920x1080.jpg?t=1784002409",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/0b787921441c0d572818ab39f84ffbc7a0e7452b/ss_0b787921441c0d572818ab39f84ffbc7a0e7452b.1920x1080.jpg?t=1784002409",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/77297919030a29b4c99b810aef0b20025e974f95/ss_77297919030a29b4c99b810aef0b20025e974f95.1920x1080.jpg?t=1784002409",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/2e93f206c73ff548223c33aa5849c7608a2205d9/ss_2e93f206c73ff548223c33aa5849c7608a2205d9.1920x1080.jpg?t=1784002409",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/be61be4d660d44db45cc07b27789fa553883eebf/ss_be61be4d660d44db45cc07b27789fa553883eebf.1920x1080.jpg?t=1784002409",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/f082d0d9c2541698ff98d28a3c54c918e2af2b09/ss_f082d0d9c2541698ff98d28a3c54c918e2af2b09.1920x1080.jpg?t=1784002409"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/48bba650b0faeacd40de93d8b31a9ccd08112d18/ss_48bba650b0faeacd40de93d8b31a9ccd08112d18.1920x1080.jpg?t=1784630936",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/403fcea149dab9495d0c049bf966514adb673dce/ss_403fcea149dab9495d0c049bf966514adb673dce.1920x1080.jpg?t=1784630936",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/7c762d546ecab1275b881f1e3fee241f7bf52d00/ss_7c762d546ecab1275b881f1e3fee241f7bf52d00.1920x1080.jpg?t=1784630936",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/0b787921441c0d572818ab39f84ffbc7a0e7452b/ss_0b787921441c0d572818ab39f84ffbc7a0e7452b.1920x1080.jpg?t=1784630936",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/77297919030a29b4c99b810aef0b20025e974f95/ss_77297919030a29b4c99b810aef0b20025e974f95.1920x1080.jpg?t=1784630936",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/2e93f206c73ff548223c33aa5849c7608a2205d9/ss_2e93f206c73ff548223c33aa5849c7608a2205d9.1920x1080.jpg?t=1784630936",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/be61be4d660d44db45cc07b27789fa553883eebf/ss_be61be4d660d44db45cc07b27789fa553883eebf.1920x1080.jpg?t=1784630936",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/f082d0d9c2541698ff98d28a3c54c918e2af2b09/ss_f082d0d9c2541698ff98d28a3c54c918e2af2b09.1920x1080.jpg?t=1784630936"
   ],
   "upsells": [
     {
       "id": 4834020,
       "name": "Ascend to ZERO Soundtrack",
-      "price_rub": 727,
+      "price_rub": 728,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834020/62328bfc90fbdafa31e06ba25030206bc27004c5/header.jpg?t=1783926061"
     },
     {
       "id": 4786430,
       "name": "Ascend to ZERO - SUPPORTER PACK",
-      "price_rub": 727,
+      "price_rub": 728,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786430/b12d04ef3215d449cf62a1a4b96846642557d276/header.jpg?t=1783926052"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-19T19:18:38Z"
+  "updated_at": "2026-07-23T01:51:27Z"
 }
