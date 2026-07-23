@@ -32,7 +32,7 @@
     {
       "id": 468726,
       "name": "Tabletop Simulator - Zombicide",
-      "price_rub": 796,
+      "price_rub": 797,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468726/header.jpg?t=1478647919"
     },
     {
@@ -44,7 +44,7 @@
     {
       "id": 405130,
       "name": "Tabletop Simulator - Cosmic Encounter Connector",
-      "price_rub": 796,
+      "price_rub": 797,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405130/header.jpg?t=1523480479"
     },
     {
@@ -103,5 +103,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-20T09:13:47Z"
+  "updated_at": "2026-07-23T19:37:25Z"
 }

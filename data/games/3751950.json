@@ -28,9 +28,9 @@
   "upsells": [
     {
       "id": 4496490,
-      "name": "Assassin's Creed Black Flag Resynced - Master Assassin Character Pack",
+      "name": "Assassin's Creed Black Flag Resynced: «Мастер-ассасин» (для персонажа)",
       "price_rub": 1025,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496490/4e6d4aa1b8c102e9bf50b5719209e4649d53dbe1/header.jpg?t=1783605448"
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496490/4e6d4aa1b8c102e9bf50b5719209e4649d53dbe1/header.jpg?t=1784647646"
     },
     {
       "id": 4496510,
@@ -48,7 +48,7 @@
       "id": 4496550,
       "name": " Assassin's Creed Black Flag Resynced - Hellfire Naval Pack",
       "price_rub": 1025,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496550/9fe930d932e4cb9dae35de7d4427bf2d1faa91f4/header.jpg?t=1783621279"
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496550/9fe930d932e4cb9dae35de7d4427bf2d1faa91f4/header.jpg?t=1784649124"
     },
     {
       "id": 4496580,
@@ -82,5 +82,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-20T08:50:28Z"
+  "updated_at": "2026-07-23T19:13:39Z"
 }
