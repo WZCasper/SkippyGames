@@ -1,7 +1,7 @@
 {
   "id": 3819770,
   "title": "Dragon Ruins II: Aftermath",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/4a2b9cad4f8f4f2fb902fd063ecc9d6b5a083038/header.jpg?t=1784599044",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/4a2b9cad4f8f4f2fb902fd063ecc9d6b5a083038/header.jpg?t=1784725408",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3819770/library_hero.jpg",
   "description": "A hundred years have passed since a new generation of Legendary Heroes defeated an ancient dragon. Queen Elisaria passed away in peace, and the Royal Family suffered from decades of infighting until Prince Horatio V seized the throne.\n\nIn its weakened state, the Kingdom of Isigwere became a land of opportunity for mercenaries, with many shady jobs filling the notice boards. Among the ongoing chaos, a ragtag group of adventurers found itself in a tavern, looking for ways to make some coin.\n\nAnd who knows, perhaps slay a dragon along the way.\n\nKEY FEATURES• Assemble a party of 4 adventurers from an expanded roster of classes\n\n• Fight, loot, and explore your way through 21 new dungeons\n\n• Enjoy two new weapon types (Greatswords and Spears) and a reworked upgrade system\n\n• Shape your party into an unstoppable force with new skills and items\n\n• Track down and hunt WANTED monsters for extra rewards\n\n• Enjoy an expanded soundtrack with over an hour of new music on top of familiar tracks",
   "description_short": "A standalone expansion for a dungeon crawler for tired people.",
@@ -14,13 +14,13 @@
   "price_rub": 854,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "9sXqJmUbeYA",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/017e0ded4135e7bf1bb4de162b3a7febf327376d/ss_017e0ded4135e7bf1bb4de162b3a7febf327376d.1920x1080.jpg?t=1784599044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/56dfb952a4f3f0dac6c220c028bd36fd92f5f79c/ss_56dfb952a4f3f0dac6c220c028bd36fd92f5f79c.1920x1080.jpg?t=1784599044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/c28b09ecb3cc206ede13b9b1299e3a385bff1fa6/ss_c28b09ecb3cc206ede13b9b1299e3a385bff1fa6.1920x1080.jpg?t=1784599044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/4eaf2618d0a2185fb94858dfc4daa86def0ab738/ss_4eaf2618d0a2185fb94858dfc4daa86def0ab738.1920x1080.jpg?t=1784599044",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/651527c41976a557bbd400bbe45bf981d39da27c/ss_651527c41976a557bbd400bbe45bf981d39da27c.1920x1080.jpg?t=1784599044"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/017e0ded4135e7bf1bb4de162b3a7febf327376d/ss_017e0ded4135e7bf1bb4de162b3a7febf327376d.1920x1080.jpg?t=1784725408",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/56dfb952a4f3f0dac6c220c028bd36fd92f5f79c/ss_56dfb952a4f3f0dac6c220c028bd36fd92f5f79c.1920x1080.jpg?t=1784725408",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/c28b09ecb3cc206ede13b9b1299e3a385bff1fa6/ss_c28b09ecb3cc206ede13b9b1299e3a385bff1fa6.1920x1080.jpg?t=1784725408",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/4eaf2618d0a2185fb94858dfc4daa86def0ab738/ss_4eaf2618d0a2185fb94858dfc4daa86def0ab738.1920x1080.jpg?t=1784725408",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/651527c41976a557bbd400bbe45bf981d39da27c/ss_651527c41976a557bbd400bbe45bf981d39da27c.1920x1080.jpg?t=1784725408"
   ],
   "upsells": [
     {
@@ -31,5 +31,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-21T08:06:39Z"
+  "updated_at": "2026-07-24T14:00:01Z"
 }

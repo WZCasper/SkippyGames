@@ -14,7 +14,7 @@
   "price_rub": 807,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "US_MhdBLVcg",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297840/ddf9c3a8b55c66175f5e50f386dcf8bee2013dd7/ss_ddf9c3a8b55c66175f5e50f386dcf8bee2013dd7.1920x1080.jpg?t=1784041176",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297840/9da18d7bd5b42df59a37a0cdae9fb752803ab2df/ss_9da18d7bd5b42df59a37a0cdae9fb752803ab2df.1920x1080.jpg?t=1784041176",
@@ -25,5 +25,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-21T08:04:28Z"
+  "updated_at": "2026-07-24T13:31:38Z"
 }

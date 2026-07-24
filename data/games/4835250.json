@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "QQgtpoP60mo",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4835250/15008975f99b1bb329d715d7a4f5c08d3862bb26/ss_15008975f99b1bb329d715d7a4f5c08d3862bb26.1920x1080.jpg?t=1784048465",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4835250/0cc296caf76ef6651a475592f6357c76603b2f9c/ss_0cc296caf76ef6651a475592f6357c76603b2f9c.1920x1080.jpg?t=1784048465",
@@ -25,5 +25,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-21T08:03:52Z"
+  "updated_at": "2026-07-24T13:23:41Z"
 }

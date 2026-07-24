@@ -1,8 +1,8 @@
 {
   "id": 4864000,
   "title": "Terraforming Titans",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/8652b5197c13908ae163779bc4447d2f4c7c28ed/header.jpg?t=1784314754",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/d92a12fc33ca773cf3814371213b03ad5469282e/page_bg_raw.jpg?t=1784314754",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/8652b5197c13908ae163779bc4447d2f4c7c28ed/header.jpg?t=1784677900",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/d92a12fc33ca773cf3814371213b03ad5469282e/page_bg_raw.jpg?t=1784677900",
   "description": "Terraforming Titans is an incremental colony builder where the objective is to terraform multiple worlds with a moderate focus on realism and a simulated climate model. \n\nPlay as a Terraforming AI.  Your mission is crystal clear: terraform Mars, ensure the safety of all colonists and maintain your own integrity.  What could possibly go wrong? \n\nIt turns out a lot can indeed go wrong with such a simple mission.  The directives will evolve, you will grow and what begins as initially one terraform will become many.\n\nA journey across the galaxyThe Milky Way contains hundreds of billions of stars, ten billion white dwarfs and a hundred million black holes.  For a Terraforming AI like you, this is nothing but more resources.  Harness their energy and harvest their mass so you can build greater and greater worlds to terraform.  Can humanity become a Kardashev III civilization?\n\nThe galaxy is large but also diverseThis game features at least one hundred hours of varied content.  Each story world presents unique challenges and will unlock more features to keep the gameplay fresh.  As you progress so does human science, providing you with powerful future breakthroughs to boost your terraforming efforts even further.\n\nFeatures include• Terraform Mars and many other worlds across the galaxy.\n\n• Manage climate, atmosphere, water, temperature, energy, and habitability.\n\n• Unlock research, automation, and increasingly powerful terraforming tools.\n\n• Face unique story worlds with different constraints and challenges.\n\n• Adjust difficulty, simulation coefficients, and time controls to play at your own pace.\n\n• Grow from a single planetary project into a Kardashev-III-scale civilization.\n\n• Experience at least 100 hours of varied content.",
   "description_short": "Terraforming Titans is an incremental colony builder with a moderate focus on realism and scale. Terraform increasingly challenging and large worlds and guide humanity to complete control over the Milky Way.",
   "genres": [
@@ -14,17 +14,17 @@
   "price_rub": 575,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "PN5uYopaIlA",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/62151f694d1e078c98bfa739c56bc1311a41010c/ss_62151f694d1e078c98bfa739c56bc1311a41010c.1920x1080.jpg?t=1784314754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/d1787b50a302b2584059864ff813aeb618817491/ss_d1787b50a302b2584059864ff813aeb618817491.1920x1080.jpg?t=1784314754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/ac2ed84f82b6a35a99fbf810158caebf29f7dccf/ss_ac2ed84f82b6a35a99fbf810158caebf29f7dccf.1920x1080.jpg?t=1784314754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/50d9f6276c7b516943de9c2309a4f389761092cf/ss_50d9f6276c7b516943de9c2309a4f389761092cf.1920x1080.jpg?t=1784314754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/5ab8b6af6901f62bf76477cc1a4b45d5bf378d5a/ss_5ab8b6af6901f62bf76477cc1a4b45d5bf378d5a.1920x1080.jpg?t=1784314754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/1dda66f875f490ff2b06d41b0d56420fea8b6300/ss_1dda66f875f490ff2b06d41b0d56420fea8b6300.1920x1080.jpg?t=1784314754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/56cef13c713d6bcfb3fae7ce87b8ac157fdb4aa0/ss_56cef13c713d6bcfb3fae7ce87b8ac157fdb4aa0.1920x1080.jpg?t=1784314754"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/62151f694d1e078c98bfa739c56bc1311a41010c/ss_62151f694d1e078c98bfa739c56bc1311a41010c.1920x1080.jpg?t=1784677900",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/d1787b50a302b2584059864ff813aeb618817491/ss_d1787b50a302b2584059864ff813aeb618817491.1920x1080.jpg?t=1784677900",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/ac2ed84f82b6a35a99fbf810158caebf29f7dccf/ss_ac2ed84f82b6a35a99fbf810158caebf29f7dccf.1920x1080.jpg?t=1784677900",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/50d9f6276c7b516943de9c2309a4f389761092cf/ss_50d9f6276c7b516943de9c2309a4f389761092cf.1920x1080.jpg?t=1784677900",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/5ab8b6af6901f62bf76477cc1a4b45d5bf378d5a/ss_5ab8b6af6901f62bf76477cc1a4b45d5bf378d5a.1920x1080.jpg?t=1784677900",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/1dda66f875f490ff2b06d41b0d56420fea8b6300/ss_1dda66f875f490ff2b06d41b0d56420fea8b6300.1920x1080.jpg?t=1784677900",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864000/56cef13c713d6bcfb3fae7ce87b8ac157fdb4aa0/ss_56cef13c713d6bcfb3fae7ce87b8ac157fdb4aa0.1920x1080.jpg?t=1784677900"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-21T08:05:13Z"
+  "updated_at": "2026-07-24T13:43:11Z"
 }
