@@ -14,7 +14,7 @@
   "price_rub": 1040,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "FV42er-7YuY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429120/52469244fe8ea4419ef0c598e9a3c11513f75669/ss_52469244fe8ea4419ef0c598e9a3c11513f75669.1920x1080.jpg?t=1784213418",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429120/9008e94738f3fbfd043bd0be1029c2bd87d47046/ss_9008e94738f3fbfd043bd0be1029c2bd87d47046.1920x1080.jpg?t=1784213418",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T19:42:05Z"
+  "updated_at": "2026-07-24T08:03:35Z"
 }

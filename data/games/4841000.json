@@ -1,8 +1,8 @@
 {
   "id": 4841000,
   "title": "蝶々反乱",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/3ea95d061c30fb130ba2c4528588ee52112d2430/header.jpg?t=1784023283",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/56fe9314d4ffade9d36aef767d6c7a27f053f4ee/page_bg_raw.jpg?t=1784023283",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/3ea95d061c30fb130ba2c4528588ee52112d2430/header.jpg?t=1784692610",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/56fe9314d4ffade9d36aef767d6c7a27f053f4ee/page_bg_raw.jpg?t=1784692610",
   "description": "Launch butterfly horns to reclaim nature in this score-attack action game! In \"Butterfly Rebellion,\" your goal is to raise your Greening Rate as high as possible within a 180-second time limit.\n\n[Overview]\n\nFire your horns at humans and others to take back nature and raise your Greening Rate! How much of the map can you reclaim within 180 seconds?\n\n[Leaderboards]\n\nReclaim as much nature as you can to push your Greening Rate higher. Finish in the top 10 to appear on the leaderboard. Aim for the top!\n\n[Strategy]\n\nJust fixing things when enemies show up isn't enough. When do you grab items? How early in each wave do you start fighting? The way you play decides your score.\n\n[Born from a Game Jam]\n\n\"Butterfly Rebellion\" was created at Sapporo Game Camp 2025 - planned, developed, and presented in just two days - and has now evolved and returned after repeated polish based on great feedback from exhibitions.\n\nController support included.",
   "description_short": "Butterfly Rebellion Launch butterfly horns to reclaim nature and raise your Greening Rate! Restore as much territory as possible within 180 seconds while fighting back against environmental destruction.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 537,
+  "price_rub": 547,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "dUkrOHvmLT8",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/852d3c5cc77453711e00d0cf78c55cbad6e0d3ca/ss_852d3c5cc77453711e00d0cf78c55cbad6e0d3ca.1920x1080.jpg?t=1784023283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/7c2e22ad41ad6270300fc5336752e878aa9f1efd/ss_7c2e22ad41ad6270300fc5336752e878aa9f1efd.1920x1080.jpg?t=1784023283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/7deba23cdcc0141779f9dbe89ec877be4c8d527b/ss_7deba23cdcc0141779f9dbe89ec877be4c8d527b.1920x1080.jpg?t=1784023283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/efa96f8354a9893a01817611c981c8d1a8a03e64/ss_efa96f8354a9893a01817611c981c8d1a8a03e64.1920x1080.jpg?t=1784023283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/bcc4d0df675ca510f4afa640acf1ae03df0576f3/ss_bcc4d0df675ca510f4afa640acf1ae03df0576f3.1920x1080.jpg?t=1784023283"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/852d3c5cc77453711e00d0cf78c55cbad6e0d3ca/ss_852d3c5cc77453711e00d0cf78c55cbad6e0d3ca.1920x1080.jpg?t=1784692610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/7c2e22ad41ad6270300fc5336752e878aa9f1efd/ss_7c2e22ad41ad6270300fc5336752e878aa9f1efd.1920x1080.jpg?t=1784692610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/7deba23cdcc0141779f9dbe89ec877be4c8d527b/ss_7deba23cdcc0141779f9dbe89ec877be4c8d527b.1920x1080.jpg?t=1784692610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/efa96f8354a9893a01817611c981c8d1a8a03e64/ss_efa96f8354a9893a01817611c981c8d1a8a03e64.1920x1080.jpg?t=1784692610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841000/bcc4d0df675ca510f4afa640acf1ae03df0576f3/ss_bcc4d0df675ca510f4afa640acf1ae03df0576f3.1920x1080.jpg?t=1784692610"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T19:34:43Z"
+  "updated_at": "2026-07-24T08:03:13Z"
 }

@@ -1,0 +1,31 @@
+{
+  "id": 3384360,
+  "title": "Ashbound Expanse",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/50301ba7f0d731ef353906d953ddf93c5797f783/header.jpg?t=1784862211",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3384360/library_hero.jpg",
+  "description": "Это лёгкий в освоении динамичный шутер от третьего лица с элементами Roguelike и современным природным визуальным стилем.\n\nПобедите отмеченных врагов, чтобы получить дополнительную награду.После попадания атакующим навыком по врагу над его головой появляется метка; убив отмеченного врага, вы получите дополнительную награду, например броню, которая восстанавливает здоровье.\n\nРазрушьте особые объекты сценыНа поле боя появляются энергетические сферы, разбив которые можно получить дополнительные награды. В ходе боя следует по возможности разбивать их, чтобы усилить свои боевые способности.\n\nнавык героя",
+  "description_short": "Это простая в освоении быстрая игра-шутер от третьего лица с элементами роглайка и оформлением в природном стиле.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 822,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/d595d3b96ae3c574e7d77afa33b3a6ffba69fc1f/ss_d595d3b96ae3c574e7d77afa33b3a6ffba69fc1f.1920x1080.jpg?t=1784862211",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/7ced909b3480fe3b7ee0b5d85327384420185969/ss_7ced909b3480fe3b7ee0b5d85327384420185969.1920x1080.jpg?t=1784862211",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/b6899741b7e609d8d54c590625ebc3ee5dfb9f6a/ss_b6899741b7e609d8d54c590625ebc3ee5dfb9f6a.1920x1080.jpg?t=1784862211",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/2ca710c07f3d3279145e6a03dd1c3a348a6713ab/ss_2ca710c07f3d3279145e6a03dd1c3a348a6713ab.1920x1080.jpg?t=1784862211",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/01be30f1f8e3ad49331863ad9fa3e186d75c335f/ss_01be30f1f8e3ad49331863ad9fa3e186d75c335f.1920x1080.jpg?t=1784862211",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/5831117b73045cc46392287b615cb63b52d023df/ss_5831117b73045cc46392287b615cb63b52d023df.1920x1080.jpg?t=1784862211",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/c49b40888e0c9a183678b9d223e0db63ff23baef/ss_c49b40888e0c9a183678b9d223e0db63ff23baef.1920x1080.jpg?t=1784862211",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384360/8e43a4d06772cf6153a628bc5fe0151c6ec4e7b8/ss_8e43a4d06772cf6153a628bc5fe0151c6ec4e7b8.1920x1080.jpg?t=1784862211"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-24T08:12:09Z"
+}

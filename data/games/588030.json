@@ -19,7 +19,7 @@
   "price_rub": 1506,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Htm2HD91Lmk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/aff4b00c26995bd17e1d3e5fb858ded04bc39646/ss_aff4b00c26995bd17e1d3e5fb858ded04bc39646.1920x1080.jpg?t=1782140299",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/738cad9ce5d887ccfc1b2aece347e1361b2d0cca/ss_738cad9ce5d887ccfc1b2aece347e1361b2d0cca.1920x1080.jpg?t=1782140299",
@@ -39,5 +39,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-21T01:33:08Z"
+  "updated_at": "2026-07-24T08:05:36Z"
 }

@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "pgXk0-_AMHI",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/ac7c0ec9e4d9ebaf9a061049d6e4f787f99fc122/ss_ac7c0ec9e4d9ebaf9a061049d6e4f787f99fc122.1920x1080.jpg?t=1784580400",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/676e6b63cbb64ed13b3cf1a861e3e8e131370659/ss_676e6b63cbb64ed13b3cf1a861e3e8e131370659.1920x1080.jpg?t=1784580400",
@@ -34,5 +34,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-21T01:33:40Z"
+  "updated_at": "2026-07-24T08:05:37Z"
 }

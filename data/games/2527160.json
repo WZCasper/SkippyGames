@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1051,
+  "price_rub": 1050,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "ELl4YzKVQdg",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/018a961207c31b7ca56bd38410c80842ccbefcd5/ss_018a961207c31b7ca56bd38410c80842ccbefcd5.1920x1080.jpg?t=1784309650",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/193f2a95255e6a6216f1b29391a1eb4041edd9e4/ss_193f2a95255e6a6216f1b29391a1eb4041edd9e4.1920x1080.jpg?t=1784309650",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/32887c146b4e4e8f092a26833c12265a9d31fc94/ss_32887c146b4e4e8f092a26833c12265a9d31fc94.1920x1080.jpg?t=1784309650",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/4407aa35fb6dd3677d44c89bf95edbe825471f37/ss_4407aa35fb6dd3677d44c89bf95edbe825471f37.1920x1080.jpg?t=1784309650",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/2b72c5d4779d68fd5e23cecb34fae21084278d9f/ss_2b72c5d4779d68fd5e23cecb34fae21084278d9f.1920x1080.jpg?t=1784309650"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/018a961207c31b7ca56bd38410c80842ccbefcd5/ss_018a961207c31b7ca56bd38410c80842ccbefcd5.1920x1080.jpg?t=1784717121",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/193f2a95255e6a6216f1b29391a1eb4041edd9e4/ss_193f2a95255e6a6216f1b29391a1eb4041edd9e4.1920x1080.jpg?t=1784717121",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/32887c146b4e4e8f092a26833c12265a9d31fc94/ss_32887c146b4e4e8f092a26833c12265a9d31fc94.1920x1080.jpg?t=1784717121",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/4407aa35fb6dd3677d44c89bf95edbe825471f37/ss_4407aa35fb6dd3677d44c89bf95edbe825471f37.1920x1080.jpg?t=1784717121",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/2b72c5d4779d68fd5e23cecb34fae21084278d9f/ss_2b72c5d4779d68fd5e23cecb34fae21084278d9f.1920x1080.jpg?t=1784717121"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T19:43:08Z"
+  "updated_at": "2026-07-24T08:03:38Z"
 }

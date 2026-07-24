@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "ONPB11fsQPc",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769770/2aaccf7693e6d0ad05bbfb6343837201210a041a/ss_2aaccf7693e6d0ad05bbfb6343837201210a041a.1920x1080.jpg?t=1784016028",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769770/01532ca65e3c38b2050698cfffb51a67b2f2197b/ss_01532ca65e3c38b2050698cfffb51a67b2f2197b.1920x1080.jpg?t=1784016028",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T19:38:24Z"
+  "updated_at": "2026-07-24T08:03:24Z"
 }

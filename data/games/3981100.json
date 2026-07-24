@@ -1,7 +1,7 @@
 {
   "id": 3981100,
   "title": "Leaf it Alone",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/843d859123e902ca5c15ff53200c4bcb780c3304/header.jpg?t=1784289624",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/843d859123e902ca5c15ff53200c4bcb780c3304/header.jpg?t=1784878103",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3981100/library_hero.jpg",
   "description": "Слишком много накопилось листьев и они никуда не денутся сами собой. Пора засучить рукава и вернуться к работе.\n\nВам многого и не надо. Могут понадобиться грабли, воздуходувка или даже могучая рука.\n\nПоначалу сюжет меняется медленно, но как только вы начинаете совершенствовать свои инструменты, процесс ускоряется — и двор снова начинает оживать.\n\nОтслеживайте прогресс в журнале, выполняйте задания и получайте достижения! Покажите друзьям, как вы это делаете, благодаря таблице лидеров.\n\nКаждый передвинутый листок приближает порядок. Посмотрим, что вы откроете...",
   "description_short": "Наконец-то пришло время убрать этот лиственный хлам. Прошло уже много времени с тех пор, как вы делали это в последний раз, так что не теряйте ни секунды и оттачивайте свои навыки сгребания!",
@@ -14,16 +14,16 @@
   "price_rub": 668,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "y7uBgGcv0TQ",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/5cf9075b8e951858d1774981cb1434ed90c50d7d/ss_5cf9075b8e951858d1774981cb1434ed90c50d7d.1920x1080.jpg?t=1784289624",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/05f86113df34aae64e50da7c125bb78a29df87d1/ss_05f86113df34aae64e50da7c125bb78a29df87d1.1920x1080.jpg?t=1784289624",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/db772f2c262b710814870eb956b4bc0e301d6c30/ss_db772f2c262b710814870eb956b4bc0e301d6c30.1920x1080.jpg?t=1784289624",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/854136db8eb435949e5fbde258eafb9ecfccf98a/ss_854136db8eb435949e5fbde258eafb9ecfccf98a.1920x1080.jpg?t=1784289624",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/92505305fe56ee0fdd7605d0d47578e5eda9c939/ss_92505305fe56ee0fdd7605d0d47578e5eda9c939.1920x1080.jpg?t=1784289624",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/ebd0e3dfcecc2482291c564fe1710bdda72c80e3/ss_ebd0e3dfcecc2482291c564fe1710bdda72c80e3.1920x1080.jpg?t=1784289624"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/5cf9075b8e951858d1774981cb1434ed90c50d7d/ss_5cf9075b8e951858d1774981cb1434ed90c50d7d.1920x1080.jpg?t=1784878103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/05f86113df34aae64e50da7c125bb78a29df87d1/ss_05f86113df34aae64e50da7c125bb78a29df87d1.1920x1080.jpg?t=1784878103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/db772f2c262b710814870eb956b4bc0e301d6c30/ss_db772f2c262b710814870eb956b4bc0e301d6c30.1920x1080.jpg?t=1784878103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/854136db8eb435949e5fbde258eafb9ecfccf98a/ss_854136db8eb435949e5fbde258eafb9ecfccf98a.1920x1080.jpg?t=1784878103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/92505305fe56ee0fdd7605d0d47578e5eda9c939/ss_92505305fe56ee0fdd7605d0d47578e5eda9c939.1920x1080.jpg?t=1784878103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/ebd0e3dfcecc2482291c564fe1710bdda72c80e3/ss_ebd0e3dfcecc2482291c564fe1710bdda72c80e3.1920x1080.jpg?t=1784878103"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T19:43:39Z"
+  "updated_at": "2026-07-24T08:03:39Z"
 }
