@@ -1,9 +1,9 @@
 {
   "id": 4774170,
   "title": "Aerolicious",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/badf0926acd2cc6a94eeb884111ab88f87aacb4a/header.jpg?t=1784522262",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/3150ad69cef40000add5f41c33e927875fd0fc2f/page_bg_raw.jpg?t=1784522262",
-  "description": "Sit back and relax while breaking some blocks. There are no enemies or horror. Just a serene landscape, resembling the mid 2000s aesthetic, better known as \"Frutiger Aero\"\n\nCollect shards of broken blocks and recycle them for credits.\n\nBuy upgrades and new equipment to aid your task.\n\nCan be completed in about 3 hours or longer if you go with a slower pace.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/badf0926acd2cc6a94eeb884111ab88f87aacb4a/header.jpg?t=1784591466",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/3150ad69cef40000add5f41c33e927875fd0fc2f/page_bg_raw.jpg?t=1784591466",
+  "description": "Sit back and relax while breaking some blocks. There are no enemies or horror. Just a serene landscape, resembling the mid 2000s aesthetic, better known as \"Frutiger Aero\"\n\nCollect shards of broken blocks and recycle them for credits.\n\nBuy upgrades and new equipment to aid your task.\n\nCan be completed in about an hour or longer if you go with a slower pace.",
   "description_short": "Aerolicious is a short and relaxing brick-breaking game about clearing a big chunk of 3,757 blocks.",
   "genres": [
     "Экшен"
@@ -16,16 +16,16 @@
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/c28703cb379580d8dd602f4eb4c601c211d334ad/ss_c28703cb379580d8dd602f4eb4c601c211d334ad.1920x1080.jpg?t=1784522262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/556e67333d1917f3a4d67a41cd0c1f79328f8343/ss_556e67333d1917f3a4d67a41cd0c1f79328f8343.1920x1080.jpg?t=1784522262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/5ba77152db395897d0c1dc0d1685ab2cb2dbb8ca/ss_5ba77152db395897d0c1dc0d1685ab2cb2dbb8ca.1920x1080.jpg?t=1784522262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/59542df6635a715b119af09253aa08363b72cf5f/ss_59542df6635a715b119af09253aa08363b72cf5f.1920x1080.jpg?t=1784522262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/5f573ea4e2ee4a107062f3c87b14064572d042a6/ss_5f573ea4e2ee4a107062f3c87b14064572d042a6.1920x1080.jpg?t=1784522262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/b5dfd82a93b3f0fb79a5f55d32a1f746a00ac591/ss_b5dfd82a93b3f0fb79a5f55d32a1f746a00ac591.1920x1080.jpg?t=1784522262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/09ba08c0e07c205d571ee5e40987ac94eff128f1/ss_09ba08c0e07c205d571ee5e40987ac94eff128f1.1920x1080.jpg?t=1784522262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/899b9c6b2e634757794ebe325fed80b5867d1c29/ss_899b9c6b2e634757794ebe325fed80b5867d1c29.1920x1080.jpg?t=1784522262"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/c28703cb379580d8dd602f4eb4c601c211d334ad/ss_c28703cb379580d8dd602f4eb4c601c211d334ad.1920x1080.jpg?t=1784591466",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/556e67333d1917f3a4d67a41cd0c1f79328f8343/ss_556e67333d1917f3a4d67a41cd0c1f79328f8343.1920x1080.jpg?t=1784591466",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/5ba77152db395897d0c1dc0d1685ab2cb2dbb8ca/ss_5ba77152db395897d0c1dc0d1685ab2cb2dbb8ca.1920x1080.jpg?t=1784591466",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/59542df6635a715b119af09253aa08363b72cf5f/ss_59542df6635a715b119af09253aa08363b72cf5f.1920x1080.jpg?t=1784591466",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/5f573ea4e2ee4a107062f3c87b14064572d042a6/ss_5f573ea4e2ee4a107062f3c87b14064572d042a6.1920x1080.jpg?t=1784591466",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/b5dfd82a93b3f0fb79a5f55d32a1f746a00ac591/ss_b5dfd82a93b3f0fb79a5f55d32a1f746a00ac591.1920x1080.jpg?t=1784591466",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/09ba08c0e07c205d571ee5e40987ac94eff128f1/ss_09ba08c0e07c205d571ee5e40987ac94eff128f1.1920x1080.jpg?t=1784591466",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774170/899b9c6b2e634757794ebe325fed80b5867d1c29/ss_899b9c6b2e634757794ebe325fed80b5867d1c29.1920x1080.jpg?t=1784591466"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T14:22:53Z"
+  "updated_at": "2026-07-24T02:00:05Z"
 }

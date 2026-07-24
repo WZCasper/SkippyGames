@@ -1,7 +1,7 @@
 {
   "id": 3703200,
   "title": "凉茶王",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/84e784f2346743b7b3025c8daf95b6d43eae9687/header.jpg?t=1784535419",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/84e784f2346743b7b3025c8daf95b6d43eae9687/header.jpg?t=1784562896",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3703200/library_hero.jpg",
   "description": "Game Discussion & Bug Reports\n\nHerb Tea KingHerb Tea King is a simulation-adventure game set in 1990s Guangdong (Lingnan region, including Hong Kong and Macau).\n\nYou play as Sung, a chubby young man from Northern China who travels south to work at a long-established herbal tea shop. As Sung, you’ll assist your master in brewing herbal tea, preparing medicinal ingredients, serving customers, and navigating the lively neighborhood streets — solving humorous incidents caused by traditional Chinese medicine symptoms such as “internal heat” or “excess dampness.”\n\nGenreA narrative-driven experience focused on story progression and light environmental puzzle interaction, complemented by light simulation and management elements.\n\nWhile working at the herbal tea shop, you’ll meet four mischievous little spirits representing Dampness, Heat, Cold, and Toxin, and gradually uncover the hidden past of your master.\n\nEach bowl of herbal tea you brew may unfold a warm — and sometimes mysterious — Lingnan street legend.\n\nLearn Traditional Chinese HerbsFamiliarize yourself with authentic Chinese medicinal herbs such as chrysanthemum, honeysuckle, licorice root, and more.\n\nBased on customers’ symptoms (Dampness, Heat, Cold, and Toxin attributes), you’ll combine the correct herbal properties to create the perfect herbal tea formula.\n\nGUANGDONG Architecture & Neighborhood StoriesHerb Tea King features around 50 NPCs, each designed with distinctive 1990s Lingnan characteristics. Most characters have their own short, heartwarming, or humorous side stories.\n\nThe game includes a wide variety of hand-drawn indoor and outdoor environments inspired by 1990s Guangdong, Hong Kong, and Macau architecture — crafted to evoke a shared sense of nostalgia.\n\nHand-Drawn Frame-by-Frame AnimationThe game features multiple hand-drawn, frame-by-frame cutscenes. Watching these small animated moments can be a relaxing experience on their own.\n\nIn this city, everyone is busy chasing a living.\nThe herbal tea shop may be just a small corner on the street —\n\nBut the tea you brew might be what allows someone to slow down, and finally catch their breath.",
   "description_short": "See the four spirits of Dampness, Heat, Cold, and Toxicity through Ah Song's eyes. Learn medicinal herbs, brew herbal tea, solve the townsfolk's troubles, and uncover the hidden mystery behind the warm, slice-of-life stories of Sap Jit Street.",
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 902,
+  "price_rub": 901,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/833113b18964b004df157f79ca4ea66dbcff9a0e/ss_833113b18964b004df157f79ca4ea66dbcff9a0e.1920x1080.jpg?t=1784535419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/ab6b17620a513dfb382a24c7d4f3643fee599be4/ss_ab6b17620a513dfb382a24c7d4f3643fee599be4.1920x1080.jpg?t=1784535419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/1212196f3414595ec32b4d8a4983559d26b2b665/ss_1212196f3414595ec32b4d8a4983559d26b2b665.1920x1080.jpg?t=1784535419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/a24cababe8b6689c0b44a76ff2c9b5ad9911de7c/ss_a24cababe8b6689c0b44a76ff2c9b5ad9911de7c.1920x1080.jpg?t=1784535419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/1a0d7cec1e96edf983f165c64dae6f3c22d4e02e/ss_1a0d7cec1e96edf983f165c64dae6f3c22d4e02e.1920x1080.jpg?t=1784535419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/5fe514323f45e91ab7b00bfdeb2c730f6dd23520/ss_5fe514323f45e91ab7b00bfdeb2c730f6dd23520.1920x1080.jpg?t=1784535419"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/833113b18964b004df157f79ca4ea66dbcff9a0e/ss_833113b18964b004df157f79ca4ea66dbcff9a0e.1920x1080.jpg?t=1784562896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/ab6b17620a513dfb382a24c7d4f3643fee599be4/ss_ab6b17620a513dfb382a24c7d4f3643fee599be4.1920x1080.jpg?t=1784562896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/1212196f3414595ec32b4d8a4983559d26b2b665/ss_1212196f3414595ec32b4d8a4983559d26b2b665.1920x1080.jpg?t=1784562896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/a24cababe8b6689c0b44a76ff2c9b5ad9911de7c/ss_a24cababe8b6689c0b44a76ff2c9b5ad9911de7c.1920x1080.jpg?t=1784562896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/1a0d7cec1e96edf983f165c64dae6f3c22d4e02e/ss_1a0d7cec1e96edf983f165c64dae6f3c22d4e02e.1920x1080.jpg?t=1784562896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703200/5fe514323f45e91ab7b00bfdeb2c730f6dd23520/ss_5fe514323f45e91ab7b00bfdeb2c730f6dd23520.1920x1080.jpg?t=1784562896"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-20T13:53:23Z"
+  "updated_at": "2026-07-24T01:30:45Z"
 }
