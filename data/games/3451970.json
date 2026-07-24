@@ -1,0 +1,38 @@
+{
+  "id": 3451970,
+  "title": "BACKROOMS ANOMALY",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/221fdab175d959c17f92c9c0574ae6164c5657cc/header.jpg?t=1784920431",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3451970/library_hero.jpg",
+  "description": "Вы заперты в замкнутом офисном коридоре.\n\nНе пропускайте никаких аномалий.\nЕсли вы заметите аномалию, бегите обратно ко входу.\nЕсли аномалий нет, выходите через выход.\n\nТолько 10 правильных предсказаний подряд позволят вам сбежать.\n\nBackrooms Anomaly - это психологический хоррор, проверяющий ваше восприятие и внимание к деталям. Действие происходит в бесконечном офисном коридоре, вдохновленном легендарными Бэкрумами, где вы окружены пожелтевшими обоями, жужжащими флуоресцентными лампами и тревожным ощущением, что что-то не так. Загадочная фигура в защитном костюме патрулирует эти коридоры, усиливая напряжение, пока вы пытаетесь раскрыть правду.\n\nКлючевые особенности:\n\n- Исследуйте тщательно проработанное замкнутое пространство Бэкрумов\n- Замечайте тонкие изменения в окружении: от постеров до мебели\n- Атмосферный звуковой дизайн с позиционным ambient-звуком\n- Эстетика VHS-камкордера усиливает тревожную атмосферу\n- Обычный и Сложный режимы\n- Система подсчета ваших открытий\n- Две разные концовки\n\nВаша миссия - внимательно изучать окружение, передвигаясь по бесконечному коридору. Когда вы заметите изменения - будь то неправильно размещенный предмет, измененный текст или что-то более тревожное - вернитесь ко входу, чтобы зафиксировать свое открытие. Если все выглядит нормально, осторожно продвигайтесь к выходу, но помните, только 10 правильных предсказаний подряд позволят вам сбежать. Заметите ли вы достаточно аномалий, чтобы сбежать, или станете еще одним постоянным жителем этих бесконечных коридоров?",
+  "description_short": "Исследуйте замкнутый коридор, наполненный аномалиями. Пройдите через пространство бэкрумов, освещенное флуоресцентными лампами, изучите окружение и заметьте тонкие изменения в реальности.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 712,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/ss_26ab4c462773e86c0f6626770ad9f6fb146e6cb6.1920x1080.jpg?t=1784920431",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/ss_39591ad807c53f49e02f360c5b7c447d64a9b2a6.1920x1080.jpg?t=1784920431",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/f6e4e99b18c5fb8ecd82c78e7aedfb04f301f8d1/ss_f6e4e99b18c5fb8ecd82c78e7aedfb04f301f8d1.1920x1080.jpg?t=1784920431",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/737384c8a481909825ee2994ab7192b0487760e2/ss_737384c8a481909825ee2994ab7192b0487760e2.1920x1080.jpg?t=1784920431",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/ss_b26eda88032df742d7b69bb030adeb4e025c836a.1920x1080.jpg?t=1784920431",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/ss_76855dd08d024e5009709fce21f551d127780dbb.1920x1080.jpg?t=1784920431",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/ss_7aec6c8c087b483c9afe43743da1a2d2bd9a93ff.1920x1080.jpg?t=1784920431",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3451970/ss_b3054008ac584a08e17c48864a82e299cae2c0cf.1920x1080.jpg?t=1784920431"
+  ],
+  "upsells": [
+    {
+      "id": 4818320,
+      "name": "Backrooms Anomaly - Supporter Pack",
+      "price_rub": 593,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818320/a441436093ff0f27fae7c0f06ead1050ca147da5/header.jpg?t=1784919523"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-24T19:48:09Z"
+}

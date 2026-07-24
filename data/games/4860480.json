@@ -1,8 +1,8 @@
 {
   "id": 4860480,
   "title": "Breadwalk",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/bb3bd80fed0e04ec381a29ce7f65e7817376a13e/header.jpg?t=1784360936",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/d9e5a07ad62864b353f763974d035cb8f21f72ec/page_bg_raw.jpg?t=1784360936",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/547d337c03506e0c8fa6bc62927bb7d241728296/header.jpg?t=1784662858",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/d9e5a07ad62864b353f763974d035cb8f21f72ec/page_bg_raw.jpg?t=1784662858",
   "description": "There is war going on. But you need to buy bread. \n\nThis game will tell you a story about life in a warn-torn country, but far away from the front. It shows the side of the conflict that almost nobody is talking about. There are no bravery, heroism, or sacrifice that you would expect from a tale about war - just people who are trying to survive and piece together what remains of their lives. It is a tale of the Forgotten Ones, people whose stories you would otherwise never know.\n\nYour goal is simple - find a shop, buy the bread. Key features:\n\n• Witness the story about the life behind the frontline, and how civillians are coping with it.\n\n• Walk, walk, walk a lot! It is Breadwalk, not a Breadtalk. \n\n• Ok, you can talk a bit. Communicate with bizzare locals! \n\n• Listen to the music. A lot of it! \n\n• Search for a way to unlock 3 hidden endings. \n\nIt is a short journey, but, hopefully - a memorable one. \n\nAlso.. don't get ahead of the line!",
   "description_short": "There is war going on. But you need to buy bread.",
   "genres": [
@@ -16,11 +16,11 @@
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/1b6761a193fd872fd5adb48803f0521d5593e7cc/ss_1b6761a193fd872fd5adb48803f0521d5593e7cc.1920x1080.jpg?t=1784360936",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/a4ca30da81bf8466793543ae8a197a0025be2078/ss_a4ca30da81bf8466793543ae8a197a0025be2078.1920x1080.jpg?t=1784360936",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/51589a0c92bc41b39be427f99ea3abe862bb6b85/ss_51589a0c92bc41b39be427f99ea3abe862bb6b85.1920x1080.jpg?t=1784360936",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/242bfefd76c09a32e0cc24fc979f280810b5d2dc/ss_242bfefd76c09a32e0cc24fc979f280810b5d2dc.1920x1080.jpg?t=1784360936",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/be03ba0249933e9aaf79b82d23bbdb5f7a209b93/ss_be03ba0249933e9aaf79b82d23bbdb5f7a209b93.1920x1080.jpg?t=1784360936"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/1b6761a193fd872fd5adb48803f0521d5593e7cc/ss_1b6761a193fd872fd5adb48803f0521d5593e7cc.1920x1080.jpg?t=1784662858",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/a4ca30da81bf8466793543ae8a197a0025be2078/ss_a4ca30da81bf8466793543ae8a197a0025be2078.1920x1080.jpg?t=1784662858",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/51589a0c92bc41b39be427f99ea3abe862bb6b85/ss_51589a0c92bc41b39be427f99ea3abe862bb6b85.1920x1080.jpg?t=1784662858",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/242bfefd76c09a32e0cc24fc979f280810b5d2dc/ss_242bfefd76c09a32e0cc24fc979f280810b5d2dc.1920x1080.jpg?t=1784662858",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860480/be03ba0249933e9aaf79b82d23bbdb5f7a209b93/ss_be03ba0249933e9aaf79b82d23bbdb5f7a209b93.1920x1080.jpg?t=1784662858"
   ],
   "upsells": [
     {
@@ -55,5 +55,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-21T13:28:53Z"
+  "updated_at": "2026-07-24T19:28:21Z"
 }

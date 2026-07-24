@@ -1,0 +1,32 @@
+{
+  "id": 3241660,
+  "title": "R.E.P.O.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/library_hero.jpg",
+  "description": "R.E.P.O. is an online co-op horror game featuring physics, proximity voice chat and scary monsters. You and up to 5 friends can venture into terrifying environments to extract valuable objects using your physics-based grabbing tool.\n\nEven the monsters are affected by Newton's law of gravity!\nUnder the employ of a mysterious computer intelligence. It is your job to locate, transport and extract valuable items from the haunted remains of a long lost humanity.\n\n...but know when to stay quiet.\nTransport anything from heavy pianos to fragile ceramics and use teamwork to make sure that the precious cargo will safely reach its destination.\n\nRobotic enhancements increase your chances!\nUse your hard earned cash [SURPLUS] to purchase upgrades and weapons from your heartless [GENEROUS] creator.",
+  "description_short": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+  "genres": [
+    "Психологические хорроры",
+    "Шутеры от первого лица (FPS)",
+    "Стелс-экшен",
+    "Экшен",
+    "Выживание (Survival)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 721,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1778158882",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.1920x1080.jpg?t=1778158882",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.1920x1080.jpg?t=1778158882",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_cd332c2299810a65c6aee61c04750197a919692a.1920x1080.jpg?t=1778158882",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e4dc1bc0ada8fb7cb164b3ac37be82f51aae5627.1920x1080.jpg?t=1778158882"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-24T19:47:37Z"
+}

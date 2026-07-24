@@ -1,0 +1,41 @@
+{
+  "id": 3759670,
+  "title": "no fox season",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759670/234185d2f30063b912f394ffd660ede30aa343f9/header.jpg?t=1784921340",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3759670/library_hero.jpg",
+  "description": "В один дождливый день вы возвращаетесь домой из магазина и находите на дороге раненую лису. Несмотря на строгих родителей, запрещающих вам заводить домашних животных, вы решаете взять ее к себе.\n\nСможете ли вы хорошо ухаживать за ней, если даже не знаете, что едят лисы?\n\nПРЕДУПРЕЖДЕНИЕ О СОДЕРЖАНИИЭта визуальная новелла не подходит для юных и впечатлительных читателей.\n\nno fox season — визуальная новелла в жанре психологического триллера.\n\nОсобенности• Жанры: мистический триллер, ужас, драма, романтика.\n\n• Можно гладить лисодевочку!\n\n• Ваши выборы определяют курс развития истории.",
+  "description_short": "В один дождливый день вы возвращаетесь домой из магазина и находите на дороге раненую лису. Несмотря на строгих родителей, запрещающих вам заводить домашних животных, вы решаете взять ее к себе.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 631,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759670/d1f88f08734554b7d1bde7a4206d72f5a1de66fe/ss_d1f88f08734554b7d1bde7a4206d72f5a1de66fe.1920x1080.jpg?t=1784921340",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759670/8cdce48bfdae00145e047f77d8a84f4117294c59/ss_8cdce48bfdae00145e047f77d8a84f4117294c59.1920x1080.jpg?t=1784921340",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759670/5e48c3d438a36f74e63ff852b192be21d0bf8aa3/ss_5e48c3d438a36f74e63ff852b192be21d0bf8aa3.1920x1080.jpg?t=1784921340",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759670/71eff1b632231d857f93d41fe98b5bca901ba6bf/ss_71eff1b632231d857f93d41fe98b5bca901ba6bf.1920x1080.jpg?t=1784921340",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759670/a4e747974eea08dfbc079f741960149bef9e5ce0/ss_a4e747974eea08dfbc079f741960149bef9e5ce0.1920x1080.jpg?t=1784921340"
+  ],
+  "upsells": [
+    {
+      "id": 4358070,
+      "name": "no fox season - artbook",
+      "price_rub": 633,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358070/7c04c8380b2deb77950ea5dd208b38ca00dffb4b/header.jpg?t=1784920525"
+    },
+    {
+      "id": 4966160,
+      "name": "no fox season - supporter pack",
+      "price_rub": 772,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966160/7c04c8380b2deb77950ea5dd208b38ca00dffb4b/header.jpg?t=1784920482"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-24T19:48:41Z"
+}
