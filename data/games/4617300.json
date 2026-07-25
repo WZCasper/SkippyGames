@@ -1,0 +1,35 @@
+{
+  "id": 4617300,
+  "title": "SurfaBeam - Projection Mapping",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/2048e9e83cf271e057bcb1c5964252b5af0f1c42/header.jpg?t=1784960355",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/f55fc43e282019324b367b2f2051620325cd957b/page_bg_raw.jpg?t=1784960355",
+  "description": "Welcome to the ultimate tool for live visual rendering and projection mapping. Whether you are an event designer, VJ, or digital artist, this software allows you to warp, map, and project digital art onto complex real-world geometry with precision.\n\nKey Features:\n\n• Advanced Mesh Warping & Node Editing: Take complete control over your projection with intuitive node-based mesh warping. Easily manipulate vertices to wrap visuals around complex physical objects seamlessly.\n\n• Anchor Cube Calibration: Utilize a highly precise 12-node data mapping system to establish 3D anchors, perfectly aligning your perspective with external projector outputs.\n\n• Dynamic Visual Creator: Generate mesmerizing, audio-reactive visuals in real-time. Utilize intuitive creation tools and detailed frequency analysis for perfect audio-visual synchronization.\n\n• Sleek, Distraction-Free Workspace: Operate within a cyber-minimalist, tech-noir interface. The high-contrast dark mode with electric cyan highlights reduces eye strain in dark venue environments and keeps the focus entirely on your art.\n\n• Responsive Input: Built on modern input systems for smooth, pointer-based control, making setup and calibration faster than ever.",
+  "description_short": "Transform any physical space into a dynamic digital canvas. This powerful projection mapping software lets you warp, blend, and anchor visuals to real-world surfaces using advanced node-editing. Features a Dynamic Visual Creator for real-time, audio-reactive light shows and immersive installations.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "NjB2owlqp-4",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/fc773ce7b9ee26df68bbccb0e908260adf1385b9/ss_fc773ce7b9ee26df68bbccb0e908260adf1385b9.1920x1080.jpg?t=1784960355",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/5e20da78e7f883569bd1a192fd43a3b71d6e61a2/ss_5e20da78e7f883569bd1a192fd43a3b71d6e61a2.1920x1080.jpg?t=1784960355",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/23e6f6a10651d516cbaf9e464839742a459a79e0/ss_23e6f6a10651d516cbaf9e464839742a459a79e0.1920x1080.jpg?t=1784960355",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/9ed1195b495957047e38e536289da45b3204ddd6/ss_9ed1195b495957047e38e536289da45b3204ddd6.1920x1080.jpg?t=1784960355",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/627f85220fee5f6a2859f0696ac37aa0fcf2d989/ss_627f85220fee5f6a2859f0696ac37aa0fcf2d989.1920x1080.jpg?t=1784960355"
+  ],
+  "upsells": [
+    {
+      "id": 4767820,
+      "name": "SurfaBeam - Pro Projection Mapping",
+      "price_rub": 4956,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767820/04550e8f8cdf73c4d13f2c41934156b1c9ace899/header.jpg?t=1784581579"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-25T07:47:40Z"
+}

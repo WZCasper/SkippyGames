@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T02:14:58Z",
+  "generated_at": "2026-07-25T07:47:45Z",
   "uah_to_rub_rate": 1.747278,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1241,
+  "count": 1245,
   "games": [
     {
       "id": 4881310,
@@ -1849,7 +1849,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 769,
+      "price_rub": 767,
       "is_free": false
     },
     {
@@ -2844,6 +2844,19 @@
         "PC"
       ],
       "price_rub": 728,
+      "is_free": false
+    },
+    {
+      "id": 4039190,
+      "title": "Curse of The Lineage",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039190/6a1df8e7dd6423b3fbe0bb8a7ce9180d15ec42d5/header.jpg?t=1784939820",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 725,
       "is_free": false
     },
     {
@@ -4920,7 +4933,7 @@
     {
       "id": 4790650,
       "title": "Forge Maiden",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790650/813dba12dcacb5b61879b626e9b51750d4db34d3/header.jpg?t=1784650622",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790650/813dba12dcacb5b61879b626e9b51750d4db34d3/header.jpg?t=1784774178",
       "genres": [
         "Экшен"
       ],
@@ -7505,6 +7518,19 @@
       "is_free": false
     },
     {
+      "id": 4203260,
+      "title": "LouveSystems' Realms",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203260/ca91f9e41404b61c929979ada4adfc2637ad7c08/header.jpg?t=1784912484",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 692,
+      "is_free": false
+    },
+    {
       "id": 4872690,
       "title": "Love Train",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1783648511",
@@ -8720,14 +8746,14 @@
     {
       "id": 4703870,
       "title": "NIGHTMIST",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703870/8fb72a1ba8683a6572d036c69dc4012ea88ebaf4/header.jpg?t=1784653332",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703870/8fb72a1ba8683a6572d036c69dc4012ea88ebaf4/header.jpg?t=1784734833",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 769,
+      "price_rub": 767,
       "is_free": false
     },
     {
@@ -9269,7 +9295,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 743,
       "is_free": false
     },
     {
@@ -9856,7 +9882,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 683,
+      "price_rub": 682,
       "is_free": false
     },
     {
@@ -9974,6 +10000,19 @@
         "PC"
       ],
       "price_rub": 633,
+      "is_free": false
+    },
+    {
+      "id": 3755100,
+      "title": "PorBor",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3755100/40b5133d8abe04bccccd6aa3936dd5ea38841cda/header.jpg?t=1784941226",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 905,
       "is_free": false
     },
     {
@@ -12301,6 +12340,19 @@
       "is_free": false
     },
     {
+      "id": 4617300,
+      "title": "SurfaBeam - Projection Mapping",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/2048e9e83cf271e057bcb1c5964252b5af0f1c42/header.jpg?t=1784960355",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4860070,
       "title": "SusDoku: Clues & Suspects",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/2041a8c02937aa422e637ff3099b8f5a2377b609/header.jpg?t=1784582901",
@@ -13599,14 +13651,14 @@
     {
       "id": 4883780,
       "title": "Trenchcoat Adventurer Vol 1 : Gone Rogue",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883780/9c47352411db7314abc92b71c8b6ab5cdfaa0ec4/header.jpg?t=1784650104",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883780/9c47352411db7314abc92b71c8b6ab5cdfaa0ec4/header.jpg?t=1784926433",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 820,
+      "price_rub": 818,
       "is_free": false
     },
     {
