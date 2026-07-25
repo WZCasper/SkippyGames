@@ -1,0 +1,37 @@
+{
+  "id": 3184730,
+  "title": "Find Us Cats",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/ba04e70092b45cffdab4c6c1d9babde83bc9f3ef/header.jpg?t=1784943574",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3184730/library_hero.jpg",
+  "description": "Find Us Cats 😸 — новая игра в жанре поиска предметов с участием наших любимых пушистых друзей! Найди десятки котиков на каждом уровне и постарайся набрать как можно больше очков в Планетарии и Сан-Франциско. Не забудь попробовать режим рисования! 🖌️🎨\n\nОсобенности:• 🎶Слушай наш оригинальный саундтрек (OST), пока играешь — он был создан специально для Find Us Cats композитором MichiVGC!\n\n• Особые котики прячутся повсюду, но найти их смогут только те, кто внимательно исследует каждый уголок\n\n• 🖌️Режим рисования доступен на обоих уровнях — вдвойне веселья! Тебя ждёт множество инструментов для рисования, а ещё можно экспортировать свои работы и с гордостью показать их всем. 🎨👩‍🎨\n\nУровень 1: Планетарий • Исследуй вселенную, а заодно и само здание, если время позволит!\n\n• В Планетарии спрятано более 25 котиков\n\nУровень 2: Сан-Франциско • Полюбуйся достопримечательностями оживлённого Сан-Франциско\n\n• Найди более 25 котиков, спрятанных по всему городу\n\nFind Us Cats выходит в июле 2026 года! Добавь игру в список желаемого, чтобы не пропустить релиз. 😻",
+  "description_short": "Find Us Cats 😸 — новая игра в жанре поиска предметов с участием наших любимых пушистых друзей! Найди десятки котиков на каждом уровне и постарайся набрать как можно больше очков в Планетарии и Сан-Франциско. Не забудь попробовать режим рисования! 🖌️🎨",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 549,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/67f546e9df6be07a9c6f5a691069f1231b3cb897/ss_67f546e9df6be07a9c6f5a691069f1231b3cb897.1920x1080.jpg?t=1784943574",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/153df295b34958bbdcdf6462e7c2adfa2f44e439/ss_153df295b34958bbdcdf6462e7c2adfa2f44e439.1920x1080.jpg?t=1784943574",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/353c5622e12df43f19cf3f6f9f05ba6305a9cc95/ss_353c5622e12df43f19cf3f6f9f05ba6305a9cc95.1920x1080.jpg?t=1784943574",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/f8c142a2ca8c582ecd1105bc60f1913d0a158555/ss_f8c142a2ca8c582ecd1105bc60f1913d0a158555.1920x1080.jpg?t=1784943574",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/011ba296d6fbc9b95cb82084554c1e7795e4320d/ss_011ba296d6fbc9b95cb82084554c1e7795e4320d.1920x1080.jpg?t=1784943574",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/4094d785685f4854749142bb39e1706e4ed83a29/ss_4094d785685f4854749142bb39e1706e4ed83a29.1920x1080.jpg?t=1784943574",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/42c5dc75088c278033be156ee6c789c27eb40775/ss_42c5dc75088c278033be156ee6c789c27eb40775.1920x1080.jpg?t=1784943574"
+  ],
+  "upsells": [
+    {
+      "id": 4410840,
+      "name": "Find Us Cats Soundtrack",
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4410840/94a44fd209223bb95562075dae96cc0d26657568/header.jpg?t=1784924977"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-25T02:11:18Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4653890,
+  "title": "Steel Crawlers",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653890/008844fa84a53841e71d767fdfc10644bcbfa453/header.jpg?t=1784927678",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4653890?t=1784927678",
+  "description": "Steel Crawlers is a fast 2D tank combat game about holding the line, protecting the treasure, and clearing the battlefield before the enemy breaks through.\n\nFight solo or bring in local players on keyboard and gamepads. Each round drops you into a destructible battlefield packed with walls, metal, rocks, trees, water, sand, and grass. Blast paths through cover, use terrain to your advantage, grab powerups, and keep the treasure chest alive.\n\nDefend the TreasureEnemy tanks do not just chase you. Some push toward the treasure, some hunt players, and tougher enemy types arrive as the levels advance. If the treasure falls, the run is over.\n\nGrow StrongerDestroy enemies to score points and earn XP. Surviving players can level up their tanks, improving durability, firepower, and shooting speed as the pressure rises.\n\nCreate Your Own LevelsBuild custom battlefields directly in the game. Paint terrain, place the treasure, tune enemy counts, and shape the fight with walls, metal, rocks, water, trees, grass, and sand. Custom levels are saved as shareable JSON files, so you can revisit your own arenas or pass them along to other players.\n\nSteel Crawlers is simple to start, chaotic under pressure, and built for quick battles that escalate into desperate last stands.",
+  "description_short": "Steel Crawlers is a 2D arcade tank combat game where you blast through destructible battlefields, defend your treasure chest, level up your tank, and fight escalating enemy waves solo or in local multiplayer.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 727,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653890/2145d2077df73c675a40304688a5d977645bf228/ss_2145d2077df73c675a40304688a5d977645bf228.1920x1080.jpg?t=1784927678",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653890/940b0aad63a2d7a1b3c0447891af24f92abbb3bd/ss_940b0aad63a2d7a1b3c0447891af24f92abbb3bd.1920x1080.jpg?t=1784927678",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653890/58af4751b4450ea515f8603c766199d49a7c05ad/ss_58af4751b4450ea515f8603c766199d49a7c05ad.1920x1080.jpg?t=1784927678",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653890/bc0550362b0cb67fb5192f518642a4edea8559f0/ss_bc0550362b0cb67fb5192f518642a4edea8559f0.1920x1080.jpg?t=1784927678",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653890/0e1b844d3ccb9cdf851a2d693177fe62a5ee7129/ss_0e1b844d3ccb9cdf851a2d693177fe62a5ee7129.1920x1080.jpg?t=1784927678",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653890/dca78e32777d4fa54a9879d19e797d7422055472/ss_dca78e32777d4fa54a9879d19e797d7422055472.1920x1080.jpg?t=1784927678"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-25T02:09:44Z"
+}
