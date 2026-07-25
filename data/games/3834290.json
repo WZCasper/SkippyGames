@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 728,
+  "price_rub": 633,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -24,7 +24,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834290/502a23ff299e0c1915e673ea21cf5334fcce7d53/ss_502a23ff299e0c1915e673ea21cf5334fcce7d53.1920x1080.jpg?t=1784524489",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834290/aad0494d6dc793042fe4d585b60bf4fd014b4bf9/ss_aad0494d6dc793042fe4d585b60bf4fd014b4bf9.1920x1080.jpg?t=1784524489"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4932280,
+      "name": "ESTRELLAS MECANICAS - La gran chispa Tournament Soundtrack",
+      "price_rub": 591,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932280/35670f742c6eff92856efd25af377c82f7b35ff8/header.jpg?t=1784903531"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-22T08:22:06Z"
+  "updated_at": "2026-07-25T13:16:39Z"
 }
