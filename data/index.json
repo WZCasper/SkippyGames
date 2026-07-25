@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T13:32:01Z",
+  "generated_at": "2026-07-25T18:57:41Z",
   "uah_to_rub_rate": 1.747278,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1253,
+  "count": 1260,
   "games": [
     {
       "id": 4881310,
@@ -30,6 +30,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4383080,
+      "title": "100 Dragon Cats",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/72b6a752e09bce7b6122b22711c43ba190fdd2e9/header.jpg?t=1784991198",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 565,
+      "is_free": false
     },
     {
       "id": 4675010,
@@ -1066,7 +1079,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 934,
+      "price_rub": 932,
       "is_free": false
     },
     {
@@ -1275,7 +1288,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1180,
+      "price_rub": 1176,
       "is_free": false
     },
     {
@@ -1478,14 +1491,14 @@
     {
       "id": 4570770,
       "title": "Blast'N Bounty",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570770/fda81efb2382716214da0f44993935637665ef41/header.jpg?t=1784718343",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570770/fda81efb2382716214da0f44993935637665ef41/header.jpg?t=1784802283",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 728,
+      "price_rub": 727,
       "is_free": false
     },
     {
@@ -4875,7 +4888,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 634,
+      "price_rub": 633,
       "is_free": false
     },
     {
@@ -5162,7 +5175,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 681,
+      "price_rub": 680,
       "is_free": false
     },
     {
@@ -5513,6 +5526,19 @@
         "PC"
       ],
       "price_rub": 591,
+      "is_free": false
+    },
+    {
+      "id": 4518040,
+      "title": "Goblins Stole My Panties 👙",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518040/dbff92e713eea5a0d9d96bb4ad779988f7a431c2/header.jpg?t=1784991878",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 862,
       "is_free": false
     },
     {
@@ -6819,6 +6845,19 @@
       "is_free": true
     },
     {
+      "id": 4730350,
+      "title": "Jack Bonecroft 4",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730350/78303f251d26efddb387bdd2ef3446b7c4bc7682/header.jpg?t=1784997273",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1015,
+      "is_free": false
+    },
+    {
       "id": 4831170,
       "title": "Jammed",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831170/d1010ddb52d4d16b7701042f7196d9b67f9148da/header.jpg?t=1784290972",
@@ -6841,7 +6880,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 843,
+      "price_rub": 1068,
       "is_free": false
     },
     {
@@ -7033,14 +7072,14 @@
     {
       "id": 4855560,
       "title": "Kingdom Chronicle",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855560/ab53aef506b6bc83449cf0dcdfd4b92e7f51c99b/header.jpg?t=1784717428",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855560/ab53aef506b6bc83449cf0dcdfd4b92e7f51c99b/header.jpg?t=1784809823",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 772,
+      "price_rub": 771,
       "is_free": false
     },
     {
@@ -7494,14 +7533,14 @@
     {
       "id": 3846580,
       "title": "Lost in Tandem",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846580/b30057db344f5955e95d8ab0257ba228d879edac/header.jpg?t=1784725231",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846580/b30057db344f5955e95d8ab0257ba228d879edac/header.jpg?t=1784802650",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1029,
+      "price_rub": 1026,
       "is_free": false
     },
     {
@@ -7579,7 +7618,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 790,
+      "price_rub": 788,
       "is_free": false
     },
     {
@@ -9375,7 +9414,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 646,
+      "price_rub": 645,
       "is_free": false
     },
     {
@@ -10384,7 +10423,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 934,
+      "price_rub": 932,
       "is_free": false
     },
     {
@@ -10977,6 +11016,19 @@
       "is_free": false
     },
     {
+      "id": 4864080,
+      "title": "SSTWL - Sector Breach",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864080/ad4f3697e8287ae709465906714d5911c7dd7566/header.jpg?t=1784987291",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 32470,
       "title": "STAR WARS™ Empire at War - Gold Pack",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/32470/capsule_616x353.jpg",
@@ -10992,6 +11044,19 @@
         "PC"
       ],
       "price_rub": 1229,
+      "is_free": false
+    },
+    {
+      "id": 4296520,
+      "title": "STEEL HEAVEN",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296520/836d09025268008584110d69a8255a66704b1392/header.jpg?t=1784990601",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -11258,6 +11323,19 @@
         "PC"
       ],
       "price_rub": 728,
+      "is_free": false
+    },
+    {
+      "id": 1992650,
+      "title": "Second Dreamer",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1992650/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 821,
       "is_free": false
     },
     {
@@ -13989,6 +14067,19 @@
       "is_free": false
     },
     {
+      "id": 4570010,
+      "title": "VORTEX-G: Anti-Gravity Racing & Track Editor",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570010/9d4a3eaade99298b836c114e88d414d8086f1c1a/header.jpg?t=1785000197",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1015,
+      "is_free": false
+    },
+    {
       "id": 4832460,
       "title": "VOS: First Faiths",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832460/99bee21f0f4072a59db01c1260725d8284033c2a/header.jpg?t=1784273093",
@@ -14489,7 +14580,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 623,
+      "price_rub": 622,
       "is_free": false
     },
     {
@@ -15295,14 +15386,14 @@
     {
       "id": 4341590,
       "title": "Случайный остров",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341590/f0f6320402ff661c4240837c9ce60ffee912dfbb/header.jpg?t=1784714414",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341590/f0f6320402ff661c4240837c9ce60ffee912dfbb/header.jpg?t=1785002273",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 683,
+      "price_rub": 682,
       "is_free": false
     },
     {
@@ -15354,7 +15445,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 641,
+      "price_rub": 640,
       "is_free": false
     },
     {

@@ -11,34 +11,34 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1180,
+  "price_rub": 1176,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/64b0099724ac36418d8a36e420c129f4c19995a8/ss_64b0099724ac36418d8a36e420c129f4c19995a8.1920x1080.jpg?t=1784709130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/94912b75f4f9125ff79708b8ee2408967e1e2db5/ss_94912b75f4f9125ff79708b8ee2408967e1e2db5.1920x1080.jpg?t=1784709130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/78a6936c29157f2fd8daef864bfb5e3638d0f23d/ss_78a6936c29157f2fd8daef864bfb5e3638d0f23d.1920x1080.jpg?t=1784709130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/42c6f6d65aa9a6121b433706c2bb1304901c0513/ss_42c6f6d65aa9a6121b433706c2bb1304901c0513.1920x1080.jpg?t=1784709130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/9a745c00d57840e551ca718060e8dfd831d19f36/ss_9a745c00d57840e551ca718060e8dfd831d19f36.1920x1080.jpg?t=1784709130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/d61b79edb8026b8bb426768491f7dc19ee261aaf/ss_d61b79edb8026b8bb426768491f7dc19ee261aaf.1920x1080.jpg?t=1784709130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/37ccd4ebdb58fef123a99c4973ffdb59777974c1/ss_37ccd4ebdb58fef123a99c4973ffdb59777974c1.1920x1080.jpg?t=1784709130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/abc904cdfb863e37bcbb0a781b182e9d307efa9c/ss_abc904cdfb863e37bcbb0a781b182e9d307efa9c.1920x1080.jpg?t=1784709130"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/64b0099724ac36418d8a36e420c129f4c19995a8/ss_64b0099724ac36418d8a36e420c129f4c19995a8.1920x1080.jpg?t=1784894773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/94912b75f4f9125ff79708b8ee2408967e1e2db5/ss_94912b75f4f9125ff79708b8ee2408967e1e2db5.1920x1080.jpg?t=1784894773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/78a6936c29157f2fd8daef864bfb5e3638d0f23d/ss_78a6936c29157f2fd8daef864bfb5e3638d0f23d.1920x1080.jpg?t=1784894773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/42c6f6d65aa9a6121b433706c2bb1304901c0513/ss_42c6f6d65aa9a6121b433706c2bb1304901c0513.1920x1080.jpg?t=1784894773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/9a745c00d57840e551ca718060e8dfd831d19f36/ss_9a745c00d57840e551ca718060e8dfd831d19f36.1920x1080.jpg?t=1784894773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/d61b79edb8026b8bb426768491f7dc19ee261aaf/ss_d61b79edb8026b8bb426768491f7dc19ee261aaf.1920x1080.jpg?t=1784894773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/37ccd4ebdb58fef123a99c4973ffdb59777974c1/ss_37ccd4ebdb58fef123a99c4973ffdb59777974c1.1920x1080.jpg?t=1784894773",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106470/abc904cdfb863e37bcbb0a781b182e9d307efa9c/ss_abc904cdfb863e37bcbb0a781b182e9d307efa9c.1920x1080.jpg?t=1784894773"
   ],
   "upsells": [
     {
       "id": 4574420,
       "name": "Baramon - Guide",
-      "price_rub": 902,
+      "price_rub": 900,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574420/158bf2f6906f469d34da001c7bfe9046727f9244/header.jpg?t=1784709186"
     },
     {
       "id": 4574430,
       "name": "Baramon - Adult Art Pack",
-      "price_rub": 902,
+      "price_rub": 900,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574430/4a24600f789ffdb25b8c01bf9c4f24eb10ed736c/header.jpg?t=1784709188"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-22T13:23:36Z"
+  "updated_at": "2026-07-25T18:52:32Z"
 }

@@ -1,0 +1,44 @@
+{
+  "id": 4383080,
+  "title": "100 Dragon Cats",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/72b6a752e09bce7b6122b22711c43ba190fdd2e9/header.jpg?t=1784991198",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4383080?t=1784991198",
+  "description": "🐾 ДОБРО ПОЖАЛОВАТЬ В ОЧЕРЕДНУЮ ИГРУ СЕРИИ 100 КОШЕК 🐈Присоединяйтесь к самому милому приключению в мире, полном кошек! Исследуйте очаровательные нарисованные вручную локации с уникальными тематиками, разыскивая 100 спрятанных котов.\nПроверьте свою внимательность и наблюдательность в этом уютном и увлекательном квесте на поиск скрытых объектов.\nКаждый найденный кот будет радовать вас всё больше и больше!🐈🕵️‍♂️ Сможете найти их всех? 🕵️‍♂️🐈Ключевые особенности• 🎮 1 уровень\n\n• 🐈 100 спрятанных котов\n\n• 🎵 Отличный саундтрек\n\n• 🎨 Высококачественная графика\n\n• 🌗 Настройки яркости\n\n• 💾 Сохранение прогресса\n\n• 🔍 Приближение\n\n• 😺 Реалистичные кошачьи звуки!\n\n• 💥 Счётчик комбо!\n\n• 💡 Подсказки\n\n• 🌐 Без текста",
+  "description_short": "🐾 Присоединяйся к самому милому приключению в тематических локациях, полных котиков! 😻 Исследуй очаровательные нарисованные от руки локации и попробуй найти 100 спрятанных пушистиков по всему миру игры. 🐈🕵️‍♂️ Сможешь найти их всех? 🕵️‍♂️🐈",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 565,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/84ee1fad029c6d17c715249f74af5476c599529b/ss_84ee1fad029c6d17c715249f74af5476c599529b.1920x1080.jpg?t=1784991198",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/1bfd23b1b5c7c8dbc4689a5ebb7e1ebdc7bb0ef1/ss_1bfd23b1b5c7c8dbc4689a5ebb7e1ebdc7bb0ef1.1920x1080.jpg?t=1784991198",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/6c90e4a250cb496c0b9e8f25a6c6018f1b3e1789/ss_6c90e4a250cb496c0b9e8f25a6c6018f1b3e1789.1920x1080.jpg?t=1784991198",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/58e6c8ed8986afa6cc98b53eb90874250ef3b93d/ss_58e6c8ed8986afa6cc98b53eb90874250ef3b93d.1920x1080.jpg?t=1784991198",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/704786251891de13f06e82109efff57207284281/ss_704786251891de13f06e82109efff57207284281.1920x1080.jpg?t=1784991198",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/912b0d6c2177a80df88f225764fdeecb0b77a3b4/ss_912b0d6c2177a80df88f225764fdeecb0b77a3b4.1920x1080.jpg?t=1784991198",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/0c0e4d8c2a497ebadd117e4d7665cc6d389c5eab/ss_0c0e4d8c2a497ebadd117e4d7665cc6d389c5eab.1920x1080.jpg?t=1784991198",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/01fdb792487221799bc3dac3d9610b96cbfb8a4c/ss_01fdb792487221799bc3dac3d9610b96cbfb8a4c.1920x1080.jpg?t=1784991198"
+  ],
+  "upsells": [
+    {
+      "id": 4543220,
+      "name": "100 Dragon Cats Soundtrack",
+      "price_rub": 629,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543220/a009cb46c82ee844ac324bc1a49b21e537494306/header.jpg?t=1784991211"
+    },
+    {
+      "id": 4543230,
+      "name": "100 Dragon Cats - Artbook",
+      "price_rub": 629,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543230/3bfa4a2d1dc3b3fb95a08ffd2ef68b51d13ecdfb/header.jpg?t=1784991212"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-25T18:55:34Z"
+}
