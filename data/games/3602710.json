@@ -1,0 +1,29 @@
+{
+  "id": 3602710,
+  "title": "PACOSTEP",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/8ce03de61a626257b8a42d71cb3622ea71746ee6/header.jpg?t=1785034808",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3602710/library_hero.jpg",
+  "description": "Описание игры (About Game)В мире деревьев, поглощённом тьмой, остался только ты — Пако. Очисти свою семью и соседей и верни свет в разрушенную деревню.PacoStep — это приключенческий хардкорный платформер, сочетающий исследование и сложные испытания. С каждым уровнем тебя ждут новые трудности и битвы с мощными боссами.",
+  "description_short": "PacoStep — хардкорный платформер в мире деревьев, поглощённых тьмой. Присоединяйтесь к Пако, последнему духу, чтобы раскрыть источник тьмы и скрытую правду этого мира.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 785,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "fowdkQIQJbY",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/0db778968153c7167b9592bb396a9fac0c21c3da/ss_0db778968153c7167b9592bb396a9fac0c21c3da.1920x1080.jpg?t=1785034808",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/6cf0498954254376effe27839d9230c66cb1e613/ss_6cf0498954254376effe27839d9230c66cb1e613.1920x1080.jpg?t=1785034808",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/5f43c5aaca14b7f03419c41f60b63cbbfb8e2b30/ss_5f43c5aaca14b7f03419c41f60b63cbbfb8e2b30.1920x1080.jpg?t=1785034808",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/76506f3725d10b8cae7fd5f0267c766c71f7daf6/ss_76506f3725d10b8cae7fd5f0267c766c71f7daf6.1920x1080.jpg?t=1785034808",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/dcd66e8182b818d981785d239065631cbe712f47/ss_dcd66e8182b818d981785d239065631cbe712f47.1920x1080.jpg?t=1785034808",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/9588300678925703b2414fd45c136a73f49901f0/ss_9588300678925703b2414fd45c136a73f49901f0.1920x1080.jpg?t=1785034808"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-26T08:06:52Z"
+}
