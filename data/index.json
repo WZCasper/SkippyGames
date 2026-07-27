@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-27T14:59:41Z",
+  "generated_at": "2026-07-27T19:48:04Z",
   "uah_to_rub_rate": 1.738832,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1272,
+  "count": 1299,
   "games": [
     {
       "id": 4881310,
@@ -93,7 +93,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 591,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -617,6 +617,19 @@
       "is_free": false
     },
     {
+      "id": 4792980,
+      "title": "Alice's Night at the Mansion",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4792980/fd7e6724ead8c74e8028f892515ca598d7a7daa0/header.jpg?t=1785168044",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 726,
+      "is_free": false
+    },
+    {
       "id": 3404810,
       "title": "Alistella's Alchemy Lab",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404810/3d2fde9460e1b0fabed4423859bae09bda96f5d6/header.jpg?t=1784274262",
@@ -885,6 +898,19 @@
         "PC"
       ],
       "price_rub": 1176,
+      "is_free": false
+    },
+    {
+      "id": 3833620,
+      "title": "Ariokan - create your cards, break the Meta",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833620/54a69f593bdceee7c52eef6a8f084c670c3c0460/header.jpg?t=1785171634",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1439,
       "is_free": false
     },
     {
@@ -1214,6 +1240,19 @@
         "PC"
       ],
       "price_rub": 554,
+      "is_free": false
+    },
+    {
+      "id": 4845430,
+      "title": "BEHIND THE WALLS",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845430/3463980d00a6227d9281151da7c4e40f2d4ae4d8/header.jpg?t=1785160944",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 681,
       "is_free": false
     },
     {
@@ -1736,7 +1775,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 605,
+      "price_rub": 632,
       "is_free": false
     },
     {
@@ -1840,7 +1879,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 619,
+      "price_rub": 618,
       "is_free": false
     },
     {
@@ -1854,6 +1893,19 @@
         "PC"
       ],
       "price_rub": 978,
+      "is_free": false
+    },
+    {
+      "id": 2133850,
+      "title": "Broken Reality 2000",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2133850/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1023,
       "is_free": false
     },
     {
@@ -2015,7 +2067,7 @@
     {
       "id": 4200450,
       "title": "Calamity Cait",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200450/b4480fc4dc4c952c36cd84cb9a67ad5015507fa2/header.jpg?t=1784595728",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200450/b4480fc4dc4c952c36cd84cb9a67ad5015507fa2/header.jpg?t=1784946090",
       "genres": [
         "Экшен"
       ],
@@ -2184,14 +2236,14 @@
     {
       "id": 3347200,
       "title": "Cat Gladiator",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347200/aeab304f3de8f05af2a49215931c5603c6c2ccc8/header.jpg?t=1784598625",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347200/aeab304f3de8f05af2a49215931c5603c6c2ccc8/header.jpg?t=1784992545",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 831,
+      "price_rub": 829,
       "is_free": false
     },
     {
@@ -2912,7 +2964,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 984,
+      "price_rub": 980,
       "is_free": false
     },
     {
@@ -3009,6 +3061,19 @@
         "PC"
       ],
       "price_rub": 2952,
+      "is_free": false
+    },
+    {
+      "id": 4641690,
+      "title": "D.R.A.F.​T. VR",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641690/5aced7e0dd65f8d4cc3dde95e6c5f9813d6f0cc8/header.jpg?t=1785174693",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1023,
       "is_free": false
     },
     {
@@ -3388,7 +3453,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 705,
+      "price_rub": 839,
       "is_free": false
     },
     {
@@ -3407,14 +3472,14 @@
     {
       "id": 4402510,
       "title": "Deep Sea Idle: Infinity Abyss",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402510/82ccf22682237ce43d28e776376c28c3be3aba47/header.jpg?t=1784616994",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402510/82ccf22682237ce43d28e776376c28c3be3aba47/header.jpg?t=1785139620",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 681,
       "is_free": false
     },
     {
@@ -3526,7 +3591,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 742,
       "is_free": false
     },
     {
@@ -3882,7 +3947,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 854,
+      "price_rub": 891,
       "is_free": false
     },
     {
@@ -4016,6 +4081,19 @@
       "is_free": false
     },
     {
+      "id": 4492260,
+      "title": "Ducks in Disguise",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492260/ead7f653d8ad29713b11855c4562bdad46e9f39c/header.jpg?t=1785164829",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 570,
+      "is_free": false
+    },
+    {
       "id": 3606400,
       "title": "Dungeon Repeater",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606400/b385ab8e79120e9c732a8c0582a6ef634bf95c6b/header.jpg?t=1784260811",
@@ -4026,6 +4104,19 @@
         "PC"
       ],
       "price_rub": 695,
+      "is_free": false
+    },
+    {
+      "id": 2237320,
+      "title": "Dwarf Delve",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2237320/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 896,
       "is_free": false
     },
     {
@@ -4222,7 +4313,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 616,
+      "price_rub": 629,
       "is_free": false
     },
     {
@@ -4275,6 +4366,19 @@
         "PC"
       ],
       "price_rub": 647,
+      "is_free": false
+    },
+    {
+      "id": 2684630,
+      "title": "Endacopia",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2684630/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1062,
       "is_free": false
     },
     {
@@ -4460,6 +4564,19 @@
       "is_free": false
     },
     {
+      "id": 4912850,
+      "title": "Eyedle",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/396ad32b2708a56bf63d42b3ae65cb598b1b29b9/header.jpg?t=1785173552",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 639,
+      "is_free": false
+    },
+    {
       "id": 3823480,
       "title": "F.E.A.S.T",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823480/745802012bc3d7ca53db5b21c96963a0e706100c/header.jpg?t=1783957208",
@@ -4495,7 +4612,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 675,
+      "price_rub": 674,
       "is_free": false
     },
     {
@@ -5039,6 +5156,19 @@
       "is_free": false
     },
     {
+      "id": 951770,
+      "title": "Forsaken Realms: Vahrin's Call",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/951770/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1627,
+      "is_free": false
+    },
+    {
       "id": 4858720,
       "title": "Forsaken Rules",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858720/f9236aee8da2e24ae158baa8f75f99298ef71918/header.jpg?t=1784647603",
@@ -5074,7 +5204,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 640,
+      "price_rub": 639,
       "is_free": false
     },
     {
@@ -5218,7 +5348,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 717,
+      "price_rub": 716,
       "is_free": false
     },
     {
@@ -5697,6 +5827,19 @@
       "is_free": false
     },
     {
+      "id": 3080560,
+      "title": "Graphite",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/62eabd77353bcf3067a85bb755eac9d65cd4628d/header.jpg?t=1785167456",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 785,
+      "is_free": false
+    },
+    {
       "id": 4151550,
       "title": "Grapple Bear",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151550/4099cc53b1d3d0ab27d53228cc20f4ce1b0b364b/header.jpg?t=1784303903",
@@ -5823,7 +5966,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 728,
+      "price_rub": 726,
       "is_free": false
     },
     {
@@ -5836,7 +5979,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 605,
+      "price_rub": 604,
       "is_free": false
     },
     {
@@ -6345,7 +6488,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 756,
+      "price_rub": 754,
       "is_free": false
     },
     {
@@ -7184,6 +7327,19 @@
       "is_free": false
     },
     {
+      "id": 3966540,
+      "title": "Kioskeria: Summer Breeze!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966540/56a1dcca472c2573c9d48024d02405df9d7d3e97/header.jpg?t=1785172239",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 855,
+      "is_free": false
+    },
+    {
       "id": 4119270,
       "title": "Kitty Burger",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119270/098a902916a5a4e4b8dc800d6816727bda82bd08/header.jpg?t=1784221267",
@@ -7453,7 +7609,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 761,
+      "price_rub": 759,
       "is_free": false
     },
     {
@@ -7585,7 +7741,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 822,
+      "price_rub": 900,
       "is_free": false
     },
     {
@@ -7728,7 +7884,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 773,
+      "price_rub": 771,
       "is_free": false
     },
     {
@@ -7846,6 +8002,19 @@
         "PC"
       ],
       "price_rub": 1083,
+      "is_free": false
+    },
+    {
+      "id": 2417610,
+      "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2417610/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1526,
       "is_free": false
     },
     {
@@ -8181,7 +8350,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 854,
+      "price_rub": 891,
       "is_free": false
     },
     {
@@ -8207,7 +8376,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 842,
+      "price_rub": 900,
       "is_free": false
     },
     {
@@ -8376,7 +8545,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 822,
+      "price_rub": 820,
       "is_free": false
     },
     {
@@ -8632,6 +8801,32 @@
       "is_free": false
     },
     {
+      "id": 4203270,
+      "title": "Moon Crashers",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203270/354ab1cc5791d1a5b686409b1dfa0c936a9df5bc/header.jpg?t=1785171633",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 695,
+      "is_free": false
+    },
+    {
+      "id": 4901910,
+      "title": "Moon Miner",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901910/631ab87af5122e6a581abf61f891175ad98a9b9e/header.jpg?t=1785171507",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 662,
+      "is_free": false
+    },
+    {
       "id": 4927290,
       "title": "MoonScape",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4927290/861dba0857245d015a974021f44508da46b18a16/header.jpg?t=1784919478",
@@ -8732,7 +8927,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 591,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -8850,7 +9045,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 591,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -9097,7 +9292,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 591,
+      "price_rub": 590,
       "is_free": false
     },
     {
@@ -9292,6 +9487,19 @@
       "is_free": false
     },
     {
+      "id": 4341450,
+      "title": "OFFICE KEEPER",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341450/966ecc9e6a31dccb38056872a740d69b6296e1d6/header.jpg?t=1785172169",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 599,
+      "is_free": false
+    },
+    {
       "id": 548800,
       "title": "OFS",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1783167640",
@@ -9396,6 +9604,19 @@
       "is_free": false
     },
     {
+      "id": 4434520,
+      "title": "Office Leveling",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434520/4fe6f0071b84f04214f5090c1426c9777daf3eec/header.jpg?t=1785168357",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 681,
+      "is_free": false
+    },
+    {
       "id": 4904130,
       "title": "Ofuda Placement Service",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4904130/df74eea77f6640bc28c55e42ae7c6102ac18dc3b/header.jpg?t=1784617883",
@@ -9405,7 +9626,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 717,
+      "price_rub": 716,
       "is_free": false
     },
     {
@@ -9512,6 +9733,19 @@
         "PC"
       ],
       "price_rub": 645,
+      "is_free": false
+    },
+    {
+      "id": 3891880,
+      "title": "Orbital",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891880/0b9f4923fbaf56ef53d424339167a9eb7f96fa85/header.jpg?t=1785161592",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 766,
       "is_free": false
     },
     {
@@ -9923,7 +10157,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 633,
+      "price_rub": 632,
       "is_free": false
     },
     {
@@ -10126,6 +10360,19 @@
       "is_free": false
     },
     {
+      "id": 3206340,
+      "title": "Plum Road Tea Dream",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206340/cfcf0615bd3b2b28b301af617d3c94315c1485fa/header.jpg?t=1785164462",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 832,
+      "is_free": false
+    },
+    {
       "id": 4851300,
       "title": "Pocket Pond",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851300/60bb06dbed06efd0abd4f4473628b9de374803e0/header.jpg?t=1783515612",
@@ -10319,6 +10566,19 @@
       ],
       "price_rub": 578,
       "is_free": false
+    },
+    {
+      "id": 4887740,
+      "title": "Project Deep Nexus",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4887740/9af3361bf993de17561c62eb77c88bedecb1542e/header.jpg?t=1785173363",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4798760,
@@ -10805,7 +11065,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1026,
+      "price_rub": 1022,
       "is_free": false
     },
     {
@@ -10818,7 +11078,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3302,
+      "price_rub": 3280,
       "is_free": false
     },
     {
@@ -11109,7 +11369,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 675,
+      "price_rub": 674,
       "is_free": false
     },
     {
@@ -11401,7 +11661,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 693,
+      "price_rub": 691,
       "is_free": false
     },
     {
@@ -11723,7 +11983,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 675,
+      "price_rub": 770,
       "is_free": false
     },
     {
@@ -12231,6 +12491,19 @@
       "is_free": false
     },
     {
+      "id": 4575870,
+      "title": "Spheroll",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575870/32442092cde6bd0d18e6fa030a46d258864feb74/header.jpg?t=1785169571",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 537,
+      "is_free": false
+    },
+    {
       "id": 4572290,
       "title": "Spicy Content Creator",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572290/dbdf3086afea1f4911e8efaac32470c4aa8f2258/header.jpg?t=1784547408",
@@ -12467,7 +12740,33 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 637,
+      "price_rub": 726,
+      "is_free": false
+    },
+    {
+      "id": 4233270,
+      "title": "StormBonk",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233270/7f0bce04984de34857613d92876aa9184b8de9e4/header.jpg?t=1785171749",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 702,
+      "is_free": false
+    },
+    {
+      "id": 4329240,
+      "title": "Storytime Cats - A Day At The Park",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/4ee512b89fa49b3ca24ef7c9c1fea61f34a5fbf0/header.jpg?t=1785171634",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 632,
       "is_free": false
     },
     {
@@ -12525,6 +12824,19 @@
         "PC"
       ],
       "price_rub": 1512,
+      "is_free": false
+    },
+    {
+      "id": 4058190,
+      "title": "Streetlight Syndicate",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4058190/204e706a8c06af3322fafb862b93f5a30c5a246f/header.jpg?t=1785168022",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 736,
       "is_free": false
     },
     {
@@ -13282,14 +13594,14 @@
     {
       "id": 4590610,
       "title": "The King's Game: Through the Veil",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590610/4fdf9668682273c1e393851a96b76e2f898a8caa/header.jpg?t=1783432912",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590610/4fdf9668682273c1e393851a96b76e2f898a8caa/header.jpg?t=1785158008",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 800,
+      "price_rub": 797,
       "is_free": false
     },
     {
@@ -13706,6 +14018,19 @@
       "is_free": true
     },
     {
+      "id": 2901380,
+      "title": "Tile Trials",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901380/3d0d03a91dc6aafa7ce34ef5602237bfbbf092a7/header.jpg?t=1785168105",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 578,
+      "is_free": false
+    },
+    {
       "id": 4913930,
       "title": "Till The Light",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913930/373d7de4810b16c4661317eebd7b720fdaa7639e/header.jpg?t=1784933044",
@@ -13806,7 +14131,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 705,
+      "price_rub": 703,
       "is_free": false
     },
     {
@@ -14080,7 +14405,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 593,
+      "price_rub": 632,
       "is_free": false
     },
     {
@@ -14280,7 +14605,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 903,
+      "price_rub": 900,
       "is_free": false
     },
     {
@@ -14333,6 +14658,19 @@
         "PC"
       ],
       "price_rub": 890,
+      "is_free": false
+    },
+    {
+      "id": 2892200,
+      "title": "VectaGuard",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/6bb3e93451b4d00e3980ad50e962ba82e6546f70/header.jpg?t=1785173456",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -14412,6 +14750,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4644050,
+      "title": "Viking Vending",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644050/bcc1a08c06527a9794f90878d73f78abc7c8c7fc/header.jpg?t=1785175494",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 703,
+      "is_free": false
     },
     {
       "id": 4834200,
@@ -14501,7 +14852,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 728,
+      "price_rub": 726,
       "is_free": false
     },
     {
@@ -14807,7 +15158,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 772,
+      "price_rub": 770,
       "is_free": false
     },
     {
@@ -14833,7 +15184,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1068,
+      "price_rub": 1063,
       "is_free": false
     },
     {
@@ -15331,7 +15682,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 675,
+      "price_rub": 674,
       "is_free": false
     },
     {
@@ -16348,7 +16699,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 854,
+      "price_rub": 851,
       "is_free": false
     },
     {
@@ -16361,7 +16712,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 539,
+      "price_rub": 538,
       "is_free": false
     },
     {
@@ -16452,7 +16803,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 742,
+      "price_rub": 740,
       "is_free": false
     },
     {
