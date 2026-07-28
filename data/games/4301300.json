@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 755,
+  "price_rub": 754,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "-DfOqxLxfIw",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/6b96978440f555506addd9c82e4e7547bef76925/ss_6b96978440f555506addd9c82e4e7547bef76925.1920x1080.jpg?t=1784926229",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301300/48842f86b3c8bca89cc8d3ee77c9e4c10969b6f1/ss_48842f86b3c8bca89cc8d3ee77c9e4c10969b6f1.1920x1080.jpg?t=1784926229",
@@ -29,10 +29,10 @@
     {
       "id": 4776290,
       "name": "Incrempire - Supporter Pack",
-      "price_rub": 675,
+      "price_rub": 674,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776290/ee73a75aea701142ad57692f0b695b3543a46a39/header.jpg?t=1784660910"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-25T02:06:11Z"
+  "updated_at": "2026-07-28T08:12:28Z"
 }

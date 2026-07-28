@@ -1,9 +1,9 @@
 {
   "id": 3856550,
   "title": "Robo Miner: Remastered",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/7d4d31c7975a0b376ecc1e46b3dca99ce4b08e56/header.jpg?t=1784906103",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/7d4d31c7975a0b376ecc1e46b3dca99ce4b08e56/header.jpg?t=1784980576",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3856550/library_hero.jpg",
-  "description": "Robo Miner Remastered – Dig Deeper. Upgrade Smarter. Look Better.\n\nThe classic mining adventure is back and better than ever!\n\nRobo Miner Remastered delivers the same addictive digging experience you love - now with improved graphics, smoother controls, enhanced sound effects, and smarter gameplay mechanics.\n\nWhether you're a seasoned miner or a new explorer, your mission is simple: dig deep, collect valuable ores, and uncover the legendary diamond buried far below. Plan your path carefully, avoid cave-ins, and manage your energy wisely. With each mine going deeper, the challenge - and the rewards - grow.\n\nEach mine is a puzzle. You’ll need to place ladders, support beams, and dynamite strategically. Dig too recklessly and you might get stuck - or worse, crushed.\n\nUnearth ores, crystals, and gems to sell for credits. Use your earnings to upgrade your robot’s gear and go deeper than ever before.\n\nBoost your drill strength, battery life, carrying capacity, and more. Better tools mean deeper digs and greater rewards.\n\nRemastered!",
+  "description": "Robo Miner Remastered is a modern remake of the classic mining adventure, featuring updated visuals, smoother gameplay, and quality-of-life improvements while remaining faithful to the original experience.\n\nTake control of your mining robot and dig through procedurally generated mines in search of valuable ores, rare gems, and the giant diamond hidden at the bottom of every mine. Sell your discoveries, earn credits, and upgrade your equipment to dig deeper than ever before.\n\nNo two mines are the same. Every expedition takes place in a procedurally generated world where each path is yours to create. As you descend, the terrain becomes increasingly difficult to navigate, forcing you to manage your resources wisely and make every upgrade count.\n\nImprove your robot with faster drills, larger cargo capacity, stronger batteries, increased movement speed, brighter lights, and other essential upgrades that help you reach greater depths and collect even more valuable resources.\n\nWhether you enjoy relaxing exploration, satisfying progression, or the challenge of reaching the bottom of every mine, Robo Miner Remastered delivers an addictive mining experience with endless replayability.\n\nFeatures• Explore procedurally generated mines with a new layout every game.\n\n• Dig through increasingly challenging underground environments.\n\n• Mine ores and gems to earn credits.\n\n• Find the giant diamond hidden at the bottom of every mine.\n\n• Upgrade your robot with better drills, batteries, cargo capacity, movement speed, lights, and more.\n\n• Sell your resources to unlock even more powerful equipment.\n\n• Experience a faithful remaster of the classic mining adventure with modern visuals and refined gameplay.\n\nEvery mine begins with a single block. The giant diamond is waiting at the bottom.",
   "description_short": "Dig deep, collect ores, and upgrade your robot in this remastered classic mining adventure with improved graphics and smarter gameplay.",
   "genres": [
     "Экшен"
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 682,
+  "price_rub": 681,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "64FDqckFpwo",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/3f81cc3de4162223cc7c501790172d90dec8c547/ss_3f81cc3de4162223cc7c501790172d90dec8c547.1920x1080.jpg?t=1784906103",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/eb5d876610b0838771cf70870956c93d20f36db5/ss_eb5d876610b0838771cf70870956c93d20f36db5.1920x1080.jpg?t=1784906103",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/caed851d73f4ef35d24e5230f73d2a2f61b15ca1/ss_caed851d73f4ef35d24e5230f73d2a2f61b15ca1.1920x1080.jpg?t=1784906103",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/d12e09787b47d22db859760f66286460010c50a0/ss_d12e09787b47d22db859760f66286460010c50a0.1920x1080.jpg?t=1784906103",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/5f2ba1fd28a31defac25517e706e202b0c379458/ss_5f2ba1fd28a31defac25517e706e202b0c379458.1920x1080.jpg?t=1784906103"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/3f81cc3de4162223cc7c501790172d90dec8c547/ss_3f81cc3de4162223cc7c501790172d90dec8c547.1920x1080.jpg?t=1784980576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/eb5d876610b0838771cf70870956c93d20f36db5/ss_eb5d876610b0838771cf70870956c93d20f36db5.1920x1080.jpg?t=1784980576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/caed851d73f4ef35d24e5230f73d2a2f61b15ca1/ss_caed851d73f4ef35d24e5230f73d2a2f61b15ca1.1920x1080.jpg?t=1784980576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/d12e09787b47d22db859760f66286460010c50a0/ss_d12e09787b47d22db859760f66286460010c50a0.1920x1080.jpg?t=1784980576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856550/5f2ba1fd28a31defac25517e706e202b0c379458/ss_5f2ba1fd28a31defac25517e706e202b0c379458.1920x1080.jpg?t=1784980576"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-24T20:01:45Z"
+  "updated_at": "2026-07-28T08:10:04Z"
 }

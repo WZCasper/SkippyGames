@@ -1,0 +1,33 @@
+{
+  "id": 1485650,
+  "title": "Zen World",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1485650/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1485650/library_hero.jpg",
+  "description": "Zen World - твой личный маленький дзен-садик, включающий в себя целый мир, и твоя задача - помочь ему расти и расцветать!\n\nНачав с одного лишь клочка земли, затерянного среди облаков, создай безопасный и красивый мир для его жителей в этой расслабляющей стратегии!\n\n• Создавай мир шаг за шагом, сочетая границы тайлов\n\n• Прокладывай маршрут к ценным ящикам для своих разведчиков\n\n• Открывай ящики, чтобы получить новые тайлы и бонусы\n\n• Развивай дерево технологий, чтобы получить новые возможности для развития мира\n\n• Найди свой путь среди облаков!\n\n• Размещай военные лагери, чтобы защитить свой народ\n\nZen World - игра, в которой ты сам выбираешь, насколько стратегической или расслабляюще она будет, в зависимости от своего настроения. Ты можешь расставлять тайлы руководствуясь только своими инстинктами и чувством прекрасного, или тщательно продумывать каждый ход, стараясь быть максимально эффективным, заработать максимум очков и победить своих друзей.",
+  "description_short": "Zen World - игра, которая может быть как стратегической, так и расслабляющей в зависимости от твоего желания. Создавай умиротворяющий ландшафт из шестиугольных блоков, сочетая их границы, собирай ценные ящики и развивай дерево технологий.",
+  "genres": [
+    "Головоломки",
+    "Градостроительные симуляторы",
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 851,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/53abe35cc5f0743d3f0f8f9806fcaea692e7ed11/ss_53abe35cc5f0743d3f0f8f9806fcaea692e7ed11.1920x1080.jpg?t=1785199967",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/aefd14cf8aa811ff620273f2873ac8fa9d92fb77/ss_aefd14cf8aa811ff620273f2873ac8fa9d92fb77.1920x1080.jpg?t=1785199967",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/4c67b33935b7e98991be1a690ce8fa6de69f0c5d/ss_4c67b33935b7e98991be1a690ce8fa6de69f0c5d.1920x1080.jpg?t=1785199967",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/75b5e4d6f49c728076ca16112b96c6eddbb12c20/ss_75b5e4d6f49c728076ca16112b96c6eddbb12c20.1920x1080.jpg?t=1785199967",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/352f5c80aa9c47cbf75f3a97136395cf7ab1f4dd/ss_352f5c80aa9c47cbf75f3a97136395cf7ab1f4dd.1920x1080.jpg?t=1785199967",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/59f7f9ad2f86ce38e49e1ee37a3593486290582c/ss_59f7f9ad2f86ce38e49e1ee37a3593486290582c.1920x1080.jpg?t=1785199967",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/c9709bedb4e01daf6d4c2271c9d66ceb52450282/ss_c9709bedb4e01daf6d4c2271c9d66ceb52450282.1920x1080.jpg?t=1785199967",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/c75a949df73431a6023548289323629c9a4abaff/ss_c75a949df73431a6023548289323629c9a4abaff.1920x1080.jpg?t=1785199967"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-28T08:23:19Z"
+}
