@@ -1,0 +1,31 @@
+{
+  "id": 4872330,
+  "title": "Hotel The Memory",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/aeb80b372184b34bfebd5be75a707bdf5c56c6d9/header.jpg?t=1785293971",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/25c030dc45cdd246f32b9afa56a27a9aa7486ccb/page_bg_raw.jpg?t=1785293971",
+  "description": "Если найдёшь аномалию, запомни её.\n\n[Время игры]От 30 до 60 минут\n\n [Правила]1. Выберите и исследуйте любые 2 из 9 комнат, расположенных по кругу. Внимательно запомните аномалию, происходящую внутри каждой комнаты (в некоторых комнатах аномалий может не быть).\n\n2. Закончив исследование, позвоните в звонок перед лифтом.\n\n3. Цвет ламп над дверями комнат изменится:\n\nзеленый: 2 комнаты совпали.\n\nкрасный: 2 комнаты не совпали (Ошибка).\n\n4. Вернитесь к шагу 1 и продолжайте исследование.\n\nСоберите все 4 пары, чтобы перейти на следующий этаж. Ваша цель — спуститься на 1-й этаж и сбежать.\n\nПри каждой ошибке одно из пламен свечей рядом со звонком будет гаснуть. Если все свечи погаснут, вы будете возвращены на начальный этаж, так что будьте осторожны.\n\n[Особенности игры]Поиск аномалий: Ищите аномалии внутри каждой комнаты.\n\nИгра на память: Запоминайте, «в какой» именно комнате происходит «какая» аномалия. На основе этих воспоминаний решайте, какие комнаты открывать.",
+  "description_short": "“Если найдёшь аномалию, запомни её.”　Добро пожаловать в Hotel The Memory — квест-игру, сочетающую в себе поиск аномалий и игру на развитие памяти. Собирайте пары комнат с одинаковыми аномалиями, чтобы сбежать из этого странного отеля.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 640,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/521d513e6bacc5cc5383b797ead2a18df0192092/ss_521d513e6bacc5cc5383b797ead2a18df0192092.1920x1080.jpg?t=1785293971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/b5da72ed0b43be910256acc8c2bdc305f454f444/ss_b5da72ed0b43be910256acc8c2bdc305f454f444.1920x1080.jpg?t=1785293971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/f332dc79a384c47534390adf67216e5b3d94157b/ss_f332dc79a384c47534390adf67216e5b3d94157b.1920x1080.jpg?t=1785293971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/5ef66fea3ce6d7dd692833cf8b1985f684cc6b3f/ss_5ef66fea3ce6d7dd692833cf8b1985f684cc6b3f.1920x1080.jpg?t=1785293971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/9772b3e658a7a1b81544ef4559f389e6855635cd/ss_9772b3e658a7a1b81544ef4559f389e6855635cd.1920x1080.jpg?t=1785293971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/eff0384302cf602bed2248d1c92f9c0d9b778b36/ss_eff0384302cf602bed2248d1c92f9c0d9b778b36.1920x1080.jpg?t=1785293971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/d6fc5bfe7ef05cf13fd6715d8b7f8d8fde556b43/ss_d6fc5bfe7ef05cf13fd6715d8b7f8d8fde556b43.1920x1080.jpg?t=1785293971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872330/ec51b162d82de282aafb972c1869365f4b045110/ss_ec51b162d82de282aafb972c1869365f4b045110.1920x1080.jpg?t=1785293971"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-29T09:03:55Z"
+}
