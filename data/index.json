@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T14:16:06Z",
+  "generated_at": "2026-07-29T19:16:42Z",
   "uah_to_rub_rate": 1.745312,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1378,
+  "count": 1407,
   "games": [
     {
       "id": 4881310,
@@ -914,6 +914,19 @@
       "is_free": false
     },
     {
+      "id": 4252700,
+      "title": "Archon Soul",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/e0c93fddeaa8ed8c4a8062fb2e2af0211dd6aa5f/header.jpg?t=1785337338",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 891,
+      "is_free": false
+    },
+    {
       "id": 4371450,
       "title": "Arctic Shift: Fuel Station",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371450/44d70b2d6c6fdda568cb2a937826b729d311086f/header.jpg?t=1784912465",
@@ -1597,6 +1610,19 @@
       "is_free": false
     },
     {
+      "id": 4421010,
+      "title": "Bills Must Be Paid",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/fc7d507e465320493fbf224b54d769c043601390/header.jpg?t=1785345619",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 708,
+      "is_free": false
+    },
+    {
       "id": 4608690,
       "title": "Birds",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608690/381b7789e3fd403089f88a107642265bda70405d/header.jpg?t=1784962816",
@@ -1892,7 +1918,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 902,
+      "price_rub": 901,
       "is_free": false
     },
     {
@@ -2286,6 +2312,19 @@
       "is_free": false
     },
     {
+      "id": 4127360,
+      "title": "Case Solved: The London Files",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127360/65990d3e333c9ca76a556bd3efefc2ea5fbb7abe/header_alt_assets_1_russian.jpg?t=1785333209",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 840,
+      "is_free": false
+    },
+    {
       "id": 4169590,
       "title": "Casino Casualty",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169590/d41e67de3139d81d29d1b64ff3845e9ba1e05eba/header.jpg?t=1784954016",
@@ -2663,6 +2702,19 @@
       "is_free": true
     },
     {
+      "id": 4516310,
+      "title": "Clicker Complex: Vira’s Private Stream",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516310/364bfdc5995581a8a9e69707f1a89fe09fbe9ea4/header.jpg?t=1785342710",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 828,
+      "is_free": false
+    },
+    {
       "id": 4294400,
       "title": "Clickstead",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294400/6c404639b47375df831c62184240c71ea03d3a13/header.jpg?t=1783730163",
@@ -2816,6 +2868,19 @@
         "PC"
       ],
       "price_rub": 632,
+      "is_free": false
+    },
+    {
+      "id": 4836540,
+      "title": "Company of Heroes 3: Final Stand",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836540/6947d6be8800b8ed737f04c110ad929ae3c86123/header.jpg?t=1785344305",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1409,
       "is_free": false
     },
     {
@@ -3055,6 +3120,19 @@
       "is_free": false
     },
     {
+      "id": 4581040,
+      "title": "Crescent Creek: Survival Horror",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581040/bee958d011b13f0d5cfbc95c63c0355f8c71e256/header.jpg?t=1785344413",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 771,
+      "is_free": false
+    },
+    {
       "id": 4765540,
       "title": "Crosshair King",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765540/c5827f6a2b5fae8241dc5302c6dadf414ca776c2/header.jpg?t=1784755192",
@@ -3095,6 +3173,19 @@
         "PC"
       ],
       "price_rub": 558,
+      "is_free": false
+    },
+    {
+      "id": 3825600,
+      "title": "Culdcept The First",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3825600/058ef0f166d563386455044c10c2bba3a5dc9842/header.jpg?t=1785337228",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1442,
       "is_free": false
     },
     {
@@ -3379,6 +3470,19 @@
         "PC"
       ],
       "price_rub": 942,
+      "is_free": false
+    },
+    {
+      "id": 3634020,
+      "title": "Dante's RUMBA",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634020/62ec1a14304f8a79589779e774db9a6f01171fee/header.jpg?t=1785342562",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -3816,6 +3920,19 @@
       "is_free": true
     },
     {
+      "id": 3907520,
+      "title": "Devils Due",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907520/0f9bc761c03f9419ca2a6905f2dfd265d24a0098/header_alt_assets_0.jpg?t=1785333213",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4533370,
       "title": "DiDiDiG",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533370/5004e49057862035fa0b0ad851f772532752213f/header.jpg?t=1784636198",
@@ -4161,14 +4278,14 @@
     {
       "id": 4570720,
       "title": "DragonSword : Awakening",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784900913",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1785227784",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1896,
+      "price_rub": 1895,
       "is_free": false
     },
     {
@@ -5165,6 +5282,19 @@
       "is_free": false
     },
     {
+      "id": 2001860,
+      "title": "Fishbait",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001860/31cfb50d8afaa2818e7a87bbd1a4a863fe593af1/header.jpg?t=1785335740",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4850850,
       "title": "FitBlocks～Wooden block puzzle～",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4850850/6efe6e28b8e2f4342a1c75b8adf0cfcc7528c496/header.jpg?t=1783725022",
@@ -5373,7 +5503,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1241,
+      "price_rub": 1425,
       "is_free": false
     },
     {
@@ -6152,6 +6282,19 @@
       "is_free": false
     },
     {
+      "id": 4430440,
+      "title": "Grid Grind",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/a9002173e44305d03a47d6236717e0b1a8ae4e0f/header.jpg?t=1785339126",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 669,
+      "is_free": false
+    },
+    {
       "id": 4870520,
       "title": "GrimVein",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870520/3f7963333adf81a9d27079e610715df2d64ec988/header.jpg?t=1783697367",
@@ -6462,7 +6605,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1016,
+      "price_rub": 1015,
       "is_free": false
     },
     {
@@ -6947,6 +7090,19 @@
         "PC"
       ],
       "price_rub": 865,
+      "is_free": false
+    },
+    {
+      "id": 4241690,
+      "title": "Hydra Heli 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241690/a1ac92435bfd03b9acf675faf4c86aff8562e8b5/header.jpg?t=1785349649",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 767,
       "is_free": false
     },
     {
@@ -7488,6 +7644,19 @@
       "is_free": false
     },
     {
+      "id": 4608380,
+      "title": "Joy Malignant",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608380/e5c574c767bbf42a46d4b59f9526d0b6c616fe5a/header.jpg?t=1785338835",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 811,
+      "is_free": false
+    },
+    {
       "id": 4101270,
       "title": "Just Pool",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101270/e1d741f969e5ce75f3b9b46366b7f53a3f8908ef/header.jpg?t=1784324180",
@@ -7606,6 +7775,19 @@
         "PC"
       ],
       "price_rub": 867,
+      "is_free": false
+    },
+    {
+      "id": 4344210,
+      "title": "Keyboard Warrior",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/8b50ae9bd33253b0d76a3ae5f005c041f5c7ce49/header.jpg?t=1785345971",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 682,
       "is_free": false
     },
     {
@@ -8646,6 +8828,19 @@
       "is_free": true
     },
     {
+      "id": 4754740,
+      "title": "Market Chain 98",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754740/d0d3ae8f58456aac03c11b4b6e86c6d9773ae90d/header.jpg?t=1785337194",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 751,
+      "is_free": false
+    },
+    {
       "id": 4828230,
       "title": "Marshmallow Story: in Marshmallow Village",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828230/741d0654bd8185c3b458fcec721e42cbd431f726/header.jpg?t=1783700451",
@@ -9125,6 +9320,19 @@
       "is_free": false
     },
     {
+      "id": 3982520,
+      "title": "Mischief Moves In",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982520/db421c38b2a3969e98d393246042bbdeea70dff5/header.jpg?t=1785347624",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1137,
+      "is_free": false
+    },
+    {
       "id": 4886810,
       "title": "Mobsteria: Rise",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886810/2ded4f367ce48bc1b36bec4f2e535ddbb85787a0/header.jpg?t=1784274599",
@@ -9200,6 +9408,19 @@
         "PC"
       ],
       "price_rub": 1108,
+      "is_free": false
+    },
+    {
+      "id": 4146260,
+      "title": "Monslice",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146260/cb88cdd782a39fdb984a282a7300b49c784a957b/header.jpg?t=1785344532",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 682,
       "is_free": false
     },
     {
@@ -10403,6 +10624,19 @@
       "is_free": false
     },
     {
+      "id": 3997240,
+      "title": "Osta",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997240/674047936ffdc9ed38dc5f62831348f0ef360971/header.jpg?t=1785333609",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1198,
+      "is_free": false
+    },
+    {
       "id": 4329100,
       "title": "Our Wonderland",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329100/eed5116d379fdde4541137fbbc7fb699be13b0a4/header.jpg?t=1783617355",
@@ -10416,6 +10650,19 @@
       "is_free": true
     },
     {
+      "id": 2210220,
+      "title": "Outfield",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2210220/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 729,
+      "is_free": false
+    },
+    {
       "id": 4858520,
       "title": "Overlab",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
@@ -10427,6 +10674,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4761900,
+      "title": "P vs NP: Proof by Combat",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761900/43e5c9d9c77b34d7c73f6ff1df88fcb1c94026d5/header.jpg?t=1785335837",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 727,
+      "is_free": false
     },
     {
       "id": 3602710,
@@ -10899,7 +11159,7 @@
     {
       "id": 4729310,
       "title": "Playing Prague",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729310/5bcafb7af99ef7108a9c8e164a5ecef798de46f1/header.jpg?t=1784102575",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729310/c2527768d3dd8787edf397cbe85114bbfaae975a/header.jpg?t=1785336342",
       "genres": [
         "Экшен"
       ],
@@ -11975,6 +12235,24 @@
       "is_free": false
     },
     {
+      "id": 252490,
+      "title": "Rust",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_616x353.jpg",
+      "genres": [
+        "Выживание (Survival)",
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1179,
+      "is_free": false
+    },
+    {
       "id": 4199030,
       "title": "RxB - Cyber security management game",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199030/22a9f03320e9586062075178be527b46d500c355/header.jpg?t=1783579938",
@@ -12214,7 +12492,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1405,
+      "price_rub": 1792,
       "is_free": false
     },
     {
@@ -12399,6 +12677,19 @@
         "PC"
       ],
       "price_rub": 860,
+      "is_free": false
+    },
+    {
+      "id": 2766810,
+      "title": "Scuttle",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2766810/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -12971,7 +13262,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 813,
+      "price_rub": 812,
       "is_free": false
     },
     {
@@ -13036,7 +13327,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 902,
+      "price_rub": 901,
       "is_free": false
     },
     {
@@ -13075,7 +13366,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 755,
+      "price_rub": 784,
       "is_free": false
     },
     {
@@ -13102,6 +13393,19 @@
         "PC"
       ],
       "price_rub": 1247,
+      "is_free": false
+    },
+    {
+      "id": 4136730,
+      "title": "Solitaire Deck",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4136730/2ebc42e45a591244347d8ea5651ae4ad3b3c8d5d/header.jpg?t=1785348018",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 704,
       "is_free": false
     },
     {
@@ -14026,6 +14330,19 @@
       "is_free": false
     },
     {
+      "id": 4847750,
+      "title": "Tank Tower Defense  坦克塔防",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/aaa965199d6b10ac217893f1386daf7660d049ca/header.jpg?t=1785341358",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 675,
+      "is_free": false
+    },
+    {
       "id": 4350680,
       "title": "Task Dock",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350680/af6af935eb16d7e8fde72083810148061f350335/header.jpg?t=1783436589",
@@ -14298,7 +14615,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 827,
+      "price_rub": 826,
       "is_free": false
     },
     {
@@ -14684,6 +15001,32 @@
       "is_free": false
     },
     {
+      "id": 3907380,
+      "title": "The Prince of Tennis Doki Doki Survival ~eternal passion! Tie break ♡ game~",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907380/8041c1999b01d1d91ba8260873afd94e0f7b5586/header.jpg?t=1785337231",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4163,
+      "is_free": false
+    },
+    {
+      "id": 3907350,
+      "title": "The Prince of Tennis Sweet School Festival ~♡-40 and more...~",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907350/c299b286220ff7bc266ab62b752f201020599d8c/header.jpg?t=1785337211",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4163,
+      "is_free": false
+    },
+    {
       "id": 4299940,
       "title": "The Purple Forest Ritual",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299940/e2ca01e7ac7c3a9441b983b4d796a253682abcf0/header.jpg?t=1784863958",
@@ -14756,7 +15099,7 @@
     {
       "id": 3927590,
       "title": "TheVillage: Possession",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927590/4367f4b86c6c11c3826452127cc817e869e11d21/header.jpg?t=1784790155",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927590/4367f4b86c6c11c3826452127cc817e869e11d21/header.jpg?t=1785326054",
       "genres": [
         "Экшен"
       ],
@@ -14776,7 +15119,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 717,
+      "price_rub": 716,
       "is_free": false
     },
     {
@@ -15657,6 +16000,19 @@
       "is_free": false
     },
     {
+      "id": 3934250,
+      "title": "Village in the Shade",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934250/249570c99b6528f64c49459f96311d4404667bca/header.jpg?t=1785345724",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 2463,
+      "is_free": false
+    },
+    {
       "id": 4558950,
       "title": "Virus X",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558950/ef9564e10d68132ea3f02bec055e02ac31d6fd3d/header.jpg?t=1784396505",
@@ -16077,6 +16433,19 @@
         "PC"
       ],
       "price_rub": 770,
+      "is_free": false
+    },
+    {
+      "id": 4917740,
+      "title": "Wizard Tournament",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/781761d0019390a5fa0c4a68da1a817cb496ebad/header.jpg?t=1785344759",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 757,
       "is_free": false
     },
     {
@@ -16944,6 +17313,19 @@
         "PC"
       ],
       "price_rub": 1081,
+      "is_free": false
+    },
+    {
+      "id": 4304520,
+      "title": "《比特尔特岛：与她们共度的日常》",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304520/60d390dbff910928b5e208b117a16fa422fa87d3/header.jpg?t=1785335160",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 638,
       "is_free": false
     },
     {
@@ -18048,7 +18430,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 862,
+      "price_rub": 861,
       "is_free": false
     },
     {

@@ -1,0 +1,38 @@
+{
+  "id": 4252700,
+  "title": "Archon Soul",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/e0c93fddeaa8ed8c4a8062fb2e2af0211dd6aa5f/header.jpg?t=1785337338",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4252700?t=1785337338",
+  "description": "Archon Soul is a 2D roguelike dice-builder where you create powerful dice using swappable faces, runes, and bodies with unique effects. ​Draft spells, craft powerful synergies, defeat challenging enemies, and conquer the Archon's palace.\n\nIn addition to changing the face values of your dice, you can also modify them with Dice Bodies and Runes. With 40 runes and over 30 dice bodies, each dice has more than 65,000 combinations to master.\n\nPlay as the Gaiamancer, the Pyromancer, or the Thaumancer (or even a secret fourth character). Each mage has their own unique spells to choose from, over 200 spells in total! But spells alone won't be enough to get you through the palace to find the Archon Soul.\n\nCraft powerful combos between your spells, runes, and bodies to survive and thrive through brutal combats.\n\nExplore the Archon's palace, choose your path, engage in combat, encounter events, defeat powerful bosses, and fight your way through 4 acts to make your way to the Archon Soul. Can you prove your worth to the Soul, and become one with its power?\n\nFeatures• Skill testing and strategic roguelike gameplay\n\n• 4 playable characters to choose from\n\n• Over 200 spells\n\n• 40 dice runes and over 30 dice bodies\n\n• Dozens of unique enemies to challenge your play style\n\n• Beautiful illustrated artwork by Anais Lehoux and Natalya Samutina\n\n• Soundtrack by Ofelia Argiro",
+  "description_short": "Archon Soul is a 2D roguelike dice-builder where you create powerful dice using swappable faces, runes, and bodies with unique effects. ​Draft spells, craft powerful synergies, defeat challenging enemies, and conquer the Archon's palace.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 891,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "QS_Yjeyoels",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/e6ff7bbdf726b7a595a683cb5e6c0d14558f07b5/ss_e6ff7bbdf726b7a595a683cb5e6c0d14558f07b5.1920x1080.jpg?t=1785337338",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/285c35cda46e6de1e0053b74a6843a52197d78d3/ss_285c35cda46e6de1e0053b74a6843a52197d78d3.1920x1080.jpg?t=1785337338",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/8dcda1ef1b85cc4ecf78e4115b5fdebe989148cc/ss_8dcda1ef1b85cc4ecf78e4115b5fdebe989148cc.1920x1080.jpg?t=1785337338",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/aa00ef9843fde94490f08d9e7733804b58fdae8a/ss_aa00ef9843fde94490f08d9e7733804b58fdae8a.1920x1080.jpg?t=1785337338",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/0afba9ef5dc6fa1c7035386627946480e9aa376a/ss_0afba9ef5dc6fa1c7035386627946480e9aa376a.1920x1080.jpg?t=1785337338",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/59102614f175f63b1805f192be02118f8a05c8bc/ss_59102614f175f63b1805f192be02118f8a05c8bc.1920x1080.jpg?t=1785337338",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/9264d51c46fac5a9dab49d22a6a0465e7270dccf/ss_9264d51c46fac5a9dab49d22a6a0465e7270dccf.1920x1080.jpg?t=1785337338",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/37fe0a6a84f04dea42f56c09af8b2b4bdbd78a65/ss_37fe0a6a84f04dea42f56c09af8b2b4bdbd78a65.1920x1080.jpg?t=1785337338"
+  ],
+  "upsells": [
+    {
+      "id": 4981820,
+      "name": "Archon Soul - Supporter Pack",
+      "price_rub": 727,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981820/e75080c0f8ffc5315ce759b105e65c5e076c454d/header.jpg?t=1785337188"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-29T19:13:00Z"
+}

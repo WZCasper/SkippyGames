@@ -1,0 +1,38 @@
+{
+  "id": 2766810,
+  "title": "Scuttle",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2766810/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2766810/library_hero.jpg",
+  "description": "Run to the RhythmScuttle is a high-speed third-person platformer with rhythm game elements that blends music and momentum across vibrant, ocean-inspired worlds. In this genre-bending adventure, you play as a crab on a musical journey, gaining speed by hitting notes on beat.\n\nCollect CharmsCollect the blue musical charms to progress and trigger new sounds.\n\n \n\nExplore the OceanRace through unique beach-inspired biomes, from sunlit shores and open waters to volcanic coasts and more!\n\nDodge ObstaclesEvade urchins, lava, cliffs, and other hazards to maintain your speed and rhythm.\n\nPlatform On BeatTrigger platforming mechanics by jumping to the beat.\n\nRun to the Beat of a Soulful Adventure!Uncover the mystery behind this world and discover the true nature of flow.",
+  "description_short": "Gain speed by hitting notes on beat in this high-speed rhythm platformer. You are reincarnated as a crab with full 3D control. Time your jumps and boosts to the music as you race through vibrant ocean environments while dodging obstacles.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 734,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/447967c77fbf7eb9fdf43e11a418022ef809db18/ss_447967c77fbf7eb9fdf43e11a418022ef809db18.1920x1080.jpg?t=1785346731",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/2986ad5fe2033efeecd635f7c12ac2e3cf53737b/ss_2986ad5fe2033efeecd635f7c12ac2e3cf53737b.1920x1080.jpg?t=1785346731",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/2705a2b7c64f205180383394e670b36ecc802d84/ss_2705a2b7c64f205180383394e670b36ecc802d84.1920x1080.jpg?t=1785346731",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/8c5a2b3847bad07c255045f3912400a476b290de/ss_8c5a2b3847bad07c255045f3912400a476b290de.1920x1080.jpg?t=1785346731",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/1554f04dc4bb56a8aea25df5db50d5a12c7ea8cd/ss_1554f04dc4bb56a8aea25df5db50d5a12c7ea8cd.1920x1080.jpg?t=1785346731",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/762eddef28113623dd25d6b5c44b5100c047af49/ss_762eddef28113623dd25d6b5c44b5100c047af49.1920x1080.jpg?t=1785346731",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/3e5094cefe5a5945ce963cfa1461470850bb456c/ss_3e5094cefe5a5945ce963cfa1461470850bb456c.1920x1080.jpg?t=1785346731",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766810/e1206193057b31b10dfc291ed158d35735e95ca0/ss_e1206193057b31b10dfc291ed158d35735e95ca0.1920x1080.jpg?t=1785346731"
+  ],
+  "upsells": [
+    {
+      "id": 4937540,
+      "name": "Scuttle Original Soundtrack",
+      "price_rub": 727,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4937540/d19f7b89618d5a65f9c2d1c21e23b1d392ce7b51/header.jpg?t=1785344470"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-29T19:05:07Z"
+}
