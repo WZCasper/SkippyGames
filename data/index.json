@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T09:07:04Z",
+  "generated_at": "2026-07-29T14:16:06Z",
   "uah_to_rub_rate": 1.745312,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1366,
+  "count": 1378,
   "games": [
     {
       "id": 4881310,
@@ -535,7 +535,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1252,
+      "price_rub": 1250,
       "is_free": false
     },
     {
@@ -717,7 +717,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3468,
+      "price_rub": 3464,
       "is_free": false
     },
     {
@@ -1545,6 +1545,19 @@
       "is_free": false
     },
     {
+      "id": 2895680,
+      "title": "Below, Rusted Gods",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2895680/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 805,
+      "is_free": false
+    },
+    {
       "id": 4798810,
       "title": "Bepe War",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798810/dddb6a55145b67c6fdb3acc720b2de3d3860d039/header.jpg?t=1783103656",
@@ -1554,7 +1567,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 827,
+      "price_rub": 725,
       "is_free": false
     },
     {
@@ -2834,14 +2847,14 @@
     {
       "id": 4084160,
       "title": "Conqueror's Stage",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/dddf6f89c43e9e21e61e99cdea3d361964be39e0/header.jpg?t=1783098054",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/dddf6f89c43e9e21e61e99cdea3d361964be39e0/header.jpg?t=1785082652",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 841,
+      "price_rub": 840,
       "is_free": false
     },
     {
@@ -3072,6 +3085,19 @@
       "is_free": false
     },
     {
+      "id": 4400270,
+      "title": "Cue Room",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/70bbed935a21635eca3fc99eed54a1e1c9b519ef/header.jpg?t=1785323098",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 558,
+      "is_free": false
+    },
+    {
       "id": 3936450,
       "title": "Cult of Shadows",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/fb30b336345ec492916c3e84eb923dad8b794d17/header.jpg?t=1784326613",
@@ -3204,6 +3230,19 @@
         "PC"
       ],
       "price_rub": 749,
+      "is_free": false
+    },
+    {
+      "id": 4433730,
+      "title": "DEBRISVERSE",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433730/99cdd6111b8d1f9ad147e0c50aa985fc85b96634/header.jpg?t=1785319213",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 657,
       "is_free": false
     },
     {
@@ -3345,7 +3384,7 @@
     {
       "id": 4345150,
       "title": "Dark Reaper Shoots! 2",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345150/1e2776627c11af9bde655e1072b605415048ca40/header.jpg?t=1784912815",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345150/1e2776627c11af9bde655e1072b605415048ca40/header.jpg?t=1785240787",
       "genres": [
         "Экшен"
       ],
@@ -3712,6 +3751,19 @@
       "is_free": false
     },
     {
+      "id": 4860990,
+      "title": "Desire On Tap",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860990/eaf022574e109b45c212110459aea484c37efc1f/header.jpg?t=1785330464",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 901,
+      "is_free": false
+    },
+    {
       "id": 4745780,
       "title": "Desk Kanojo",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745780/225a84bd01e93ac48d53db4e490ee2dc0ecfd217/header.jpg?t=1784431644",
@@ -4051,7 +4103,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 946,
+      "price_rub": 867,
       "is_free": false
     },
     {
@@ -4324,7 +4376,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4343,
+      "price_rub": 4338,
       "is_free": false
     },
     {
@@ -4495,7 +4547,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1400,
+      "price_rub": 1399,
       "is_free": false
     },
     {
@@ -6297,6 +6349,19 @@
       "is_free": false
     },
     {
+      "id": 4803740,
+      "title": "Hansa Forever",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/6e3817872273de4c8f92ae65b8924a2299d90476/header.jpg?t=1785328697",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 589,
+      "is_free": false
+    },
+    {
       "id": 4689440,
       "title": "Happy Endings",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/d25aa9a79e0182e482f5e3669a21ab85a3b030bf/header.jpg?t=1784751409",
@@ -6429,7 +6494,7 @@
     {
       "id": 4235660,
       "title": "Heavy Wake",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235660/af51978101ba90deb6e23586711126bbe16e19bb/header.jpg?t=1783404099",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235660/af51978101ba90deb6e23586711126bbe16e19bb/header.jpg?t=1785228455",
       "genres": [
         "Экшен"
       ],
@@ -6816,7 +6881,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 988,
+      "price_rub": 987,
       "is_free": false
     },
     {
@@ -6933,7 +6998,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 717,
+      "price_rub": 716,
       "is_free": false
     },
     {
@@ -7302,7 +7367,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 902,
+      "price_rub": 901,
       "is_free": false
     },
     {
@@ -9021,6 +9086,19 @@
       "is_free": false
     },
     {
+      "id": 4643910,
+      "title": "Minimalist Circuit",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/277c1d2bf6e1bb39a62d66b92d4129b9b0e288e0/header.jpg?t=1785308713",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 528,
+      "is_free": false
+    },
+    {
       "id": 3937750,
       "title": "Minimalist Desktop",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937750/5f7ce5e83617c656fa3a5a2e3b953208809bf1a4/header.jpg?t=1784116834",
@@ -9031,6 +9109,19 @@
         "PC"
       ],
       "price_rub": 681,
+      "is_free": false
+    },
+    {
+      "id": 4711170,
+      "title": "Miriam's Potion Journal",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4711170/0083e4c072146101188be11cdffd5d4a79b6d0e2/header.jpg?t=1785319218",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -9230,7 +9321,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2702,
+      "price_rub": 2699,
       "is_free": false
     },
     {
@@ -10460,7 +10551,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1549,
+      "price_rub": 1547,
       "is_free": false
     },
     {
@@ -10617,6 +10708,19 @@
         "PC"
       ],
       "price_rub": 627,
+      "is_free": false
+    },
+    {
+      "id": 3248110,
+      "title": "PhiloDeka",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3248110/62e4159fee3516b67fb5da7904bf8644b3fdcd19/header.jpg?t=1785321696",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 861,
       "is_free": false
     },
     {
@@ -10854,7 +10958,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 717,
+      "price_rub": 716,
       "is_free": false
     },
     {
@@ -11603,6 +11707,19 @@
         "PC"
       ],
       "price_rub": 3280,
+      "is_free": false
+    },
+    {
+      "id": 4617230,
+      "title": "Retail Rivals",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617230/27a635facb8eedf5a5506c4ba29c187b8e2bb1cc/header.jpg?t=1785322853",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 861,
       "is_free": false
     },
     {
@@ -12429,7 +12546,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 841,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -12897,6 +13014,19 @@
       "is_free": false
     },
     {
+      "id": 4314770,
+      "title": "SnekromancY",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314770/d9080c4a5ef1d87e919b0c163de704a47560450a/header.jpg?t=1785319193",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 723,
+      "is_free": false
+    },
+    {
       "id": 4831000,
       "title": "Sniper Game",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831000/65ceedf722ea6e703344a35433e08aad200cf317/header.jpg?t=1784815662",
@@ -12919,7 +13049,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 670,
+      "price_rub": 669,
       "is_free": false
     },
     {
@@ -13119,7 +13249,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 841,
+      "price_rub": 840,
       "is_free": false
     },
     {
@@ -13239,7 +13369,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2770,
+      "price_rub": 2767,
       "is_free": false
     },
     {
@@ -15054,6 +15184,19 @@
       "is_free": false
     },
     {
+      "id": 3642010,
+      "title": "Truck-kun is Supporting Me from Another World?!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3642010/e420ddf6b182eb2a7f68803fe8334fdf03f0a7ce/header.jpg?t=1785329306",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1079,
+      "is_free": false
+    },
+    {
       "id": 4443070,
       "title": "Trump Ballroom Blitz",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/bf2809895a0053804a2e9abce31b72b6e7b7b2ef/header.jpg?t=1783476406",
@@ -15142,6 +15285,19 @@
         "PC"
       ],
       "price_rub": 811,
+      "is_free": false
+    },
+    {
+      "id": 3938640,
+      "title": "Ugoku Sushi Bar",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938640/e9ee163f764a211953d9dc472b4220090fb3bde1/header.jpg?t=1785315977",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 886,
       "is_free": false
     },
     {
@@ -15406,7 +15562,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2117,
+      "price_rub": 2114,
       "is_free": false
     },
     {
@@ -15432,7 +15588,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 717,
+      "price_rub": 716,
       "is_free": false
     },
     {
@@ -17352,14 +17508,14 @@
     {
       "id": 4042330,
       "title": "恋しかるべき ～迷い家からの手紙～",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042330/b95bdb77365014d3c23e3c1cc5f0a928b6b69a14/header.jpg?t=1784193706",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042330/b95bdb77365014d3c23e3c1cc5f0a928b6b69a14/header.jpg?t=1785237543",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1173,
+      "price_rub": 1172,
       "is_free": false
     },
     {
@@ -17723,7 +17879,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 902,
+      "price_rub": 901,
       "is_free": false
     },
     {
