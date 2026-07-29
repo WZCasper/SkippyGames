@@ -1,0 +1,38 @@
+{
+  "id": 4791980,
+  "title": "SCREAM NOTE",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/d3f8cf7b280f38d2df4d5728db2399d8d8e639c0/header.jpg?t=1785259790",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4791980?t=1785259790",
+  "description": "Пугай друзей скримерами! 2-8+ игроков.\nНапиши имя друга на странице — монстр выскочит на него, и он закричит. \nКооперативный комедийный хоррор, где ты и твои друзья заперты в проклятом доме по соседству. \nСможете добраться до выхода вместе — или распугаете друг друга по дороге?• Используй Scream Note на друге, написав его ник, — а монстр сделает всё остальное.\nЕго ждёт скример. И он закричит — гарантированно.\n\n• Единственная настоящая проверка дружбы в Steam. 2-8+ игроков.\n\n• Действуй с друзьями сообща, чтобы вместе выбраться из проклятого дома...\nЕсли, конечно, сумеете кооперироваться и не выбьете друг друга скримерами.\n\n• Ты карабкаешься вверх по проклятому дому в поисках выхода, но вместо него находишь проклятые страницы, оставленные демонами, которые не хотят тебя выпускать.\n\n• Более 222 уникальных скримеров — каждый следующий безумнее предыдущего.\nСерьёзно: мы засунули в эту игру самые безумные и неожиданные скримеры — есть даже такие, что добираются до твоего ПК (опционально). \n\n• Вы все решите, что этой ночью попробуете дойти до выхода вместе, но в последний момент кто-то устроит скример, который всё разрушит, — и ты полетишь с моста на 5 этажей вниз.\n\n• Эта игра специально сделана так, чтобы твой друг закричал, когда ты используешь на нём Scream Note. Не фальшивый крик стримера в хорроре — он действительно, по-настоящему закричит, гарантированно. Громче, чем в любой другой игре в Steam. Скримеры здесь держатся не на хорроре. Они держатся на том, что именно твой друг только что лишил тебя места у самого выхода.\n\n• Streamer mode included (1-8 players, viewers jumpscare you with twitch points / donations / subs / bits).\nTriples your average stream revenue based on real-streamers data.",
+  "description_short": "Пугай друзей скримерами. Напиши имя друга на странице — монстр выскочит на него, и он закричит. Кооперативный комедийный хоррор: ты и твои друзья заперты в проклятом доме. Сможете добраться до выхода вместе — или распугаете друг друга по дороге? 222 уникальных безумных скримера!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 709,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/c660519658e63747fb01401b5359b97c1e2eb0cf/ss_c660519658e63747fb01401b5359b97c1e2eb0cf.1920x1080.jpg?t=1785259790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/e729cdacaaa6da15e5b037d0d0fb56d4f5c014a4/ss_e729cdacaaa6da15e5b037d0d0fb56d4f5c014a4.1920x1080.jpg?t=1785259790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/9cc7a814b6641270eb9ef05c786a5d4de66d7365/ss_9cc7a814b6641270eb9ef05c786a5d4de66d7365.1920x1080.jpg?t=1785259790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/e192c7fefa1960ec7c9623f4d59ad07e377c3c3d/ss_e192c7fefa1960ec7c9623f4d59ad07e377c3c3d.1920x1080.jpg?t=1785259790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/1afb0d5b3943f02f69431962712abf3db9fbbe29/ss_1afb0d5b3943f02f69431962712abf3db9fbbe29.1920x1080.jpg?t=1785259790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/eb5803497ce7edd0c7cd1a2be5dfa01799700e88/ss_eb5803497ce7edd0c7cd1a2be5dfa01799700e88.1920x1080.jpg?t=1785259790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/e5a0754967b9cec15279d4f63157e973df604e68/ss_e5a0754967b9cec15279d4f63157e973df604e68.1920x1080.jpg?t=1785259790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/c0a7cdaaab3533f3978d0237b0fb9b9fb0302d6b/ss_c0a7cdaaab3533f3978d0237b0fb9b9fb0302d6b.1920x1080.jpg?t=1785259790"
+  ],
+  "upsells": [
+    {
+      "id": 4997270,
+      "name": "SCREAM NOTE - FUCKED UPGRADE",
+      "price_rub": 727,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997270/9b5ff16597d040ece6d2c9ae42a07b2ffaad0ba4/header.jpg?t=1785257654"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-29T01:25:35Z"
+}

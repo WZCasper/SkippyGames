@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T19:56:20Z",
-  "uah_to_rub_rate": 1.737955,
+  "generated_at": "2026-07-29T01:28:11Z",
+  "uah_to_rub_rate": 1.745312,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1337,
+  "count": 1353,
   "games": [
     {
       "id": 4881310,
@@ -331,6 +331,19 @@
       "is_free": false
     },
     {
+      "id": 4547440,
+      "title": "A Knight of Lothen",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547440/c395ab39c6882387d8ed8f312650b528c506df7b/header.jpg?t=1785273985",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 776,
+      "is_free": false
+    },
+    {
       "id": 4100200,
       "title": "A Serene Trip",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100200/fff40a6ae497cdcf854789832057ad424ea0d20b/header.jpg?t=1784534858",
@@ -355,6 +368,19 @@
       ],
       "price_rub": 796,
       "is_free": false
+    },
+    {
+      "id": 4654380,
+      "title": "A Slime Called Quest",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4654380/03d4ccd3ad9b6dad32b02c153179941b5846875d/header.jpg?t=1785254989",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 3859120,
@@ -2754,6 +2780,19 @@
       "is_free": false
     },
     {
+      "id": 4073780,
+      "title": "Color Capsules",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073780/39b3820997996bba29f31128733d0daf40a24d69/header.jpg?t=1785257462",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 647,
+      "is_free": false
+    },
+    {
       "id": 4526100,
       "title": "Colorful Slots",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526100/55c57440abbd4edaefedf80fa2a6b1a42c78f3b6/header.jpg?t=1784127640",
@@ -3712,6 +3751,19 @@
       "is_free": false
     },
     {
+      "id": 4586630,
+      "title": "Devil's Arcade",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586630/54c083daca27eac769e8074136519f15c830c3aa/header.jpg?t=1785256311",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4533370,
       "title": "DiDiDiG",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533370/5004e49057862035fa0b0ad851f772532752213f/header.jpg?t=1784636198",
@@ -3891,6 +3943,19 @@
         "PC"
       ],
       "price_rub": 618,
+      "is_free": false
+    },
+    {
+      "id": 4632530,
+      "title": "Dog of Wisdom",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632530/ae6615282d6ffc80cd65584a6f8d7c9b0a6ab988/header.jpg?t=1785262227",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -7189,6 +7254,19 @@
       "is_free": false
     },
     {
+      "id": 3968160,
+      "title": "Island Beekeeper",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/21139e70c7c86072c1541bfb50a943f7b432820c/header.jpg?t=1785267972",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 860,
+      "is_free": false
+    },
+    {
       "id": 4272270,
       "title": "It's Chopping Time!",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272270/551b4740c1be21406772c5053e54aac48dd2d960/header.jpg?t=1784898160",
@@ -9078,6 +9156,19 @@
       "is_free": false
     },
     {
+      "id": 4916250,
+      "title": "Mors: Idle Reaper",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916250/872d7fe2e351cb812e5f82541ea5480a024f0de0/header.jpg?t=1785256833",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 648,
+      "is_free": false
+    },
+    {
       "id": 3914860,
       "title": "Moss: The Forgotten Relic ",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914860/0559b495ccbdcca5ff81fdd0b3e06db05c3c3a8e/header.jpg?t=1784211072",
@@ -9168,6 +9259,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 3083020,
+      "title": "My Beeloved: A Bee Dating Sim",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3083020/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 716,
+      "is_free": false
     },
     {
       "id": 4905270,
@@ -9709,6 +9813,19 @@
         "PC"
       ],
       "price_rub": 632,
+      "is_free": false
+    },
+    {
+      "id": 4253240,
+      "title": "Nulla Via",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253240/6c44dc9a809324e0d52a3050347826e697bab99a/header.jpg?t=1785258293",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 907,
       "is_free": false
     },
     {
@@ -10914,6 +11031,19 @@
       "is_free": false
     },
     {
+      "id": 3334360,
+      "title": "Proton & Electron",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334360/0809c1681ed8dd8d59745ad0c45d2352fce40628/header.jpg?t=1785268849",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 805,
+      "is_free": false
+    },
+    {
       "id": 4781720,
       "title": "Pun-ishment",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781720/4b24d13a6d57c9b3b9c8d307ab27d82ba92ee3c3/header.jpg?t=1784186310",
@@ -11217,6 +11347,19 @@
         "PC"
       ],
       "price_rub": 1134,
+      "is_free": false
+    },
+    {
+      "id": 2467200,
+      "title": "Realms and Ruins: Abencor",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2467200/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 898,
       "is_free": false
     },
     {
@@ -11647,6 +11790,19 @@
         "PC"
       ],
       "price_rub": 891,
+      "is_free": false
+    },
+    {
+      "id": 4791980,
+      "title": "SCREAM NOTE",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791980/d3f8cf7b280f38d2df4d5728db2399d8d8e639c0/header.jpg?t=1785259790",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 709,
       "is_free": false
     },
     {
@@ -12663,6 +12819,19 @@
       "is_free": false
     },
     {
+      "id": 4878610,
+      "title": "Snugfang",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878610/9d27f4e8c3c56df4cfda1e58562391aa29fef70d/header.jpg?t=1785267860",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 3996790,
       "title": "Soccer Fan - Online Multiplayer Football",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996790/6e2f25747fa19a8854078b42a01cd2c8b40ecadd/header.jpg?t=1784786462",
@@ -12860,6 +13029,19 @@
         "PC"
       ],
       "price_rub": 963,
+      "is_free": false
+    },
+    {
+      "id": 4171910,
+      "title": "Spellsy",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/8c090ae0c7f0e6e671a0f9bc7fa4567e559cc65e/header.jpg?t=1785273282",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 716,
       "is_free": false
     },
     {
@@ -15430,6 +15612,19 @@
       "is_free": false
     },
     {
+      "id": 3364150,
+      "title": "Whack-A-Monster",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3364150/cb32cf0b146e1ac8f2094402c5eeb59760da8684/header.jpg?t=1785258278",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 767,
+      "is_free": false
+    },
+    {
       "id": 4489380,
       "title": "Whalefall",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489380/7b4c3def35572d07fdd281f7461eb13778f900ce/header.jpg?t=1784737427",
@@ -16255,6 +16450,19 @@
         "PC"
       ],
       "price_rub": 740,
+      "is_free": false
+    },
+    {
+      "id": 4833670,
+      "title": "Открытый интерес",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833670/1c206f86ab751a607869cece8fbdb124b054046a/header.jpg?t=1785262550",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 678,
       "is_free": false
     },
     {

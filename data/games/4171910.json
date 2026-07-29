@@ -1,0 +1,29 @@
+{
+  "id": 4171910,
+  "title": "Spellsy",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/8c090ae0c7f0e6e671a0f9bc7fa4567e559cc65e/header.jpg?t=1785273282",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/32deb82a0aaac4c8435f3fa0ab1a061914a38496/page_bg_raw.jpg?t=1785273282",
+  "description": "AboutSpellsy is a word puzzle game that takes more than a big vocabulary to solve. Your goal is simple: clear every tile by spelling words - but doing it efficiently takes planning, experimentation, and a bit of strategy. \n\n \n\nEach type of block behaves differently. Some slide and shove their neighbors, while others explode and trigger chain reactions that reshape the entire board. As you progress, Spellsy starts to feel more and more like a series of satisfying logic puzzles.\n\nKey Features• Spell words to clear the grid – Connect letters in any direction to form words and remove tiles.\n\n• Dynamic tile mechanics – Push, explode, slide, and react through a variety of special block types.\n\n• Puzzle-first design - Over 150+ handcrafted puzzles that reward smart play and experimentation.\n\n• Undo and retry freely – Experiment without fear, every action can be rewound and rethought without penalty.\n\n• Unlimited hinting – Get gentle nudges or full solutions so you never stay stuck.\n\n• No Pressure - No timers or high scores, so you can focus, relax, and puzzle at your own pace.",
+  "description_short": "A word-puzzle game about clearing a grid of letters using as few words as possible. No timer, no score pressure... just good old-fashioned puzzlin'.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 716,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/e152d259a7e2eaa26d92ec5d6446aae3f9a5f48e/ss_e152d259a7e2eaa26d92ec5d6446aae3f9a5f48e.1920x1080.jpg?t=1785273282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/44eb57b558e12e250d4404a30b9429922d845a87/ss_44eb57b558e12e250d4404a30b9429922d845a87.1920x1080.jpg?t=1785273282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/d7fb8a375b470239090e95b08dfb68779ff1358f/ss_d7fb8a375b470239090e95b08dfb68779ff1358f.1920x1080.jpg?t=1785273282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/c5adc2f59e51eb268dc42bc2daf4647679a5c9b3/ss_c5adc2f59e51eb268dc42bc2daf4647679a5c9b3.1920x1080.jpg?t=1785273282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/dd6897ec4de6dcc15e167ad0ff8f14ab70cb9811/ss_dd6897ec4de6dcc15e167ad0ff8f14ab70cb9811.1920x1080.jpg?t=1785273282",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171910/a66fb18280240502f559938de55656dd0c97603b/ss_a66fb18280240502f559938de55656dd0c97603b.1920x1080.jpg?t=1785273282"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-29T01:20:54Z"
+}
