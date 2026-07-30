@@ -1,0 +1,30 @@
+{
+  "id": 4890420,
+  "title": "GameControllerMouse",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/51e19ccfe77ea3b1cfcfc3b93e70d620df796af4/header.jpg?t=1785397167",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/a97a0fc6193de6e87fb2ccfcb816e8f63a886fc4/page_bg_raw.jpg?t=1785397167",
+  "description": "This program allows you to control mouse movements and the keyboard on your PC using a game controller (Xbox, PS4, PS5, Switch). It is lightweight, provides smooth mouse movement, and enables precise control using both the left and right analog sticks. Additionally, it supports controller shortcut key mapping. Now you can lie down in front of your TV and control the mouse with your game controller.\n\nFeatures\n\n• Lightweight and runs instantly\n\n• Smooth mouse movement\n\n• Precise control using dual analog sticks (left stick for fast, right stick for slow)\n\n• Various settings available (mouse speed, deadzone, etc.)\n\n• All controller buttons can be mapped (keyboard, mouse)\n\n• Usable for YouTube, web browsing, games, and retro games\n\n• Pause and exit to desktop (Win+D) supported\n\n• Virtual keyboard function\n\n• Can be used independently without Steam\n\n#tag\n\ngame, controller, mouse, keyboard, pad, xbox, ps4, ps5, 게임, 컨트롤러, 마우스, 유틸, 앱, 프로그램",
+  "description_short": "This program allows you to control mouse movements and the keyboard on your PC using a game controller (Xbox, PS4, PS5, Switch).",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 623,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "u9_IeHZHBjs",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/acb3143eb516aff2f7a60c4f71924a8881f6f478/ss_acb3143eb516aff2f7a60c4f71924a8881f6f478.1920x1080.jpg?t=1785397167",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/e2c2fa4cf33eb2a54533d2a9fa7d709c47ee69e5/ss_e2c2fa4cf33eb2a54533d2a9fa7d709c47ee69e5.1920x1080.jpg?t=1785397167",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/1d46c0197c2827fbd75036d0896d658d90c844b6/ss_1d46c0197c2827fbd75036d0896d658d90c844b6.1920x1080.jpg?t=1785397167",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/7b9f73d28f0d22606bb68089fb75afaa497ccfb0/ss_7b9f73d28f0d22606bb68089fb75afaa497ccfb0.1920x1080.jpg?t=1785397167",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/61d550f1045e3844255be0ae1fe182c490b74c9d/ss_61d550f1045e3844255be0ae1fe182c490b74c9d.1920x1080.jpg?t=1785397167",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/0ee72a34726be4debe6356eaa72302b4135301df/ss_0ee72a34726be4debe6356eaa72302b4135301df.1920x1080.jpg?t=1785397167",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/6aa4903914ef82d44fecf286abbe6f273d095023/ss_6aa4903914ef82d44fecf286abbe6f273d095023.1920x1080.jpg?t=1785397167"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-30T08:11:02Z"
+}
