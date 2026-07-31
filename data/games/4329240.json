@@ -1,8 +1,8 @@
 {
   "id": 4329240,
   "title": "Storytime Cats - A Day At The Park",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/4ee512b89fa49b3ca24ef7c9c1fea61f34a5fbf0/header.jpg?t=1785171634",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4329240?t=1785171634",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/0419c7b2439343ba8ce4583be4f5ba1b006df690/header.jpg?t=1785408958",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4329240?t=1785408958",
   "description": "Storytime Cats – A Day At The Park — это игра в жанре поиска предметов, в которой вам предстоит найти сотни спрятанных кошек, разбросанных по уютному парку. Единственное, чего им не хватает, — их любимый человек. Сможете ли вы найти и погладить их всех?\n\n🐱 500 Спрятанных Котов!\n\n🦜 Секретные Птицы!\n\n🖌️ 5 Уровней, Нарисованных Вручную!",
   "description_short": "Storytime Cats – A Day At The Park — это игра в жанре поиска предметов, в которой вам предстоит найти сотни спрятанных кошек, разбросанных по уютному парку. Единственное, чего им не хватает, — их любимый человек. Сможете ли вы найти и погладить их всех?",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 632,
+  "price_rub": 636,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Oh-njhDpitA",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/50e0f8bc2999a725aeb51d54ff2fdea28a5fed9e/ss_50e0f8bc2999a725aeb51d54ff2fdea28a5fed9e.1920x1080.jpg?t=1785171634",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/9c4f876b811b57f7be38ae9e4dd7ccb15234c657/ss_9c4f876b811b57f7be38ae9e4dd7ccb15234c657.1920x1080.jpg?t=1785171634",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/8729acc84ccd167c7e093c4e0c6636b81e467ae8/ss_8729acc84ccd167c7e093c4e0c6636b81e467ae8.1920x1080.jpg?t=1785171634",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/f338fd7852de5a2d90aae5d92586323436a392d4/ss_f338fd7852de5a2d90aae5d92586323436a392d4.1920x1080.jpg?t=1785171634",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/bd8bcbebc5a37c6b3f6c602dd896761e8f417e86/ss_bd8bcbebc5a37c6b3f6c602dd896761e8f417e86.1920x1080.jpg?t=1785171634"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/50e0f8bc2999a725aeb51d54ff2fdea28a5fed9e/ss_50e0f8bc2999a725aeb51d54ff2fdea28a5fed9e.1920x1080.jpg?t=1785408958",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/9c4f876b811b57f7be38ae9e4dd7ccb15234c657/ss_9c4f876b811b57f7be38ae9e4dd7ccb15234c657.1920x1080.jpg?t=1785408958",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/8729acc84ccd167c7e093c4e0c6636b81e467ae8/ss_8729acc84ccd167c7e093c4e0c6636b81e467ae8.1920x1080.jpg?t=1785408958",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/f338fd7852de5a2d90aae5d92586323436a392d4/ss_f338fd7852de5a2d90aae5d92586323436a392d4.1920x1080.jpg?t=1785408958",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329240/bd8bcbebc5a37c6b3f6c602dd896761e8f417e86/ss_bd8bcbebc5a37c6b3f6c602dd896761e8f417e86.1920x1080.jpg?t=1785408958"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-27T19:40:05Z"
+  "updated_at": "2026-07-31T08:29:09Z"
 }

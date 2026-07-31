@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1627,
+  "price_rub": 1658,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "mVn_jOw6W-U",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951770/0abed067661c7b077a20788f8b41ecf5d465d3ad/ss_0abed067661c7b077a20788f8b41ecf5d465d3ad.1920x1080.jpg?t=1785164441",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951770/701a4f311ecd7dfa487f29e303ad609e38235adf/ss_701a4f311ecd7dfa487f29e303ad609e38235adf.1920x1080.jpg?t=1785164441",
@@ -25,7 +25,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951770/e2c636fc377c4cdccfc629a4a5b399ab4bba2f8d/ss_e2c636fc377c4cdccfc629a4a5b399ab4bba2f8d.1920x1080.jpg?t=1785164441",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951770/8fe18c07f39301a219b37eb58a5bdbe71553ef95/ss_8fe18c07f39301a219b37eb58a5bdbe71553ef95.1920x1080.jpg?t=1785164441"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4982930,
+      "name": "Forsaken Realms: Vahrin's Call Soundtrack",
+      "price_rub": 661,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4982930/5e67e2a6012607ea5339d4c76bbc077cc20de5f6/header.jpg?t=1785248992"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-27T19:47:00Z"
+  "updated_at": "2026-07-31T08:29:29Z"
 }

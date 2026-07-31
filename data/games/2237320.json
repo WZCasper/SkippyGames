@@ -11,28 +11,28 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 896,
+  "price_rub": 908,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "kgNPvPtY4-8",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/8b917fb004802d6b02390eb42d9294b65f918c58/ss_8b917fb004802d6b02390eb42d9294b65f918c58.1920x1080.jpg?t=1785167677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/a253fad60fae17a215d6e70c42c2dfe62e661384/ss_a253fad60fae17a215d6e70c42c2dfe62e661384.1920x1080.jpg?t=1785167677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/5960f92b2955b6b7bd5a981a4118f0420b41b5ef/ss_5960f92b2955b6b7bd5a981a4118f0420b41b5ef.1920x1080.jpg?t=1785167677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/97f7e11e5c2aa6720906ade10ab575cc5885b5de/ss_97f7e11e5c2aa6720906ade10ab575cc5885b5de.1920x1080.jpg?t=1785167677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/2747b3b68c4ed0849cef3c4a9449468218481a62/ss_2747b3b68c4ed0849cef3c4a9449468218481a62.1920x1080.jpg?t=1785167677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/aec63e327d80ca7164c0a9033b8ecee46179fe23/ss_aec63e327d80ca7164c0a9033b8ecee46179fe23.1920x1080.jpg?t=1785167677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/eb4fa8244ae9f224f1860a8d02d79d4ca2bcd012/ss_eb4fa8244ae9f224f1860a8d02d79d4ca2bcd012.1920x1080.jpg?t=1785167677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/eabcf48bce1f53beaf63896d514b5655e270441f/ss_eabcf48bce1f53beaf63896d514b5655e270441f.1920x1080.jpg?t=1785167677"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/8b917fb004802d6b02390eb42d9294b65f918c58/ss_8b917fb004802d6b02390eb42d9294b65f918c58.1920x1080.jpg?t=1785251279",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/a253fad60fae17a215d6e70c42c2dfe62e661384/ss_a253fad60fae17a215d6e70c42c2dfe62e661384.1920x1080.jpg?t=1785251279",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/5960f92b2955b6b7bd5a981a4118f0420b41b5ef/ss_5960f92b2955b6b7bd5a981a4118f0420b41b5ef.1920x1080.jpg?t=1785251279",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/97f7e11e5c2aa6720906ade10ab575cc5885b5de/ss_97f7e11e5c2aa6720906ade10ab575cc5885b5de.1920x1080.jpg?t=1785251279",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/2747b3b68c4ed0849cef3c4a9449468218481a62/ss_2747b3b68c4ed0849cef3c4a9449468218481a62.1920x1080.jpg?t=1785251279",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/aec63e327d80ca7164c0a9033b8ecee46179fe23/ss_aec63e327d80ca7164c0a9033b8ecee46179fe23.1920x1080.jpg?t=1785251279",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/eb4fa8244ae9f224f1860a8d02d79d4ca2bcd012/ss_eb4fa8244ae9f224f1860a8d02d79d4ca2bcd012.1920x1080.jpg?t=1785251279",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237320/eabcf48bce1f53beaf63896d514b5655e270441f/ss_eabcf48bce1f53beaf63896d514b5655e270441f.1920x1080.jpg?t=1785251279"
   ],
   "upsells": [
     {
       "id": 4641790,
       "name": "Dwarf Delve Soundtrack",
-      "price_rub": 681,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641790/1a3ffc13d28ed677cb050b2bf490e7e7a7682132/header.jpg?t=1785167501"
+      "price_rub": 686,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641790/1a3ffc13d28ed677cb050b2bf490e7e7a7682132/header.jpg?t=1785250302"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-27T19:44:53Z"
+  "updated_at": "2026-07-31T08:29:23Z"
 }
