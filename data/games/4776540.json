@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 994,
+  "price_rub": 1008,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "tmZNA_sxxvk",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776540/f1cc08f8ac691d8169423e95470bd4fb56f03c64/ss_f1cc08f8ac691d8169423e95470bd4fb56f03c64.1920x1080.jpg?t=1784653178",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776540/5950403b6b8fe07cae6f52d8649d4dbb56fe9bcd/ss_5950403b6b8fe07cae6f52d8649d4dbb56fe9bcd.1920x1080.jpg?t=1784653178",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-28T08:11:50Z"
+  "updated_at": "2026-07-31T13:33:31Z"
 }
