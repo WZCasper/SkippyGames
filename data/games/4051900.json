@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 619,
+  "price_rub": 621,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -28,10 +28,10 @@
     {
       "id": 4650510,
       "name": "Fish to Cats Supporter Pack",
-      "price_rub": 580,
+      "price_rub": 582,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650510/414a7e38638a2570bcb06a5d06c927755352ee6b/header.jpg?t=1784772141"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-29T08:50:53Z"
+  "updated_at": "2026-08-01T13:41:38Z"
 }
