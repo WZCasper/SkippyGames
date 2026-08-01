@@ -1,8 +1,8 @@
 {
   "id": 4886760,
   "title": "Bull&Bear Crypto Trading Simulator",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/1aa5c9378bcf26e256da8da14f23651fa6789f8c/header.jpg?t=1785259623",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/3fd3abcd7952eddd8f55a23da6039c368ab5295b/page_bg_raw.jpg?t=1785259623",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/1aa5c9378bcf26e256da8da14f23651fa6789f8c/header.jpg?t=1785420809",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/3fd3abcd7952eddd8f55a23da6039c368ab5295b/page_bg_raw.jpg?t=1785420809",
   "description": "Master the MarketsStart with a small amount of capital and work your way up to becoming a trading legend. Analyze price movements, execute trades, manage risk, and take advantage of ever-changing market conditions in a deep and rewarding financial simulation.\n\nWhether you prefer high-risk leveraged trading, automated strategies, long-term investing, or passive income, every decision shapes your path to success.\n\nKey Features📈 Advanced Trading System• Trade multiple cryptocurrencies\n\n• Real-time candlestick charts\n\n• Long and short positions\n\n• Leverage trading with liquidation mechanics\n\n• Stop-Loss and Take-Profit tools\n\n• Dynamic market movements and volatility\n\n🤖 Automated Trading Strategies• Grid Trading Bots\n\n• DCA (Dollar-Cost Averaging) systems\n\n• Funding Rate Arbitrage\n\n• Triangular Arbitrage opportunities\n\n• Multiple ways to optimize profits\n\n💰 Build Your Wealth• Buy real estate and collect rental income\n\n• Invest in profitable businesses\n\n• Unlock passive income sources\n\n• Expand your financial portfolio\n\n🎯 Progression & Upgrades• Complete quests and challenges\n\n• Earn achievements\n\n• Unlock powerful permanent upgrades\n\n• Prestige system for long-term progression\n\n• Detailed statistics and performance tracking\n\n🎲 Extra Ways to Earn• Roulette\n\n• Blackjack\n\n• Lucky Wheel\n\n• High-risk, high-reward opportunities\n\n🌎 Living Market Simulation• Bull and Bear market cycles\n\n• Dynamic market sentiment\n\n• Volume fluctuations based on market activity\n\n• Random events and changing trends",
   "description_short": "Turn $1,000 into a crypto empire: 34 coins, up to 100x leverage, real liquidations. Unlock the options desk, spoof the order book with fake $10M walls, move markets as the whale — then run your own fund. Survive exchange hacks, stablecoin depegs and cascading crashes 📈",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 820,
+  "price_rub": 828,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/2de3d779e81e1ece3f9c62a39bd901f11af3a08f/ss_2de3d779e81e1ece3f9c62a39bd901f11af3a08f.1920x1080.jpg?t=1785259623",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/289910ef53f7e9b7df1f80604a29f92109e8101b/ss_289910ef53f7e9b7df1f80604a29f92109e8101b.1920x1080.jpg?t=1785259623",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/724ccd6822ec3c2cf5f32136e7ddb673f8690ccf/ss_724ccd6822ec3c2cf5f32136e7ddb673f8690ccf.1920x1080.jpg?t=1785259623",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/8e91a400c10c232c66ea24e4ab5dd6bbeec9e4d8/ss_8e91a400c10c232c66ea24e4ab5dd6bbeec9e4d8.1920x1080.jpg?t=1785259623",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/d44cf84f90b3560b5d1386b6de9e10a1d1b42c39/ss_d44cf84f90b3560b5d1386b6de9e10a1d1b42c39.1920x1080.jpg?t=1785259623",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/18b6d8fa227868848c62ffd45aca975da7943499/ss_18b6d8fa227868848c62ffd45aca975da7943499.1920x1080.jpg?t=1785259623"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/2de3d779e81e1ece3f9c62a39bd901f11af3a08f/ss_2de3d779e81e1ece3f9c62a39bd901f11af3a08f.1920x1080.jpg?t=1785420809",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/289910ef53f7e9b7df1f80604a29f92109e8101b/ss_289910ef53f7e9b7df1f80604a29f92109e8101b.1920x1080.jpg?t=1785420809",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/724ccd6822ec3c2cf5f32136e7ddb673f8690ccf/ss_724ccd6822ec3c2cf5f32136e7ddb673f8690ccf.1920x1080.jpg?t=1785420809",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/8e91a400c10c232c66ea24e4ab5dd6bbeec9e4d8/ss_8e91a400c10c232c66ea24e4ab5dd6bbeec9e4d8.1920x1080.jpg?t=1785420809",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/d44cf84f90b3560b5d1386b6de9e10a1d1b42c39/ss_d44cf84f90b3560b5d1386b6de9e10a1d1b42c39.1920x1080.jpg?t=1785420809",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886760/18b6d8fa227868848c62ffd45aca975da7943499/ss_18b6d8fa227868848c62ffd45aca975da7943499.1920x1080.jpg?t=1785420809"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-28T19:51:09Z"
+  "updated_at": "2026-08-01T02:14:19Z"
 }

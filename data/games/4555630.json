@@ -1,8 +1,8 @@
 {
   "id": 4555630,
   "title": "GLIMPO",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/127ce0f48f3b33f12d38b03926e06fad25be7159/header.jpg?t=1784895130",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/4c714a7c6c491c3052338f880e6a328223915ca0/page_bg_raw.jpg?t=1784895130",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/2cbaaef4ae4f30c8c5f27f18f502608bc173e911/header.jpg?t=1785387459",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/37f941a185738ed785941cbed5015f4374209a9a/page_bg_raw.jpg?t=1785387459",
   "description": "GLIMPO is an arcade roguelite shooter where you fight endless waves of enemies by building your skillset, unlocking synergies and becoming ridiculously overpowered!\n\nGameplay• Buy/sell skills from the shop to build your ideal skillset\n\n• Fight enemies with unique auto-attacking skills\n\n• Earn gold, build synergies and become insanely overpowered!\n\nFeatures• Shorter runs, up to 18 levels of battle with increasing difficulty\n\n• 20+ skills, each with unique attacks and effects\n\n• 10+ classes with their own distinct synergies\n\nComing Soon• 40+ items that can empower your build\n\n• 10+ more skills and 4 more classes\n\nTrailer music: Axis by CGFrog.",
   "description_short": "Fight endless waves of enemies in this arcade roguelite shooter. Build and level up your skillset, unlock synergies and become ridiculously overpowered!",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 576,
+  "price_rub": 578,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/2b9a67f124d6d3ae36139270884091803687bc10/ss_2b9a67f124d6d3ae36139270884091803687bc10.1920x1080.jpg?t=1784895130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/6119a743922130cf03438e05d67e0b94c6bce95d/ss_6119a743922130cf03438e05d67e0b94c6bce95d.1920x1080.jpg?t=1784895130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/fb27f918628267a31ebbb92bf5e948a210fc2f6a/ss_fb27f918628267a31ebbb92bf5e948a210fc2f6a.1920x1080.jpg?t=1784895130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/ee7340c52df7bc7260e829277555fcb6a81cff0e/ss_ee7340c52df7bc7260e829277555fcb6a81cff0e.1920x1080.jpg?t=1784895130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/543fe452687d8ab81926a0dcf4164da1bdc787b9/ss_543fe452687d8ab81926a0dcf4164da1bdc787b9.1920x1080.jpg?t=1784895130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/60d8c94e266f9b2c8401919e55e8796719b1fb7b/ss_60d8c94e266f9b2c8401919e55e8796719b1fb7b.1920x1080.jpg?t=1784895130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/1626dc60ff80bf60fac2400da44e60fa303dbae2/ss_1626dc60ff80bf60fac2400da44e60fa303dbae2.1920x1080.jpg?t=1784895130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/e6f3ff3d9d6f22162b345e4873fbf9f21467fef5/ss_e6f3ff3d9d6f22162b345e4873fbf9f21467fef5.1920x1080.jpg?t=1784895130"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/e70f5c9a107999353ac8eba475b88417d9da9a7d/ss_e70f5c9a107999353ac8eba475b88417d9da9a7d.1920x1080.jpg?t=1785387459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/fa1dc2eac161e522b0ed7ff52451cdf6ab222d84/ss_fa1dc2eac161e522b0ed7ff52451cdf6ab222d84.1920x1080.jpg?t=1785387459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/1e73d2e0efb920839d00c1913a6d3be3ec645f8f/ss_1e73d2e0efb920839d00c1913a6d3be3ec645f8f.1920x1080.jpg?t=1785387459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/a4f631c4631156bc731f614662f4922382f60389/ss_a4f631c4631156bc731f614662f4922382f60389.1920x1080.jpg?t=1785387459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/0414df5366293275682ad8801e54bfe571475320/ss_0414df5366293275682ad8801e54bfe571475320.1920x1080.jpg?t=1785387459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/4a097921e5dd518c58f362a96992c7b82372530c/ss_4a097921e5dd518c58f362a96992c7b82372530c.1920x1080.jpg?t=1785387459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/6415f3a183a08a9a3437c80cb3195dd7706457e2/ss_6415f3a183a08a9a3437c80cb3195dd7706457e2.1920x1080.jpg?t=1785387459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555630/fdbd7cbe4842faa8671cfe8eb67e0ded8baecae0/ss_fdbd7cbe4842faa8671cfe8eb67e0ded8baecae0.1920x1080.jpg?t=1785387459"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-28T19:30:23Z"
+  "updated_at": "2026-08-01T01:54:23Z"
 }

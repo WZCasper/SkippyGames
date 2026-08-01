@@ -1,7 +1,7 @@
 {
   "id": 3497800,
   "title": "Bonehold",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/header.jpg?t=1785259777",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/header.jpg?t=1785453540",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3497800/library_hero.jpg",
   "description": "Bonehold — это мрачный 3D-рогалик в формате данжен-кроулера с элементами ARPG и hack-and-slash, где стремительные сражения сочетаются с продуманным исследованием.\n\nВыберите один из 7 уникальных классов — Рыцаря, Берсерка, Бродяги, Воина-чародея и других. У каждого свой стиль боя и набор способностей.\n\n \n\nОтправляйтесь в древнюю крепость Bonehold и пробивайтесь сквозь орды скелетов, призраков и искажённых магией тварей.\n\nНаходите процедурно генерируемую добычу — оружие, заклинания и доспехи — и собирайте собственные билды, открывая бесконечные тактические возможности.\n\n \n\nВыразительный визуальный стиль сочетает вручную нарисованные текстуры и пиксельную графику, погружая вас в мрачный, завораживающий мир.\n\nВыстоять в глубинах Bonehold смогут лишь самые отважные и искусные. Готовы ли вы спуститься?",
   "description_short": "Данжен-кроулер с элементами rogue-like и ARPG. Уничтожайте полчища врагов, сражайтесь с могучими боссами и добывайте легендарные трофеи!",
@@ -11,21 +11,28 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 861,
+  "price_rub": 871,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/71eafb938f5d4a8864f17b4f5620c14ca641be41/ss_71eafb938f5d4a8864f17b4f5620c14ca641be41.1920x1080.jpg?t=1785259777",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/58363d687b689019f57ef5c5fc7ecf7f530dfe01/ss_58363d687b689019f57ef5c5fc7ecf7f530dfe01.1920x1080.jpg?t=1785259777",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/c0abeba4467a5068f129520398620a4bf06923f0/ss_c0abeba4467a5068f129520398620a4bf06923f0.1920x1080.jpg?t=1785259777",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_1dcfebda95d065b9fe9f936a93105b4540d0175c.1920x1080.jpg?t=1785259777",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_ca552927e9b7abc7652d27ab5e25445216b5db0f.1920x1080.jpg?t=1785259777",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_9a35132e2d047b15f5782be99ad2e1d08663705f.1920x1080.jpg?t=1785259777",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_c0b42029a9e84c27eff7261c7214c9c00918a6ca.1920x1080.jpg?t=1785259777",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_d8aea7ab534c99d7d744a7475f94de871d770f96.1920x1080.jpg?t=1785259777"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/71eafb938f5d4a8864f17b4f5620c14ca641be41/ss_71eafb938f5d4a8864f17b4f5620c14ca641be41.1920x1080.jpg?t=1785453540",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/58363d687b689019f57ef5c5fc7ecf7f530dfe01/ss_58363d687b689019f57ef5c5fc7ecf7f530dfe01.1920x1080.jpg?t=1785453540",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/c0abeba4467a5068f129520398620a4bf06923f0/ss_c0abeba4467a5068f129520398620a4bf06923f0.1920x1080.jpg?t=1785453540",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_1dcfebda95d065b9fe9f936a93105b4540d0175c.1920x1080.jpg?t=1785453540",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_ca552927e9b7abc7652d27ab5e25445216b5db0f.1920x1080.jpg?t=1785453540",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_9a35132e2d047b15f5782be99ad2e1d08663705f.1920x1080.jpg?t=1785453540",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_c0b42029a9e84c27eff7261c7214c9c00918a6ca.1920x1080.jpg?t=1785453540",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3497800/ss_d8aea7ab534c99d7d744a7475f94de871d770f96.1920x1080.jpg?t=1785453540"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4954090,
+      "name": "Bonehold Soundtrack",
+      "price_rub": 568,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954090/19e750eab4abf12bbf02c85ca59bdfff5902c8d0/header.jpg?t=1785453426"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-28T19:55:48Z"
+  "updated_at": "2026-08-01T02:19:06Z"
 }
