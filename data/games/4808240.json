@@ -1,8 +1,8 @@
 {
   "id": 4808240,
   "title": "Spectrum Defense",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/6e55ff738816a4a1572e1fd934031330e75e321c/header.jpg?t=1785262655",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4808240?t=1785262655",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/6e55ff738816a4a1572e1fd934031330e75e321c/header.jpg?t=1785351223",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4808240?t=1785351223",
   "description": "Classic Tower Defense\n\nSpectrum Defense is a classic tower defense, which utilizes all basic aspects of the tower defense genre;\n\nBuild towers, defend against waves of enemies, upgrade towers.\n\nRandomness\n\nRandomness is the main theme of the game. All of the mechanics in the game are affected by randomness.\n\nIn every run, the game will generate new layout, which includes:\n\n• Way-points (Paths).\n\n• Map props (trees, theme).\n\n• Color Interaction Table (For damage/bounty outputs).\n\n• Enemy stats/count (and other chances).\n\n• Modifiers' proc chances.\n\nThe configuration of a run can be saved and shared in the main menu.\n\n \n\nTowers\n\nThere are multiple types of towers with different features. Some can shoot, some can only buff other towers, or de-buff enemies.\n\nUpgrading is done via equipping \"Modules\". These modules can be stacked, but towers have limited module slots.\n\nColor Interaction Table\n\nTowers have base damage (for each tower type). The color interaction table defines the relationship between colors in terms of damage/bounty, and the cost of building.\n\nThe game utilizes the seven colors of the spectrum in such a way that each color has a value, which is then used to scale the damage output from towers and the bounty gained from destroying enemies. The relationship is defined by Source Color vs Target Color (e.g. Red Tower attacking Green Enemy). This results in each of the seven colors having one set of seven different percentages (scales) for damage output and another set of seven percentages for bounty gain.\n\nThe cost of building is also affected by the building color strength, whether it's a strong color (expensive), or a weak color (cheap).",
   "description_short": "Use the seven colors of the spectrum in a classic tower defense, with a catch! Every run has randomized enemies, way-points and map layout. Colors affect the towers' damage, based on the randomly generated Color Table. Upgrade your towers by equipping modules. Mix and match to defeat your enemies!",
   "genres": [
@@ -16,16 +16,16 @@
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/88747b2b0eac99d07e37ef8ccbdc1ed0e6dbb485/ss_88747b2b0eac99d07e37ef8ccbdc1ed0e6dbb485.1920x1080.jpg?t=1785262655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/4de58e17c0f47c5e58769d04dbf4d972339b19be/ss_4de58e17c0f47c5e58769d04dbf4d972339b19be.1920x1080.jpg?t=1785262655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/d546534b072bc3972e2f565fd07b45b0a7741e66/ss_d546534b072bc3972e2f565fd07b45b0a7741e66.1920x1080.jpg?t=1785262655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/79a0ed07fb2b0fd5177721d4e415f62a795a9d8c/ss_79a0ed07fb2b0fd5177721d4e415f62a795a9d8c.1920x1080.jpg?t=1785262655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/44c4816d4abf96f2875b41edd757a4b721612138/ss_44c4816d4abf96f2875b41edd757a4b721612138.1920x1080.jpg?t=1785262655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/5d32385e2ece02dd365455f162455b79eacf7653/ss_5d32385e2ece02dd365455f162455b79eacf7653.1920x1080.jpg?t=1785262655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/7ff865c17e86b4fc2f01bf72c13bb97598c1bb84/ss_7ff865c17e86b4fc2f01bf72c13bb97598c1bb84.1920x1080.jpg?t=1785262655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/77fc15bbff1bedcc4115983be435e83c47070120/ss_77fc15bbff1bedcc4115983be435e83c47070120.1920x1080.jpg?t=1785262655"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/88747b2b0eac99d07e37ef8ccbdc1ed0e6dbb485/ss_88747b2b0eac99d07e37ef8ccbdc1ed0e6dbb485.1920x1080.jpg?t=1785351223",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/4de58e17c0f47c5e58769d04dbf4d972339b19be/ss_4de58e17c0f47c5e58769d04dbf4d972339b19be.1920x1080.jpg?t=1785351223",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/d546534b072bc3972e2f565fd07b45b0a7741e66/ss_d546534b072bc3972e2f565fd07b45b0a7741e66.1920x1080.jpg?t=1785351223",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/79a0ed07fb2b0fd5177721d4e415f62a795a9d8c/ss_79a0ed07fb2b0fd5177721d4e415f62a795a9d8c.1920x1080.jpg?t=1785351223",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/44c4816d4abf96f2875b41edd757a4b721612138/ss_44c4816d4abf96f2875b41edd757a4b721612138.1920x1080.jpg?t=1785351223",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/5d32385e2ece02dd365455f162455b79eacf7653/ss_5d32385e2ece02dd365455f162455b79eacf7653.1920x1080.jpg?t=1785351223",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/7ff865c17e86b4fc2f01bf72c13bb97598c1bb84/ss_7ff865c17e86b4fc2f01bf72c13bb97598c1bb84.1920x1080.jpg?t=1785351223",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/77fc15bbff1bedcc4115983be435e83c47070120/ss_77fc15bbff1bedcc4115983be435e83c47070120.1920x1080.jpg?t=1785351223"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-29T09:07:03Z"
+  "updated_at": "2026-08-01T19:02:09Z"
 }

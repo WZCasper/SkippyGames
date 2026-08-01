@@ -31,76 +31,76 @@
     {
       "id": 4316160,
       "name": "Warframe: Боевой набор «Фульмин»",
-      "price_rub": 554,
+      "price_rub": 555,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316160/964a2557f40e8b15131d6ac779bf25e33d82fbbb/header.jpg?t=1777650596"
     },
     {
       "id": 2803600,
       "name": "Warframe: Стартовый оружейный набор",
-      "price_rub": 586,
+      "price_rub": 587,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803600/header.jpg?t=1764950837"
     },
     {
       "id": 4157990,
       "name": "Warframe: Полная коллекция «Стародавний мир»",
-      "price_rub": 1687,
+      "price_rub": 1712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157990/1c2146827fae4887186ff642dc3d6a721393f30c/header.jpg?t=1765382640"
     },
     {
       "id": 4157970,
       "name": "Warframe: Комплект «Стародавний мир: Уриэль»",
-      "price_rub": 1045,
+      "price_rub": 1056,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157970/ee411134d4c7be41eb413b3d72eb384c1a254f29/header.jpg?t=1765382574"
     },
     {
       "id": 4157980,
       "name": "Warframe: Коллекция «Стародавний мир: Близнецы»",
-      "price_rub": 1184,
+      "price_rub": 1199,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157980/cec29b03c45ba63499a0d24f30cae4f98508c26e/header.jpg?t=1765382614"
     },
     {
       "id": 4037750,
       "name": "Warframe: Комплект «Нокко»",
-      "price_rub": 1182,
+      "price_rub": 1197,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037750/6eb49e249b13c9762cac695a40869d1004132d75/header.jpg?t=1764950864"
     },
     {
       "id": 4037760,
       "name": "Warframe: Коллекция Вуконга «Китиан»",
-      "price_rub": 908,
+      "price_rub": 917,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037760/42c1497c848190c5b79a57abab74ea0fea03439f/header.jpg?t=1764950896"
     },
     {
       "id": 3778430,
       "name": "Warframe: Набор «Ораксия»",
-      "price_rub": 1329,
+      "price_rub": 1347,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778430/c026424c604d3d2d3882d10b1098ce181771b622/header.jpg?t=1764951147"
     },
     {
       "id": 4735410,
       "name": "Warframe: Коллекция Мисы «Наследие»",
-      "price_rub": 1371,
+      "price_rub": 1389,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735410/873b7960ba00e060784eff7f6b4ac885ffb95812/header.jpg?t=1783782016"
     },
     {
       "id": 4735390,
       "name": "Warframe: Полная коллекция «Созвездия»",
-      "price_rub": 1720,
+      "price_rub": 1746,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735390/a698499c0760f3f1b4af902d84a6b713ffaa66bf/header.jpg?t=1781708712"
     },
     {
       "id": 4735380,
       "name": "Warframe: Комплект «Созвездия - Сириус и Орион»",
-      "price_rub": 1196,
+      "price_rub": 1211,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735380/59163e328ddd41b62db864d8ce782da48e907d69/header.jpg?t=1781708733"
     },
     {
       "id": 4735400,
       "name": "Warframe: Коллекция «Созвездия - Близнецы»",
-      "price_rub": 1196,
+      "price_rub": 1211,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735400/dfa481921d64d3be089e5bd30e5a0ceebb89f6b7/header.jpg?t=1781708686"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-29T13:38:49Z"
+  "updated_at": "2026-08-01T19:12:13Z"
 }
