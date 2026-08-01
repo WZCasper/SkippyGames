@@ -1,0 +1,28 @@
+{
+  "id": 3277580,
+  "title": "Karaoke Chameleon",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3277580/60ab66de4c40f27b29a7896da97ef21dc6fddb31/header.jpg?t=1785524576",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3277580/978896d4b6db8a3fd53e1c9c8e5b7e19a1d9c0a7/page_bg_raw.jpg?t=1785524576",
+  "description": "Karaoke Chameleon is a chaotic multiplayer hide-and-seek game where ghosts hide as musical instruments and hunters try to expose them by listening to how they play.\n\nGhosts choose an instrument, such as drums, piano, guitar, or trumpet, and must play it as well as they can. The goal is to come up with a simple rhythm or melody that sounds natural instead of random button mashing.\n\nHunters listen for suspicious playing. If someone is completely off-beat, ruins the music, or sounds like total chaos, it might be a hidden ghost. But hunters have limited bullets, so every shot matters.\n\nGame Rules■ Ghosts hide as musical instruments.\n■ Ghosts choose an instrument, such as drums, piano, guitar, or trumpet.\n■ Ghosts must play rhythmically and try not to sound suspicious.\n■ Hunters listen for players who are off-beat or playing nonsense.\n■ Hunters have limited bullets.\n■ Shooting a hidden ghost gives the hunter the bullet back.\n■ Ghosts win if at least one ghost survives until time runs out.\n■ Ghosts also win if all hunters run out of bullets.\n■ Hunters win when all ghosts are found.",
+  "description_short": "A chaotic multiplayer hide-and-seek game where ghosts hide as musical instruments. They must come up with a melody that sounds natural. If someone plays off-beat, ruins the music, or sounds like chaos, it may be a hidden ghost. Hunters expose them by listening.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 790,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "MV1vh7L8L4c",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3277580/10e52507f55bc2c1adcedd531519f49b15102954/ss_10e52507f55bc2c1adcedd531519f49b15102954.1920x1080.jpg?t=1785524576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3277580/b99f1069f236190873bd63f6326811b7b581862e/ss_b99f1069f236190873bd63f6326811b7b581862e.1920x1080.jpg?t=1785524576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3277580/56cd8dd126e4746744de69b669a34b84271f413a/ss_56cd8dd126e4746744de69b669a34b84271f413a.1920x1080.jpg?t=1785524576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3277580/ae17683b42d63938c7efb225856e761233abecea/ss_ae17683b42d63938c7efb225856e761233abecea.1920x1080.jpg?t=1785524576",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3277580/265755523fb54f9dbc4c3a197600837772fd6638/ss_265755523fb54f9dbc4c3a197600837772fd6638.1920x1080.jpg?t=1785524576"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-01T07:59:02Z"
+}

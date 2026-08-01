@@ -1,0 +1,32 @@
+{
+  "id": 1838600,
+  "title": "Moshcave",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1838600/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1838600/library_hero.jpg",
+  "description": "Moshcave — это игра в жанре roguelite с бесконечными процедурно генерируемыми подземельями, где враги становятся все сильнее по мере продвижения в пещеры. Помогите Мёрфи, усилив его, чтобы добраться до самого нижнего этажа Пещеры доктора Моша!\n\r\n\n\r\nОсновные характеристики:\n\r\n> Бесконечные процедурно генерируемые подземелья;\n\r\n> Бонусы;\n\r\n> Различные шляпы, оружие и питомцы с различными характеристиками;\n\r\n> Десятки возможных билдов;\n\r\n> Враги и количество этажей.",
+  "description_short": "Усильте Мерфи и уничтожьте сотни врагов, пока вы проползаете вглубь пещеры доктора Моша! Moshcave — это игра-рогалит в ретро-стиле с множеством возможных сборок и странными врагами, которые постепенно становятся сильнее.",
+  "genres": [
+    "Экшен",
+    "Аркадные гонки",
+    "Казуальные игры",
+    "Классические ролевые игры (CRPG)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 527,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "voBt1kVZYhs",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/784969a3f878295379543900f193b91a8f651bde/ss_784969a3f878295379543900f193b91a8f651bde.1920x1080.jpg?t=1785543379",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/020e33f756fb7354c43ee148e134f94a11d8d336/ss_020e33f756fb7354c43ee148e134f94a11d8d336.1920x1080.jpg?t=1785543379",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/ea2bf815c138c50148484e0631b0f5580af43037/ss_ea2bf815c138c50148484e0631b0f5580af43037.1920x1080.jpg?t=1785543379",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/b351ce0396bf05c5945507f1d1a72a88f35b8455/ss_b351ce0396bf05c5945507f1d1a72a88f35b8455.1920x1080.jpg?t=1785543379",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/7801e0e175512a1265368191c2bffcbe25c238cf/ss_7801e0e175512a1265368191c2bffcbe25c238cf.1920x1080.jpg?t=1785543379",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/42e22aa1d3604095c0570feec22917395ab7176f/ss_42e22aa1d3604095c0570feec22917395ab7176f.1920x1080.jpg?t=1785543379"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-01T07:58:41Z"
+}

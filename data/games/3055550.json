@@ -1,0 +1,32 @@
+{
+  "id": 3055550,
+  "title": "Security Simulator: Nightshift",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3055550/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3055550/library_hero.jpg",
+  "description": "Security Simulator: Nightshift is a game in the \"spot-the-difference\"-horror sort of mold. You use a camera system to spot \"disturbances\" throughout the map you're on, and report them. This game's twist is that you're in the building with the disturbances, and you can't just cozy up in your office. Your goal is to keep these disturbances at bay by reporting them. As a security guard, you also have to keep an eye on the entrances to the place you're guarding. Let a picked lock or suspicious ladder go unnoticed and you may have extra visitors. Thieves can break in throughout the night if an entrance is vulnerable, you'll have to report them too before heading over and arresting. Too many disturbances, or getting caught too close to one, may lead to a short night and not much pay. Manage everything for your whole 9-5 (PM to AM) and you'll make it out with plenty to spend. Next to the security building is a store that you can buy items from. These items help you in various ways, from flashlights that improve visibility, to snacks that give you a stamina boost! This game contains mild psychological horror, requiring the player to pay close attention to several systems, having some disturbances lock the door, and some with very humanoid appearance.",
+  "description_short": "A spot-the-difference-horror game; you use a camera system to locate and report disturbances and thieves, but you can't stay in the cameras the whole night. Getting up from your office to patrol is necessary to keep thieves at bay.",
+  "genres": [
+    "Технические симуляторы",
+    "Головоломки",
+    "Шутеры от первого лица (FPS)",
+    "Психологические хорроры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 700,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "q8PSAOFJcmM",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055550/c0e28dab7349f67de3417ad91093ad36769ecd01/ss_c0e28dab7349f67de3417ad91093ad36769ecd01.1920x1080.jpg?t=1785522521",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055550/71fccfaf5e71881fdfb67e3a5f1309dc8dcf2f7f/ss_71fccfaf5e71881fdfb67e3a5f1309dc8dcf2f7f.1920x1080.jpg?t=1785522521",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055550/33dcc86b27625dc85b343b42fac782d032e5ce41/ss_33dcc86b27625dc85b343b42fac782d032e5ce41.1920x1080.jpg?t=1785522521",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055550/7e719f413a4dd9d4b660237ceeba66ae47293d91/ss_7e719f413a4dd9d4b660237ceeba66ae47293d91.1920x1080.jpg?t=1785522521",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055550/0c9680d5156d01542356a618f0b71d339bd600fa/ss_0c9680d5156d01542356a618f0b71d339bd600fa.1920x1080.jpg?t=1785522521",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055550/f73955ffc2da35823d14e2f05d3fee3af62cf2bd/ss_f73955ffc2da35823d14e2f05d3fee3af62cf2bd.1920x1080.jpg?t=1785522521"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-01T07:59:04Z"
+}
