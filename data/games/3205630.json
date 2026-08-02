@@ -13,10 +13,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1080,
+  "price_rub": 1086,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "huthpCORNbg",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205630/7d1368072ce8fcaa371f030932bae5e29d95e469/ss_7d1368072ce8fcaa371f030932bae5e29d95e469.1920x1080.jpg?t=1784757038",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205630/b2e7ad2149aa542f1fa5289d265ba1ba0c8529a4/ss_b2e7ad2149aa542f1fa5289d265ba1ba0c8529a4.1920x1080.jpg?t=1784757038",
@@ -29,5 +29,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-30T08:03:17Z"
+  "updated_at": "2026-08-02T12:56:07Z"
 }
