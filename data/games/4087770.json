@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 800,
+  "price_rub": 803,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -28,10 +28,10 @@
     {
       "id": 4878200,
       "name": "BioBot Guide Soundtrack",
-      "price_rub": 676,
+      "price_rub": 678,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878200/7841d9e18026b5ccaa86c1a0b18c670b85fbd492/header.jpg?t=1785370551"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-30T08:18:28Z"
+  "updated_at": "2026-08-02T18:51:03Z"
 }
