@@ -1,0 +1,44 @@
+{
+  "id": 4383070,
+  "title": "100 Undersea Cats",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/4abac98564b16a497b6c94e6782aca73f076cd33/header.jpg?t=1785596572",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/18e32211d024991efa8a5f61cdfb1f07cdf168f6/page_bg_raw.jpg?t=1785596572",
+  "description": "🐾 ДОБРО ПОЖАЛОВАТЬ В ОЧЕРЕДНУЮ ИГРУ СЕРИИ 100 КОШЕК 🐈Присоединяйтесь к самому милому приключению в мире, полном кошек! Исследуйте очаровательные нарисованные вручную локации с уникальными тематиками, разыскивая 100 спрятанных котов.\nПроверьте свою внимательность и наблюдательность в этом уютном и увлекательном квесте на поиск скрытых объектов.\nКаждый найденный кот будет радовать вас всё больше и больше!🐈🕵️‍♂️ Сможете найти их всех? 🕵️‍♂️🐈Ключевые особенности• 🎮 1 уровень\n\n• 🐈 100 спрятанных котов\n\n• 🎵 Отличный саундтрек\n\n• 🎨 Высококачественная графика\n\n• 🌗 Настройки яркости\n\n• 💾 Сохранение прогресса\n\n• 🔍 Приближение\n\n• 😺 Реалистичные кошачьи звуки!\n\n• 💥 Счётчик комбо!\n\n• 💡 Подсказки\n\n• 🌐 Без текста",
+  "description_short": "🐾 Присоединяйся к самому милому приключению в тематических локациях, полных котиков! 😻 Исследуй очаровательные нарисованные от руки локации и попробуй найти 100 спрятанных пушистиков по всему миру игры. 🐈🕵️‍♂️ Сможешь найти их всех? 🕵️‍♂️🐈",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 566,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "20bFswWbF2U",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/98eaa9c0968a3ed53fbabf43b27093e948a5c9a2/ss_98eaa9c0968a3ed53fbabf43b27093e948a5c9a2.1920x1080.jpg?t=1785596572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/f3b8b53dd1641f30eb0e7d98da534374fe17a638/ss_f3b8b53dd1641f30eb0e7d98da534374fe17a638.1920x1080.jpg?t=1785596572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/5ef766edff7a3ca6ba7be7a1bbc095026a77d9d6/ss_5ef766edff7a3ca6ba7be7a1bbc095026a77d9d6.1920x1080.jpg?t=1785596572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/fbcd36d798b7e09af8418c45c6d63d4d30164b85/ss_fbcd36d798b7e09af8418c45c6d63d4d30164b85.1920x1080.jpg?t=1785596572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/49c267f5d311bd29f260e16024cc4c1a5fbe3ed6/ss_49c267f5d311bd29f260e16024cc4c1a5fbe3ed6.1920x1080.jpg?t=1785596572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/35446df7e3a777466f36e968c8becd020a31e83c/ss_35446df7e3a777466f36e968c8becd020a31e83c.1920x1080.jpg?t=1785596572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/edcbfabcab4b0cc2f62e65562cc825a6d8a1971c/ss_edcbfabcab4b0cc2f62e65562cc825a6d8a1971c.1920x1080.jpg?t=1785596572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/0fbe5699d4e96fc43f13d6c2eb80d773d8d0a974/ss_0fbe5699d4e96fc43f13d6c2eb80d773d8d0a974.1920x1080.jpg?t=1785596572"
+  ],
+  "upsells": [
+    {
+      "id": 4543160,
+      "name": "100 Undersea Cats Soundtrack",
+      "price_rub": 632,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543160/4ee78db81e39a8056dcba0de61f282bfff18302a/header.jpg?t=1785596583"
+    },
+    {
+      "id": 4543190,
+      "name": "100 Undersea Cats - Artbook",
+      "price_rub": 632,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543190/08d215a8d5789fd280c197927e8b5c060420a0c2/header.jpg?t=1785596574"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-02T08:02:23Z"
+}
