@@ -1,8 +1,8 @@
 {
   "id": 4344210,
   "title": "Keyboard Warrior",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/8b50ae9bd33253b0d76a3ae5f005c041f5c7ce49/header.jpg?t=1785345971",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4344210?t=1785345971",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/8b50ae9bd33253b0d76a3ae5f005c041f5c7ce49/header.jpg?t=1785431821",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4344210?t=1785431821",
   "description": "The keyboard is the level!\n\nEvery key your press sends you flying to that location on-screen, slashing your sword along the way! There's no limit to how quickly you can attack, so nothing will hold you back from fighting as quickly or as slowly as you want. But be careful- Every enemy is different, so you'll need to bring strategy along with speed.\n\nKeyboard Warrior features a fully customizable keyboard for any layout, multiple pathways, 5 worlds, a dozen magic items, and hours of fun for those who are willing to master their keyboard.",
   "description_short": "The keyboard IS the level! Slash your way through hordes of enemies to save your forest from destruction.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 682,
+  "price_rub": 685,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/8cdefd160845c6431e12eceedd732e3c0b9a595a/ss_8cdefd160845c6431e12eceedd732e3c0b9a595a.1920x1080.jpg?t=1785345971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/b2d149d97c19a679fb239f06f37909bdd32ac6cc/ss_b2d149d97c19a679fb239f06f37909bdd32ac6cc.1920x1080.jpg?t=1785345971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/38cf45f47cb3f78b5a16340a197fc9d5dc69dfb7/ss_38cf45f47cb3f78b5a16340a197fc9d5dc69dfb7.1920x1080.jpg?t=1785345971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/13d1ff803409d877608f565a8dd6bdd25db6f806/ss_13d1ff803409d877608f565a8dd6bdd25db6f806.1920x1080.jpg?t=1785345971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/9c7e9b44ae1a01d3dde1462f2e7b2656f954016a/ss_9c7e9b44ae1a01d3dde1462f2e7b2656f954016a.1920x1080.jpg?t=1785345971"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/8cdefd160845c6431e12eceedd732e3c0b9a595a/ss_8cdefd160845c6431e12eceedd732e3c0b9a595a.1920x1080.jpg?t=1785431821",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/b2d149d97c19a679fb239f06f37909bdd32ac6cc/ss_b2d149d97c19a679fb239f06f37909bdd32ac6cc.1920x1080.jpg?t=1785431821",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/38cf45f47cb3f78b5a16340a197fc9d5dc69dfb7/ss_38cf45f47cb3f78b5a16340a197fc9d5dc69dfb7.1920x1080.jpg?t=1785431821",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/13d1ff803409d877608f565a8dd6bdd25db6f806/ss_13d1ff803409d877608f565a8dd6bdd25db6f806.1920x1080.jpg?t=1785431821",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344210/9c7e9b44ae1a01d3dde1462f2e7b2656f954016a/ss_9c7e9b44ae1a01d3dde1462f2e7b2656f954016a.1920x1080.jpg?t=1785431821"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-29T19:04:04Z"
+  "updated_at": "2026-08-02T01:46:48Z"
 }

@@ -1,8 +1,8 @@
 {
   "id": 4847750,
   "title": "Tank Tower Defense  坦克塔防",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/aaa965199d6b10ac217893f1386daf7660d049ca/header.jpg?t=1785341358",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/bf642d512691ceb324eb1f36afe53a4e7226db7e/page_bg_raw.jpg?t=1785341358",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/aaa965199d6b10ac217893f1386daf7660d049ca/header.jpg?t=1785552477",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/bf642d512691ceb324eb1f36afe53a4e7226db7e/page_bg_raw.jpg?t=1785552477",
   "description": "Всем привет! Это моя первая игра в жанре «защита башен», которую я самостоятельно разрабатывал больше года, параллельно осваивая необходимые навыки.\n\nБез помощи команды я сам проработал все этапы проекта: от программной логики и игровых механик до дизайна уровней. Это лёгкая стратегическая казуальная игра, отлично подходящая для снятия стресса.\n\nПройдите испытания по обороне на множестве тщательно проработанных уровней:\n\nулучшайте разнообразные оборонительные башни, чтобы отражать одну за другой волны наступающих вражеских подразделений.\n\nВы также можете настроить сложность игры под себя: выбирайте расслабленный казуальный режим для спокойного времяпрепровождения или сложный хардкорный режим для настоящих испытаний, следуя собственному ритму.\n\nВ свободные минуты вы сможете сосредоточиться на построении оборонительных линий, управлять боевыми башнями, использовать умения для уничтожения захватчиков и защищать свою базу. Оцените уникальное удовольствие от снятия напряжения, которое дарит жанр защиты башен.",
   "description_short": "Вы также можете настроить сложность игры под себя: выбирайте расслабленный казуальный режим для спокойного времяпрепровождения или сложный хардкорный режим для настоящих испытаний, следуя собственному ритму.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 675,
+  "price_rub": 803,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/1da648d9a85fe3e911549a1a5be348cbf21bd775/ss_1da648d9a85fe3e911549a1a5be348cbf21bd775.1920x1080.jpg?t=1785341358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/ef863f1106e304d229c7613ae1562d456d444564/ss_ef863f1106e304d229c7613ae1562d456d444564.1920x1080.jpg?t=1785341358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/89320404f42079386e6ba43f3800c9c6becbe0dc/ss_89320404f42079386e6ba43f3800c9c6becbe0dc.1920x1080.jpg?t=1785341358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/15137266e46d87e39fe01d7ea2ea1e092fb7d231/ss_15137266e46d87e39fe01d7ea2ea1e092fb7d231.1920x1080.jpg?t=1785341358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/e947f72eed32b660581c5b6ea0dfa9f346dd2c99/ss_e947f72eed32b660581c5b6ea0dfa9f346dd2c99.1920x1080.jpg?t=1785341358"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/1da648d9a85fe3e911549a1a5be348cbf21bd775/ss_1da648d9a85fe3e911549a1a5be348cbf21bd775.1920x1080.jpg?t=1785552477",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/ef863f1106e304d229c7613ae1562d456d444564/ss_ef863f1106e304d229c7613ae1562d456d444564.1920x1080.jpg?t=1785552477",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/89320404f42079386e6ba43f3800c9c6becbe0dc/ss_89320404f42079386e6ba43f3800c9c6becbe0dc.1920x1080.jpg?t=1785552477",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/15137266e46d87e39fe01d7ea2ea1e092fb7d231/ss_15137266e46d87e39fe01d7ea2ea1e092fb7d231.1920x1080.jpg?t=1785552477",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847750/e947f72eed32b660581c5b6ea0dfa9f346dd2c99/ss_e947f72eed32b660581c5b6ea0dfa9f346dd2c99.1920x1080.jpg?t=1785552477"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-29T19:08:47Z"
+  "updated_at": "2026-08-02T01:51:31Z"
 }

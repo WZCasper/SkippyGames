@@ -1,0 +1,35 @@
+{
+  "id": 1375440,
+  "title": "Avoidvania",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1375440/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1375440/library_hero.jpg",
+  "description": "You are a small cat who walks in a forest and who smells an irresistible aroma coming from the tower of a large castle. Attracted by this smell, you find yourself trapped in a maze of corridors filled with traps and hostile creatures. You are unable to fight with your little body, but you have the advantage of running very fast ...\n\nFortunately, you can count on the help of travelers, also in search of this intoxicating smell.\n\n• Avoid the pitfalls and enemies on your way.\n\n• Meet colorful characters who will teach you more about the castle.\n\n• You can't fight, but you're very fast ...",
+  "description_short": "AvoidVania is a 2D game Top-down Runner / Metroidvania taking place in a medieval-fantastic universe.",
+  "genres": [
+    "Метроидвании",
+    "Приключения",
+    "Экшен",
+    "Экшен-адвенчуры",
+    "Стелс-экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_40b0137bd53103f5b00f743346388a4e9d1485bc.1920x1080.jpg?t=1785606514",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_cb3a2533b95e841d15a5d64acea317531ed7e1dd.1920x1080.jpg?t=1785606514",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_cd52921875aee8863ea98ef1b84831956c955ad2.1920x1080.jpg?t=1785606514",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_7b8d5e1ebedb94d289072d73871d9daa9fbe4fae.1920x1080.jpg?t=1785606514",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_291d05478ea4f7efca397059bf744b15add6e9fc.1920x1080.jpg?t=1785606514",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_b95547ad2c2f4da1b26095fb1d072d34f5d8b53f.1920x1080.jpg?t=1785606514",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_91ecae274d2b60c106cc46b3b0dc829f70fe3323.1920x1080.jpg?t=1785606514",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_4f0318fcda4b3be5593b5f81f3cafcd675246bf8.1920x1080.jpg?t=1785606514"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-02T02:17:00Z"
+}

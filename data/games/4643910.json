@@ -1,9 +1,9 @@
 {
   "id": 4643910,
   "title": "Minimalist Circuit",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/277c1d2bf6e1bb39a62d66b92d4129b9b0e288e0/header.jpg?t=1785308713",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4643910?t=1785308713",
-  "description": "Click to rotate the paths with simple, intuitive controls.\n\nConnect the starting point to all targets to complete each level.\n\nClearly see which paths are connected.\n\nLevels gradually become more challenging.\n\nUse hints whenever you get stuck.\n\nNo time limits, so you can think at your own pace.\n\nEnjoy clean visuals and a calm puzzle-solving experience.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/277c1d2bf6e1bb39a62d66b92d4129b9b0e288e0/header.jpg?t=1785557160",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4643910?t=1785557160",
+  "description": "Click to rotate the paths with simple, intuitive controls.\n\nConnect the starting point to all targets to complete each level.\n\nClearly see which paths are connected.\n\nLevels gradually become more challenging.\n\nUse hints whenever you get stuck.\n\nNo time limits, so you can think at your own pace.\n\nEnjoy clean visuals and a calm puzzle-solving experience.\n\nEndless Mode and Leaderboards",
   "description_short": "Minimalist Circuit is a relaxing pipe-connection puzzle game.",
   "genres": [
     "Экшен"
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 528,
+  "price_rub": 529,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/2d33a32b92fe4c81d9d9eb44ce9338edbb87f7d7/ss_2d33a32b92fe4c81d9d9eb44ce9338edbb87f7d7.1920x1080.jpg?t=1785308713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/90de5e5de319d8f44280a82a7f5929377e76302f/ss_90de5e5de319d8f44280a82a7f5929377e76302f.1920x1080.jpg?t=1785308713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/da36fbc8972bbd3da79a9d3ee0c3560a0fa2ed2f/ss_da36fbc8972bbd3da79a9d3ee0c3560a0fa2ed2f.1920x1080.jpg?t=1785308713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/b4021f46ab8f3146ad06b6b6913207412c828f58/ss_b4021f46ab8f3146ad06b6b6913207412c828f58.1920x1080.jpg?t=1785308713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/1ffcd3058e1b2887bcfaff70d711ae8f957c7b9f/ss_1ffcd3058e1b2887bcfaff70d711ae8f957c7b9f.1920x1080.jpg?t=1785308713"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/2d33a32b92fe4c81d9d9eb44ce9338edbb87f7d7/ss_2d33a32b92fe4c81d9d9eb44ce9338edbb87f7d7.1920x1080.jpg?t=1785557160",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/90de5e5de319d8f44280a82a7f5929377e76302f/ss_90de5e5de319d8f44280a82a7f5929377e76302f.1920x1080.jpg?t=1785557160",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/da36fbc8972bbd3da79a9d3ee0c3560a0fa2ed2f/ss_da36fbc8972bbd3da79a9d3ee0c3560a0fa2ed2f.1920x1080.jpg?t=1785557160",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/b4021f46ab8f3146ad06b6b6913207412c828f58/ss_b4021f46ab8f3146ad06b6b6913207412c828f58.1920x1080.jpg?t=1785557160",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643910/1ffcd3058e1b2887bcfaff70d711ae8f957c7b9f/ss_1ffcd3058e1b2887bcfaff70d711ae8f957c7b9f.1920x1080.jpg?t=1785557160"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-29T14:16:06Z"
+  "updated_at": "2026-08-02T01:30:26Z"
 }
