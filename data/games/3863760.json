@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1038,
+  "price_rub": 1036,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "PlxX8OskR50",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863760/83e401ba3e4641227451ca7e4b743b64ba231a41/ss_83e401ba3e4641227451ca7e4b743b64ba231a41.1920x1080.jpg?t=1784879730",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863760/c5b6ce6c7c162ea933ee9bcb76474ec7190b8bab/ss_c5b6ce6c7c162ea933ee9bcb76474ec7190b8bab.1920x1080.jpg?t=1784879730",
@@ -29,10 +29,10 @@
     {
       "id": 4494840,
       "name": "侠影录-支持者包",
-      "price_rub": 773,
+      "price_rub": 772,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494840/03b65ade77ddf301904ccb387b1907e5cf1f8b0c/header.jpg?t=1784976334"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-31T01:33:45Z"
+  "updated_at": "2026-08-03T08:58:19Z"
 }
