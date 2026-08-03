@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2107,
+  "price_rub": 2101,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -32,7 +32,7 @@
     {
       "id": 4630440,
       "name": "The Mound: Omen of Cthulhu - Original Soundtrack ",
-      "price_rub": 849,
+      "price_rub": 847,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630440/3046fe2c674b05921e2f8d4a5257372f76895bc4/header.jpg?t=1784109929"
     },
     {
@@ -44,10 +44,10 @@
     {
       "id": 4925780,
       "name": "The Mound: Omen of Cthulhu - Temple of Yig Exclusive Mission",
-      "price_rub": 2196,
+      "price_rub": 2190,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925780/237f0fa0800ab389f5e095042ccca5dc4e6b96eb/header.jpg?t=1784109819"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-31T09:14:48Z"
+  "updated_at": "2026-08-03T19:17:02Z"
 }
