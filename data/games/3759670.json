@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 634,
+  "price_rub": 678,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -26,16 +26,16 @@
     {
       "id": 4358070,
       "name": "no fox season - artbook",
-      "price_rub": 636,
+      "price_rub": 635,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358070/7c04c8380b2deb77950ea5dd208b38ca00dffb4b/header.jpg?t=1784944893"
     },
     {
       "id": 4966160,
       "name": "no fox season - supporter pack",
-      "price_rub": 777,
+      "price_rub": 776,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966160/7c04c8380b2deb77950ea5dd208b38ca00dffb4b/header.jpg?t=1784948725"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-31T08:48:31Z"
+  "updated_at": "2026-08-03T14:41:56Z"
 }
