@@ -44,13 +44,13 @@
     {
       "id": 4019590,
       "name": "Dead by Daylight - Sinister Grace",
-      "price_rub": 833,
+      "price_rub": 834,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019590/162ef941606f012e659162f2263e2669045775a8/header.jpg?t=1759419781"
     },
     {
       "id": 3884020,
       "name": "Dead by Daylight: The Walking Dead",
-      "price_rub": 833,
+      "price_rub": 834,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884020/a393f684ee00bdb302ae76b3cb7be85b1d80054c/header.jpg?t=1754333052"
     },
     {
@@ -74,13 +74,13 @@
     {
       "id": 3261720,
       "name": "Dead by Daylight - Doomed Course",
-      "price_rub": 833,
+      "price_rub": 834,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3261720/header.jpg?t=1732809756"
     },
     {
       "id": 3103150,
       "name": "Dead by Daylight - Castlevania Chapter",
-      "price_rub": 833,
+      "price_rub": 834,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103150/header.jpg?t=1740003609"
     },
     {
@@ -103,5 +103,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-01T13:01:14Z"
+  "updated_at": "2026-08-04T14:23:35Z"
 }

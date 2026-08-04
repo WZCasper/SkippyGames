@@ -14,7 +14,7 @@
   "price_rub": 732,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "Sr_RaCM-1ug",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913930/84c3275859c09848b6d6d490e3ce8c99ae551ed4/ss_84c3275859c09848b6d6d490e3ce8c99ae551ed4.1920x1080.jpg?t=1784933044",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913930/43e8df904b129e2e5e59ccc7033f8c5389c32599/ss_43e8df904b129e2e5e59ccc7033f8c5389c32599.1920x1080.jpg?t=1784933044",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-01T12:56:57Z"
+  "updated_at": "2026-08-04T14:18:21Z"
 }
