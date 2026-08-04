@@ -1,8 +1,8 @@
 {
   "id": 4799080,
   "title": "Hakoniwa Base Ball",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/1dad76a758551a916a11578c453c9e4aa455edad/header.jpg?t=1785194437",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4799080?t=1785194437",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/96fa92b64fdc907f9654e5daa7ff5efa8c79efd1/header.jpg?t=1785662550",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4799080?t=1785662550",
   "description": "A baseball management sim modeled on Japan's pro baseball (NPB) — no action, pure front office.\n\nRun the draft, free agency, trades, contract talks, scouting and stadium finances, then simulate a season instantly or watch it unfold pitch by pitch, stepping in to call the shots at any at-bat.\n\nSet league count, team count and season length however you like — from a 12-team Japanese-style league up to 30 clubs across 6 leagues. Edit every player, team and ballpark with the bundled CSV editor, and build a league that's entirely your own.\n\nEvery Game, Pitch by Pitch\n\nDetailed per-player ratings and a custom engine resolve each game one pitch at a time. Watch it play out on full auto, or step in and call the shots at any at-bat.\n\nThe Whole Front Office\n\nDraft, free agency, trades, contract talks, scouting. Multi-stage salary negotiations, multi-year deals with buyouts, retirement talks — every front-office decision is here.\n\nScouting Is Uncertain\n\nThe same prospect, seen through different scouting. (Top = poorly scouted / Bottom = thoroughly scouted)\n\nRatings are shown with observation error — you never know a player's true ability until they take the field. The more you invest in scouting, the more the fog lifts.\n\nRunning the Club's Finances\n\nTicket pricing, sponsorships and stadium renovations keep the money moving. How do you build a winner on a limited budget?\n\nA League of Your Own\n\nFrom a 12-team Japanese-style league up to 30 clubs across 6 leagues — configure it however you like. Players, teams and ballparks are editable via the bundled CSV editor, and sound effects and stadium images can be swapped too (MOD support).\n\nA World That Keeps Growing\n\nAging, generational change, retirements — and all-time records piling up. Season after season, a whole world takes shape.\n\nFour Languages\n\nJapanese, English, Korean and Traditional Chinese.\n\nFrom the developer\n\nBuilt by a solo developer. The features I set out to make are all in — this launches as a complete game. I'll keep updating it after release, at a steady solo pace, based on your feedback.",
   "description_short": "A front-office baseball management sim modeled on Japan's pro baseball (NPB) — no action. Run the draft, free agency, trades, contracts, scouting and stadium finances; simulate a season instantly or watch it pitch by pitch. Up to 30 teams, 6 leagues, all editable via CSV.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 911,
+  "price_rub": 910,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/23b11f89979b4ce89d75eb57bf28fe74a236a44d/ss_23b11f89979b4ce89d75eb57bf28fe74a236a44d.1920x1080.jpg?t=1785194437",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/a3c086c283aecc06dff57718dade2366445c8e1c/ss_a3c086c283aecc06dff57718dade2366445c8e1c.1920x1080.jpg?t=1785194437",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/bff277a2aaba2f68da433f1adf4705a40a91de12/ss_bff277a2aaba2f68da433f1adf4705a40a91de12.1920x1080.jpg?t=1785194437",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/15d27debb45493cf004b17313cd75b0c3167ed50/ss_15d27debb45493cf004b17313cd75b0c3167ed50.1920x1080.jpg?t=1785194437",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/eb9799408fdd8c98fa32d0232706ba20332fda6f/ss_eb9799408fdd8c98fa32d0232706ba20332fda6f.1920x1080.jpg?t=1785194437",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/46fedf003f34115c9f5aadd3289c99b9e0863452/ss_46fedf003f34115c9f5aadd3289c99b9e0863452.1920x1080.jpg?t=1785194437",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/1a91e47635705d07c385dfa823a4936ab39d867e/ss_1a91e47635705d07c385dfa823a4936ab39d867e.1920x1080.jpg?t=1785194437",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/3cfa416b8a73550ab794f8b2315d6f5c8c9e25c7/ss_3cfa416b8a73550ab794f8b2315d6f5c8c9e25c7.1920x1080.jpg?t=1785194437"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/23b11f89979b4ce89d75eb57bf28fe74a236a44d/ss_23b11f89979b4ce89d75eb57bf28fe74a236a44d.1920x1080.jpg?t=1785662550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/a3c086c283aecc06dff57718dade2366445c8e1c/ss_a3c086c283aecc06dff57718dade2366445c8e1c.1920x1080.jpg?t=1785662550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/bff277a2aaba2f68da433f1adf4705a40a91de12/ss_bff277a2aaba2f68da433f1adf4705a40a91de12.1920x1080.jpg?t=1785662550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/15d27debb45493cf004b17313cd75b0c3167ed50/ss_15d27debb45493cf004b17313cd75b0c3167ed50.1920x1080.jpg?t=1785662550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/eb9799408fdd8c98fa32d0232706ba20332fda6f/ss_eb9799408fdd8c98fa32d0232706ba20332fda6f.1920x1080.jpg?t=1785662550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/46fedf003f34115c9f5aadd3289c99b9e0863452/ss_46fedf003f34115c9f5aadd3289c99b9e0863452.1920x1080.jpg?t=1785662550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/1a91e47635705d07c385dfa823a4936ab39d867e/ss_1a91e47635705d07c385dfa823a4936ab39d867e.1920x1080.jpg?t=1785662550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799080/3cfa416b8a73550ab794f8b2315d6f5c8c9e25c7/ss_3cfa416b8a73550ab794f8b2315d6f5c8c9e25c7.1920x1080.jpg?t=1785662550"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-31T19:38:25Z"
+  "updated_at": "2026-08-04T02:02:28Z"
 }
