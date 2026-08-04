@@ -14,7 +14,7 @@
   "price_rub": 848,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "KsHZ2T_eP14",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3530240/ss_49530d8b75a6d6989e5f7e85dfb644be0f4ff78c.1920x1080.jpg?t=1784706882",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3530240/0748e98eee8e7ce2ce77712ed7d1ebb54d6abbfa/ss_0748e98eee8e7ce2ce77712ed7d1ebb54d6abbfa.1920x1080.jpg?t=1784706882",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-01T02:08:01Z"
+  "updated_at": "2026-08-04T08:16:11Z"
 }

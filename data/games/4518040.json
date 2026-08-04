@@ -14,7 +14,7 @@
   "price_rub": 869,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "GUp-MSIBRE8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518040/392b8ab1e2f90e7f2d187472512a8e161b1fe494/ss_392b8ab1e2f90e7f2d187472512a8e161b1fe494.1920x1080.jpg?t=1784991878",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518040/7e2f059dee70fa11024531af6dce6b6efb16029b/ss_7e2f059dee70fa11024531af6dce6b6efb16029b.1920x1080.jpg?t=1784991878",
@@ -34,5 +34,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-01T02:10:40Z"
+  "updated_at": "2026-08-04T08:16:50Z"
 }

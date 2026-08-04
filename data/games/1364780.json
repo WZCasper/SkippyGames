@@ -1,0 +1,103 @@
+{
+  "id": 1364780,
+  "title": "Street Fighter™ 6",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/library_hero.jpg",
+  "description": "Years 1-2 Fighters Edition\nВключает:\n・Полную версию игры\n・Пропуск персонажа на 1-й год\n・Пропуск персонажа на 2-й год\n・Years 1-2 Fighters Edition — арены и цвета\n\nОб игреНовый «Боец» от Capcom! Релиз Street Fighter™ 6 состоится 2 июня 2023 года по всему миру. Это настоящая эволюция игровой серии. \n\nВ основу Street Fighter 6 положена собственная разработка Capcom — игровой движок RE ENGINE. Три режима: «Чемпионат мира», «Поле боя» и «Центр сражений». \n\nКоманда из 18 разных героев\nИграйте за легендарных мастеров и новых любимцев публики — Рю, Чан-ли, Люка, Джейми, Кимберли и многих других — в стильных новых образах и с потрясающими видеороликами.\n\nДокажите превосходство на поле боя\nВ Street Fighter 6 представлена улучшенная система боя с тремя типами контроля — Классический, Современный и Динамичный — что позволит вам быстро настроить игру под свой уровень навыков. \nНовая функция комментариев в реальном времени не дает заскучать во время матча и помогает разобраться в процессе игры.\nНовая система «Счетчик энергии» позволяет вам распоряжаться ресурсами по своему усмотрению. Используйте ее с умом, чтобы одержать победу.\n\nИсследуйте улицы города в «Чемпионате мира»\nПродемонстрируйте всем свою силу в «Чемпионате мира», захватывающем одиночном режиме. Откройте все секреты Метро-Сити и его окрестностей. На пути вы встретите мастеров, которые возьмут вас под крыло и обучат своей технике боя.\n\nСражайтесь с врагами на «Поле боя»\n«Поле боя» — основной режим Street Fighter 6, где игроки могут находить друзей, общаться и вместе прокачивать свои навыки. Управляйте аватаром, созданном в «Чемпионате мира», и соревнуйтесь с другими игроками в «Центре сражений». Вы также можете посетить «Игровой центр» и насладиться классическими аркадами от Capcom.\n\nПуть на бойцовский Олимп начинается здесь.",
+  "description_short": "Новый «Боец» от Capcom! Релиз Street Fighter™ 6 состоится 2 июня 2023 года по всему миру. Это настоящая эволюция игровой серии Street Fighter™! Три режима: «Чемпионат мира», «Поле боя» и «Центр сражений».",
+  "genres": [
+    "Файтинги",
+    "Аркадные гонки",
+    "Экшен",
+    "Приключения",
+    "Песочницы (Sandbox)",
+    "Экшен-РПГ (Action-RPG)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 2639,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/ss_387137f8cccb048c35a8685634372e97785d40aa.1920x1080.jpg?t=1785737403",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/ss_a381f1b3b450c18900d47b991ce8e7456e9cdba5.1920x1080.jpg?t=1785737403",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/ss_f62ce93269a6d8e0027853358af4d6368e2c4b93.1920x1080.jpg?t=1785737403",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/ss_d186566a92ada8cdb08b04769a8c95cd1e380006.1920x1080.jpg?t=1785737403",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/ss_ed46aaa9ed94dd6f35a703070f8df16cee5aef61.1920x1080.jpg?t=1785737403",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/ss_10191fb5ab48cee99d7a43e636db9202938f143e.1920x1080.jpg?t=1785737403",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/ss_449d488d2edbe785c4e6010fede1c3b8dae8e388.1920x1080.jpg?t=1785737403",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/ss_2cfc2472e7ff99fd354935135d91e36e81951795.1920x1080.jpg?t=1785737403"
+  ],
+  "upsells": [
+    {
+      "id": 4412680,
+      "name": "Street Fighter™ 6 — Пропуск персонажа на 4-й год",
+      "price_rub": 2247,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412680/2b8efd8f95a6fbd48c728d1088fc7b756ef17b80/header.jpg?t=1784618343"
+    },
+    {
+      "id": 4412690,
+      "name": "Street Fighter™ 6 — Полный пропуск на 4-й год",
+      "price_rub": 3121,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412690/df934fe6c940de593aca804c548a6fd9d625438a/header.jpg?t=1784618777"
+    },
+    {
+      "id": 3410460,
+      "name": "Street Fighter™ 6 — Пропуск персонажа на 3-й год",
+      "price_rub": 2283,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410460/b0b143e069bde0ff6980e63b32c3bef76228ecd3/header.jpg?t=1784618229"
+    },
+    {
+      "id": 3410470,
+      "name": "Street Fighter™ 6 — Полный пропуск на 3-й год",
+      "price_rub": 3532,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410470/9b111057e9bb411d857f1eb039613c06a30a01f9/header.jpg?t=1784618620"
+    },
+    {
+      "id": 2825190,
+      "name": "Street Fighter™ 6 — Пропуск персонажа на 2-й год",
+      "price_rub": 2283,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825190/d57ea78f9137db9484291fd7e7ee0f0103b79c53/header.jpg?t=1780278916"
+    },
+    {
+      "id": 2825200,
+      "name": "Street Fighter™ 6 — Полный пропуск на 2-й год",
+      "price_rub": 3532,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825200/ae884744b375bf5bbbe8c832f397aadba0c7c59c/header.jpg?t=1780281837"
+    },
+    {
+      "id": 2224460,
+      "name": "Street Fighter™ 6 — Пропуск персонажа на 1-й год",
+      "price_rub": 2283,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224460/93962a6766867e730c3f202ed6e417a877a63015/header.jpg?t=1780301752"
+    },
+    {
+      "id": 2224461,
+      "name": "Street Fighter™ 6 — Полный пропуск на 1-й год",
+      "price_rub": 3532,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224461/0e4326d98f0c0ce56f80df3d03452cf87309a4b2/header.jpg?t=1780301848"
+    },
+    {
+      "id": 2494130,
+      "name": "Street Fighter 6 Original Soundtrack",
+      "price_rub": 4477,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2494130/header.jpg?t=1704413829"
+    },
+    {
+      "id": 3594250,
+      "name": "Street Fighter 6 Original Soundtrack [Year 1]",
+      "price_rub": 1419,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3594250/e3e71d26acf7a46413c1380349363547b9847f20/header.jpg?t=1743383257"
+    },
+    {
+      "id": 3899360,
+      "name": "Street Fighter 6 Original Soundtrack [Year 2]",
+      "price_rub": 1009,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3899360/12a6987daf2220f44b7526cacdfa5578ae2a5bf6/header.jpg?t=1754366218"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-04T09:02:59Z"
+}

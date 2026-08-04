@@ -1,8 +1,8 @@
 {
   "id": 4172730,
   "title": "Joker On The Spring",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/cd0a81d4f426eaf46d06581b905394f3390f61c8/header.jpg?t=1785520835",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/14e586f0c6598490fc26e19d9eb2721366ec0948/page_bg_raw.jpg?t=1785520835",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/cd0a81d4f426eaf46d06581b905394f3390f61c8/header.jpg?t=1785577310",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/14e586f0c6598490fc26e19d9eb2721366ec0948/page_bg_raw.jpg?t=1785577310",
   "description": "\" КАЖДЫЙ ПРЫЖОК — ЭТО УРОК, НЕ ЗАБУДЬ ОБ ЭТОМ \"\n\n\" ПАДАЙ. УЧИСЬ. ПРЫГАЙ СНОВА \"\n\n• Вызов заключается в том, чтобы овладеть импульсом, точно рассчитывать прыжки и избегать ловушек — всё это, пока пружинное тело шутника испытывает пределы контроля.\n\n• Испытай новые виды разочарования, о которых даже не догадывался, что способен их пережить.\n\n• Игра сочетает комедию с хаосом, заставляя игроков одновременно смеяться и злиться.\n\n• Никаких смертей или насилия.\n\n• Спокойный, но в то же время изнуряющий опыт.\n\n• Бесконечные страдания.\n\n\" ЧАСЫ БЕСКОНЕЧНОГО ГЕЙМПЛЕЯ \"Успех — это не в том, чтобы первым достичь вершины, а в том, чтобы никогда не сдаваться.\n\nПримечание разработчика:\n\nJoker on the Spring вдохновлён от Getting Over It with Bennett Foddy и JUMP KING. Эта игра — наша попытка расширить жанр, которого, по нашему мнению, всё ещё недостаточно.",
   "description_short": "Joker on the Spring это платформер на точность, где вы управляете шутом с пружинами вместо ног. Вместо того чтобы ходить, вы подпрыгиваете и отскакиваете, превращая каждое движение в хаотичную смесь юмора и раздражения.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 685,
+  "price_rub": 686,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "6JJdIfOOUPQ",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/9ed35ba34ff2a1141a78d0e207067c3d4a5b5499/ss_9ed35ba34ff2a1141a78d0e207067c3d4a5b5499.1920x1080.jpg?t=1785520835",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/4211f93d589a711548f69de8300ff23aa033b626/ss_4211f93d589a711548f69de8300ff23aa033b626.1920x1080.jpg?t=1785520835",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/6c40afe9d22b089b78d775cec50ce67ae353d0d4/ss_6c40afe9d22b089b78d775cec50ce67ae353d0d4.1920x1080.jpg?t=1785520835",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/02ab3fde0b374ccef9870c9365e6c6cae6c036a4/ss_02ab3fde0b374ccef9870c9365e6c6cae6c036a4.1920x1080.jpg?t=1785520835",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/af6de6322e5a22690c48583d6f8a88e91328440e/ss_af6de6322e5a22690c48583d6f8a88e91328440e.1920x1080.jpg?t=1785520835",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/bb4afec3c3ab630f5aebc9361fa792eb35e3ed11/ss_bb4afec3c3ab630f5aebc9361fa792eb35e3ed11.1920x1080.jpg?t=1785520835",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/7ba799fc31877ae8a8aafecd892ec66379aeaa9b/ss_7ba799fc31877ae8a8aafecd892ec66379aeaa9b.1920x1080.jpg?t=1785520835",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/48f9022dc125ceac62ed50f01d384bef44c99d79/ss_48f9022dc125ceac62ed50f01d384bef44c99d79.1920x1080.jpg?t=1785520835"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/9ed35ba34ff2a1141a78d0e207067c3d4a5b5499/ss_9ed35ba34ff2a1141a78d0e207067c3d4a5b5499.1920x1080.jpg?t=1785577310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/4211f93d589a711548f69de8300ff23aa033b626/ss_4211f93d589a711548f69de8300ff23aa033b626.1920x1080.jpg?t=1785577310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/6c40afe9d22b089b78d775cec50ce67ae353d0d4/ss_6c40afe9d22b089b78d775cec50ce67ae353d0d4.1920x1080.jpg?t=1785577310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/02ab3fde0b374ccef9870c9365e6c6cae6c036a4/ss_02ab3fde0b374ccef9870c9365e6c6cae6c036a4.1920x1080.jpg?t=1785577310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/af6de6322e5a22690c48583d6f8a88e91328440e/ss_af6de6322e5a22690c48583d6f8a88e91328440e.1920x1080.jpg?t=1785577310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/bb4afec3c3ab630f5aebc9361fa792eb35e3ed11/ss_bb4afec3c3ab630f5aebc9361fa792eb35e3ed11.1920x1080.jpg?t=1785577310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/7ba799fc31877ae8a8aafecd892ec66379aeaa9b/ss_7ba799fc31877ae8a8aafecd892ec66379aeaa9b.1920x1080.jpg?t=1785577310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172730/48f9022dc125ceac62ed50f01d384bef44c99d79/ss_48f9022dc125ceac62ed50f01d384bef44c99d79.1920x1080.jpg?t=1785577310"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-01T07:59:10Z"
+  "updated_at": "2026-08-04T08:44:42Z"
 }

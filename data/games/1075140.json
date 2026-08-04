@@ -1,0 +1,36 @@
+{
+  "id": 1075140,
+  "title": "Super Friends Party",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1075140/capsule_616x353.jpg",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/page_bg_raw.jpg?t=1785816459",
+  "description": "Play minigames with up to 6 players in this online minigame multiplayer game!\nConnect up with your friends or strangers as you battle it out to find a champion!\nAll minigames are free to play, so get a friend or 5, what are you waiting for?\n\nUnique Gameplay – With minigames spanning across dozens of genres, there is a minigame for every taste for those friend groups who just can't decide!\n\nClassic Feel – Designed with the spirit of old school gaming, these minigames will feel familiar to gamers who have played similar titles.\n\nPlay who you want! – Change your name and appearance as often as you want! With over 100 playable characters you will never get bored.\n\nCustomization Galore – Hundreds of unlocks allow virtually endless customization of your characters!\n\nSolo Queue or Custom Lobby – Decide between playing with your friends, or competing in solo queue for fantastic unlocks!\n\nEarn Tickets - Earn Tickets for playing! Use tickets to buy hats, taunts, characters and much more!\n\nWeekly Content Updates – More minigames are coming all the time! As well as content updates, new characters, hats and taunts.\n\nAn internet connection is required to play.",
+  "description_short": "Play minigames with up to 6 players in this online minigame multiplayer game! Connect up with your friends or strangers as you battle it out to find a champion! All minigames are free to play, so get a friend or 5, what are you waiting for?",
+  "genres": [
+    "Королевская битва (Battle Royale)",
+    "Казуальные игры",
+    "Beat 'em up",
+    "Экшен",
+    "Аркадные гонки",
+    "Шутеры от первого лица (FPS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/ss_844d0fabd5fb515b0dc54bf79487c69694ee5804.1920x1080.jpg?t=1785816459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/ss_2762838197cc09c28d21cf2d7fb95f4819318363.1920x1080.jpg?t=1785816459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/ss_4594f3dffeb2e00b8673c3fb6b9f30f5200832e5.1920x1080.jpg?t=1785816459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/ss_e2b02caa5dab5b00446112247ba072010eaaae80.1920x1080.jpg?t=1785816459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/ss_e94998757adf60bd0fa61986eeeae58cac52fcfd.1920x1080.jpg?t=1785816459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/ss_b2c041ba011c77cb6a2ece94701f3127fef10ea0.1920x1080.jpg?t=1785816459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/ss_379bab5323a2331a7066d6e01fe469bb694f9b5e.1920x1080.jpg?t=1785816459",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/ss_5943c76aad0aa735cbd27194d1ca118966bb7974.1920x1080.jpg?t=1785816459"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-04T08:51:57Z"
+}
