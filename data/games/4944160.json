@@ -1,0 +1,35 @@
+{
+  "id": 4944160,
+  "title": "Project File Library",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944160/c33de381b42f2fcebd8c646b0afb59e05007e1d8/header.jpg?t=1785877790",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4944160?t=1785877790",
+  "description": "Turn your folder into a library where you can organize your files and texts Project File Library is an desktop file-library experience where folders and files become books. Choose a project folder from your computer, and the app transforms its contents into a small 3D scene that you can organize, revisit, and reshape.\n\n \n\n \n\nBuild Your Library• Choose a local folder and generate books from its files and folders.\n\n• Move books between the floor, ordinary shelves, and a special hidden shelf.\n\n• Add as many shelves as you need as your project grows.\n\n• Save different arrangements for different folders.\n\n• Restore your previous layouts from local library data.\n\n \n\nBrowse and Edit• Explore your folder through a file tree.\n\n• Double-click text files to open and edit them.\n\n• Split long text files into custom subgroups.\n\n• Combine subgroups into larger groups for easier navigation.\n\n• Save edited text, grouping data, layout data, and editor style settings locally.\n\n \n\nA Local WorkspaceProject File Library works with files on your own computer. Arrangement data, text grouping information, and style settings are stored inside a local .lib folder in the selected project root. The app is designed around local organization rather than online accounts or cloud storage.",
+  "description_short": "Turn your project folder into a calm 3D file library. Choose a local folder, watch files and folders become books, organize them onto shelves, edit text files, create groups and subgroups, and save your layout locally.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944160/5031922deb611879b791f53c38973bf5e9dc2838/ss_5031922deb611879b791f53c38973bf5e9dc2838.1920x1080.jpg?t=1785877790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944160/3b0ac46481eb75a19db43e35326f126311e2b911/ss_3b0ac46481eb75a19db43e35326f126311e2b911.1920x1080.jpg?t=1785877790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944160/64aaaab5eee279db6845985120ae3cfa933a9caf/ss_64aaaab5eee279db6845985120ae3cfa933a9caf.1920x1080.jpg?t=1785877790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944160/ff72894990873395165c34a6c9ff19c843f79ef2/ss_ff72894990873395165c34a6c9ff19c843f79ef2.1920x1080.jpg?t=1785877790",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944160/befb2fdadf0fb3c5f052fe5e2edcc008655d6ccd/ss_befb2fdadf0fb3c5f052fe5e2edcc008655d6ccd.1920x1080.jpg?t=1785877790"
+  ],
+  "upsells": [
+    {
+      "id": 5031870,
+      "name": "Project File Library - Supporter Pack",
+      "price_rub": 549,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031870/b571d738bc9e23bf8de56e04e06aae5be00cf438/header.jpg?t=1785877816"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-05T01:54:41Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4620430,
+  "title": "Meet Me In The Well",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620430/df364bbcb2a0f8f6f8cc2ba8c38ca24ad70a2a53/header.jpg?t=1785859488",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4620430?t=1785859488",
+  "description": "Meet Me in the Well — динамичный аренный шутер для локальной игры до 4 игроков. Вступайте в бой с револьвером, заряженным 6 пулями с различными эффектами, прокрутите барабан и стреляйте. Каждый выстрел использует случайный патрон. Одни наносят урон, другие изменяют игроков или арену, а некоторые просто шумят.\n\nОсновные особенности• Хаотичный локальный мультиплеер до 4 игроков (без одиночного режима)\n\n• Поддержка Steam Remote Play Together\n\n• Более 50 уникальных пуль\n\n• Револьвер, случайным образом выбирающий следующий патрон\n\n• Быстрый игровой процесс\n\n• Система прогресса с разблокировкой пуль и персонажей\n\n• Поддержка контроллеров (рекомендуется)\n\n• Настройки матча для управления уровнем хаоса\n\n• Очень универсальный колодец",
+  "description_short": "Meet Me in the Well — динамичный аренный шутер для 4 игроков. Играйте локально или онлайн через Steam Remote Play Together. Зарядите револьвер шестью случайными пулями с необычными эффектами и приготовьтесь к полному хаосу.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 851,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620430/923154962d9ab71ca17bd61a0cdcbfd98e71f9c3/ss_923154962d9ab71ca17bd61a0cdcbfd98e71f9c3.1920x1080.jpg?t=1785859488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620430/ca8e67740ab65c748342b78f462b04bc38bd92d8/ss_ca8e67740ab65c748342b78f462b04bc38bd92d8.1920x1080.jpg?t=1785859488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620430/069af16d142deee12598764423783eb1ac470de9/ss_069af16d142deee12598764423783eb1ac470de9.1920x1080.jpg?t=1785859488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620430/5b3f9b2109bfd4a653b7485fd57c985217fb8e5e/ss_5b3f9b2109bfd4a653b7485fd57c985217fb8e5e.1920x1080.jpg?t=1785859488",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620430/1fe093593e3dbc5b24aabf344d0cb28ebe571758/ss_1fe093593e3dbc5b24aabf344d0cb28ebe571758.1920x1080.jpg?t=1785859488"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-05T02:01:34Z"
+}

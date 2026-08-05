@@ -1,0 +1,41 @@
+{
+  "id": 4941910,
+  "title": "Readerpet",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941910/776e00f9c671a2249411b16e4d02e9e275adc543/header.jpg?t=1785868485",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941910/30f96399a7534446c77e2d48eabb59d1684820f9/page_bg_raw.jpg?t=1785868485",
+  "description": "Ваше чтение — живое, у вас на экране.Readerpet — тамагочи читательской привычки. Дочитывайте книги, записывайте их, и сиамский кот по имени Грималкин превратит их в сад — по растению за книгу, с названием и автором на маленькой табличке. Не прерывайте серию чтения — и существа переедут к вам. Прервёте её — что ж. Он прощает. Как правило.\n\n• 🌱 Сад, который могли бы вырастить только вы — каждое растение — книга, которую вы действительно прочли. Ваша полка, только живая.\n\n• 🐈 Грималкин — владелец, критик, ценитель сыра. У него есть мнение о вашем темпе чтения и ни малейших сомнений, стоит ли им делиться.\n\n• 🦋 Приходят друзья — продолжайте читать, и существа останутся: Toast, мотылёк Margot (она летает, разумеется), Bramble, Ash и Seedling.\n\n• 🪟 Цветочный ящик — закрепите сад узкой полоской внизу рабочего стола: Грим прогуливается по тропинке, пока вы работаете. Приколите, растяните или позвольте ему вежливо спрятаться за окнами.\n\n• 🛒 Лавка Грима — декор для сада и домика от кота с сомнительной деловой этикой. Книги бесплатны. Книги всегда бесплатны.\n\n• 📱 Один сад — всюду — телефон, браузер, Steam: та же самая роща, всегда синхронизированная.\n\n• 🌍 29 языков — портал говорит на 29, от Français до 日本語 и Українська. Грималкин читает там же, где и вы; читают повсюду.\n\nБесплатно. Без рекламы, без шкал энергии, без тёмных паттернов — единственное, о чём Readerpet вообще вас попросит, — это читать.",
+  "description_short": "Грималкин — маленький пиксельный кот, убеждённый, что вам следует читать. Записывайте книги, растите сад, где каждое растение — дочитанная вами история, и пусть он составит вам компанию: в игре или закреплённый внизу экрана, пока вы работаете. Бесплатно, уютно и с тихим осуждением.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941910/eb02463ad5cefa4e3b67b191647371f786d7408f/ss_eb02463ad5cefa4e3b67b191647371f786d7408f.1920x1080.jpg?t=1785868485",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941910/f45f949d9e0a853f52a3dcc597dc5317ab1e45f9/ss_f45f949d9e0a853f52a3dcc597dc5317ab1e45f9.1920x1080.jpg?t=1785868485",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941910/0d47c92094f9591e18532a39dd7b2f80268d49f1/ss_0d47c92094f9591e18532a39dd7b2f80268d49f1.1920x1080.jpg?t=1785868485",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941910/7f82bc39b6eadedf8f6de4dc38a1d996bcc39709/ss_7f82bc39b6eadedf8f6de4dc38a1d996bcc39709.1920x1080.jpg?t=1785868485",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941910/a2022283dcef96ce9e076a5d57d22d03abf71df4/ss_a2022283dcef96ce9e076a5d57d22d03abf71df4.1920x1080.jpg?t=1785868485"
+  ],
+  "upsells": [
+    {
+      "id": 4942160,
+      "name": "Readerpet - Garden Décor Pack",
+      "price_rub": 734,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942160/d3e00a10e187f1646e095675194df9cb438e0549/header.jpg?t=1785868523"
+    },
+    {
+      "id": 4942170,
+      "name": "Readerpet - Cottage Furnishing Pack",
+      "price_rub": 734,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942170/5d9ef7d0234ab15b583407140e214bc42102362a/header.jpg?t=1785868502"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-05T01:56:17Z"
+}
