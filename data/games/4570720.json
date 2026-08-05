@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1924,
+  "price_rub": 1940,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "bvqGAuu-ZIM",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/3465ef4d24f71d133cd345f7e6dcf3df89ff051a/ss_3465ef4d24f71d133cd345f7e6dcf3df89ff051a.1920x1080.jpg?t=1785492030",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/54fe2d824299bf877d9db3b013184b4f6c3b5e80/ss_54fe2d824299bf877d9db3b013184b4f6c3b5e80.1920x1080.jpg?t=1785492030",
@@ -29,70 +29,70 @@
     {
       "id": 4742640,
       "name": "DragonSword Awakening - Deluxe Pack",
-      "price_rub": 1443,
+      "price_rub": 1453,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742640/e77080b6194785d0f4ab2ff997c0b7fea00120bf/header.jpg?t=1784781543"
     },
     {
       "id": 4911300,
       "name": "DragonSword : Awakening - Costume : Coral Summer Mischief",
-      "price_rub": 849,
+      "price_rub": 853,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911300/cc32b400527c723fa26cde6522c8258bc6578ade/header.jpg?t=1785491616"
     },
     {
       "id": 4911310,
       "name": "DragonSword : Awakening - Costume : White Flower of the Blue Waves",
-      "price_rub": 849,
+      "price_rub": 853,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911310/0116912ab0280c4c72375aca8bd65f9b1424e1e7/header.jpg?t=1785491645"
     },
     {
       "id": 4786220,
       "name": "DragonSword : Awakening - Costume : Ophelia's Oath",
-      "price_rub": 694,
+      "price_rub": 696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786220/44fb3f325661dac0dd2e8e8d42f935fc22129e30/header.jpg?t=1784776469"
     },
     {
       "id": 4786230,
       "name": "DragonSword : Awakening - Costume : Roderick Royal Uniform",
-      "price_rub": 694,
+      "price_rub": 696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786230/8b30f53c0bedc4460d1bfa853d77313af54e0a78/header.jpg?t=1784776463"
     },
     {
       "id": 4786240,
       "name": "DragonSword : Awakening - Costume : Phantom Thief of Dawn",
-      "price_rub": 694,
+      "price_rub": 696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786240/b7d071b4b47bcd1f8b66459e63c81f7bf481dc2a/header.jpg?t=1784776460"
     },
     {
       "id": 4786250,
       "name": "DragonSword : Awakening - Costume : Black-Dyed Vestment",
-      "price_rub": 694,
+      "price_rub": 696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786250/190726a454c799f768bac20493fcf1736c7264f1/header.jpg?t=1784900367"
     },
     {
       "id": 4786270,
       "name": "DragonSword : Awakening - Costume : Wild Strawberry Waitress",
-      "price_rub": 694,
+      "price_rub": 696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786270/6121233ca59c99740dfdc090f9c14f6d7b82e6fe/header.jpg?t=1784776465"
     },
     {
       "id": 4785980,
       "name": "DragonSword : Awakening - Familiar : Viola Flying Squirrel",
-      "price_rub": 694,
+      "price_rub": 696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785980/b9b435139d256d300a67696dc5a36f2005ba4cd4/header.jpg?t=1784776474"
     },
     {
       "id": 4785990,
       "name": "DragonSword : Awakening - Familiar : Cotton Flying Squirrel",
-      "price_rub": 694,
+      "price_rub": 696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785990/992fd83786748575d15483fb6db4315edfeb9414/header.jpg?t=1784776476"
     },
     {
       "id": 4786000,
       "name": "DragonSword : Awakening - Familiar : Orchid Wing Cat",
-      "price_rub": 694,
+      "price_rub": 696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786000/b9636941eb7971afb6ee56900ae04887c06fcb0b/header.jpg?t=1784776478"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-02T01:41:34Z"
+  "updated_at": "2026-08-05T08:13:16Z"
 }

@@ -1,9 +1,9 @@
 {
   "id": 4400270,
   "title": "Cue Room",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/70bbed935a21635eca3fc99eed54a1e1c9b519ef/header.jpg?t=1785323098",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4400270?t=1785323098",
-  "description": "Shop balls, pot the balls, earn money, repeat\n\nA simple and small pool rogue-like, made in a few days as part of a game jam\n\nCue Room is a rogue-like billiard game.\n\n• Purchase new balls with special effect and different worth\n\n• Pot the balls to unleash chaos with their abilities and earn money\n\n• Shop new balls again and repeat\n\nMissing a shot or potting the cue ball will make you lose a life. Play smart, think ahead and utilize the balls abilities to their best!\n\nFocus on your game or look around, there could be something terrifying to uncover, luring inside the walls, watching your every move.\n\nYou never know what awaits you in that old, cramped room.\n\nUnlock new ball parts, discover the secrets this establishment holds, improve your shots and relax with a nice game of billiard in Cue Room.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/70bbed935a21635eca3fc99eed54a1e1c9b519ef/header.jpg?t=1785664415",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4400270?t=1785664415",
+  "description": "Shop balls, pot the balls, earn money, repeat\n\nA simple and small pool rogue-like, made in a few days as part of a game jam\n\nCue Room is a rogue-like billiard game.\n\n• Purchase new balls with special effect and different worth\n\n• Pot the balls to unleash chaos with their abilities and earn money\n\n• Shop new balls again and repeat\n\nMissing a shot or potting the cue ball will make you lose a life. Play smart, think ahead and utilize the balls abilities to their best!\n\nPlay some chaotic billiard in a gloomy atmosphere with the feel of being watched at all time.\n\nUnlock new ball parts, discover the secrets this establishment holds, improve your shots and relax with a nice game of billiard in Cue Room.",
   "description_short": "Cue Room is a rogue-like billiard game. Shop balls with special abilities, pot them, embrace their unleashed chaos and repeat.",
   "genres": [
     "Экшен"
@@ -14,16 +14,16 @@
   "price_rub": 559,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "4w1xZA7pX2c",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/307694677df7df2b8d7164691216d4cf6e051033/ss_307694677df7df2b8d7164691216d4cf6e051033.1920x1080.jpg?t=1785323098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/18bcd52260e5e6f34a25579de2be270fa35c7c68/ss_18bcd52260e5e6f34a25579de2be270fa35c7c68.1920x1080.jpg?t=1785323098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/0b11ebc3349d077e602ef23818cfa3ef2e3e3e58/ss_0b11ebc3349d077e602ef23818cfa3ef2e3e3e58.1920x1080.jpg?t=1785323098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/c1c30b172e118d55a3667e3e003f2f9e2e6c620b/ss_c1c30b172e118d55a3667e3e003f2f9e2e6c620b.1920x1080.jpg?t=1785323098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/b4370ad4267e29da7596e03bd0af5cfb8b64305b/ss_b4370ad4267e29da7596e03bd0af5cfb8b64305b.1920x1080.jpg?t=1785323098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/2e43337f2106819f38fc9fc6f8c4dfbf0650fffd/ss_2e43337f2106819f38fc9fc6f8c4dfbf0650fffd.1920x1080.jpg?t=1785323098"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/307694677df7df2b8d7164691216d4cf6e051033/ss_307694677df7df2b8d7164691216d4cf6e051033.1920x1080.jpg?t=1785664415",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/18bcd52260e5e6f34a25579de2be270fa35c7c68/ss_18bcd52260e5e6f34a25579de2be270fa35c7c68.1920x1080.jpg?t=1785664415",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/0b11ebc3349d077e602ef23818cfa3ef2e3e3e58/ss_0b11ebc3349d077e602ef23818cfa3ef2e3e3e58.1920x1080.jpg?t=1785664415",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/c1c30b172e118d55a3667e3e003f2f9e2e6c620b/ss_c1c30b172e118d55a3667e3e003f2f9e2e6c620b.1920x1080.jpg?t=1785664415",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/b4370ad4267e29da7596e03bd0af5cfb8b64305b/ss_b4370ad4267e29da7596e03bd0af5cfb8b64305b.1920x1080.jpg?t=1785664415",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400270/2e43337f2106819f38fc9fc6f8c4dfbf0650fffd/ss_2e43337f2106819f38fc9fc6f8c4dfbf0650fffd.1920x1080.jpg?t=1785664415"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-02T01:26:47Z"
+  "updated_at": "2026-08-05T08:12:02Z"
 }

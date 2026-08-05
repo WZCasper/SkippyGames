@@ -1,0 +1,31 @@
+{
+  "id": 4963500,
+  "title": "corectl",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/482dd805297ab79e26504fd608d7b4d7394c7353/header.jpg?t=1785913389",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4963500?t=1785913389",
+  "description": "corectl is a 2D roguelite tower defense game that combines limited building loadouts, path design, and wave-reward synergies. Reroute enemies advancing toward the core from three entry zones, create chokepoints, and build defensive lines that concentrate your firepower.\n\nStrengthen Modules with AugmentsChoose one augment after each wave you successfully defend against. When different augments stack together, they can become more powerful than you ever imagined.\n\nSecure Stability Through ResearchIf you are concerned about the instability of augments, conduct research. You will gain powerful permanent effects.\n\nStrategize with Diverse ModulesCreate your own loadout from a variety of modules and experiment with different strategies. Whether you focus your support on a single module or use several different modules is entirely up to you.",
+  "description_short": "Deploy up to six building types to shape enemy routes. Combine wave rewards into devastating chain reactions and keep the core online in this 2D roguelite tower defense.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 687,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/98e9f6b2c700233ab8756482d65259cde633c299/ss_98e9f6b2c700233ab8756482d65259cde633c299.1920x1080.jpg?t=1785913389",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/1ddc88581d955a319dfa9b52c68baf765f9bb0b4/ss_1ddc88581d955a319dfa9b52c68baf765f9bb0b4.1920x1080.jpg?t=1785913389",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/f9be5bd49c7561ac1b0016544c7051c88811c6f2/ss_f9be5bd49c7561ac1b0016544c7051c88811c6f2.1920x1080.jpg?t=1785913389",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/4f8c902d1f40716b6acc04cbdd192c70097b4c84/ss_4f8c902d1f40716b6acc04cbdd192c70097b4c84.1920x1080.jpg?t=1785913389",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/24356f607f0c6c6c1d6fc823eb13f5712ad32c55/ss_24356f607f0c6c6c1d6fc823eb13f5712ad32c55.1920x1080.jpg?t=1785913389",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/05e80b25e1c564330d0fa1555edc948e7e3e429f/ss_05e80b25e1c564330d0fa1555edc948e7e3e429f.1920x1080.jpg?t=1785913389",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/516e7da87775dd2ce7465221d6fa54f6d1940b2d/ss_516e7da87775dd2ce7465221d6fa54f6d1940b2d.1920x1080.jpg?t=1785913389",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/b10f20f2d83cf27a86e991d6d566d87fde90815b/ss_b10f20f2d83cf27a86e991d6d566d87fde90815b.1920x1080.jpg?t=1785913389"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-05T09:05:55Z"
+}
