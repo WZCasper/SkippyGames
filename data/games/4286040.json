@@ -1,0 +1,38 @@
+{
+  "id": 4286040,
+  "title": "Unicycle Together",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/7ba93ad19f40a39830d696385ce3f21a44d87e3a/header.jpg?t=1785950410",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/45c52ce3fc6e7a3c7592576776d392511c9cde9d/page_bg_raw.jpg?t=1785950410",
+  "description": "Не уроните бомбу!Готовы к безумию, основанному на физике, в компании 2-4 друзей? Постарайтесь доставить бомбу на вершину горы, пока она не взорвалась! Но есть небольшая проблема... Все вы сосиски, и передвигаться можете только на унициклах! Не уроните бомбу, иначе взлетите на воздух!\n\nПроверьте свою дружбу на прочность!Играйте в компании от 2 до 4 человек. Станете ли вы сплоченной командой или подбросите бомбу другу и броситесь наутек?\n\nФизический хаосУдерживать равновесие на одном колесе и при этом пытаться бросить бомбу другу гораздо сложнее, чем кажется!\n\nОгромные угрозыНе ограничивайтесь подрывом друзей: сплотитесь, чтобы выжить в битвах с огромными боссами!\n\nХрупкое равновесиеСледите за каждым движением, ведь малейшая неосторожность, потеря баланса или падение могут привести к провалу! \n\nСоздайте свою сосискуПреобразите своего персонажа с помощью различных костюмов и аксессуаров. Создайте уникальную сосиску, используя смешные шляпы, безумные украшения и разнообразные выражения лиц!",
+  "description_short": "Моноцикл, готовая взорваться бомба и сосиски, пытающиеся удержать равновесие! В этой хаотичной игре на основе физики для 2-4 игроков объединяйтесь с друзьями или взрывайте их! Доберитесь до вершины горы до того, как взорвется бомба. Не падайте, не взрывайтесь, старайтесь оставаться сосисками!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 678,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/697a2f895e78c52409253aa5e07bfb2623071c01/ss_697a2f895e78c52409253aa5e07bfb2623071c01.1920x1080.jpg?t=1785950410",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/54bd6afcde8a790815fc6b6b171f4dab12744109/ss_54bd6afcde8a790815fc6b6b171f4dab12744109.1920x1080.jpg?t=1785950410",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/e6c84483ec3e855ab5b62df47759196c51fba601/ss_e6c84483ec3e855ab5b62df47759196c51fba601.1920x1080.jpg?t=1785950410",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/d2c98a5b75dd1fd395088c6c815ffbfa9385a1f3/ss_d2c98a5b75dd1fd395088c6c815ffbfa9385a1f3.1920x1080.jpg?t=1785950410",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/dd8b403cb9c6de1e263e53fda1c7b568086e5f4c/ss_dd8b403cb9c6de1e263e53fda1c7b568086e5f4c.1920x1080.jpg?t=1785950410",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/1d30c7a39d3cf550c68bcbc9a05397329d0a33c3/ss_1d30c7a39d3cf550c68bcbc9a05397329d0a33c3.1920x1080.jpg?t=1785950410",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/41aaa5ae2c5f0958b06145cf2e6e48c9dd4d86e1/ss_41aaa5ae2c5f0958b06145cf2e6e48c9dd4d86e1.1920x1080.jpg?t=1785950410",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/f962ba2add50ab3db5664a242f15478f68c634cc/ss_f962ba2add50ab3db5664a242f15478f68c634cc.1920x1080.jpg?t=1785950410"
+  ],
+  "upsells": [
+    {
+      "id": 4946210,
+      "name": "Unicycle Together - All Cosmetics Pack",
+      "price_rub": 570,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946210/ed3148fe87f664a709ddadcf7c30e1ff872ca8ed/header.jpg?t=1785949094"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-05T19:49:49Z"
+}

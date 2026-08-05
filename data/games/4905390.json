@@ -1,8 +1,8 @@
 {
   "id": 4905390,
   "title": "RavenVeil",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/910c1e549f2492f78f8bc33fea11f74df4a6921a/header.jpg?t=1785364143",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4905390?t=1785364143",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/910c1e549f2492f78f8bc33fea11f74df4a6921a/header.jpg?t=1785799489",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4905390?t=1785799489",
   "description": "RavenVeil is a first-person psychological horror game set in the abandoned village of RavenVeil, where a series of mysterious events changed everything forever.\n\nIt all began with the tragic incident of the Bride, an event so terrifying that it forced every resident to flee and leave the village behind. But what really happened that night? And what secrets still linger within the empty streets?\n\nExplore the forgotten village, solve challenging puzzles, confront your fears, and uncover the truth behind the Bride's story and the dark mystery that haunts RavenVeil.",
   "description_short": "Explore abandoned homes, forgotten paths, and hidden places in RavenVeil. Find clues, solve puzzles, unlock sealed areas, and uncover the Bride's mystery. Every discovery reveals darker secrets. Will you escape with the truth, or become part of RavenVeil forgotten history?",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 974,
+  "price_rub": 979,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/8a57807957bee7c8f869e6d6572bb189da08128a/ss_8a57807957bee7c8f869e6d6572bb189da08128a.1920x1080.jpg?t=1785364143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/19b8c570ebcf6b2788d651b9d8d5c6e949105828/ss_19b8c570ebcf6b2788d651b9d8d5c6e949105828.1920x1080.jpg?t=1785364143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/17c7db5294ae161c0ec0073029be38b4bf72af1c/ss_17c7db5294ae161c0ec0073029be38b4bf72af1c.1920x1080.jpg?t=1785364143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/520efecac601bacf497e07d79ba8b409e3287271/ss_520efecac601bacf497e07d79ba8b409e3287271.1920x1080.jpg?t=1785364143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/58b60d537d7c34df1dae3f2ac36e58cd334496d9/ss_58b60d537d7c34df1dae3f2ac36e58cd334496d9.1920x1080.jpg?t=1785364143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/107a44a24a008c196f1d06ab183f0690979ed939/ss_107a44a24a008c196f1d06ab183f0690979ed939.1920x1080.jpg?t=1785364143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/8fe168f27c6985c4deece6c3d0bd59734ebec78f/ss_8fe168f27c6985c4deece6c3d0bd59734ebec78f.1920x1080.jpg?t=1785364143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/d5862cfb38b131511267a178414be20a83e1467b/ss_d5862cfb38b131511267a178414be20a83e1467b.1920x1080.jpg?t=1785364143"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/8a57807957bee7c8f869e6d6572bb189da08128a/ss_8a57807957bee7c8f869e6d6572bb189da08128a.1920x1080.jpg?t=1785799489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/19b8c570ebcf6b2788d651b9d8d5c6e949105828/ss_19b8c570ebcf6b2788d651b9d8d5c6e949105828.1920x1080.jpg?t=1785799489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/17c7db5294ae161c0ec0073029be38b4bf72af1c/ss_17c7db5294ae161c0ec0073029be38b4bf72af1c.1920x1080.jpg?t=1785799489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/520efecac601bacf497e07d79ba8b409e3287271/ss_520efecac601bacf497e07d79ba8b409e3287271.1920x1080.jpg?t=1785799489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/58b60d537d7c34df1dae3f2ac36e58cd334496d9/ss_58b60d537d7c34df1dae3f2ac36e58cd334496d9.1920x1080.jpg?t=1785799489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/107a44a24a008c196f1d06ab183f0690979ed939/ss_107a44a24a008c196f1d06ab183f0690979ed939.1920x1080.jpg?t=1785799489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/8fe168f27c6985c4deece6c3d0bd59734ebec78f/ss_8fe168f27c6985c4deece6c3d0bd59734ebec78f.1920x1080.jpg?t=1785799489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905390/d5862cfb38b131511267a178414be20a83e1467b/ss_d5862cfb38b131511267a178414be20a83e1467b.1920x1080.jpg?t=1785799489"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-02T18:52:37Z"
+  "updated_at": "2026-08-05T19:29:03Z"
 }

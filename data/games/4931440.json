@@ -1,0 +1,29 @@
+{
+  "id": 4931440,
+  "title": "Miniko",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931440/21470bf4cad5489673fa6c4f2c33a6b703797f2b/header.jpg?t=1785942406",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931440/8b1fe229860761537ba979b6398620cf11caefb6/page_bg_raw.jpg?t=1785942406",
+  "description": "A 2D avatar for streamers who want personality and customization.\n\nMiniko lets you build a custom 2D avatar, set it up your way, and start streaming in minutes. Low CPU, no rigging required.\n\nCreate\n\nChoose hairstyles, outfits, accessories, and colors to create an avatar that's uniquely yours, or upload your existing avatar in custom avatar mode.\n\n• Hundreds of hand-drawn parts, mixed and matched freely.\n\n• Upload your own avatar with custom avatar mode.\n\n• Preset palettes plus a full color and gradient picker on every layer.\n\n• Save unlimited outfits and avatars.\n\nSet-up\n\nAssign expressions to hotkeys and choose how your avatar reacts.\n\n• Up to 10 expression slots.\n\n• Use face tracking with your webcam plus voice, or voice-only with just your mic.\n\nStream\n\nAdd Miniko to OBS or Streamlabs and go live.\n\n• Transparent background drops into any scene as a layer.\n\n• Low CPU usage, no rigging required.\n\n• Windows and macOS.\n\nLicense\n\nCommercial use included - monetizing streams, subs, and sponsorships.",
+  "description_short": "Miniko is a 2D avatar for streamers who want personality and customization. Build an avatar from hundreds of assets or upload your own avatar, recolor every layer, and save unlimited outfits. Assign expressions to hotkeys, use facecam or voice-only mode, and drop it into OBS or Streamlabs.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 1291,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931440/a456c80f7e17a4a3df6d9cf6aeca983ba3f10de1/ss_a456c80f7e17a4a3df6d9cf6aeca983ba3f10de1.1920x1080.jpg?t=1785942406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931440/402c9a4ba966744662ab03ab6b15c680be2c5886/ss_402c9a4ba966744662ab03ab6b15c680be2c5886.1920x1080.jpg?t=1785942406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931440/0a99185ffce8662937a0fb632311ead6f4a2af4c/ss_0a99185ffce8662937a0fb632311ead6f4a2af4c.1920x1080.jpg?t=1785942406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931440/62642b003f50a4868a5cc729e70b6821e2fb4aa6/ss_62642b003f50a4868a5cc729e70b6821e2fb4aa6.1920x1080.jpg?t=1785942406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931440/0735ccfe2178a7d1b204a69539c3f3f226c86847/ss_0735ccfe2178a7d1b204a69539c3f3f226c86847.1920x1080.jpg?t=1785942406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931440/c6682141e4ecd242352bbe53118721c08cd9fba8/ss_c6682141e4ecd242352bbe53118721c08cd9fba8.1920x1080.jpg?t=1785942406"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-05T19:54:30Z"
+}

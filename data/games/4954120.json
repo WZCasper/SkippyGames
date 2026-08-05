@@ -1,0 +1,35 @@
+{
+  "id": 4954120,
+  "title": "Frame Radar",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/c9183decfbcb6b89f91d63a1d6f820887ec7a365/header.jpg?t=1785940475",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/361966cb5e886a3b34800b06d2079390446bac87/page_bg_raw.jpg?t=1785940475",
+  "description": "Stop guessing why your game stuttered.\nFrame Radar is a Windows performance analysis tool built for PC gamers. It records what happened before, during, and after an FPS drop—then brings frame time, CPU, GPU, memory, storage, network, temperatures, and background processes together in one report.See the whole performance picture\n• Frame pacing: FPS, average FPS, 1% lows, frame time, and detected drop events\n\n• CPU and GPU: utilization, temperature, frequency, power, clocks, voltage, and VRAM\n\n• System activity: RAM, disk throughput, network latency, jitter, packet loss, and active processes\n\n• Health checks: a guided 60-second system scan with scored categories, charts, technical findings, and recommendations\nTurn a stutter into evidence\nFrame Radar automatically records detected game sessions and aligns every performance event with the telemetry captured at that moment. Instead of a generic “low FPS” warning, you get the context needed to investigate CPU saturation, GPU limits, thermal behavior, memory pressure, disk activity, network instability, or a competing background process.Review every session\nOpen a session to inspect its timeline, performance summary, drop events, alerts, and recorded system behavior. Compare what changed across sessions and keep the results that matter.Monitor without leaving the game\nUse the customizable in-game overlay to keep selected metrics visible while you play. Create threshold-based alerts and choose how Frame Radar notifies you: in the app, through the overlay, with sound, or with a Windows notification.Free core monitoring. Pro reporting tools.\nCore monitoring, automatic session detection, custom sessions, and the 60-second System Health Scan are free. The optional Pro Upgrade unlocks detailed Excel reports, bulk export, unlimited retained session and alert history, and session markers.\n\nAdvanced voltage and selected motherboard/NVMe sensors depend on hardware support and the optional PawnIO driver. Frame Radar never installs this driver silently.",
+  "description_short": "Find the real cause of FPS drops. Frame Radar records frame time and PC telemetry while you play, correlates performance events with hardware and background processes, and turns each session into a clear, actionable report.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/cd98847fa6403c513af2d02ede4035a7b4c1e47d/ss_cd98847fa6403c513af2d02ede4035a7b4c1e47d.1920x1080.jpg?t=1785940475",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/ef3a012d7bf97e12f6d3dee02284cc7d00f13f17/ss_ef3a012d7bf97e12f6d3dee02284cc7d00f13f17.1920x1080.jpg?t=1785940475",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/aa9d2fbab4ed2397d09712620a75b2dfb5370eeb/ss_aa9d2fbab4ed2397d09712620a75b2dfb5370eeb.1920x1080.jpg?t=1785940475",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/de28c693d3b1b647afe36e738525290fb5b1cb3d/ss_de28c693d3b1b647afe36e738525290fb5b1cb3d.1920x1080.jpg?t=1785940475",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/fb7d0ebc647e993874dbae798e5cd5cd6ffd2fd6/ss_fb7d0ebc647e993874dbae798e5cd5cd6ffd2fd6.1920x1080.jpg?t=1785940475"
+  ],
+  "upsells": [
+    {
+      "id": 4954160,
+      "name": "Frame Radar — Pro Upgrade",
+      "price_rub": 734,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954160/8c19b25ae13685dff580ea30b138240cf3455a76/header.jpg?t=1784851323"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-05T20:00:13Z"
+}
