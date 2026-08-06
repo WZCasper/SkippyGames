@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 678,
+  "price_rub": 682,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "N49FNwXa_Do",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669350/aa2c915581bb1ab56dcd95bd246897b88ab3eac7/ss_aa2c915581bb1ab56dcd95bd246897b88ab3eac7.1920x1080.jpg?t=1785391981",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669350/66e873a48de854640f530351cf4787d3b1d5e4a8/ss_66e873a48de854640f530351cf4787d3b1d5e4a8.1920x1080.jpg?t=1785391981",
@@ -29,16 +29,16 @@
     {
       "id": 4688820,
       "name": "WinHack 95 - Supporter Pack",
-      "price_rub": 708,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688820/19ccea73befd433db82ac47b3fa397ed9bbb8fad/header.jpg?t=1784576067"
     },
     {
       "id": 4688850,
       "name": "WinHack 95 Soundtrack",
-      "price_rub": 600,
+      "price_rub": 614,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688850/29c6172c8d82d154223fa98a07e5ccb7fbf7d91c/header.jpg?t=1784576087"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-03T08:57:33Z"
+  "updated_at": "2026-08-06T13:36:18Z"
 }
