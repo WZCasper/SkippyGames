@@ -1,8 +1,8 @@
 {
   "id": 4872710,
   "title": "Dollar Desktop Pet",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/5c4ad0e01e67a3b8aba278df0e2ec7869421ba3d/header.jpg?t=1784902863",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872710?t=1784902863",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/5c4ad0e01e67a3b8aba278df0e2ec7869421ba3d/header.jpg?t=1785878541",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872710?t=1785878541",
   "description": "Dollar is a local desktop safety companion — a friendly cat that lives on your desktop and keeps your code projects safe with a set of local, offline tools.\n\nWorks on its own — no AI, no account, no API key, no Git required:\n\n• Restore Points (Vault) — snapshot a folder and roll back in one click.\n\n• Secret Scan — find exposed keys before you commit or share. Findings are redacted.\n\n• Project Health Check — a quick read-only pre-flight on your project.\n\n• Safety Sandbox — see a command's local risk rating (red / amber / green). Nothing is executed.\n\n• System vitals and a local ledger — handy desktop readouts.\n\n• A desktop pet — drag it, pet it, get gentle notifications.\n\nOptional — connect an AI coding agent you already use:\n\nRun a compatible, locally-installed AI coding agent and Dollar can supervise it live — a prompt before risky actions, automatic restore points, and a cost tally. Optional, and separate from the local tools above.\n\nPrivacy: everything runs locally. No telemetry, no project content uploaded. Dollar contains no AI of its own and needs no API key for its core features.",
   "description_short": "A local desktop safety companion for code projects. Create restore points, scan for secrets, check project health, and review command risk — no account, API key, or AI required for core tools. Optionally connect a compatible locally installed AI coding agent for live supervision.",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 636,
+  "price_rub": 638,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/ab60d427a1f4ae9227d41afc5cea13e851e9c496/ss_ab60d427a1f4ae9227d41afc5cea13e851e9c496.1920x1080.jpg?t=1784902863",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/645c92b1462f000b3ae34ee21c991cf2e6a9f5cb/ss_645c92b1462f000b3ae34ee21c991cf2e6a9f5cb.1920x1080.jpg?t=1784902863",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/1a05f37655421b5c054e8e45a9a309582543032b/ss_1a05f37655421b5c054e8e45a9a309582543032b.1920x1080.jpg?t=1784902863",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/49eae4512b61ecb6806cf95c68bd8a3973c17815/ss_49eae4512b61ecb6806cf95c68bd8a3973c17815.1920x1080.jpg?t=1784902863",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/00b6ffe974f75bb0e977a9a7d3c808f1388b3ba4/ss_00b6ffe974f75bb0e977a9a7d3c808f1388b3ba4.1920x1080.jpg?t=1784902863",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/b202b38d7bb1603107c2b7e588d04a3a76c179d5/ss_b202b38d7bb1603107c2b7e588d04a3a76c179d5.1920x1080.jpg?t=1784902863"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/ab60d427a1f4ae9227d41afc5cea13e851e9c496/ss_ab60d427a1f4ae9227d41afc5cea13e851e9c496.1920x1080.jpg?t=1785878541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/645c92b1462f000b3ae34ee21c991cf2e6a9f5cb/ss_645c92b1462f000b3ae34ee21c991cf2e6a9f5cb.1920x1080.jpg?t=1785878541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/1a05f37655421b5c054e8e45a9a309582543032b/ss_1a05f37655421b5c054e8e45a9a309582543032b.1920x1080.jpg?t=1785878541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/49eae4512b61ecb6806cf95c68bd8a3973c17815/ss_49eae4512b61ecb6806cf95c68bd8a3973c17815.1920x1080.jpg?t=1785878541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/00b6ffe974f75bb0e977a9a7d3c808f1388b3ba4/ss_00b6ffe974f75bb0e977a9a7d3c808f1388b3ba4.1920x1080.jpg?t=1785878541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/b202b38d7bb1603107c2b7e588d04a3a76c179d5/ss_b202b38d7bb1603107c2b7e588d04a3a76c179d5.1920x1080.jpg?t=1785878541"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-04T02:02:59Z"
+  "updated_at": "2026-08-07T13:28:13Z"
 }

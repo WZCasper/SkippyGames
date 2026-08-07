@@ -1,8 +1,8 @@
 {
   "id": 4187740,
   "title": "Mothiary",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/8e34b69bd247568ad6dd6626d52f8c910f5ea555/header.jpg?t=1785211337",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4187740?t=1785211337",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/8e34b69bd247568ad6dd6626d52f8c910f5ea555/header.jpg?t=1785895533",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4187740?t=1785895533",
   "description": "Собирайте и заботьтесь о мотыльках в тихом мире лунного света и роста.\n\nПогрузитесь в спокойный ночной мир и собирайте изящных мотыльков. Наблюдайте, как ваш террариум оживает: каждая specie отдыхает, порхает и процветает под мягким сиянием ночи.\n\n                          \n\nРазвивайте своё убежище.\nНачните с простых коконов и вырастите из них новые виды. Расширяйте террариум, получайте ресурсы со временем и открывайте редких мотыльков, пополняя свою коллекцию.\n\nМирный ритм открытий.\nКаждая найденная мотыль приносит мгновение удивления. Mothiary приглашает замедлиться, насладиться процессом коллекционирования и наблюдать, как ваше убежище наполняется жизнью — вид за видом.\n\nОсобенности\n\n• Собирайте и выращивайте настоящие виды мотыльков со всего мира\n• Расширяйте террариум и создавайте уютные биомы для разных регионов\n• Получайте ресурсы в режиме простоя — расслабленный игровой процесс\n• Открывайте новые среды и редкие виды по мере продвижения\n• Спокойная фоновая музыка и умиротворённая атмосфера\n• Играйте в своём темпе, достигая простых и приятных целей\n\nДобавьте в список желаемого.\nБудь то несколько минут или потеря счёта времени, Mothiary подарит тихое путешествие в красоту ночи.",
   "description_short": "Idle-игра о коллекционировании мотыльков.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 721,
+  "price_rub": 725,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "7YLkvyqHlRc",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/e04152c12a999b711c9ec8ac1850b82976214ed9/ss_e04152c12a999b711c9ec8ac1850b82976214ed9.1920x1080.jpg?t=1785211337",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/27e538aebb97823125e561e9bff1be0e5de120eb/ss_27e538aebb97823125e561e9bff1be0e5de120eb.1920x1080.jpg?t=1785211337",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/d7f081af9164cfc2c73e6b90478d0c821cb4433e/ss_d7f081af9164cfc2c73e6b90478d0c821cb4433e.1920x1080.jpg?t=1785211337",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/242b84492828d876125ec37fec531aea0c60e4d6/ss_242b84492828d876125ec37fec531aea0c60e4d6.1920x1080.jpg?t=1785211337",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/fb476ab14974bd7a3c191947d69fd2748469f1a0/ss_fb476ab14974bd7a3c191947d69fd2748469f1a0.1920x1080.jpg?t=1785211337",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/195ee3d9d8789df48502b777da18ad0148b8a502/ss_195ee3d9d8789df48502b777da18ad0148b8a502.1920x1080.jpg?t=1785211337",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/f9928d97add8aa1dce9012ce47c1df0be6c6f709/ss_f9928d97add8aa1dce9012ce47c1df0be6c6f709.1920x1080.jpg?t=1785211337",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/f029401cd52f73371254a37bd834d866dfadebbe/ss_f029401cd52f73371254a37bd834d866dfadebbe.1920x1080.jpg?t=1785211337"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/e04152c12a999b711c9ec8ac1850b82976214ed9/ss_e04152c12a999b711c9ec8ac1850b82976214ed9.1920x1080.jpg?t=1785895533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/27e538aebb97823125e561e9bff1be0e5de120eb/ss_27e538aebb97823125e561e9bff1be0e5de120eb.1920x1080.jpg?t=1785895533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/d7f081af9164cfc2c73e6b90478d0c821cb4433e/ss_d7f081af9164cfc2c73e6b90478d0c821cb4433e.1920x1080.jpg?t=1785895533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/242b84492828d876125ec37fec531aea0c60e4d6/ss_242b84492828d876125ec37fec531aea0c60e4d6.1920x1080.jpg?t=1785895533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/fb476ab14974bd7a3c191947d69fd2748469f1a0/ss_fb476ab14974bd7a3c191947d69fd2748469f1a0.1920x1080.jpg?t=1785895533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/195ee3d9d8789df48502b777da18ad0148b8a502/ss_195ee3d9d8789df48502b777da18ad0148b8a502.1920x1080.jpg?t=1785895533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/f9928d97add8aa1dce9012ce47c1df0be6c6f709/ss_f9928d97add8aa1dce9012ce47c1df0be6c6f709.1920x1080.jpg?t=1785895533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187740/f029401cd52f73371254a37bd834d866dfadebbe/ss_f029401cd52f73371254a37bd834d866dfadebbe.1920x1080.jpg?t=1785895533"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-03T20:08:23Z"
+  "updated_at": "2026-08-07T12:43:05Z"
 }
