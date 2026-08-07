@@ -1,7 +1,7 @@
 {
   "id": 2892200,
   "title": "VectaGuard",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/6bb3e93451b4d00e3980ad50e962ba82e6546f70/header.jpg?t=1785173456",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/6bb3e93451b4d00e3980ad50e962ba82e6546f70/header.jpg?t=1785992061",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2892200/library_hero.jpg",
   "description": "VectaGuard\n\nA Retro Vector Arcade Shooter with Modern Explosive Action.\n\nVectaGuard is a neon-drenched vertical shooter where glowing wireframe caverns explode with arcade action. Inspired by retro arcade shmups Gravitar, Caverns of Mars and Defender, this is the ultimate mash-up of old-school arcade intensity and modern over-the-top spectacle.\n\nPseudo-3D Vector AestheticBold glowing wireframe worlds bring glowing caverns and retro sci-fi worlds to life with a modern twist. Descend through treacherous caverns, enemy emplacements and dodge hazards out to reduce your health bar to zero.\n\nStackable FirepowerCollect power-ups to enhance your ship with devastating weapons. Maximizing your damage-per-second is essential to succeeding in VectaGuard.\n\nHigh Score ChasingCompete against yourself and global leaderboards. Learn the hidden methods to maximize your score through speed, damage output and raw action game skill.\n\nArcade Roots, Modern EdgeDesigned to feel like a lost classic arcade game, but polished with today's fluid controls, physics and visuals.\n\nRetro-Future Dynamic SoundtrackPulse-pounding synths, industrial rhythms and jungle beats meld together in a dynamic soundtrack that changes according to your playing.",
   "description_short": "Arcade-inspired shmup action where neon vector caverns explode with modern visuals, dynamic music, weapon upgrades and intense score chasing.",
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 945,
+  "price_rub": 1036,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/99ed387cec1f189a3268bd88f7a1102ced6b92d9/ss_99ed387cec1f189a3268bd88f7a1102ced6b92d9.1920x1080.jpg?t=1785173456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/1cf5ff8663909020fd9a03e980251157dd57cd6e/ss_1cf5ff8663909020fd9a03e980251157dd57cd6e.1920x1080.jpg?t=1785173456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/24862a8f74912042e7bfb263dfbefb882e75c778/ss_24862a8f74912042e7bfb263dfbefb882e75c778.1920x1080.jpg?t=1785173456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/954c20d03ca7a03ccd3e767c395ded7e1fa761be/ss_954c20d03ca7a03ccd3e767c395ded7e1fa761be.1920x1080.jpg?t=1785173456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/ee217cf0df700ba1c7598af11bb15b8b1cc6714c/ss_ee217cf0df700ba1c7598af11bb15b8b1cc6714c.1920x1080.jpg?t=1785173456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/d14cc4c76eef89caf6d429a1e7bed9b8af42177b/ss_d14cc4c76eef89caf6d429a1e7bed9b8af42177b.1920x1080.jpg?t=1785173456"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/99ed387cec1f189a3268bd88f7a1102ced6b92d9/ss_99ed387cec1f189a3268bd88f7a1102ced6b92d9.1920x1080.jpg?t=1785992061",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/1cf5ff8663909020fd9a03e980251157dd57cd6e/ss_1cf5ff8663909020fd9a03e980251157dd57cd6e.1920x1080.jpg?t=1785992061",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/24862a8f74912042e7bfb263dfbefb882e75c778/ss_24862a8f74912042e7bfb263dfbefb882e75c778.1920x1080.jpg?t=1785992061",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/954c20d03ca7a03ccd3e767c395ded7e1fa761be/ss_954c20d03ca7a03ccd3e767c395ded7e1fa761be.1920x1080.jpg?t=1785992061",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/ee217cf0df700ba1c7598af11bb15b8b1cc6714c/ss_ee217cf0df700ba1c7598af11bb15b8b1cc6714c.1920x1080.jpg?t=1785992061",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2892200/d14cc4c76eef89caf6d429a1e7bed9b8af42177b/ss_d14cc4c76eef89caf6d429a1e7bed9b8af42177b.1920x1080.jpg?t=1785992061"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-03T09:31:04Z"
+  "updated_at": "2026-08-07T00:21:08Z"
 }
