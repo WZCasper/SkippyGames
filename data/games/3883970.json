@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 783,
+  "price_rub": 861,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,16 +29,16 @@
     {
       "id": 4879980,
       "name": "Love at Work Soundtrack",
-      "price_rub": 548,
+      "price_rub": 549,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879980/ef73b1af9a83f05eba10e2d20045204a021717ed/header.jpg?t=1784653194"
     },
     {
       "id": 4880070,
       "name": "Love at Work - Digital Artbook",
-      "price_rub": 635,
+      "price_rub": 638,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880070/f54a18334afd62d88490a8c8ebbfc6ce373a388c/header.jpg?t=1784653199"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-03T19:35:21Z"
+  "updated_at": "2026-08-07T07:30:21Z"
 }

@@ -13,7 +13,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1319,
+  "price_rub": 1335,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -31,10 +31,10 @@
     {
       "id": 2950840,
       "name": "Hades II Original Soundtrack",
-      "price_rub": 901,
+      "price_rub": 908,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950840/7c074d8980acb70d9f3a24af6e8a81b89dae9fc3/header.jpg?t=1758829232"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-03T19:45:18Z"
+  "updated_at": "2026-08-07T07:39:52Z"
 }
