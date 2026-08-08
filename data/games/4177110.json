@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 677,
+  "price_rub": 680,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "GMu4G_u7Byg",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/4297595257de9bd01fedb680b5687d6ebab386f9/ss_4297595257de9bd01fedb680b5687d6ebab386f9.1920x1080.jpg?t=1784196385",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177110/21e0d087889e00b11794d5040ea2a07c66ebca9b/ss_21e0d087889e00b11794d5040ea2a07c66ebca9b.1920x1080.jpg?t=1784196385",
@@ -26,10 +26,10 @@
     {
       "id": 4391500,
       "name": "Blue Wyrm Soundtrack",
-      "price_rub": 570,
+      "price_rub": 571,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391500/f2304adb278a6b0b7b983422e450a93321e2ce40/header.jpg?t=1784196208"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-04T19:33:27Z"
+  "updated_at": "2026-08-08T07:04:34Z"
 }

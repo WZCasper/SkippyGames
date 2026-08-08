@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1351,
+  "price_rub": 1466,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "4q2Tb5l_DIM",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211810/d8992e6ae24cdaaa91a3d278cb77ffdb3de2ab04/ss_d8992e6ae24cdaaa91a3d278cb77ffdb3de2ab04.1920x1080.jpg?t=1784733743",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211810/dc0b2b7ce8f2915d3734f85fdfa9c35cb215601f/ss_dc0b2b7ce8f2915d3734f85fdfa9c35cb215601f.1920x1080.jpg?t=1784733743",
@@ -29,10 +29,10 @@
     {
       "id": 4873820,
       "name": "Valkyrie Tune Synthesis of Souls Original Soundtrack",
-      "price_rub": 1125,
+      "price_rub": 1138,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873820/c4a2e04249046614285f0e5831a595945ff1e95c/header.jpg?t=1785683300"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-04T14:10:55Z"
+  "updated_at": "2026-08-08T07:00:21Z"
 }

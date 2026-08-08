@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 991,
+  "price_rub": 1001,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "DFweq2fBdUw",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/5941ae6500fd6ce6e54cc78cb22413bedb18804f/ss_5941ae6500fd6ce6e54cc78cb22413bedb18804f.1920x1080.jpg?t=1785758790",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/a70a3048c1b337632dd7e8262aa350ae27d80882/ss_a70a3048c1b337632dd7e8262aa350ae27d80882.1920x1080.jpg?t=1785758790",
@@ -27,16 +27,16 @@
     {
       "id": 4915040,
       "name": "OFFBEAT - Nice Cup of Tea",
-      "price_rub": 636,
+      "price_rub": 639,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915040/242ca1bded37e8a8a2d75890da362c2a81fe12ec/header.jpg?t=1784731239"
     },
     {
       "id": 4935090,
       "name": "OFFBEAT - Producer's Handbook",
-      "price_rub": 636,
+      "price_rub": 639,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935090/9de37829abcd79613d39243175e3d9254bcb56c7/header.jpg?t=1784731211"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-04T14:14:35Z"
+  "updated_at": "2026-08-08T07:01:04Z"
 }
