@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1439,
+  "price_rub": 1450,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "I52fp--5Rpk",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836540/07d4383fa4b23f7a5c3915e19d727fde5f0f530e/ss_07d4383fa4b23f7a5c3915e19d727fde5f0f530e.1920x1080.jpg?t=1785526365",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836540/7b38bcace8fea6e30d8c16672b701234b0b9b2b2/ss_7b38bcace8fea6e30d8c16672b701234b0b9b2b2.1920x1080.jpg?t=1785526365",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-05T08:14:09Z"
+  "updated_at": "2026-08-08T18:43:34Z"
 }
