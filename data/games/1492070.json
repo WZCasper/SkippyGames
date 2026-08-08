@@ -15,94 +15,94 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1267,
+  "price_rub": 1284,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_7dcb9f926cd731852cb2143556d06460e88b15af.1920x1080.jpg?t=1785355209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_4532e71d8561da0928b36612b4ab5bc34fe438d8.1920x1080.jpg?t=1785355209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_9d23e21488d334ca8424eace6747b59736bd3632.1920x1080.jpg?t=1785355209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_062bd289f7e4ca228910b7b3f7bb28aa4e48c475.1920x1080.jpg?t=1785355209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_c04e22ed019df4086641c4fc43603678fd6fc3ec.1920x1080.jpg?t=1785355209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_d7140d24c2cf6978a56a51343c49c24bb5a68eb7.1920x1080.jpg?t=1785355209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_f7d1bd8bf762c414666f50cd3e20cadd6dedd3ea.1920x1080.jpg?t=1785355209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_1e982cf16949e75035b84f911500d13a5fdb1a82.1920x1080.jpg?t=1785355209"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_7dcb9f926cd731852cb2143556d06460e88b15af.1920x1080.jpg?t=1786031513",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_4532e71d8561da0928b36612b4ab5bc34fe438d8.1920x1080.jpg?t=1786031513",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_9d23e21488d334ca8424eace6747b59736bd3632.1920x1080.jpg?t=1786031513",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_062bd289f7e4ca228910b7b3f7bb28aa4e48c475.1920x1080.jpg?t=1786031513",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_c04e22ed019df4086641c4fc43603678fd6fc3ec.1920x1080.jpg?t=1786031513",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_d7140d24c2cf6978a56a51343c49c24bb5a68eb7.1920x1080.jpg?t=1786031513",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_f7d1bd8bf762c414666f50cd3e20cadd6dedd3ea.1920x1080.jpg?t=1786031513",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1492070/ss_1e982cf16949e75035b84f911500d13a5fdb1a82.1920x1080.jpg?t=1786031513"
   ],
   "upsells": [
     {
+      "id": 5038510,
+      "name": "Sker Ritual - Inferno Upgrade",
+      "price_rub": 1284,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038510/f5a579a524886e4567b7bf269b8c8b2b8afc5816/header.jpg?t=1786031275"
+    },
+    {
       "id": 2155330,
       "name": "Sker Ritual - Draigs Terror",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2155330/header.jpg?t=1701168999"
     },
     {
       "id": 2155340,
       "name": "Sker Ritual - Friends in the Darkness",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2155340/header.jpg?t=1701169081"
     },
     {
       "id": 2237020,
       "name": "Sker Ritual - Goon Brenn",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237020/header.jpg?t=1699884458"
     },
     {
       "id": 2237021,
       "name": "Sker Ritual - The Quiet Ones",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2237021/header.jpg?t=1699884498"
     },
     {
       "id": 2323210,
       "name": "Sker Ritual - Stranger Danger",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2323210/header.jpg?t=1701169287"
     },
     {
       "id": 2323211,
       "name": "Sker Ritual - Siren's Song",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2323211/header.jpg?t=1701169172"
     },
     {
       "id": 2434170,
       "name": "Sker Ritual - Smuggler's Fortune",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434170/header.jpg?t=1701356251"
     },
     {
       "id": 2434171,
       "name": "Sker Ritual - Devil's Sacrifice",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434171/header.jpg?t=1701169363"
     },
     {
       "id": 2695180,
       "name": "Sker Ritual - Headless Wanderer",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695180/header.jpg?t=1713442873"
     },
     {
       "id": 2702210,
       "name": "Sker Ritual - Murder Express",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702210/header.jpg?t=1713442776"
     },
     {
       "id": 2715950,
       "name": "Sker Ritual - Bloody Night",
-      "price_rub": 612,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715950/header.jpg?t=1707306309"
-    },
-    {
-      "id": 3047450,
-      "name": "Sker Ritual - Skerville Slasher",
-      "price_rub": 612,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047450/header.jpg?t=1720608623"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-04T08:22:42Z"
+  "updated_at": "2026-08-08T00:54:35Z"
 }

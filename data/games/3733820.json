@@ -1,8 +1,8 @@
 {
   "id": 3733820,
   "title": "HARDPOINT",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/16c8dce9b918c9acbb79343c929aaf9e355fd5e2/header.jpg?t=1785778071",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3733820?t=1785778071",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/16c8dce9b918c9acbb79343c929aaf9e355fd5e2/header.jpg?t=1785968464",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3733820?t=1785968464",
   "description": "You landed on the desert planet Veoda to mine Ignazeum, a highly valuable mineral. The planet's automated robotic defenses did not take kindly to the intrusion. Now, they are attacking your mining operation in endless, aggressive waves. HARDPOINT mixes first-person shooting with direct tower defense. You are not managing the battlefield from a safe command chair. Instead, you are down in the dirt firing weapons, managing your stamina, and dropping turrets on the fly to protect the generators powering your drill.",
   "description_short": "HARDPOINT is an intense FPS tower defense hybrid. You are mining a rare mineral on the desert planet Veoda, and the local robotic defense network wants you gone. Fight on the ground with your own weapons, build and configure automated turrets, upgrade your stats, and keep your generators alive.",
   "genres": [
@@ -16,15 +16,15 @@
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/8c3da92aa5a4795c3a64d9eca2e401101cb4abd0/ss_8c3da92aa5a4795c3a64d9eca2e401101cb4abd0.1920x1080.jpg?t=1785778071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/0aa27cefaa8f1429c794ccb7466df5759aff5c23/ss_0aa27cefaa8f1429c794ccb7466df5759aff5c23.1920x1080.jpg?t=1785778071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/deb7bd64c5702d815b24d2a2489abd543d0d4a14/ss_deb7bd64c5702d815b24d2a2489abd543d0d4a14.1920x1080.jpg?t=1785778071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/ae2fe7626945f4c161ace704101459f50604e1f5/ss_ae2fe7626945f4c161ace704101459f50604e1f5.1920x1080.jpg?t=1785778071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/d4d56cc9cdce27ae105809b3242442917b81d92f/ss_d4d56cc9cdce27ae105809b3242442917b81d92f.1920x1080.jpg?t=1785778071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/8a324eb9de678ab8d54bb50f6526bab1e6953c75/ss_8a324eb9de678ab8d54bb50f6526bab1e6953c75.1920x1080.jpg?t=1785778071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/3ca887466900c7a05770e8f45c7cfb21a6fa0227/ss_3ca887466900c7a05770e8f45c7cfb21a6fa0227.1920x1080.jpg?t=1785778071"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/8c3da92aa5a4795c3a64d9eca2e401101cb4abd0/ss_8c3da92aa5a4795c3a64d9eca2e401101cb4abd0.1920x1080.jpg?t=1785968464",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/0aa27cefaa8f1429c794ccb7466df5759aff5c23/ss_0aa27cefaa8f1429c794ccb7466df5759aff5c23.1920x1080.jpg?t=1785968464",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/deb7bd64c5702d815b24d2a2489abd543d0d4a14/ss_deb7bd64c5702d815b24d2a2489abd543d0d4a14.1920x1080.jpg?t=1785968464",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/ae2fe7626945f4c161ace704101459f50604e1f5/ss_ae2fe7626945f4c161ace704101459f50604e1f5.1920x1080.jpg?t=1785968464",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/d4d56cc9cdce27ae105809b3242442917b81d92f/ss_d4d56cc9cdce27ae105809b3242442917b81d92f.1920x1080.jpg?t=1785968464",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/8a324eb9de678ab8d54bb50f6526bab1e6953c75/ss_8a324eb9de678ab8d54bb50f6526bab1e6953c75.1920x1080.jpg?t=1785968464",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733820/3ca887466900c7a05770e8f45c7cfb21a6fa0227/ss_3ca887466900c7a05770e8f45c7cfb21a6fa0227.1920x1080.jpg?t=1785968464"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-04T09:00:49Z"
+  "updated_at": "2026-08-08T01:33:41Z"
 }
