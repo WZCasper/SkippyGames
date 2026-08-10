@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 885,
+  "price_rub": 958,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "1sQcwZpW_cA",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/445277239a700a5cd6da854b757f0391db7fa5a8/ss_445277239a700a5cd6da854b757f0391db7fa5a8.1920x1080.jpg?t=1785268189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/e5e3d26c33825a5d55d9be5b6d3b05b74f736bb0/ss_e5e3d26c33825a5d55d9be5b6d3b05b74f736bb0.1920x1080.jpg?t=1785268189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/c02eb27ec0dabeb4774b753415e1a5ade79ff548/ss_c02eb27ec0dabeb4774b753415e1a5ade79ff548.1920x1080.jpg?t=1785268189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/1efd042a57cacc45d019008fd36f2dc8dea83aeb/ss_1efd042a57cacc45d019008fd36f2dc8dea83aeb.1920x1080.jpg?t=1785268189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/2fbe6b9acbfd14b7920c8384666331233fc5d90c/ss_2fbe6b9acbfd14b7920c8384666331233fc5d90c.1920x1080.jpg?t=1785268189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/588a05b52b153060bda5a5dc6492217b11e08d90/ss_588a05b52b153060bda5a5dc6492217b11e08d90.1920x1080.jpg?t=1785268189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/bd0c57111b27d919ea04dcf680e28cb873ce8a4d/ss_bd0c57111b27d919ea04dcf680e28cb873ce8a4d.1920x1080.jpg?t=1785268189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/8d749ea4ce4d1fe09604dcae258c8171694c0c36/ss_8d749ea4ce4d1fe09604dcae258c8171694c0c36.1920x1080.jpg?t=1785268189"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/445277239a700a5cd6da854b757f0391db7fa5a8/ss_445277239a700a5cd6da854b757f0391db7fa5a8.1920x1080.jpg?t=1786114049",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/e5e3d26c33825a5d55d9be5b6d3b05b74f736bb0/ss_e5e3d26c33825a5d55d9be5b6d3b05b74f736bb0.1920x1080.jpg?t=1786114049",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/c02eb27ec0dabeb4774b753415e1a5ade79ff548/ss_c02eb27ec0dabeb4774b753415e1a5ade79ff548.1920x1080.jpg?t=1786114049",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/1efd042a57cacc45d019008fd36f2dc8dea83aeb/ss_1efd042a57cacc45d019008fd36f2dc8dea83aeb.1920x1080.jpg?t=1786114049",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/2fbe6b9acbfd14b7920c8384666331233fc5d90c/ss_2fbe6b9acbfd14b7920c8384666331233fc5d90c.1920x1080.jpg?t=1786114049",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/588a05b52b153060bda5a5dc6492217b11e08d90/ss_588a05b52b153060bda5a5dc6492217b11e08d90.1920x1080.jpg?t=1786114049",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/bd0c57111b27d919ea04dcf680e28cb873ce8a4d/ss_bd0c57111b27d919ea04dcf680e28cb873ce8a4d.1920x1080.jpg?t=1786114049",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/8d749ea4ce4d1fe09604dcae258c8171694c0c36/ss_8d749ea4ce4d1fe09604dcae258c8171694c0c36.1920x1080.jpg?t=1786114049"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-07T07:02:22Z"
+  "updated_at": "2026-08-10T07:36:13Z"
 }

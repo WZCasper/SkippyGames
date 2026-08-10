@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 909,
+  "price_rub": 912,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "PZ-uc_gNSnY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/017e0ded4135e7bf1bb4de162b3a7febf327376d/ss_017e0ded4135e7bf1bb4de162b3a7febf327376d.1920x1080.jpg?t=1785765452",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/56dfb952a4f3f0dac6c220c028bd36fd92f5f79c/ss_56dfb952a4f3f0dac6c220c028bd36fd92f5f79c.1920x1080.jpg?t=1785765452",
@@ -26,10 +26,10 @@
     {
       "id": 3819780,
       "name": "Dragon Ruins II: Aftermath Soundtrack",
-      "price_rub": 736,
+      "price_rub": 738,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819780/cd344b9f792fe742066df0e2cb9cdb1471793bd0/header.jpg?t=1784599065"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-07T00:12:19Z"
+  "updated_at": "2026-08-10T07:05:27Z"
 }

@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1253,
+  "price_rub": 1261,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "jqCBj4aLZV4",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/b187a2235750fe80cb91f466a27793f60295fca4/ss_b187a2235750fe80cb91f466a27793f60295fca4.1920x1080.jpg?t=1784910573",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/8b99c96d1e6a54aa009ee17c608d2ee1319f6679/ss_8b99c96d1e6a54aa009ee17c608d2ee1319f6679.1920x1080.jpg?t=1784910573",
@@ -29,16 +29,16 @@
     {
       "id": 4814560,
       "name": "Fading Echo Original Soundtrack",
-      "price_rub": 725,
+      "price_rub": 727,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4814560/2fe115cfbbb66d8ca98d46024c966d1e3b9cdcec/header.jpg?t=1784621092"
     },
     {
       "id": 4814570,
       "name": "“The Art of Fading Echo” Digital Art Book",
-      "price_rub": 725,
+      "price_rub": 727,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4814570/78fd287f24f905b1857ba07967477157f2670313/header.jpg?t=1784620952"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-07T07:01:32Z"
+  "updated_at": "2026-08-10T07:21:59Z"
 }
