@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1134,
+  "price_rub": 1140,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,10 +29,10 @@
     {
       "id": 4439010,
       "name": "Teeto Soundtrack",
-      "price_rub": 763,
+      "price_rub": 766,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439010/136d22658b507cfe582345a1f63e0dbe335b3dc9/header.jpg?t=1784127672"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-07T13:12:33Z"
+  "updated_at": "2026-08-10T19:15:52Z"
 }
