@@ -1,0 +1,105 @@
+{
+  "id": 699130,
+  "title": "World War Z",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/699130/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/699130/library_hero.jpg",
+  "description": "WORLD WAR Z: AFTERMATHПогрузитесь в атмосферу Aftermath благодаря новому виду от первого лица и пройдите шесть новых заданий в мире, который заполонили зомби.\n\nОб игре World War Z — это напряженный боевик для совместного прохождения с видом от третьего лица, в котором игрокам (до 4 человек) предстоит сражаться с сотнями зомби. Игра создана по мотивам блокбастера Paramount Pictures и покорила сердца уже более 25 миллионов игроков. В World War Z вас ждет динамичный игровой процесс и сюжет, действие которого разворачивается в самых разных уголках земного шара. \n\n \n\nЧеловечество оказалось на грани уничтожения. Зомби уже захватили Нью-Йорк, Москву, Иерусалим, Японию и многие другие регионы по всему миру. Но перед лицом страшной опасности те, кому удалось выжить в боях, объединяются, чтобы дать отпор орде зомби и пережить ходячих мертвецов. \n\n- Сразитесь с полчищами живых мертвецов \n\nИгровой движок Swarm Engine™ позволяет без дополнительных загрузок выводить на экран сотни зомби для ожесточенных схваток, а благодаря улучшенной системе крови и расчленения зрелище получается жуткое, но завораживающее. Полчища зомби в игре ведут себя как настоящая толпа: они создают давку в узких проходах и карабкаются друг на друга, чтобы добраться до игроков на возвышенности. По мере прохождения игры орды зомби становятся все опаснее и выступают в роли боссов. \n\n– Совместные сюжетные кампании \n\nПрисоединитесь к группам выживших со всего мира и узнайте историю их битвы с кровожадной угрозой.\n\n– Выберите свой класс \n\nВ WWZ: Aftermath есть 8 уникальных классов: стрелок, исчадие ада, рубака, медик, технарь, терминатор, оператор дрона, а также новый класс — защитник. У каждого — свои особенности и стиль игры. \n\n– Продвинутое развитие персонажа \n\nСтановитесь сильнее: открывайте мощные улучшения оружия и повышайте уровень класса персонажа, чтобы справиться даже с самыми суровыми испытаниями. \n\n– Режим PVPVZ \n\nОтбивайтесь не только от зомби, но и от враждебных игроков в ожесточенных режимах PVPVZ, которые дополняют совместные кампании.",
+  "description_short": "World War Z — ураганный, динамичный и кровавый шутер от третьего лица против полчищ зомби (до 4 игроков).",
+  "genres": [
+    "Экшен",
+    "Шутеры от первого лица (FPS)",
+    "Шутеры от третьего лица (TPS)",
+    "Хорроры на выживание (Survival Horror)",
+    "Психологические хорроры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 845,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "Md6Dvxdr0AQ",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_18b954901ed391d2ea5aa1d530f6c8ae15132188.1920x1080.jpg?t=1781783964",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_7bdf07ccf5f96bd9cfe07f473b3727d8884a5e0f.1920x1080.jpg?t=1781783964",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_e6bb5584935072737f75a9d15d008731d6b1cd1d.1920x1080.jpg?t=1781783964",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_1ebef5fba32a0023a46966a193604081e96a8042.1920x1080.jpg?t=1781783964",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_8de3e9e28f43cb51909bea5e546238d6df2e1e46.1920x1080.jpg?t=1781783964"
+  ],
+  "upsells": [
+    {
+      "id": 4383610,
+      "name": "World War Z - Chibi Daniela Skin Pack",
+      "price_rub": 719,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383610/47cdee201a21bb347db499ec9fb5add84c403b21/header.jpg?t=1781783761"
+    },
+    {
+      "id": 4383600,
+      "name": "World War Z - Chibi Bunko Skin Pack",
+      "price_rub": 719,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383600/7444188e4de896e0e39f679e09263b052c1bc0f9/header.jpg?t=1781783741"
+    },
+    {
+      "id": 4197300,
+      "name": "World War Z: Lunar New Year Skin Pack",
+      "price_rub": 701,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197300/eefa002f0b2b6af10e390084b8e1fbe5c2051de5/header.jpg?t=1770728067"
+    },
+    {
+      "id": 4057370,
+      "name": "World War Z x The Walking Dead",
+      "price_rub": 837,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057370/abcfbf4d4d8882231f8a3fbf2417ab62ac8c8ed4/header.jpg?t=1769691309"
+    },
+    {
+      "id": 3930030,
+      "name": "World War Z: Vibrant Halloween Skin Pack",
+      "price_rub": 701,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930030/9aa546da5f9d6178b5b45ca0d0b359ea3abc63c7/header.jpg?t=1758801167"
+    },
+    {
+      "id": 3930040,
+      "name": "World War Z: Raging Phoenix Skin Pack",
+      "price_rub": 701,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930040/af7c4b247f770171236d4319041bdb29ed654939/header.jpg?t=1758801233"
+    },
+    {
+      "id": 3699420,
+      "name": "World War Z - Chibi Kimiko Skin Pack",
+      "price_rub": 701,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699420/c8ae57717d42909c804d0ad4fcc3d1b898e0cc20/header.jpg?t=1753357455"
+    },
+    {
+      "id": 3699430,
+      "name": "World War Z: Chibi Izzy Skin Pack ",
+      "price_rub": 701,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699430/d4ab49d73e8459551724d206b22a064390ba37a2/header.jpg?t=1753357495"
+    },
+    {
+      "id": 3245120,
+      "name": "World War Z: Sin City Apocalypse Episode",
+      "price_rub": 867,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245120/header.jpg?t=1733741601"
+    },
+    {
+      "id": 3245130,
+      "name": "World War Z: Vegas Skin Pack",
+      "price_rub": 660,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245130/header.jpg?t=1733402297"
+    },
+    {
+      "id": 3100200,
+      "name": "World War Z: Golden Bloom Weapon Skins Pack",
+      "price_rub": 620,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100200/header.jpg?t=1733262429"
+    },
+    {
+      "id": 2962180,
+      "name": "World War Z:  Desert Defenders Weapons Pack",
+      "price_rub": 620,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2962180/header.jpg?t=1732544118"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-11T07:06:14Z"
+}

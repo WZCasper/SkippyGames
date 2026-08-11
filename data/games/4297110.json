@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 640,
+  "price_rub": 658,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "4jCGlpLWlhA",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297110/46a985a5b5b581b842d36418fc897ccc7e8bc353/ss_46a985a5b5b581b842d36418fc897ccc7e8bc353.1920x1080.jpg?t=1785783417",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297110/ad7abf1f67e4ab23451deba0f30fa392c8b6cdcc/ss_ad7abf1f67e4ab23451deba0f30fa392c8b6cdcc.1920x1080.jpg?t=1785783417",
@@ -28,10 +28,10 @@
     {
       "id": 4453850,
       "name": "Hopping Out Soundtrack",
-      "price_rub": 558,
+      "price_rub": 559,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453850/9b535fb45f546eaa412552ac1d03875c00a707d0/header.jpg?t=1785783440"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-08T01:30:00Z"
+  "updated_at": "2026-08-11T07:04:54Z"
 }

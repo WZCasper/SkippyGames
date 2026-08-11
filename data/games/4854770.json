@@ -1,0 +1,28 @@
+{
+  "id": 4854770,
+  "title": "Shrinkat",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854770/73c875d7863e94e762a6fce899627a93422d4d6f/header.jpg?t=1786380317",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4854770?t=1786380317",
+  "description": "Shrinkat is a streamlined utility that provides an intuitive UI for Windows’ built-in NTFS folder compression—a safe system feature that shrinks your files directly on the drive so they take up less space, while allowing your games and launchers to still run exactly as usual. This utility gives you an easier way to choose install folders, select compression strength, and manage storage actions all in one place. It automatically discovers game libraries from Steam and other supported platforms—as well as custom paths you add manually—allowing you to easily queue batch compression or decompression tasks with real-time progress tracking.\n\nFeatures• Platform Auto-Discovery: Instantly detects installed games from Steam and other major launchers right out of the box. Need to compress something else? Use the \"Add manually\" button to track any custom installation folder.\n\n• Set-and-Forget Automation: Enable Automatic Compression in your Settings. When your PC is idle and no games are running, the app silently reviews your library and optimizes uncompressed or newly updated titles in the background without competing for system resources.\n\nCompression StrengthShrinkat lets you choose which of Windows' native compression algorithms will be used, allowing you to choose the best balance of speed and space savings for your hardware:\n\n• LZX (Maximum Savings): Slowest execution time, but yields the highest amount of reclaimed disk space. Better for massive game libraries and long-term storage.\n\n• XPRESS 16K (Balanced): Offers good savings with balanced processing speeds. The recommended default for general use.\n\n• XPRESS 8K / 4K (Fastest): Moderate savings but faster. Better for older CPUs or when you want a quick optimization run.",
+  "description_short": "An intuitive, centralized UI for native Windows NTFS compression to safely reclaim storage space",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 640,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854770/5b6c29a0fb0c08e0ab2e0d284e16d17ff17b536d/ss_5b6c29a0fb0c08e0ab2e0d284e16d17ff17b536d.1920x1080.jpg?t=1786380317",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854770/f3e2fa10678fafd9a36df094e8ccce728f4cad5f/ss_f3e2fa10678fafd9a36df094e8ccce728f4cad5f.1920x1080.jpg?t=1786380317",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854770/8a5548c9cc0d31f670a052914080a423bc58abf4/ss_8a5548c9cc0d31f670a052914080a423bc58abf4.1920x1080.jpg?t=1786380317",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854770/963496ff48b8554ef875359b662e34374bfa8604/ss_963496ff48b8554ef875359b662e34374bfa8604.1920x1080.jpg?t=1786380317",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854770/ebbb2abc3a0e74860d9d1d622dae9f8a6b46f941/ss_ebbb2abc3a0e74860d9d1d622dae9f8a6b46f941.1920x1080.jpg?t=1786380317"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-11T07:15:17Z"
+}
