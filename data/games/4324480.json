@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1111,
+  "price_rub": 1117,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-08T06:48:49Z"
+  "updated_at": "2026-08-11T12:40:43Z"
 }
