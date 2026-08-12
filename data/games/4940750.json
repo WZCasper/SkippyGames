@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "UKf20VZ2hgw",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940750/46b16c06280ed9c3ce531952f592cb8746e2e384/ss_46b16c06280ed9c3ce531952f592cb8746e2e384.1920x1080.jpg?t=1785919365",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940750/6b83cc116146d2e8719a324bcafbe981b01ce962/ss_6b83cc116146d2e8719a324bcafbe981b01ce962.1920x1080.jpg?t=1785919365",
@@ -29,10 +29,10 @@
     {
       "id": 4941470,
       "name": "Vealo Pro - Windows Customization",
-      "price_rub": 680,
+      "price_rub": 682,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941470/dc5e0d630a437d8871ed6fa713f441ce2230bff2/header.jpg?t=1785180417"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-09T07:02:30Z"
+  "updated_at": "2026-08-12T13:13:29Z"
 }

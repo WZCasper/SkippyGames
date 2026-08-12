@@ -1,7 +1,7 @@
 {
   "id": 3718900,
   "title": "Мир Хаоса",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/bbdf5f481d809ab5a8fa55849355b28bde4b1e2b/header.jpg?t=1785924376",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/bbdf5f481d809ab5a8fa55849355b28bde4b1e2b/header.jpg?t=1786358257",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3718900/library_hero.jpg",
   "description": "«Хаотический мир» — это 2D мультяшная стрелялка. В игре вы будете управлять отрядом наемников, чтобы исследовать мир, торговать и сражаться.\n\nВы можете в значительной степени кастомизировать свой отряд наемников, включая, но не ограничиваясь: основное оружие, дополнительное оружие, ближнее оружие, метательное оружие и т.д., а также изучать различные навыки.\n\nВы можете заменять различные типы патронов для своих оружий.\n\nЗанимайтесь бизнесом в мире, покупайте и продавайте товары, запускайте различные случайные события.\n\nСражайтесь с различными врагами.",
   "description_short": "«Хаотический мир» — это 2D мультяшная стрелялка. В игре вы будете управлять отрядом наемников, чтобы исследовать мир, торговать и сражаться.",
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 646,
+  "price_rub": 647,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "pnENPvN21hE",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/cd4d4f1d373db7e6df26c61c23f82daf03124463/ss_cd4d4f1d373db7e6df26c61c23f82daf03124463.1920x1080.jpg?t=1785924376",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/dec6180c2af04a449e4e879e3186dee2ae710d0f/ss_dec6180c2af04a449e4e879e3186dee2ae710d0f.1920x1080.jpg?t=1785924376",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/cde97d9f8461d9e8c3e145400271a403a013abc3/ss_cde97d9f8461d9e8c3e145400271a403a013abc3.1920x1080.jpg?t=1785924376",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/628236dbe278ac04a7dafae85fc9216f537d4b3c/ss_628236dbe278ac04a7dafae85fc9216f537d4b3c.1920x1080.jpg?t=1785924376",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/da6f733adecad157375b01032f11e110d1b41912/ss_da6f733adecad157375b01032f11e110d1b41912.1920x1080.jpg?t=1785924376",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/855160f5f3da9dd2f8fc588a749927e95cc3b500/ss_855160f5f3da9dd2f8fc588a749927e95cc3b500.1920x1080.jpg?t=1785924376"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/cd4d4f1d373db7e6df26c61c23f82daf03124463/ss_cd4d4f1d373db7e6df26c61c23f82daf03124463.1920x1080.jpg?t=1786358257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/dec6180c2af04a449e4e879e3186dee2ae710d0f/ss_dec6180c2af04a449e4e879e3186dee2ae710d0f.1920x1080.jpg?t=1786358257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/cde97d9f8461d9e8c3e145400271a403a013abc3/ss_cde97d9f8461d9e8c3e145400271a403a013abc3.1920x1080.jpg?t=1786358257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/628236dbe278ac04a7dafae85fc9216f537d4b3c/ss_628236dbe278ac04a7dafae85fc9216f537d4b3c.1920x1080.jpg?t=1786358257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/da6f733adecad157375b01032f11e110d1b41912/ss_da6f733adecad157375b01032f11e110d1b41912.1920x1080.jpg?t=1786358257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718900/855160f5f3da9dd2f8fc588a749927e95cc3b500/ss_855160f5f3da9dd2f8fc588a749927e95cc3b500.1920x1080.jpg?t=1786358257"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-09T07:02:26Z"
+  "updated_at": "2026-08-12T13:12:26Z"
 }

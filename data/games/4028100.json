@@ -1,7 +1,7 @@
 {
   "id": 4028100,
   "title": "Soul Descent: Invade of Ether",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028100/7b5eac138eb73d1aa714b081fcf7ccd98cfa5dd3/header_alt_assets_0.jpg?t=1786002019",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028100/2d3685c1a413d10532b095a7715069082b0f0624/header_alt_assets_1.jpg?t=1786002019",
   "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028100/3e6000914e73ed2ee05c0b01c82ec60fe7d4de42/page_bg_raw.jpg?t=1786002019",
   "description": "Feel every clash with smooth 3D visuals, cinematic effects, and dynamic turn-based battles. Switch strategies mid-fight or let auto-mode handle the heat. Victory has never looked this good.\n\nFrom shy and innocent to bold and clever, every spirit-vessel maiden brings her own charm and fighting style. Train and upgrade them to awaken hidden potential, reveal new sides of their personalities as your bond grows stronger, and unlock stunning, futuristic skins!\n\nTravel through time and space while the echoes of the Spirit-vessel War still haunt the world. Dive into deep character arcs brimming with mystery, humor, and flirtation. Each heroine hides secrets you’ll tease out through heartfelt dialogue and unexpected twists.\n\nTest your skill across PVE quests, intense PVP duels, massive GVG wars, and laid-back idle events. Daily and weekly missions keep rewards flowing while you build the ultimate squad.",
   "description_short": "Command the Time Authority and rewrite destiny in Soul Descent! You must recruit and lead a team of beautiful spirit-vessel maidens, while uncovering forbidden truths, and fighting in dazzling 3D battles. Your decisions stir old wars, ignite romance, and shape the world’s future.",
@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "L4VNY8nZFVI",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028100/bc06e9a76d0477ca01212d55795195c0c6952b9e/ss_bc06e9a76d0477ca01212d55795195c0c6952b9e.1920x1080.jpg?t=1786002019",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028100/7cdaaae4adb57be379789c6c9de19c55ddbd0469/ss_7cdaaae4adb57be379789c6c9de19c55ddbd0469.1920x1080.jpg?t=1786002019",
@@ -26,5 +26,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-09T07:01:58Z"
+  "updated_at": "2026-08-12T13:04:31Z"
 }
