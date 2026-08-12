@@ -1,9 +1,9 @@
 {
   "id": 4965770,
   "title": "Incremental Birds",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/11336616e7d7b31acef176d36722c3ed76c96023/header.jpg?t=1786019021",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/039b70dccb1ae874cd5c27b08b4617a2ab375277/page_bg_raw.jpg?t=1786019021",
-  "description": "An incremental game where you become the Bird Master.\n\nKey Features:\n\n- Capture an Infinite Flock: Birds cross the screen in waves that never stop escalating.\n\n- Multiple Wave Patterns: Birds don't just fly straight. Watch them ripple through different formations.\n\n- Chain Reactions and Physics: Take down the right \"keystone\" bird and the whole group falls at once.\n\n- Build Your Collection: Every capture is logged in a gallery. Also, you can feed the birds and grow them.\n\n- Sell Birds: Gain money and increase your balance. \n\nHold the mouse button and drag across the buttons to sell multiple birds at once.\n\n- Upgrades: Unlock multiple upgrades to increase your efficiency.\n\n \n\n- Many Achievements: Each achievement is also a Steam achievement.\n\n- Multiple Themes: You can change the theme at any time (Blue/Green/Red/Dark).\n\n- Three Gameplay Modes: Cozy (Default), Difficult and Passive modes. \n\n- Cozy Gameplay Mode (No Pressure, Just Play): No fail state and no downside to missing.\n\n- Difficult Gameplay Mode: If too many birds escape you will get a Game Over but keep your Score/Balance/Upgrades.\n\n- Passive Gameplay Mode (Hands-Off Play): Letting a bird escape grants bonus score and balance.\n\n- A continuous journey: Save anytime and continue picks up exactly where you left off.\n\n- Each Gameplay Mode Saves Separately, so your progress never mixes between them.\n\n- Cute, Colorful, and Made to Relax.\n\n- The game is developed using the Ring programming language (Over 6,000 lines of code).",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/11336616e7d7b31acef176d36722c3ed76c96023/header.jpg?t=1786299759",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/039b70dccb1ae874cd5c27b08b4617a2ab375277/page_bg_raw.jpg?t=1786299759",
+  "description": "An incremental game where you become the Bird Master.\n\nKey Features:\n\n- Capture an Infinite Flock: Birds cross the screen in waves that never stop escalating.\n\n- Multiple Wave Patterns: Birds don't just fly straight. Watch them ripple through different formations.\n\n- Chain Reactions and Physics: Take down the right \"keystone\" bird and the whole group falls at once.\n\n- Build Your Collection: Every capture is logged in a gallery. Also, you can feed the birds and grow them.\n\n- Sell Birds: Gain money and increase your balance. \n\nHold the mouse button and drag across the buttons to sell multiple birds at once.\n\n- Upgrades: Unlock multiple upgrades to increase your efficiency.\n\n \n\n- Many Achievements: Each achievement is also a Steam achievement.\n\n- Multiple Themes: You can change the theme at any time (Blue/Green/Red/Dark).\n\n- Three Gameplay Modes: Cozy (Default), Difficult and Passive modes. \n\n- Cozy Gameplay Mode (No Pressure, Just Play): No fail state and no downside to missing.\n\n- Difficult Gameplay Mode: If too many birds escape you will get a Game Over but keep your Score/Balance/Upgrades.\n\n- Passive Gameplay Mode (Hands-Off Play): Letting a bird escape grants bonus score and balance.\n\n- A continuous journey: Save anytime and continue picks up exactly where you left off.\n\n- Each Gameplay Mode Saves Separately, so your progress never mixes between them.\n\n- Cute, Colorful, and Made to Relax.\n\n- The game was developed using the Ring programming language, with over 6,000 lines of code.",
   "description_short": "An incremental game where you become the Bird Master. Capture birds, feed them, grow them, and sell them. Watch waves change over time, turning into sine patterns, spelling messages, and forming shapes. Unlock upgrades and chase an infinite balance and score.",
   "genres": [
     "Экшен"
@@ -16,16 +16,16 @@
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/366b4a11f8fc7b4c160b0f37affc84e7fe3c46d4/ss_366b4a11f8fc7b4c160b0f37affc84e7fe3c46d4.1920x1080.jpg?t=1786019021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/447e8e5cbcfb0aa9cd306e85458e621a31bf4eed/ss_447e8e5cbcfb0aa9cd306e85458e621a31bf4eed.1920x1080.jpg?t=1786019021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/6e982b217e3b11aef5c7ae36018b23b6966bc8be/ss_6e982b217e3b11aef5c7ae36018b23b6966bc8be.1920x1080.jpg?t=1786019021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/1a37be84ed9561bc76fa343c0b320cc8aca516f5/ss_1a37be84ed9561bc76fa343c0b320cc8aca516f5.1920x1080.jpg?t=1786019021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/47f3b0e680640b60146565061cc6f46f37d12e9d/ss_47f3b0e680640b60146565061cc6f46f37d12e9d.1920x1080.jpg?t=1786019021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/6cb885142a81f95a9b09e93917050bead7b52970/ss_6cb885142a81f95a9b09e93917050bead7b52970.1920x1080.jpg?t=1786019021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/a284fd6d8692a43c927887ec2d2808af49109803/ss_a284fd6d8692a43c927887ec2d2808af49109803.1920x1080.jpg?t=1786019021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/6f2085336a0c188e0a08e0e0a6d6aeb83594130e/ss_6f2085336a0c188e0a08e0e0a6d6aeb83594130e.1920x1080.jpg?t=1786019021"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/366b4a11f8fc7b4c160b0f37affc84e7fe3c46d4/ss_366b4a11f8fc7b4c160b0f37affc84e7fe3c46d4.1920x1080.jpg?t=1786299759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/447e8e5cbcfb0aa9cd306e85458e621a31bf4eed/ss_447e8e5cbcfb0aa9cd306e85458e621a31bf4eed.1920x1080.jpg?t=1786299759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/6e982b217e3b11aef5c7ae36018b23b6966bc8be/ss_6e982b217e3b11aef5c7ae36018b23b6966bc8be.1920x1080.jpg?t=1786299759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/1a37be84ed9561bc76fa343c0b320cc8aca516f5/ss_1a37be84ed9561bc76fa343c0b320cc8aca516f5.1920x1080.jpg?t=1786299759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/47f3b0e680640b60146565061cc6f46f37d12e9d/ss_47f3b0e680640b60146565061cc6f46f37d12e9d.1920x1080.jpg?t=1786299759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/6cb885142a81f95a9b09e93917050bead7b52970/ss_6cb885142a81f95a9b09e93917050bead7b52970.1920x1080.jpg?t=1786299759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/a284fd6d8692a43c927887ec2d2808af49109803/ss_a284fd6d8692a43c927887ec2d2808af49109803.1920x1080.jpg?t=1786299759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/6f2085336a0c188e0a08e0e0a6d6aeb83594130e/ss_6f2085336a0c188e0a08e0e0a6d6aeb83594130e.1920x1080.jpg?t=1786299759"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-09T01:34:29Z"
+  "updated_at": "2026-08-12T07:34:49Z"
 }

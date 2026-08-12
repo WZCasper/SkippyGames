@@ -1,8 +1,8 @@
 {
   "id": 4166740,
   "title": "Ore & Odds",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/0a23c9ff88535af6a47bdb44cabed10c2c41a53f/header.jpg?t=1786199733",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/3be0c3c90e70645fa39e0a6162329f9a52d02d6d/page_bg_raw.jpg?t=1786199733",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/0a23c9ff88535af6a47bdb44cabed10c2c41a53f/header.jpg?t=1786380234",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/3be0c3c90e70645fa39e0a6162329f9a52d02d6d/page_bg_raw.jpg?t=1786380234",
   "description": "Ore & Odds инкрементальная игра о добыче минералов и о том, как числа выходят из-под контроля. Каждый добытый минерал можно вложить в улучшения или поставить на слот-машину.\n\nУдача решает всё! Комбинируй минералы и повышай свои шансы на выигрыш. Иногда срывается куш. Иногда… не очень.\n\n• Более 50 улучшений для открытия\n\n• 4 уровня + 1 финальный босс\n\n• 9 видов минералов, каждый твёрже и ценнее предыдущего\n\n• Испытай удачу на слот-машине. За удачу придётся заплатить!\n\n• Гипнотичный пиксель-арт и звук, в котором можно потеряться\n\nДобывайНесколько биомов для добычи различных ресурсов.\n\nСтавьИспользуй слот, чтобы удвоить ресурсы... или потерять всё.\n\nПрокачивайБолее 50 навыков. Разблокируй взрывные удары и ядовитое облако!",
   "description_short": "Инкрементальная игра, где ты добываешь руду и полагаешься на удачу, чтобы открывать улучшения. Выбирай апгрейды, исследуй разные биомы и сразись с финальным боссом. Числа не перестают расти… пока случай не отберёт всё.",
   "genres": [
@@ -11,25 +11,25 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 726,
+  "price_rub": 785,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "30VceqST_yg",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/52419c4b98e11d362698d2388174b34a61840164/ss_52419c4b98e11d362698d2388174b34a61840164.1920x1080.jpg?t=1786199733",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/d13dc260ac02ca1a6f3117ec82f2641241adbc61/ss_d13dc260ac02ca1a6f3117ec82f2641241adbc61.1920x1080.jpg?t=1786199733",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/695ed3291f016cfa46b1a3b6e1dbdb3c4882ade8/ss_695ed3291f016cfa46b1a3b6e1dbdb3c4882ade8.1920x1080.jpg?t=1786199733",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/15a2aff51125b686f4f9011822a40504dea0df0f/ss_15a2aff51125b686f4f9011822a40504dea0df0f.1920x1080.jpg?t=1786199733",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/ffd6a3ac5dc2fa2ca26c5dc433ccfdfbb4efc327/ss_ffd6a3ac5dc2fa2ca26c5dc433ccfdfbb4efc327.1920x1080.jpg?t=1786199733"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/52419c4b98e11d362698d2388174b34a61840164/ss_52419c4b98e11d362698d2388174b34a61840164.1920x1080.jpg?t=1786380234",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/d13dc260ac02ca1a6f3117ec82f2641241adbc61/ss_d13dc260ac02ca1a6f3117ec82f2641241adbc61.1920x1080.jpg?t=1786380234",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/695ed3291f016cfa46b1a3b6e1dbdb3c4882ade8/ss_695ed3291f016cfa46b1a3b6e1dbdb3c4882ade8.1920x1080.jpg?t=1786380234",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/15a2aff51125b686f4f9011822a40504dea0df0f/ss_15a2aff51125b686f4f9011822a40504dea0df0f.1920x1080.jpg?t=1786380234",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/ffd6a3ac5dc2fa2ca26c5dc433ccfdfbb4efc327/ss_ffd6a3ac5dc2fa2ca26c5dc433ccfdfbb4efc327.1920x1080.jpg?t=1786380234"
   ],
   "upsells": [
     {
       "id": 4964130,
       "name": "Ore & Odds Original Soundtrack",
-      "price_rub": 593,
+      "price_rub": 594,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964130/f80313f7803a433ce34a63f24d1895603da364f3/header.jpg?t=1785623315"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-08T19:07:13Z"
+  "updated_at": "2026-08-12T07:04:48Z"
 }
