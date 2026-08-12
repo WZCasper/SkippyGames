@@ -24,20 +24,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729310/f86c4a10c7d2ffe5fc64903a3670ba1376f258d8/ss_f86c4a10c7d2ffe5fc64903a3670ba1376f258d8.1920x1080.jpg?t=1785336342",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729310/9322d3a8ccf40ee9ae2454b4a29aa85b4ee85fc3/ss_9322d3a8ccf40ee9ae2454b4a29aa85b4ee85fc3.1920x1080.jpg?t=1785336342"
   ],
-  "upsells": [
-    {
-      "id": 4729430,
-      "name": "Playing Prague: Boats & Pears",
-      "price_rub": 682,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729430/60aed08a6b71e6eac4d30eb1555f28795d4ed3a6/header.jpg?t=1785398000"
-    },
-    {
-      "id": 4729440,
-      "name": "Playing Prague: Bells & Unicorns",
-      "price_rub": 682,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729440/ba8a9f3050f82b61cd5cf3d477b3a26d98384584/header.jpg?t=1785397987"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-08T18:34:05Z"
+  "updated_at": "2026-08-12T01:46:20Z"
 }
