@@ -1,10 +1,10 @@
 {
   "id": 4954120,
   "title": "Frame Radar",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/c9183decfbcb6b89f91d63a1d6f820887ec7a365/header.jpg?t=1785940475",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/361966cb5e886a3b34800b06d2079390446bac87/page_bg_raw.jpg?t=1785940475",
-  "description": "Stop guessing why your game stuttered.\nFrame Radar is a Windows performance analysis tool built for PC gamers. It records what happened before, during, and after an FPS drop—then brings frame time, CPU, GPU, memory, storage, network, temperatures, and background processes together in one report.See the whole performance picture\n• Frame pacing: FPS, average FPS, 1% lows, frame time, and detected drop events\n\n• CPU and GPU: utilization, temperature, frequency, power, clocks, voltage, and VRAM\n\n• System activity: RAM, disk throughput, network latency, jitter, packet loss, and active processes\n\n• Health checks: a guided 60-second system scan with scored categories, charts, technical findings, and recommendations\nTurn a stutter into evidence\nFrame Radar automatically records detected game sessions and aligns every performance event with the telemetry captured at that moment. Instead of a generic “low FPS” warning, you get the context needed to investigate CPU saturation, GPU limits, thermal behavior, memory pressure, disk activity, network instability, or a competing background process.Review every session\nOpen a session to inspect its timeline, performance summary, drop events, alerts, and recorded system behavior. Compare what changed across sessions and keep the results that matter.Monitor without leaving the game\nUse the customizable in-game overlay to keep selected metrics visible while you play. Create threshold-based alerts and choose how Frame Radar notifies you: in the app, through the overlay, with sound, or with a Windows notification.Free core monitoring. Pro reporting tools.\nCore monitoring, automatic session detection, custom sessions, and the 60-second System Health Scan are free. The optional Pro Upgrade unlocks detailed Excel reports, bulk export, unlimited retained session and alert history, and session markers.\n\nAdvanced voltage and selected motherboard/NVMe sensors depend on hardware support and the optional PawnIO driver. Frame Radar never installs this driver silently.",
-  "description_short": "Find the real cause of FPS drops. Frame Radar records frame time and PC telemetry while you play, correlates performance events with hardware and background processes, and turns each session into a clear, actionable report.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/c9183decfbcb6b89f91d63a1d6f820887ec7a365/header.jpg?t=1786278191",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/361966cb5e886a3b34800b06d2079390446bac87/page_bg_raw.jpg?t=1786278191",
+  "description": "Monitor. Diagnose. Optimize—with evidence.\nFrame Radar is a Windows performance companion for PC gamers. It records what your system was doing when a game slowed down, turns each session into a clear report, and adds conservative PC Optimization tools that stay under your control.Prepare your PC before you play\n• Game Boost: optionally close selected user applications, watch for restarts until you end the boost, and apply documented temporary system controls\n\n• Windows Feature Controls: scan a fixed allowlist of Windows settings, review plain-language effects, and apply only the changes you select\n\n• Startup Apps: see what launches when you sign in, review current memory use, disable individual entries with confirmation, and restore supported changes\n\n• Services & Tasks: inspect a conservative Windows inventory and control only freshly revalidated usage-dependent items\n\n• Cleanup & Repair: use fixed Windows maintenance, network, storage, and repair actions—never arbitrary command text\n\n• History & Undo: review machine-local action records and exact saved states for supported reversible changes\n\nNothing is selected automatically. Protected Windows processes and system components remain locked, and every offered change requires a deliberate user action.Find the exact moment performance changed\nFrame Radar records FPS, average FPS, 1% lows, frame time, CPU, GPU, memory, storage, network conditions, temperatures, and background process activity. Open any captured game session to connect a stutter or FPS drop with the telemetry recorded at that moment.Check the health of the whole PC\nRun the guided 60-second Health Scan for scored categories, charts, technical findings, and practical recommendations. The scan is read-only and keeps previous reports on your PC.Monitor your way\nKeep selected metrics visible through the customizable in-game overlay. Build threshold-based alerts and choose app, overlay, sound, or Windows notification delivery.Free core tools. Pro reporting when you need it.\nCore monitoring, automatic and custom sessions, PC Optimization, Game Boost, alerts, and the 60-second Health Scan are available in the free application. The optional Pro Upgrade adds detailed Excel reports, bulk export, unlimited retained session/alert/scan history, and session markers.\n\nOptimization results vary by hardware, Windows version, drivers, installed software, and system policy. Review each action, save open work, and keep a current backup or recovery option. Advanced voltage and selected motherboard/NVMe sensors depend on hardware support and the optional PawnIO driver; Frame Radar never installs it silently.",
+  "description_short": "Monitor game performance, diagnose FPS drops, and safely optimize your Windows PC. Frame Radar combines live hardware telemetry, session reports, a 60-second health scan, Game Boost, startup controls, and exact Undo.",
   "genres": [
     "Экшен"
   ],
@@ -16,20 +16,22 @@
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/cd98847fa6403c513af2d02ede4035a7b4c1e47d/ss_cd98847fa6403c513af2d02ede4035a7b4c1e47d.1920x1080.jpg?t=1785940475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/ef3a012d7bf97e12f6d3dee02284cc7d00f13f17/ss_ef3a012d7bf97e12f6d3dee02284cc7d00f13f17.1920x1080.jpg?t=1785940475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/aa9d2fbab4ed2397d09712620a75b2dfb5370eeb/ss_aa9d2fbab4ed2397d09712620a75b2dfb5370eeb.1920x1080.jpg?t=1785940475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/de28c693d3b1b647afe36e738525290fb5b1cb3d/ss_de28c693d3b1b647afe36e738525290fb5b1cb3d.1920x1080.jpg?t=1785940475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/fb7d0ebc647e993874dbae798e5cd5cd6ffd2fd6/ss_fb7d0ebc647e993874dbae798e5cd5cd6ffd2fd6.1920x1080.jpg?t=1785940475"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/96bf44aa63d87cd35b2223f4e5bf98af43f1dea0/ss_96bf44aa63d87cd35b2223f4e5bf98af43f1dea0.1920x1080.jpg?t=1786278191",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/057ab5e5bf60597fc1593d6c93a1678ae9eeabc9/ss_057ab5e5bf60597fc1593d6c93a1678ae9eeabc9.1920x1080.jpg?t=1786278191",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/b99950919f5a30aee399773e953e0730025ec30c/ss_b99950919f5a30aee399773e953e0730025ec30c.1920x1080.jpg?t=1786278191",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/97d181a7eb8e00ef184a7b2e9060613b8cbc0002/ss_97d181a7eb8e00ef184a7b2e9060613b8cbc0002.1920x1080.jpg?t=1786278191",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/ddf89f1b82ed262dff0f7824882148de3553678d/ss_ddf89f1b82ed262dff0f7824882148de3553678d.1920x1080.jpg?t=1786278191",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/d63aecbc65b39cc43c719765d3fed5a6e1756451/ss_d63aecbc65b39cc43c719765d3fed5a6e1756451.1920x1080.jpg?t=1786278191",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/604d5e20cf5fb373626a822ee3645f70a7efa5da/ss_604d5e20cf5fb373626a822ee3645f70a7efa5da.1920x1080.jpg?t=1786278191"
   ],
   "upsells": [
     {
       "id": 4954160,
       "name": "Frame Radar — Pro Upgrade",
-      "price_rub": 737,
+      "price_rub": 739,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954160/8c19b25ae13685dff580ea30b138240cf3455a76/header.jpg?t=1784851323"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-09T12:23:39Z"
+  "updated_at": "2026-08-12T19:13:51Z"
 }
