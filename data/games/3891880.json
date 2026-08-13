@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 780,
+  "price_rub": 815,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "DIrGfMDEOEI",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891880/d91947ef0a5f2958dc006a7e38baa4434cc89ce1/ss_d91947ef0a5f2958dc006a7e38baa4434cc89ce1.1920x1080.jpg?t=1785161592",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891880/f62518592e18e115257bc21fac89745113207872/ss_f62518592e18e115257bc21fac89745113207872.1920x1080.jpg?t=1785161592",
@@ -29,16 +29,16 @@
     {
       "id": 4553670,
       "name": "Orbital Soundtrack",
-      "price_rub": 529,
+      "price_rub": 550,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553670/8b63c415407e3fb973f5d8e78d7024b00e225807/header.jpg?t=1785663825"
     },
     {
       "id": 5015140,
       "name": "Orbital - Planetary Pilot Supporter",
-      "price_rub": 529,
+      "price_rub": 530,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015140/476d781cf2084dabadc895ec447a87beb7a16a5d/header.jpg?t=1785664919"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-10T07:06:33Z"
+  "updated_at": "2026-08-13T12:53:06Z"
 }

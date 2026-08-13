@@ -13,7 +13,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 3798,
+  "price_rub": 3832,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -31,16 +31,16 @@
     {
       "id": 2778590,
       "name": "ELDEN RING Shadow of the Erdtree Premium Bundle",
-      "price_rub": 3248,
+      "price_rub": 3276,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778590/header.jpg?t=1720714093"
     },
     {
       "id": 2778580,
       "name": "ELDEN RING Shadow of the Erdtree",
-      "price_rub": 2698,
+      "price_rub": 2721,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778580/header.jpg?t=1763403045"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-10T07:30:56Z"
+  "updated_at": "2026-08-13T13:30:32Z"
 }
