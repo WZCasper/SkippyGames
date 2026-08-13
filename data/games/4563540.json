@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "ArqiMIMeov4",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563540/9763bba35f096d37dae573e3f5c51b920343846a/ss_9763bba35f096d37dae573e3f5c51b920343846a.1920x1080.jpg?t=1784854974",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563540/55f3c737da3d7cc03d4c21f6f340e6ee0da8d8a1/ss_55f3c737da3d7cc03d4c21f6f340e6ee0da8d8a1.1920x1080.jpg?t=1784854974",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-10T01:07:28Z"
+  "updated_at": "2026-08-13T07:09:28Z"
 }

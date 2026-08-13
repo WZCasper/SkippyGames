@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1902,
+  "price_rub": 1917,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Htm2HD91Lmk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/aff4b00c26995bd17e1d3e5fb858ded04bc39646/ss_aff4b00c26995bd17e1d3e5fb858ded04bc39646.1920x1080.jpg?t=1785174023",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/738cad9ce5d887ccfc1b2aece347e1361b2d0cca/ss_738cad9ce5d887ccfc1b2aece347e1361b2d0cca.1920x1080.jpg?t=1785174023",
@@ -34,10 +34,10 @@
     {
       "id": 1308910,
       "name": "Derail Valley Soundtrack",
-      "price_rub": 922,
+      "price_rub": 926,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308910/b9b5cee9dfc9a824b3da4a6aba18b4068c32bf29/header.jpg?t=1781859412"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-10T00:47:51Z"
+  "updated_at": "2026-08-13T07:08:36Z"
 }
