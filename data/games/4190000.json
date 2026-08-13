@@ -1,8 +1,8 @@
 {
   "id": 4190000,
   "title": "Bit Breaker",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/9810f7b70f92ee1548a4f1ca836e8ea2a44d7aee/header.jpg?t=1786344941",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/09b7d9dac2da5b7d00867dc04845d07558b58783/page_bg_raw.jpg?t=1786344941",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/9810f7b70f92ee1548a4f1ca836e8ea2a44d7aee/header.jpg?t=1786498533",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/09b7d9dac2da5b7d00867dc04845d07558b58783/page_bg_raw.jpg?t=1786498533",
   "description": "Bit Breaker — короткая аркадная игра с элементами инкрементального прогрессирования и «bullet hell». Собирайте ресурсы, улучшайте свои шары и сражайтесь с узлами, захватывающими человечество.\n\nУНИЧТОЖАЙТЕ УЗЛЫ\n\nРазрушайте узлы один за другим, бросая в них шары. Более 10 уникальных врагов, каждый со своим собственным способом атаки.\n\nБОСС-БИТВЫ\n\nВ конце каждого уровня вас ждет уникальный босс с особыми атаками, дающий представление о последующих узлах. Побеждая их, вы получаете ценные награды.\n\nУЛУЧШАЙТЕ СВОИ ШАРЫ\n\nДерево навыков предлагает широкий выбор улучшений для ваших шаров и корабля — от простого увеличения характеристик до совершенно новых способов атаки. Покупайте улучшения, чтобы стать сильнее, собирайте больше ресурсов, покупайте новые улучшения, становитесь сильнее, собирайте больше ресурсов… и так бесконечно!\n\nРАЗВИВАЙТЕ СВОИ НАВЫКИ\n\nХотя улучшения могут сделать даже самых сильных боссов простыми, крайне важно научиться увертываться от атак врагов, если вы хотите получить больше ресурсов. Первые уровни могут быть относительно легкими, но не расслабляйтесь — иначе вас поглотит «bullet hell».\n\nОСОБЕННОСТИ ИГРЫ• 2–4 часа увлекательного инкрементального прогрессирования\n\n• 15 уровней с растущей сложностью\n\n• Разрушайте узлы, собирайте ресурсы и открывайте более 120 новых навыков",
   "description_short": "Bit Breaker — короткая аркадная игра с элементами инкрементального прогрессирования и «bullet hell». Собирайте ресурсы, улучшайте свои шары и сражайтесь с узлами, захватывающими человечество.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 608,
+  "price_rub": 609,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/56243249d98ab1ceeed9e000c870034116b2d300/ss_56243249d98ab1ceeed9e000c870034116b2d300.1920x1080.jpg?t=1786344941",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/e9322f76f0bb34d936e55173f675d0923d907693/ss_e9322f76f0bb34d936e55173f675d0923d907693.1920x1080.jpg?t=1786344941",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/ae0656be12a8146bb3bdf2378a88e6fe566c246d/ss_ae0656be12a8146bb3bdf2378a88e6fe566c246d.1920x1080.jpg?t=1786344941",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/8b42ceefb484970fa83be348385cfef1d5279cc3/ss_8b42ceefb484970fa83be348385cfef1d5279cc3.1920x1080.jpg?t=1786344941",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/99f65329272ab041c4ac0cea49c71e530777cde1/ss_99f65329272ab041c4ac0cea49c71e530777cde1.1920x1080.jpg?t=1786344941"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/56243249d98ab1ceeed9e000c870034116b2d300/ss_56243249d98ab1ceeed9e000c870034116b2d300.1920x1080.jpg?t=1786498533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/e9322f76f0bb34d936e55173f675d0923d907693/ss_e9322f76f0bb34d936e55173f675d0923d907693.1920x1080.jpg?t=1786498533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/ae0656be12a8146bb3bdf2378a88e6fe566c246d/ss_ae0656be12a8146bb3bdf2378a88e6fe566c246d.1920x1080.jpg?t=1786498533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/8b42ceefb484970fa83be348385cfef1d5279cc3/ss_8b42ceefb484970fa83be348385cfef1d5279cc3.1920x1080.jpg?t=1786498533",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/99f65329272ab041c4ac0cea49c71e530777cde1/ss_99f65329272ab041c4ac0cea49c71e530777cde1.1920x1080.jpg?t=1786498533"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-10T07:55:02Z"
+  "updated_at": "2026-08-13T19:03:18Z"
 }

@@ -1,8 +1,8 @@
 {
   "id": 3812600,
   "title": "ReStory: Chill Electronics Repairs",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/766d7fcf140c43ff462fd19403c6845e434e1624/header_alt_assets_3_russian.jpg?t=1786119982",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/8f39acc933cd6fa0fcf1f533abee21a5498075cd/page_bg_raw.jpg?t=1786119982",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/766d7fcf140c43ff462fd19403c6845e434e1624/header_alt_assets_3_russian.jpg?t=1786634154",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/8f39acc933cd6fa0fcf1f533abee21a5498075cd/page_bg_raw.jpg?t=1786634154",
   "description": "ReStory – это ламповый сюжетный симулятор управления мастерской от создателей I Am Future. Действие происходит на оживлённых улицах Токио середины нулевых, а в центре геймплея – глубокая механика ремонта различных девайсов.В этой игре вы управляете мастерской по ремонту электроники и скрупулёзно восстанавливаете ностальгические девайсы эпохи нулевых, включая официально лицензированные консоли Atari. Вам также предстоит общаться с клиентами – каждый из них имеет собственную жизненную историю, на которую могут повлиять ваши решения.\n\nВстречайте клиентов, принимайте их устройства в ремонт, управляйте финансами и сёрфите по сети в поисках запчастей. Расслабьтесь и наслаждайтесь менеджментом собственной небольшой и уютной мастерской в игре, созданной с любовью и уважением к уникальной атмосфере японской городской жизни середины нулевых.\n\nРемонтируйте разнообразные девайсы, пропитанные ностальгией по нулевым и вдохновлённые легендарными консолями, портативками, телефонами, камерами, плеерами и бытовой техникой. Аккуратно разбирайте каждый гаджет, чистите его, меняйте неисправные детали и собирайте обратно, используя набор инструментов.\n\nТо, как вы общаетесь с каждым покупателем, может навсегда изменить чью-то жизнь. Сообщите ли вы полиции о тревожной находке в телефоне бывшего гангстера? Поможете ли влюблённому студенту признаться в чувствах с помощью подарка? Делайте свой выбор и смотрите, как он влияет на развитие и концовку нелинейного сюжета.\n\nКлючевые особенности• Управляйте уютной мастерской по ремонту электроники\n\n• Множество ностальгических устройств эпохи нулевых\n\n• Глубокая система ремонта и восстановления девайсов\n\n• Веб-браузер в стиле Y2K-эры для поиска запчастей и заказов\n\n• Разнообразные инструменты для ремонта\n\n• Официально лицензированные культовые консоли Atari\n\n• Покупатели с уникальными жизненными историями и диалогами\n\n• Нелинейный сюжет о маленьком человеке в гуще городских событий\n\n• Выборы, которые влияют на концовку и судьбы связанных между собой людей\n\n• Неповторимая атмосфера городской жизни в Японии 2000-х",
   "description_short": "Управляйте уютной мастерской по ремонту электроники в Токио середины 2000-х. Развивайте бизнес, ремонтируйте культовые игровые приставки, мобильники, плееры и другие олдскульные девайсы. Общайтесь с клиентами и принимайте важные решения, которые повлияют на их жизни и судьбу вашей мастерской.",
   "genres": [
@@ -11,28 +11,34 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 993,
+  "price_rub": 998,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/388a09ba420abd16546e16570567e83cc6d55590/ss_388a09ba420abd16546e16570567e83cc6d55590.1920x1080.jpg?t=1786119982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c01f56d4015e380a942b101297b4b7f4d5c03e18/ss_c01f56d4015e380a942b101297b4b7f4d5c03e18.1920x1080.jpg?t=1786119982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/5f5d54a9d11c2461dde84fcf3eae4ec3e95e8493/ss_5f5d54a9d11c2461dde84fcf3eae4ec3e95e8493.1920x1080.jpg?t=1786119982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c8f30b0f37aaaac1263e405122fb212400116678/ss_c8f30b0f37aaaac1263e405122fb212400116678.1920x1080.jpg?t=1786119982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/dc7803dbd526115ed8e0cd8befcd6110e314e990/ss_dc7803dbd526115ed8e0cd8befcd6110e314e990.1920x1080.jpg?t=1786119982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/cb3ebbf4888bcf0b7ad9f5fec7b9009b90a95820/ss_cb3ebbf4888bcf0b7ad9f5fec7b9009b90a95820.1920x1080.jpg?t=1786119982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/0699867d169804d87eb0fbbc4df0748940235a0e/ss_0699867d169804d87eb0fbbc4df0748940235a0e.1920x1080.jpg?t=1786119982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/d7e7098cd4978135dae11f93033590ee0fcb80b4/ss_d7e7098cd4978135dae11f93033590ee0fcb80b4.1920x1080.jpg?t=1786119982"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/388a09ba420abd16546e16570567e83cc6d55590/ss_388a09ba420abd16546e16570567e83cc6d55590.1920x1080.jpg?t=1786634154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c01f56d4015e380a942b101297b4b7f4d5c03e18/ss_c01f56d4015e380a942b101297b4b7f4d5c03e18.1920x1080.jpg?t=1786634154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/5f5d54a9d11c2461dde84fcf3eae4ec3e95e8493/ss_5f5d54a9d11c2461dde84fcf3eae4ec3e95e8493.1920x1080.jpg?t=1786634154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c8f30b0f37aaaac1263e405122fb212400116678/ss_c8f30b0f37aaaac1263e405122fb212400116678.1920x1080.jpg?t=1786634154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/dc7803dbd526115ed8e0cd8befcd6110e314e990/ss_dc7803dbd526115ed8e0cd8befcd6110e314e990.1920x1080.jpg?t=1786634154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/cb3ebbf4888bcf0b7ad9f5fec7b9009b90a95820/ss_cb3ebbf4888bcf0b7ad9f5fec7b9009b90a95820.1920x1080.jpg?t=1786634154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/0699867d169804d87eb0fbbc4df0748940235a0e/ss_0699867d169804d87eb0fbbc4df0748940235a0e.1920x1080.jpg?t=1786634154",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/d7e7098cd4978135dae11f93033590ee0fcb80b4/ss_d7e7098cd4978135dae11f93033590ee0fcb80b4.1920x1080.jpg?t=1786634154"
   ],
   "upsells": [
     {
+      "id": 5020360,
+      "name": "ReStory: Chill Electronics Repairs Soundtrack",
+      "price_rub": 717,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020360/2dd493bda8ac4d13097e83e283bdbaf596d0c059/header.jpg?t=1786541218"
+    },
+    {
       "id": 5034500,
       "name": "Restory: Chill Electronics Repairs - Digital Artbook",
-      "price_rub": 738,
+      "price_rub": 741,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034500/6de9503f848b934dee72599b1c3dc39f43f35b39/header.jpg?t=1786031993"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-10T07:52:26Z"
+  "updated_at": "2026-08-13T19:00:40Z"
 }
