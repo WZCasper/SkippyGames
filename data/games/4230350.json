@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 590,
+  "price_rub": 592,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "ax5yTUi-wvY",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/9950cf4fb54c9dfb4fdcdc959e9c33a2a7a1d309/ss_9950cf4fb54c9dfb4fdcdc959e9c33a2a7a1d309.1920x1080.jpg?t=1785825943",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/7e7d73cbde12995c907454a9f3e1a0c9dde1c2fe/ss_7e7d73cbde12995c907454a9f3e1a0c9dde1c2fe.1920x1080.jpg?t=1785825943",
@@ -25,7 +25,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/52d1b3cee51ae8de62dfc0aab9278f38c8715724/ss_52d1b3cee51ae8de62dfc0aab9278f38c8715724.1920x1080.jpg?t=1785825943",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/b814580e1d0612f2b3ca4210dbaa0350049c46d6/ss_b814580e1d0612f2b3ca4210dbaa0350049c46d6.1920x1080.jpg?t=1785825943"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5035370,
+      "name": "Project: AFTERSHOCK - Digital Trace & Support Pack",
+      "price_rub": 530,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035370/5b44aa63b887ea74a7ece1dd54c150f259210f70/header.jpg?t=1786640919"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-08-11T07:05:02Z"
+  "updated_at": "2026-08-14T12:57:04Z"
 }

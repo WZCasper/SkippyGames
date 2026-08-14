@@ -1,7 +1,7 @@
 {
   "id": 3604560,
   "title": "Figure Shop Simulator",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/e9106c30c69ac8b6116923865eb31bdb68c4fd45/header.jpg?t=1786381443",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/e9106c30c69ac8b6116923865eb31bdb68c4fd45/header.jpg?t=1786526222",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3604560/library_hero.jpg",
   "description": "Figuré Shop Simulator — это увлекательная и детализированная бизнес-симуляция, где вы управляете собственным магазином фигурок. Производите фигурки с помощью 3D-принтеров, пополняйте полки, устанавливайте цены и предоставляйте клиентам лучший опыт покупок.\n\nЧтобы развивать свой бизнес, эффективно управляйте складом, расширяйте магазин и настраивайте его дизайн. Создавайте редкие фигурки для коллекционеров, следите за трендами и увеличивайте прибыль, предлагая самые востребованные фигурки.\n\nНо будьте осторожны! Управление запасами, удовлетворение клиентов и ценообразование — ключевые факторы успеха. Сможете ли вы принимать правильные стратегические решения, чтобы вывести свой магазин на вершину индустрии?\n\nКлючевые особенности:\n\n• Производство и настройка 3D-фигурок\n\n• Управление полками, ценообразование и удовлетворение клиентов\n\n• Расширение и настройка вашего магазина\n\n• Создание коллекционных наборов и поиск редких фигурок\n\n• Отслеживание рыночных трендов и определение бестселлеров\n\n• Постройте свой магазин с нуля и станьте самым известным именем в мире коллекционирования фигурок!",
   "description_short": "Управляйте своим магазином фигурок! Производите фигурки с помощью 3D-принтеров, пополняйте полки, устанавливайте цены и предоставляйте лучший сервис. Управляйте складом, расширяйте магазин, собирайте коллекции, следите за трендами и развивайте свой бизнес!",
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 850,
+  "price_rub": 855,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/6e7464aabb0acaa8e15e4df5c2bf708ac5fe2e53/ss_6e7464aabb0acaa8e15e4df5c2bf708ac5fe2e53.1920x1080.jpg?t=1786381443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/476d31757bbfb49f36122c3291934e6e292a14a3/ss_476d31757bbfb49f36122c3291934e6e292a14a3.1920x1080.jpg?t=1786381443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/e1690078b27839cc218057b15146aee750d143bb/ss_e1690078b27839cc218057b15146aee750d143bb.1920x1080.jpg?t=1786381443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/a326c790ab81a193e3e7ff569bdd01e15fe83476/ss_a326c790ab81a193e3e7ff569bdd01e15fe83476.1920x1080.jpg?t=1786381443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/09eb47360364c353f7c9be1e7471c732ed09269f/ss_09eb47360364c353f7c9be1e7471c732ed09269f.1920x1080.jpg?t=1786381443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/9b7bff826b9f73930f3c56b2fe198a93e80d8481/ss_9b7bff826b9f73930f3c56b2fe198a93e80d8481.1920x1080.jpg?t=1786381443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/23902e691c485412aa37d62fb5ca2846093771b3/ss_23902e691c485412aa37d62fb5ca2846093771b3.1920x1080.jpg?t=1786381443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/a69e7cb576e7f7ebdf7885b3699904b387ad6115/ss_a69e7cb576e7f7ebdf7885b3699904b387ad6115.1920x1080.jpg?t=1786381443"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/6e7464aabb0acaa8e15e4df5c2bf708ac5fe2e53/ss_6e7464aabb0acaa8e15e4df5c2bf708ac5fe2e53.1920x1080.jpg?t=1786526222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/476d31757bbfb49f36122c3291934e6e292a14a3/ss_476d31757bbfb49f36122c3291934e6e292a14a3.1920x1080.jpg?t=1786526222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/e1690078b27839cc218057b15146aee750d143bb/ss_e1690078b27839cc218057b15146aee750d143bb.1920x1080.jpg?t=1786526222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/a326c790ab81a193e3e7ff569bdd01e15fe83476/ss_a326c790ab81a193e3e7ff569bdd01e15fe83476.1920x1080.jpg?t=1786526222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/09eb47360364c353f7c9be1e7471c732ed09269f/ss_09eb47360364c353f7c9be1e7471c732ed09269f.1920x1080.jpg?t=1786526222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/9b7bff826b9f73930f3c56b2fe198a93e80d8481/ss_9b7bff826b9f73930f3c56b2fe198a93e80d8481.1920x1080.jpg?t=1786526222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/23902e691c485412aa37d62fb5ca2846093771b3/ss_23902e691c485412aa37d62fb5ca2846093771b3.1920x1080.jpg?t=1786526222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604560/a69e7cb576e7f7ebdf7885b3699904b387ad6115/ss_a69e7cb576e7f7ebdf7885b3699904b387ad6115.1920x1080.jpg?t=1786526222"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-11T07:10:06Z"
+  "updated_at": "2026-08-14T13:23:35Z"
 }

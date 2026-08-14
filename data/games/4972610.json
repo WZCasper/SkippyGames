@@ -1,8 +1,8 @@
 {
   "id": 4972610,
   "title": "Tower of Scherbenmark",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/f1a50aae4ac08e14f51d665c8df92fd3944e53d0/header.jpg?t=1786381296",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/07bcb2285c5b5f71f98979bb8e2f337d9f0c46ca/page_bg_raw.jpg?t=1786381296",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/e703dcc38c8919864825c177a0b9f7f10b17dcb1/header.jpg?t=1786534164",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/07bcb2285c5b5f71f98979bb8e2f337d9f0c46ca/page_bg_raw.jpg?t=1786534164",
   "description": "\"Do not trust the echo of a spell.\" \n\nScherbenmark hangs above an open wound in the earth—a fractured realm of floating islands, broken cities, unstable magic, and roads that no longer agree on where they lead. At the edge of the Arcane Rift stands an abandoned research spire, silent for three winters. \n\nYour sister Mara entered the spire with rift scholars and debt-sworn sellswords. Only her satchel returned, carried by a courier aged a year in a single evening. Inside was a warning: Do not trust the echo of a spell. \n\n Armed with a worn blade and little more than stubborn hope, you descend into the shifting tower. \n\nListen for creatures beyond your sight, survive the Magister’s experiments, and follow the records Mara left behind. Somewhere below, the rift has learned her name.\n\nKey Features:\n\n• Listen Beyond Sight: Wait and listen to detect nearby creatures by their direction and distance. Hearing-enhancing equipment extends your reach.\n\n• Tactical Turn-Based Combat: Every movement advances the world. Position carefully, fight with melee weapons and equipment effects, and survive creatures with distinct ranged and close-combat abilities. \n\n• A Shifting Research Spire: Explore procedurally generated floors with distinct themes, traps, hidden passages, shrines, libraries, armories, riddles, mimics, and time-scarred rooms. \n\n• Mutations That Reshape Each Run: Accept powerful shard mutations with unusual advantages and dangerous drawbacks. \n\n• Permanent Legacy Progression: Earn essence after every expedition, unlock lasting upgrades, and prepare future characters to descend farther. \n\n• A Story Told Through Echoes: Discover Mara’s field notes, the Magister’s experiment records, strange artifacts, and inscriptions about the power of true names. \n\n• ASCII with Modern Comfort: Choose between classic ASCII and optional glyph sprites, with mouse and controller support, UI scaling, rebinding, captions, autosaves, and accessibility options.",
   "description_short": "A turn-based ASCII roguelike RPG set in the shattered dark-fantasy realm of Scherbenmark. Listen for monsters beyond your sight, survive shifting floors, and follow the echoes left by your missing sister Mara into an ancient rift.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 703,
+  "price_rub": 706,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/d061da1291727a8a105173fac9e9c60c8e3ecf0e/ss_d061da1291727a8a105173fac9e9c60c8e3ecf0e.1920x1080.jpg?t=1786381296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/e8b8223f0dd0c7f5d74d989d78b7879bdb5f1b5a/ss_e8b8223f0dd0c7f5d74d989d78b7879bdb5f1b5a.1920x1080.jpg?t=1786381296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/ec82d3ffa6e32842e3416b9bd595f031fac2d093/ss_ec82d3ffa6e32842e3416b9bd595f031fac2d093.1920x1080.jpg?t=1786381296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/a74840512998e1c662d794a8edc45346c0b83b61/ss_a74840512998e1c662d794a8edc45346c0b83b61.1920x1080.jpg?t=1786381296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/5750b6fbb4f9d9ecf05fda6d067a1021da9ee12b/ss_5750b6fbb4f9d9ecf05fda6d067a1021da9ee12b.1920x1080.jpg?t=1786381296"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/d061da1291727a8a105173fac9e9c60c8e3ecf0e/ss_d061da1291727a8a105173fac9e9c60c8e3ecf0e.1920x1080.jpg?t=1786534164",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/e8b8223f0dd0c7f5d74d989d78b7879bdb5f1b5a/ss_e8b8223f0dd0c7f5d74d989d78b7879bdb5f1b5a.1920x1080.jpg?t=1786534164",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/ec82d3ffa6e32842e3416b9bd595f031fac2d093/ss_ec82d3ffa6e32842e3416b9bd595f031fac2d093.1920x1080.jpg?t=1786534164",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/a74840512998e1c662d794a8edc45346c0b83b61/ss_a74840512998e1c662d794a8edc45346c0b83b61.1920x1080.jpg?t=1786534164",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972610/5750b6fbb4f9d9ecf05fda6d067a1021da9ee12b/ss_5750b6fbb4f9d9ecf05fda6d067a1021da9ee12b.1920x1080.jpg?t=1786534164"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-11T07:12:41Z"
+  "updated_at": "2026-08-14T13:26:13Z"
 }

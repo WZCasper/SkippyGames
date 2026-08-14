@@ -1,8 +1,8 @@
 {
   "id": 4920590,
   "title": "Meridian",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/219a5181916d4b5ae7bd060854f424bbe19fdd6a/header.jpg?t=1785779054",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4920590?t=1785779054",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/219a5181916d4b5ae7bd060854f424bbe19fdd6a/header.jpg?t=1786565073",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4920590?t=1786565073",
   "description": "Become more than human. Lose yourself doing it. \n\nMeridian is a cyberpunk-noir RPG that runs on choices. You're a runner in a dying corporate city, taking the jobs nobody signs their name to — and how you take them is up to you. Talk your way through, sneak past, hack their network from a corner booth, or settle it on the grid in tactical, turn-based combat.\n\nBuild a runner your way — six classes, origins, traits, and a wall of cyberware — then roll the dice on skill checks, dive the net past its ICE, and live with the cost of every upgrade: more power, less of the person you started as. Six endings are waiting, and the city's been writing yours the whole time.",
   "description_short": "A choice-driven cyberpunk RPG with tactical turn-based combat. Talk, sneak, hack, or fight your way through branching jobs. Solve every job your way, and pay for each upgrade with a piece of who you are.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 881,
+  "price_rub": 887,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "BX-1UhkIswY",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/0ee8b81bc478f5495fa8b78446d901e6536063c5/ss_0ee8b81bc478f5495fa8b78446d901e6536063c5.1920x1080.jpg?t=1785779054",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/226078019368874f07eff55ea1dd155c3d5b1d5f/ss_226078019368874f07eff55ea1dd155c3d5b1d5f.1920x1080.jpg?t=1785779054",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/15aebb3f4b60c8fd4bffa01789d7a1b21fac8f5d/ss_15aebb3f4b60c8fd4bffa01789d7a1b21fac8f5d.1920x1080.jpg?t=1785779054",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/b3674550fa4a87d3a22c1f972c1c08a653d046f7/ss_b3674550fa4a87d3a22c1f972c1c08a653d046f7.1920x1080.jpg?t=1785779054",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/884b4177e28e40b729c80a54949a2bc677aca67d/ss_884b4177e28e40b729c80a54949a2bc677aca67d.1920x1080.jpg?t=1785779054",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/ad242fc79ca624bed8d6fe2b82cb8f7820ae4f7e/ss_ad242fc79ca624bed8d6fe2b82cb8f7820ae4f7e.1920x1080.jpg?t=1785779054",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/931161804f4825ec0f227b343ad99b0476d92530/ss_931161804f4825ec0f227b343ad99b0476d92530.1920x1080.jpg?t=1785779054",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/58abc4594766cebe5671bf9b6d1860929afc2073/ss_58abc4594766cebe5671bf9b6d1860929afc2073.1920x1080.jpg?t=1785779054"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/0ee8b81bc478f5495fa8b78446d901e6536063c5/ss_0ee8b81bc478f5495fa8b78446d901e6536063c5.1920x1080.jpg?t=1786565073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/226078019368874f07eff55ea1dd155c3d5b1d5f/ss_226078019368874f07eff55ea1dd155c3d5b1d5f.1920x1080.jpg?t=1786565073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/15aebb3f4b60c8fd4bffa01789d7a1b21fac8f5d/ss_15aebb3f4b60c8fd4bffa01789d7a1b21fac8f5d.1920x1080.jpg?t=1786565073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/b3674550fa4a87d3a22c1f972c1c08a653d046f7/ss_b3674550fa4a87d3a22c1f972c1c08a653d046f7.1920x1080.jpg?t=1786565073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/884b4177e28e40b729c80a54949a2bc677aca67d/ss_884b4177e28e40b729c80a54949a2bc677aca67d.1920x1080.jpg?t=1786565073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/ad242fc79ca624bed8d6fe2b82cb8f7820ae4f7e/ss_ad242fc79ca624bed8d6fe2b82cb8f7820ae4f7e.1920x1080.jpg?t=1786565073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/931161804f4825ec0f227b343ad99b0476d92530/ss_931161804f4825ec0f227b343ad99b0476d92530.1920x1080.jpg?t=1786565073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/58abc4594766cebe5671bf9b6d1860929afc2073/ss_58abc4594766cebe5671bf9b6d1860929afc2073.1920x1080.jpg?t=1786565073"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-11T07:05:07Z"
+  "updated_at": "2026-08-14T12:59:11Z"
 }

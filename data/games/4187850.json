@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 692,
+  "price_rub": 694,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "n1-HOkeBPsI",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187850/7080cf91c726da59dcf8845b5993148fcbb2a258/ss_7080cf91c726da59dcf8845b5993148fcbb2a258.1920x1080.jpg?t=1786399218",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187850/20ab5153e0d0c18d9e5ad83eb9a5d3dc836d9a02/ss_20ab5153e0d0c18d9e5ad83eb9a5d3dc836d9a02.1920x1080.jpg?t=1786399218",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-11T07:08:58Z"
+  "updated_at": "2026-08-14T13:19:54Z"
 }

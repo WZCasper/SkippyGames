@@ -1,8 +1,8 @@
 {
   "id": 4195910,
   "title": "Hamster Ballers",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/80abc799604cae4f25e5b993671698b2ddfce327/header.jpg?t=1786384672",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4195910?t=1786384672",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/80abc799604cae4f25e5b993671698b2ddfce327/header.jpg?t=1786647411",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4195910?t=1786647411",
   "description": "Физическая игра, которая рушит дружбу и выводит из себя: вы с другом — хомяки, запертые в хомячьем шаре, и выберетесь только если пройдёте эту полосу препятствий.\n\nДва хомяка. Один шар. Ноль координации.Хватайте лучшего друга и катитесь через невозможную полосу препятствий, но есть два нюанса:\n\n• Зажать кнопку и ехать не получится. Каждое нажатие толкает шар, так что вам придётся постоянно подстраиваться под скорость и направление.\n\n• В кооперативе вам нужно синхронизировать количество нажатий с напарником. Если один игрок нажмёт пять раз подряд, а второй за это время ни разу не нажмёт, шар взорвётся.\n\nОнлайн-мультиплеерНе можете пройти трассу в одиночку? Зовите друга на \"помощь\"!\n\n• Играйте в онлайн-коопе с одним другом.\n\n• Или проходите соло и управляйте шаром сами.\n\nОн скользкий. Падать вы будете часто. Очень часто.\n\nФизика шараМы моделировали физику шара по образу тех самых хомячьих шаров, которые были у вас в детстве для домашнего хомяка.\n\nУдачиВы будете много падать... и много взрываться.\n\nУдачи, и пусть хомячья скорость будет с вами.",
   "description_short": "Физическая игра, которая рушит дружбу и выводит из себя: вы — хомяки, запертые в хомячьем шаре, и выберетесь только если пройдёте эту полосу препятствий.",
   "genres": [
@@ -11,20 +11,20 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 647,
+  "price_rub": 650,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/ab6e9dbbfb51b61f4e5ebd68b27972b802cd58b6/ss_ab6e9dbbfb51b61f4e5ebd68b27972b802cd58b6.1920x1080.jpg?t=1786384672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/6601b18235e36b5637661ad3694281637633cdbc/ss_6601b18235e36b5637661ad3694281637633cdbc.1920x1080.jpg?t=1786384672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/7aed8279c4cf57e4c5a088f1e28831222d55fcf5/ss_7aed8279c4cf57e4c5a088f1e28831222d55fcf5.1920x1080.jpg?t=1786384672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/19a0b9c87765264ed97315d0c4df00cf1666efc9/ss_19a0b9c87765264ed97315d0c4df00cf1666efc9.1920x1080.jpg?t=1786384672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/d524cd71f3c7f704615961d115b9123d4aa2752d/ss_d524cd71f3c7f704615961d115b9123d4aa2752d.1920x1080.jpg?t=1786384672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/8d369ed9912aeb52d6821e6a36e57c21f1febf8e/ss_8d369ed9912aeb52d6821e6a36e57c21f1febf8e.1920x1080.jpg?t=1786384672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/b1f737cb08fc3aef6bde6576a649b520a35d81b6/ss_b1f737cb08fc3aef6bde6576a649b520a35d81b6.1920x1080.jpg?t=1786384672"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/ab6e9dbbfb51b61f4e5ebd68b27972b802cd58b6/ss_ab6e9dbbfb51b61f4e5ebd68b27972b802cd58b6.1920x1080.jpg?t=1786647411",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/6601b18235e36b5637661ad3694281637633cdbc/ss_6601b18235e36b5637661ad3694281637633cdbc.1920x1080.jpg?t=1786647411",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/7aed8279c4cf57e4c5a088f1e28831222d55fcf5/ss_7aed8279c4cf57e4c5a088f1e28831222d55fcf5.1920x1080.jpg?t=1786647411",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/19a0b9c87765264ed97315d0c4df00cf1666efc9/ss_19a0b9c87765264ed97315d0c4df00cf1666efc9.1920x1080.jpg?t=1786647411",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/d524cd71f3c7f704615961d115b9123d4aa2752d/ss_d524cd71f3c7f704615961d115b9123d4aa2752d.1920x1080.jpg?t=1786647411",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/8d369ed9912aeb52d6821e6a36e57c21f1febf8e/ss_8d369ed9912aeb52d6821e6a36e57c21f1febf8e.1920x1080.jpg?t=1786647411",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195910/b1f737cb08fc3aef6bde6576a649b520a35d81b6/ss_b1f737cb08fc3aef6bde6576a649b520a35d81b6.1920x1080.jpg?t=1786647411"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-11T07:12:10Z"
+  "updated_at": "2026-08-14T13:25:41Z"
 }

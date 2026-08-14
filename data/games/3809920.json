@@ -1,7 +1,7 @@
 {
   "id": 3809920,
   "title": "Wicked Little Witch 小小坏女巫",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/b644187c80aadd605c356439e650927d96d48a3c/header.jpg?t=1786409246",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/b644187c80aadd605c356439e650927d96d48a3c/header.jpg?t=1786565489",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3809920/library_hero.jpg",
   "description": "Play as a city witch on a journey of battles and truth.\n\nWicked Little Witch is a story-driven, survivor-like action roguelite. You play as an amnesiac witch returning to the enchanted forest to search for your sister, face former friends, and uncover the truth behind your past, your powers, and your fate.\n\n· Full story progression\n\n· Support for more languages\n\n· At least 15 unlockable characters in the full version\n\n· 4 unique maps with different environments\n\n· More enemy types and mini-bosses, 14+ story bosses\n\n· 14+ unlockable magic spells\n\n· enhancement shop\n\nThank you to every player brave enough to enter this forest.",
   "description_short": "A city witch lost in the woods, face enemies both familiar and strange. In this Action Roguelite, unlock new characters, collect spells, and build your own playstyle and uncover the truth.",
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 666,
+  "price_rub": 668,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "cheLCCATCsM",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/0bb2a8c4d0b6afe2f931ee3e33fa103145be1cc2/ss_0bb2a8c4d0b6afe2f931ee3e33fa103145be1cc2.1920x1080.jpg?t=1786409246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/76ecb9b87d2a11f594ae7ae770b48235d6e43091/ss_76ecb9b87d2a11f594ae7ae770b48235d6e43091.1920x1080.jpg?t=1786409246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/aecfbf6daab8966ccefc02cbdcdb8e0d5bf3224e/ss_aecfbf6daab8966ccefc02cbdcdb8e0d5bf3224e.1920x1080.jpg?t=1786409246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/549420517db1ad8c155a0531c91096a4de8d68ab/ss_549420517db1ad8c155a0531c91096a4de8d68ab.1920x1080.jpg?t=1786409246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/8cd88def7066f65ecc3e9f88b5395b2286d9cc5b/ss_8cd88def7066f65ecc3e9f88b5395b2286d9cc5b.1920x1080.jpg?t=1786409246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/97d4774711c043cd673dd05a647aff3e37ee8a00/ss_97d4774711c043cd673dd05a647aff3e37ee8a00.1920x1080.jpg?t=1786409246"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/0bb2a8c4d0b6afe2f931ee3e33fa103145be1cc2/ss_0bb2a8c4d0b6afe2f931ee3e33fa103145be1cc2.1920x1080.jpg?t=1786565489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/76ecb9b87d2a11f594ae7ae770b48235d6e43091/ss_76ecb9b87d2a11f594ae7ae770b48235d6e43091.1920x1080.jpg?t=1786565489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/aecfbf6daab8966ccefc02cbdcdb8e0d5bf3224e/ss_aecfbf6daab8966ccefc02cbdcdb8e0d5bf3224e.1920x1080.jpg?t=1786565489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/549420517db1ad8c155a0531c91096a4de8d68ab/ss_549420517db1ad8c155a0531c91096a4de8d68ab.1920x1080.jpg?t=1786565489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/8cd88def7066f65ecc3e9f88b5395b2286d9cc5b/ss_8cd88def7066f65ecc3e9f88b5395b2286d9cc5b.1920x1080.jpg?t=1786565489",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809920/97d4774711c043cd673dd05a647aff3e37ee8a00/ss_97d4774711c043cd673dd05a647aff3e37ee8a00.1920x1080.jpg?t=1786565489"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-11T07:07:53Z"
+  "updated_at": "2026-08-14T13:17:47Z"
 }
