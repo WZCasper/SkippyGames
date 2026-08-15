@@ -1,8 +1,8 @@
 {
   "id": 4108000,
   "title": "Machine Party",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1785909320",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4108000?t=1785909320",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4108000?t=1786561627",
   "description": "Добро пожаловать в Machine Party. Боритесь за жизнь, участвуя в опасных, а для кого-то — совершенно недопустимых играх. Помните: для выживания все средства хороши. Взгляните на классический формат игр для вечеринки по-новому. Приготовьтесь к веселью, крикам и ужасу.\n\nОсобенности\n\n• Коллекция невероятно суровых игр для вечеринки\n\n• Для 2–4 игроков\n\n• Индастриал-саундтрек: Alex Peipman\n\n• Кастомизация испытуемого игрока\n\n• Множество способов коварно подставить друзей",
   "description_short": "Machine Party — это коллекция суровых и беспощадных игр для вечеринки, где любая ошибка может стать роковой. Состязайтесь с друзьями не на жизнь, а на смерть. Пройдите жёсткие испытания и покажите, чего вы стоите. Шансы выжить минимальны.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 810,
+  "price_rub": 873,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "0EHUmssXyyc",
+  "trailer_youtube_id": "OaemT0TlwIo",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/3eb86f408f3275f7567424526b60df2e65a69ea0/ss_3eb86f408f3275f7567424526b60df2e65a69ea0.1920x1080.jpg?t=1785909320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/88d0b7ad71aae96fed2f4d9e74870a505142a42f/ss_88d0b7ad71aae96fed2f4d9e74870a505142a42f.1920x1080.jpg?t=1785909320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/a8589877ad7c8ceeca084c52dbc1a6276d9f169f/ss_a8589877ad7c8ceeca084c52dbc1a6276d9f169f.1920x1080.jpg?t=1785909320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/9960765cd0086ad5c959e20a1b0c1cf297ed1bb6/ss_9960765cd0086ad5c959e20a1b0c1cf297ed1bb6.1920x1080.jpg?t=1785909320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/8b2753b55b3c990aeae63f00273ec28b97606af8/ss_8b2753b55b3c990aeae63f00273ec28b97606af8.1920x1080.jpg?t=1785909320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/abadd7fccfef9fc158dad19a8c6353ff438d0ab5/ss_abadd7fccfef9fc158dad19a8c6353ff438d0ab5.1920x1080.jpg?t=1785909320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/c654962c68335c9fec1e9317b7b651063462eb1a/ss_c654962c68335c9fec1e9317b7b651063462eb1a.1920x1080.jpg?t=1785909320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/eb0be1dded7834138814606ba79f06bb36db55b8/ss_eb0be1dded7834138814606ba79f06bb36db55b8.1920x1080.jpg?t=1785909320"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/3eb86f408f3275f7567424526b60df2e65a69ea0/ss_3eb86f408f3275f7567424526b60df2e65a69ea0.1920x1080.jpg?t=1786561627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/88d0b7ad71aae96fed2f4d9e74870a505142a42f/ss_88d0b7ad71aae96fed2f4d9e74870a505142a42f.1920x1080.jpg?t=1786561627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/a8589877ad7c8ceeca084c52dbc1a6276d9f169f/ss_a8589877ad7c8ceeca084c52dbc1a6276d9f169f.1920x1080.jpg?t=1786561627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/9960765cd0086ad5c959e20a1b0c1cf297ed1bb6/ss_9960765cd0086ad5c959e20a1b0c1cf297ed1bb6.1920x1080.jpg?t=1786561627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/8b2753b55b3c990aeae63f00273ec28b97606af8/ss_8b2753b55b3c990aeae63f00273ec28b97606af8.1920x1080.jpg?t=1786561627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/abadd7fccfef9fc158dad19a8c6353ff438d0ab5/ss_abadd7fccfef9fc158dad19a8c6353ff438d0ab5.1920x1080.jpg?t=1786561627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/c654962c68335c9fec1e9317b7b651063462eb1a/ss_c654962c68335c9fec1e9317b7b651063462eb1a.1920x1080.jpg?t=1786561627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/eb0be1dded7834138814606ba79f06bb36db55b8/ss_eb0be1dded7834138814606ba79f06bb36db55b8.1920x1080.jpg?t=1786561627"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-12T07:04:43Z"
+  "updated_at": "2026-08-15T12:19:55Z"
 }
