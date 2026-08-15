@@ -1,0 +1,48 @@
+{
+  "id": 3617890,
+  "title": "Typing With Ghostie",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617890/ba5d56bfec642042b8d4727ccdd602afb476f065/header.jpg?t=1786742028",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3617890/library_hero.jpg",
+  "description": "👻 The cute little Ghostie game that helps you learn to type! • ⌨️ Get better at typing, that makes him happiest!\n\nFrom 2 to 18 letter words! Some words you'll know and bunch more you'll learn as you play.\n\nWhy play?• ⌨️ Helps improve your typing\n\n• 🏁 Compete against the steam community \n\n• 🏆 Challenge yourself to be the best typist you can be\n\nCool Features:• 🦇 Collect bats to help push back the Boos\n\n• 👻 Pop special Boos for ghoulish PowerUps\n\n• 🍬 Compete on the fastest typer leaderboards",
+  "description_short": "👻 A cute little Ghostie game that helps you type!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "o_bJPdinzvw",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617890/280e137bb1d34d6dd83963d342c4e4fb38f3be71/ss_280e137bb1d34d6dd83963d342c4e4fb38f3be71.1920x1080.jpg?t=1786742028",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617890/55dae9d09a0027c76c9b640cb9827dc5206e82e2/ss_55dae9d09a0027c76c9b640cb9827dc5206e82e2.1920x1080.jpg?t=1786742028",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617890/70bee25e30f26df504f2dc1b08007afbdf403ff9/ss_70bee25e30f26df504f2dc1b08007afbdf403ff9.1920x1080.jpg?t=1786742028",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617890/9c9f46241f5d1af51c470385ef79259294ed4703/ss_9c9f46241f5d1af51c470385ef79259294ed4703.1920x1080.jpg?t=1786742028",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617890/12fa9811182b4b739207de872f9b22433cc686bf/ss_12fa9811182b4b739207de872f9b22433cc686bf.1920x1080.jpg?t=1786742028",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617890/d8b56912dfcefd29e599157df6eeece0c0619191/ss_d8b56912dfcefd29e599157df6eeece0c0619191.1920x1080.jpg?t=1786742028"
+  ],
+  "upsells": [
+    {
+      "id": 4921710,
+      "name": "Typing With Ghostie - Supporter Pass",
+      "price_rub": 642,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921710/1a6370497a0ddf8065398b0e07f517acb1d5b53b/header.jpg?t=1786742052"
+    },
+    {
+      "id": 4384460,
+      "name": "Typing With Ghostie - Ducky Ducky Ducky",
+      "price_rub": 551,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4384460/f8617e5e81bd86b023382b23d0de50d526e0af90/header.jpg?t=1786742046"
+    },
+    {
+      "id": 4928800,
+      "name": "Typing With Ghostie - A Happy Little Ghost",
+      "price_rub": 551,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928800/6ff8fe539ba708794ba8c8dbf891af3e72940193/header.jpg?t=1786742038"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-15T07:01:53Z"
+}
