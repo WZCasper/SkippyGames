@@ -25,14 +25,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/14dd88000718705d4627f798a527733f18de171b/ss_14dd88000718705d4627f798a527733f18de171b.1920x1080.jpg?t=1786181378",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/252b587a5af13bf2334cbf5895c213f92fa3c166/ss_252b587a5af13bf2334cbf5895c213f92fa3c166.1920x1080.jpg?t=1786181378"
   ],
-  "upsells": [
-    {
-      "id": 4869730,
-      "name": "NTE: Neverness to Everness Starter Pack",
-      "price_rub": 550,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4869730/ce562346fe2ba240cf4328bcf4b9dced54c626dd/header.jpg?t=1783530778"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-12T13:01:53Z"
+  "updated_at": "2026-08-15T19:04:37Z"
 }
