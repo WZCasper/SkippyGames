@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "C99iOhyRyF0",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/ac7c0ec9e4d9ebaf9a061049d6e4f787f99fc122/ss_ac7c0ec9e4d9ebaf9a061049d6e4f787f99fc122.1920x1080.jpg?t=1784580400",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913460/676e6b63cbb64ed13b3cf1a861e3e8e131370659/ss_676e6b63cbb64ed13b3cf1a861e3e8e131370659.1920x1080.jpg?t=1784580400",
@@ -29,10 +29,10 @@
     {
       "id": 4775950,
       "name": "言灵 - 完整版",
-      "price_rub": 596,
+      "price_rub": 597,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775950/b6e52d0777f8394b2230b2da9d5fa04080aa02d8/header.jpg?t=1782222540"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-13T07:08:37Z"
+  "updated_at": "2026-08-16T12:41:24Z"
 }

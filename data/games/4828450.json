@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 917,
+  "price_rub": 921,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "hDOxIXmfwJ8",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828450/2e000548b8bc0321371f757bf17ac5e71cd06176/ss_2e000548b8bc0321371f757bf17ac5e71cd06176.1920x1080.jpg?t=1786248684",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828450/8b33aa0d478313fd77bf7bc1133f616d4cfae757/ss_8b33aa0d478313fd77bf7bc1133f616d4cfae757.1920x1080.jpg?t=1786248684",
@@ -28,10 +28,10 @@
     {
       "id": 4988370,
       "name": "Bolsheviktion 2: Yurovsky's Revenge Soundtrack",
-      "price_rub": 594,
+      "price_rub": 596,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988370/c5b68966a5fc8ee174f540dcf0126acd89fc7902/header.jpg?t=1786246936"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-13T07:07:54Z"
+  "updated_at": "2026-08-16T12:24:48Z"
 }
