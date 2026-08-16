@@ -1,0 +1,28 @@
+{
+  "id": 4579440,
+  "title": "Escape War",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579440/7255de3cf924ff5b0f2cd07d5ce5f79ad0b13a76/header.jpg?t=1786778571",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4579440?t=1786778571",
+  "description": "Escape War — это короткая 3D-игра на выживание о том, как вы становитесь последним человеком, эвакуирующимся из города под бомбардировкой. Ваша цель проста: выжить, продолжать двигаться и найти путь к спасению до того, как ударит следующая ракета. Игра сосредоточена на непосредственном опыте побега из зоны боевых действий, а не на сражениях в ней. Ракеты могут падать рядом, перекрывать путь или мгновенно убить вас, если вы слишком медленно реагируете. Одновременно голод и жажда постепенно истощают вас, так что выживание — это не только избегание взрывов. Здесь нет оружия, подкреплений и второго шанса. Вам остаётся только бежать, уклоняться и пытаться выбраться живым.",
+  "description_short": "Вы — последний человек, эвакуирующийся из бомбардируемого города. Выживите и спаситесь.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 551,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579440/4b4cd4fc4c656492a4c4d7a8d27b07a0f85a26f0/ss_4b4cd4fc4c656492a4c4d7a8d27b07a0f85a26f0.1920x1080.jpg?t=1786778571",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579440/944996c1dbd12cfb02cab33325135ffcf829c212/ss_944996c1dbd12cfb02cab33325135ffcf829c212.1920x1080.jpg?t=1786778571",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579440/4b9597044bd82a73141f51b69bfb05d31977eb6c/ss_4b9597044bd82a73141f51b69bfb05d31977eb6c.1920x1080.jpg?t=1786778571",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579440/9f27dfde157b68c7ee034c65531cbcdc2e022785/ss_9f27dfde157b68c7ee034c65531cbcdc2e022785.1920x1080.jpg?t=1786778571",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579440/6499b5317d8a7a79bab32a80c1d759867d8f7687/ss_6499b5317d8a7a79bab32a80c1d759867d8f7687.1920x1080.jpg?t=1786778571"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-16T07:09:50Z"
+}

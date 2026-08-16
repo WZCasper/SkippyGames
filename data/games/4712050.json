@@ -1,0 +1,37 @@
+{
+  "id": 4712050,
+  "title": "VN Engine 2D",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/c758b067fcc6e4de6ba39cd35732dfb99cca7ba4/header.jpg?t=1786806196",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4712050?t=1786806196",
+  "description": "VN Engine 2DNext-generation engine for 2D visual novels and interactive minigames. Tired of Ren'Py scripts? Want advanced cinematics without coding? VN Engine 2D combines a node-based editor with dual-track timeline editing to free you from code entirely.\n\nCore Features• Visual node-based editor (zero scripting required)\n\n• Dual-track timeline: dialogue progresses independently from animation\n\n• Full Live2D integration: breathing / blinking / physics / mouse-follow auto\n\n• Interactive timeline scrubbing: player input drives Live2D and video progression\n\n• Asset library: backgrounds / character art / CGs / BGM / SFX / video / Live2D\n\n• Real-time WYSIWYG preview\n\n• Steam Achievements + Cloud Save integration (opt-in for exported games)\n\n• Multilingual (Traditional Chinese / English / Japanese)\n\nLicensingThis application is the \"editor\" (free). Commercial export and pro features unlock via DLC:\n\n• Free (this application)[/b]: Full editor + preview\n\n• Indie DLC: HTML5 / Windows export + commercial release\n\n• Pro DLC: Indie features + Agent-assisted workflow automation + vnctl CLI agent\n\nSystem Requirements•  Windows 10 / 11 (64-bit)\n\n•  4 GB RAM (8 GB recommended)\n\n•  2 GB disk space\n\n•  Internet (first-time license activation, then offline-capable)",
+  "description_short": "2D visual novel + minigame engine. Node-based editor + interactive timeline scrubbing, with Live2D . Free includes full editor and preview. Indie or Pro DLC unlocks export and commercial release.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/e0f5498a93b90358ca33c11aff8f6dd09c914107/ss_e0f5498a93b90358ca33c11aff8f6dd09c914107.1920x1080.jpg?t=1786806196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/164743c2aa5d6fe7e6abf9b332d891d49050e0ce/ss_164743c2aa5d6fe7e6abf9b332d891d49050e0ce.1920x1080.jpg?t=1786806196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/5d99bda397a11f711bfde535dfcd234098d51e95/ss_5d99bda397a11f711bfde535dfcd234098d51e95.1920x1080.jpg?t=1786806196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/cd151cf44a1c4d97f9bee3f1a6da89b680d93b5a/ss_cd151cf44a1c4d97f9bee3f1a6da89b680d93b5a.1920x1080.jpg?t=1786806196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/87efb74eb71428ed36c7418d704def64e4d09ea5/ss_87efb74eb71428ed36c7418d704def64e4d09ea5.1920x1080.jpg?t=1786806196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/7ad711db354fe3d4a1a66d7719ee43126b7ef5b7/ss_7ad711db354fe3d4a1a66d7719ee43126b7ef5b7.1920x1080.jpg?t=1786806196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/ad56b719ac2cd4074ad79b3116395cb3db16d744/ss_ad56b719ac2cd4074ad79b3116395cb3db16d744.1920x1080.jpg?t=1786806196"
+  ],
+  "upsells": [
+    {
+      "id": 4712400,
+      "name": "VN Engine 2D — Indie License",
+      "price_rub": 1848,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712400/70593a80bb263c3c50d9a3aa12bb9b50bebf393a/header.jpg?t=1785555436"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-08-16T07:05:56Z"
+}
