@@ -1,8 +1,8 @@
 {
   "id": 4444510,
   "title": "Seeding The Wasteland",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/de327cf146db47c9ae611a46b7cf4d722225ba52/header.jpg?t=1785592908",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4444510?t=1785592908",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/de327cf146db47c9ae611a46b7cf4d722225ba52/header.jpg?t=1786880329",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4444510?t=1786880329",
   "description": "Grow and cultivate different types of procedurally generated plants, each with its own unique mutations.\n\nSelect your plants to keep only the best.\n\nReach scoring goals with your plants to recharge your ship.\n\nFeeling like doing some gardening? Head to the planet Tau to relax with this narrative-driven plant management game!\n\nYou'll play as a small robot named Orchid, tasked with cultivating various plants to bring the planet back to life! You'll have your ship, charging stations, and your trusty tools at your disposal.\n\nAboard the Internode, your shuttle, you'll navigate across a desolate land to reach Demeter, a mysterious robotic entity.\n\nWe are a small team of developers from western France, creating our first game! We work hard to provide you with the best possible experience!",
   "description_short": "Wake up in a desolate world as a little robot gardener, replant the planet and breed procedural plants to get the best ones!",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 681,
+  "price_rub": 744,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/29df0b425a26be7d7ed4768ff3ef2d4abf5f1880/ss_29df0b425a26be7d7ed4768ff3ef2d4abf5f1880.1920x1080.jpg?t=1785592908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/184000a1fa480c8d75529969ed3fd4e34f03766b/ss_184000a1fa480c8d75529969ed3fd4e34f03766b.1920x1080.jpg?t=1785592908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/6c0afb7f62f3505eb668e6b8c6e95e78b67ba666/ss_6c0afb7f62f3505eb668e6b8c6e95e78b67ba666.1920x1080.jpg?t=1785592908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/326c7c38e0ee82e2a9346d4829710715f50d8eb9/ss_326c7c38e0ee82e2a9346d4829710715f50d8eb9.1920x1080.jpg?t=1785592908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/c7e39cddbd09864c65b9c92f35b7d4f325cbfbce/ss_c7e39cddbd09864c65b9c92f35b7d4f325cbfbce.1920x1080.jpg?t=1785592908"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/29df0b425a26be7d7ed4768ff3ef2d4abf5f1880/ss_29df0b425a26be7d7ed4768ff3ef2d4abf5f1880.1920x1080.jpg?t=1786880329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/184000a1fa480c8d75529969ed3fd4e34f03766b/ss_184000a1fa480c8d75529969ed3fd4e34f03766b.1920x1080.jpg?t=1786880329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/6c0afb7f62f3505eb668e6b8c6e95e78b67ba666/ss_6c0afb7f62f3505eb668e6b8c6e95e78b67ba666.1920x1080.jpg?t=1786880329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/326c7c38e0ee82e2a9346d4829710715f50d8eb9/ss_326c7c38e0ee82e2a9346d4829710715f50d8eb9.1920x1080.jpg?t=1786880329",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/c7e39cddbd09864c65b9c92f35b7d4f325cbfbce/ss_c7e39cddbd09864c65b9c92f35b7d4f325cbfbce.1920x1080.jpg?t=1786880329"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-14T01:35:23Z"
+  "updated_at": "2026-08-17T07:14:11Z"
 }

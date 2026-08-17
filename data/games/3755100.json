@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 743,
+  "price_rub": 744,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Rxp5576OMtc",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3755100/7801810c62ec60ad86d70b0c14adf13af617489a/ss_7801810c62ec60ad86d70b0c14adf13af617489a.1920x1080.jpg?t=1785923477",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3755100/525096b9d1350a43cf184d9fc525b4fb67fbb88e/ss_525096b9d1350a43cf184d9fc525b4fb67fbb88e.1920x1080.jpg?t=1785923477",
@@ -26,5 +26,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-14T01:15:52Z"
+  "updated_at": "2026-08-17T07:02:39Z"
 }

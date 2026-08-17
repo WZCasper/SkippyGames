@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 998,
+  "price_rub": 1006,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "3WJYvLOxJag",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/388a09ba420abd16546e16570567e83cc6d55590/ss_388a09ba420abd16546e16570567e83cc6d55590.1920x1080.jpg?t=1786634154",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/c01f56d4015e380a942b101297b4b7f4d5c03e18/ss_c01f56d4015e380a942b101297b4b7f4d5c03e18.1920x1080.jpg?t=1786634154",
@@ -29,16 +29,16 @@
     {
       "id": 5020360,
       "name": "ReStory: Chill Electronics Repairs Soundtrack",
-      "price_rub": 717,
+      "price_rub": 720,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020360/2dd493bda8ac4d13097e83e283bdbaf596d0c059/header.jpg?t=1786541218"
     },
     {
       "id": 5034500,
       "name": "Restory: Chill Electronics Repairs - Digital Artbook",
-      "price_rub": 741,
+      "price_rub": 744,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034500/6de9503f848b934dee72599b1c3dc39f43f35b39/header.jpg?t=1786031993"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-13T19:00:40Z"
+  "updated_at": "2026-08-17T06:41:13Z"
 }
