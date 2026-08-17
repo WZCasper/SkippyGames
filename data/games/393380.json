@@ -16,7 +16,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1958,
+  "price_rub": 1966,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,76 +34,76 @@
     {
       "id": 4686020,
       "name": "Squad Weapon Skins - Sliva Pack",
-      "price_rub": 743,
+      "price_rub": 744,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686020/70995aedc6bfc2afcc520b2045b794e12a7cd803/header.jpg?t=1781856532"
     },
     {
       "id": 4012030,
       "name": "Squad - Fireteam ",
-      "price_rub": 1051,
+      "price_rub": 1055,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012030/089aba488f0d8ea01123decd726692d6a7a29be9/header.jpg?t=1783526095"
     },
     {
       "id": 4326750,
       "name": "Squad Weapon Skins - Dragon Pack",
-      "price_rub": 995,
+      "price_rub": 998,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326750/d8d2539319f818a20bb9b937594b09a2661dda13/header.jpg?t=1781856180"
     },
     {
       "id": 4044570,
       "name": "Squad Weapon Skins - Kobzar Pack",
-      "price_rub": 1108,
+      "price_rub": 1111,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044570/bbc038681e91cf7708f72cd3dcc81dace67fe8fc/header.jpg?t=1781856046"
     },
     {
       "id": 4062350,
       "name": "Squad Emotes - Downtime Pack",
-      "price_rub": 850,
+      "price_rub": 852,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4062350/6b87ccbe4c7a623ef18571ecb4598ce71cfda3a8/header.jpg?t=1778596971"
     },
     {
       "id": 3486070,
       "name": "Squad Weapon Skins - Insurgent Pack",
-      "price_rub": 921,
+      "price_rub": 923,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3486070/d583141218edcca6205f5d5a7d16545556368375/header.jpg?t=1781855781"
     },
     {
       "id": 3925370,
       "name": "Squad Weapon Skins - Second Tour Pack",
-      "price_rub": 995,
+      "price_rub": 998,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3925370/52a86215bbe304fd000072562293ed94c1a0cb31/header.jpg?t=1781855909"
     },
     {
       "id": 3165860,
       "name": "Squad Emotes - Barracks Pack",
-      "price_rub": 779,
+      "price_rub": 780,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165860/570deaf875546b9d4135db5b60ede7d6f3038b0f/header.jpg?t=1778521448"
     },
     {
       "id": 3165850,
       "name": "Squad Weapon Skins - Contractors Pack",
-      "price_rub": 850,
+      "price_rub": 852,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165850/28d075c78a317b03bc8dc98a6d77eae211d4d069/header.jpg?t=1781855634"
     },
     {
       "id": 2974490,
       "name": "Squad Weapon Skins - Clash Pack",
-      "price_rub": 732,
+      "price_rub": 733,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2974490/5b5d4eb888588f7f42168bb7cfd20badeb9d4847/header.jpg?t=1781855238"
     },
     {
       "id": 2826950,
       "name": "Squad Emotes - Outpost Pack",
-      "price_rub": 685,
+      "price_rub": 686,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2826950/948c0bc4c0e56e320c473838f8eaa0392236ebee/header.jpg?t=1778521271"
     },
     {
       "id": 2521990,
       "name": "Squad Weapon Skins - Precision Strike Pack",
-      "price_rub": 732,
+      "price_rub": 733,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521990/6795811f55d8048b09f0cd6dfb90296a170fe67c/header.jpg?t=1781855011"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-14T07:51:15Z"
+  "updated_at": "2026-08-17T19:07:51Z"
 }

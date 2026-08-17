@@ -1,8 +1,8 @@
 {
   "id": 4586620,
   "title": "Invasion Protocol",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/96fb810a663105f8a1d37dee8ca10e9c5b58b99f/header.jpg?t=1786620064",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4586620?t=1786620064",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/96fb810a663105f8a1d37dee8ca10e9c5b58b99f/header.jpg?t=1786724095",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4586620?t=1786724095",
   "description": "You’re not the hero. You’re the invasion.Drop onto a hostile bug-infested planet as skull-helmeted soldiers and execute Invasion Protocol.\n\n• Choose from unique classes, the regular Soldier, Officer, War Engineer, Infiltrator, Explosives Expert, or Zoner. Each with completely different abilities and playstyles.\n\n• Aim and fire at the same time in fast, brutal top-down combat, no cover, no waiting, just pure trigger discipline\n\n• Blast through procedurally linked levels and complete dynamic objectives: defend a base, hunt a brood queen, repair a drop-ship, or exterminate everything\n\n• Return tech items for War Points, to radio for more firepower\n\n• Swap weapons and abilities on the fly from weapon crates and call-in radio\n\n• Survive escalating swarms, mutations, and massive bosses\n\n• Unlock new classes, devastating weapons, and game changing abilities after every run\n\nFast, chaotic, and ridiculously replayable a roguelite shooter where you are the final boss the planet never wanted. Execute the protocol.",
   "description_short": "You’re not the hero, you’re the invasion. Drop in as skull-helmeted soldiers and obliterate a bug-infested planet. Choose your class, aim &amp; fire non-stop, complete brutal objectives, and swap weapons &amp; abilities on the fly. Unlock new classes and gear as you go. Execute the protocol.",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 874,
+  "price_rub": 876,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/bf31b062fee23159c8ee883240b3d5057253b583/ss_bf31b062fee23159c8ee883240b3d5057253b583.1920x1080.jpg?t=1786620064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/1b25dca164569db79f400b41c86ba62626d9f26a/ss_1b25dca164569db79f400b41c86ba62626d9f26a.1920x1080.jpg?t=1786620064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/487f0044380af9ca5f76817182dd878c5418807c/ss_487f0044380af9ca5f76817182dd878c5418807c.1920x1080.jpg?t=1786620064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/1a9b11587020638c3384500901960d2437f13715/ss_1a9b11587020638c3384500901960d2437f13715.1920x1080.jpg?t=1786620064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/ed6d3a1800ab7518f9a41985177811e2d2d89b9d/ss_ed6d3a1800ab7518f9a41985177811e2d2d89b9d.1920x1080.jpg?t=1786620064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/39c09c3cf53b72f07f77d51029609a88841c6824/ss_39c09c3cf53b72f07f77d51029609a88841c6824.1920x1080.jpg?t=1786620064"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/bf31b062fee23159c8ee883240b3d5057253b583/ss_bf31b062fee23159c8ee883240b3d5057253b583.1920x1080.jpg?t=1786724095",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/1b25dca164569db79f400b41c86ba62626d9f26a/ss_1b25dca164569db79f400b41c86ba62626d9f26a.1920x1080.jpg?t=1786724095",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/487f0044380af9ca5f76817182dd878c5418807c/ss_487f0044380af9ca5f76817182dd878c5418807c.1920x1080.jpg?t=1786724095",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/1a9b11587020638c3384500901960d2437f13715/ss_1a9b11587020638c3384500901960d2437f13715.1920x1080.jpg?t=1786724095",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/ed6d3a1800ab7518f9a41985177811e2d2d89b9d/ss_ed6d3a1800ab7518f9a41985177811e2d2d89b9d.1920x1080.jpg?t=1786724095",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586620/39c09c3cf53b72f07f77d51029609a88841c6824/ss_39c09c3cf53b72f07f77d51029609a88841c6824.1920x1080.jpg?t=1786724095"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-14T07:37:00Z"
+  "updated_at": "2026-08-17T18:53:43Z"
 }
