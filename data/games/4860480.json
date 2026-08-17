@@ -26,34 +26,34 @@
     {
       "id": 4876510,
       "name": "Breadwalk - Slice of bread supporter's pack.",
-      "price_rub": 656,
+      "price_rub": 658,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876510/fda9a65bcb57e158dcb3753cc83d827750c68865/header.jpg?t=1784354644"
     },
     {
       "id": 4876520,
       "name": "Breadwalk - Loaf of bread supporter's pack.",
-      "price_rub": 741,
+      "price_rub": 744,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876520/71e5f56497d19b269b54563ab1a752c527b166d3/header.jpg?t=1784354073"
     },
     {
       "id": 4876530,
       "name": "Breadwalk - Pile of bread supporter's pack.",
-      "price_rub": 926,
+      "price_rub": 932,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876530/59ca705da2bac466e0924692ad5175b331c7033b/header.jpg?t=1784355079"
     },
     {
       "id": 4876540,
       "name": "Breadwalk - Bakery supporter's pack.",
-      "price_rub": 1482,
+      "price_rub": 1496,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876540/515e181b6c3347f158ebe03b168b8980961e5a31/header.jpg?t=1784355020"
     },
     {
       "id": 4876550,
       "name": "Breadwalk - Bread factory supporter's pack.",
-      "price_rub": 2269,
+      "price_rub": 2296,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876550/8d6dc101d32873a7d64997f1080442ef37c716be/header.jpg?t=1784354960"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-13T13:14:47Z"
+  "updated_at": "2026-08-17T01:02:45Z"
 }

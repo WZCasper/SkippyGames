@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 963,
+  "price_rub": 970,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -25,14 +25,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/bd0c57111b27d919ea04dcf680e28cb873ce8a4d/ss_bd0c57111b27d919ea04dcf680e28cb873ce8a4d.1920x1080.jpg?t=1786462436",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983620/8d749ea4ce4d1fe09604dcae258c8171694c0c36/ss_8d749ea4ce4d1fe09604dcae258c8171694c0c36.1920x1080.jpg?t=1786462436"
   ],
-  "upsells": [
-    {
-      "id": 5056600,
-      "name": "Infinitevania Soundtrack",
-      "price_rub": 580,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5056600/921305b64f2326ec68081dada41036cf1272ae0e/header.jpg?t=1786536945"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-13T18:45:13Z"
+  "updated_at": "2026-08-17T01:23:55Z"
 }
