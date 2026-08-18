@@ -15,28 +15,28 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1304,
+  "price_rub": 1317,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/672a9ee213f2b169a6b1a515c5105c063ff69389/ss_672a9ee213f2b169a6b1a515c5105c063ff69389.1920x1080.jpg?t=1785778613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/0f01867e294066fd2d24891cb21a1b33149544db/ss_0f01867e294066fd2d24891cb21a1b33149544db.1920x1080.jpg?t=1785778613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/7c676a47cbbad47626aa3c1a996a797de5ba81a7/ss_7c676a47cbbad47626aa3c1a996a797de5ba81a7.1920x1080.jpg?t=1785778613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/df2010ace2ecac4b5587550353334afe412ac4a2/ss_df2010ace2ecac4b5587550353334afe412ac4a2.1920x1080.jpg?t=1785778613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/1abff93909c29ad60b9af35f40fe210bcc1071ec/ss_1abff93909c29ad60b9af35f40fe210bcc1071ec.1920x1080.jpg?t=1785778613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/ss_06123b46b57c9977849254fc86632b783fe0b12f.1920x1080.jpg?t=1785778613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/ss_a65e3314b79cbadce0c2a4137831df0775808a42.1920x1080.jpg?t=1785778613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/ss_a561a7a507ac0a589607b7f9eb4da14eb92ae802.1920x1080.jpg?t=1785778613"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/672a9ee213f2b169a6b1a515c5105c063ff69389/ss_672a9ee213f2b169a6b1a515c5105c063ff69389.1920x1080.jpg?t=1786990693",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/0f01867e294066fd2d24891cb21a1b33149544db/ss_0f01867e294066fd2d24891cb21a1b33149544db.1920x1080.jpg?t=1786990693",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/7c676a47cbbad47626aa3c1a996a797de5ba81a7/ss_7c676a47cbbad47626aa3c1a996a797de5ba81a7.1920x1080.jpg?t=1786990693",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/df2010ace2ecac4b5587550353334afe412ac4a2/ss_df2010ace2ecac4b5587550353334afe412ac4a2.1920x1080.jpg?t=1786990693",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/1abff93909c29ad60b9af35f40fe210bcc1071ec/ss_1abff93909c29ad60b9af35f40fe210bcc1071ec.1920x1080.jpg?t=1786990693",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/ss_06123b46b57c9977849254fc86632b783fe0b12f.1920x1080.jpg?t=1786990693",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/ss_a65e3314b79cbadce0c2a4137831df0775808a42.1920x1080.jpg?t=1786990693",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022980/ss_a561a7a507ac0a589607b7f9eb4da14eb92ae802.1920x1080.jpg?t=1786990693"
   ],
   "upsells": [
     {
       "id": 1318960,
       "name": "Ostranauts Soundtrack",
-      "price_rub": 921,
+      "price_rub": 928,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318960/header.jpg?t=1707438899"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-14T12:58:08Z"
+  "updated_at": "2026-08-18T00:53:38Z"
 }
