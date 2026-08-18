@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "QJ-Xbt9zusw",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976890/8b1f4b23855616f49ec33ab7d468d0538aa806ca/ss_8b1f4b23855616f49ec33ab7d468d0538aa806ca.1920x1080.jpg?t=1786737744",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976890/a6be0da81c3c85c3ccf1831e93f73ba51816c596/ss_a6be0da81c3c85c3ccf1831e93f73ba51816c596.1920x1080.jpg?t=1786737744",
@@ -25,5 +25,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-15T07:02:03Z"
+  "updated_at": "2026-08-18T18:34:09Z"
 }

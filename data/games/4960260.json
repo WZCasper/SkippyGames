@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "eXYxDpR_x18",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960260/a4a378e76b6f2ed1b747c130b0356723f0232f16/ss_a4a378e76b6f2ed1b747c130b0356723f0232f16.1920x1080.jpg?t=1786760823",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960260/538af082f90fda722a4f4380f1bc7d929cdce027/ss_538af082f90fda722a4f4380f1bc7d929cdce027.1920x1080.jpg?t=1786760823",
@@ -25,5 +25,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-15T07:01:34Z"
+  "updated_at": "2026-08-18T18:25:40Z"
 }

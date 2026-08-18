@@ -1,8 +1,8 @@
 {
   "id": 4891020,
   "title": "Invisible Archery",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/4f4afc97a4e70de745913ff70139b18e8d626342/header.jpg?t=1786738121",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4891020?t=1786738121",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/4f4afc97a4e70de745913ff70139b18e8d626342/header.jpg?t=1787066422",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4891020?t=1787066422",
   "description": "EVERY SHOT GIVES YOU AWAYEveryone enters the arena unseen. Staying that way is the challenge.\n\nInvisible Archery is a top-down arena combat game built around limited information. Watch for movement, follow arrow trails, and use brief reveal windows to locate your opponents. Firing exposes your own position, so every attack is also a risk.\n\nBUILD YOUR RUNEnter a handcrafted 16-round single-player challenge filled with escalating encounters, distinct enemy archetypes, coordinated groups, and four boss battles.\n\nYour health carries between rounds, and defeat ends the run. Every completed round awards gold, even if you fall later, giving each attempt meaningful progress toward permanent upgrades.\n\nOUTTHINK OTHER ARCHERS IN MULTIPLAYERFace up to eight archers online through Steam or over LAN. Compete alone in Free-for-All, or coordinate with your team in Team Deathmatch.\n\nAccuracy matters, but information wins fights. Use cover to approach unseen, fire Sonar Arrows to expose hidden opponents, place traps along likely routes, or turn an incoming shot back on its owner with a Deflective Shield. Once you reveal yourself, reposition before your opponents return fire.\n\nFeatures:- Tactical top-down archery built around invisibility and timed reveals\n\n- Free-for-All and Team Deathmatch multiplayer\n\n- A 16-round, run-based single-player mode\n\n- Handcrafted enemy encounters and boss battles\n\n- Enemy archetypes with distinct combat behavior\n\n- Active skills covering offense, defense, mobility, stealth, and area control\n\n- Dozens of enhancers that modify skills and create new build combinations\n\n- Persistent single-player upgrades and draft rerolls\n\n- Keyboard, mouse, and controller support",
   "description_short": "Invisible Archery is a fast-paced top-down PvP arena game where every player is an invisible archer. Move, dodge, predict, and strike — but every shot gives away your position. Play online or over LAN with up to 8 players in tense arena battles where positioning matters as much as aim.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 744,
+  "price_rub": 747,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "3_hPLSQmcF8",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/4e3cb16324aed15c6f25b319d58895cf6d1827b6/ss_4e3cb16324aed15c6f25b319d58895cf6d1827b6.1920x1080.jpg?t=1786738121",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/395c0626d69a15e42f34961c9863d7119d051a3a/ss_395c0626d69a15e42f34961c9863d7119d051a3a.1920x1080.jpg?t=1786738121",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/a9a1c7b1134d082fb5ae3f806c7b90baafdfb840/ss_a9a1c7b1134d082fb5ae3f806c7b90baafdfb840.1920x1080.jpg?t=1786738121",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/5f398408c12640083e25c9a28fc8f334b5cbfeb4/ss_5f398408c12640083e25c9a28fc8f334b5cbfeb4.1920x1080.jpg?t=1786738121",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/7a5243498c505a50f8e3b254adb975b074842be4/ss_7a5243498c505a50f8e3b254adb975b074842be4.1920x1080.jpg?t=1786738121",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/af2d3662642109c90465f64f8da2c7aa8b235c3d/ss_af2d3662642109c90465f64f8da2c7aa8b235c3d.1920x1080.jpg?t=1786738121",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/95759e8a5d005106b5d1ef265d0e8832ceecf053/ss_95759e8a5d005106b5d1ef265d0e8832ceecf053.1920x1080.jpg?t=1786738121",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/d64539cd214542cae8b06de11712713cc24aeb4d/ss_d64539cd214542cae8b06de11712713cc24aeb4d.1920x1080.jpg?t=1786738121"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/4e3cb16324aed15c6f25b319d58895cf6d1827b6/ss_4e3cb16324aed15c6f25b319d58895cf6d1827b6.1920x1080.jpg?t=1787066422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/395c0626d69a15e42f34961c9863d7119d051a3a/ss_395c0626d69a15e42f34961c9863d7119d051a3a.1920x1080.jpg?t=1787066422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/a9a1c7b1134d082fb5ae3f806c7b90baafdfb840/ss_a9a1c7b1134d082fb5ae3f806c7b90baafdfb840.1920x1080.jpg?t=1787066422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/5f398408c12640083e25c9a28fc8f334b5cbfeb4/ss_5f398408c12640083e25c9a28fc8f334b5cbfeb4.1920x1080.jpg?t=1787066422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/7a5243498c505a50f8e3b254adb975b074842be4/ss_7a5243498c505a50f8e3b254adb975b074842be4.1920x1080.jpg?t=1787066422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/af2d3662642109c90465f64f8da2c7aa8b235c3d/ss_af2d3662642109c90465f64f8da2c7aa8b235c3d.1920x1080.jpg?t=1787066422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/95759e8a5d005106b5d1ef265d0e8832ceecf053/ss_95759e8a5d005106b5d1ef265d0e8832ceecf053.1920x1080.jpg?t=1787066422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891020/d64539cd214542cae8b06de11712713cc24aeb4d/ss_d64539cd214542cae8b06de11712713cc24aeb4d.1920x1080.jpg?t=1787066422"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-15T07:02:01Z"
+  "updated_at": "2026-08-18T18:33:06Z"
 }

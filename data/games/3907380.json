@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 4432,
+  "price_rub": 4490,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "GulM8KF-MUs",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907380/f7e4e2ad7d748a48698032e6f39d612401a4224b/ss_f7e4e2ad7d748a48698032e6f39d612401a4224b.1920x1080.jpg?t=1785337231",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907380/83732fd61c4a374d4bc6f5690de6cd6bbf54181e/ss_83732fd61c4a374d4bc6f5690de6cd6bbf54181e.1920x1080.jpg?t=1785337231",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-15T12:13:25Z"
+  "updated_at": "2026-08-18T18:50:08Z"
 }
