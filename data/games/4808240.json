@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "GdfLwLAE_Gk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/88747b2b0eac99d07e37ef8ccbdc1ed0e6dbb485/ss_88747b2b0eac99d07e37ef8ccbdc1ed0e6dbb485.1920x1080.jpg?t=1785351223",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808240/4de58e17c0f47c5e58769d04dbf4d972339b19be/ss_4de58e17c0f47c5e58769d04dbf4d972339b19be.1920x1080.jpg?t=1785351223",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-15T01:05:11Z"
+  "updated_at": "2026-08-18T07:04:56Z"
 }

@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 642,
+  "price_rub": 644,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "yDN_p6OQ1O8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/ec1f1099a64f281c1128534f123b210dc24b8cc3/ss_ec1f1099a64f281c1128534f123b210dc24b8cc3.1920x1080.jpg?t=1786342414",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051900/35d302598d82020b32bf6a3ed0ab4b23b76b4573/ss_35d302598d82020b32bf6a3ed0ab4b23b76b4573.1920x1080.jpg?t=1786342414",
@@ -28,10 +28,10 @@
     {
       "id": 4650510,
       "name": "Fish to Cats Supporter Pack",
-      "price_rub": 597,
+      "price_rub": 599,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650510/414a7e38638a2570bcb06a5d06c927755352ee6b/header.jpg?t=1784772141"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-15T00:48:44Z"
+  "updated_at": "2026-08-18T07:03:29Z"
 }
