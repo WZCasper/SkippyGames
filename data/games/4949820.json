@@ -14,7 +14,7 @@
   "price_rub": 530,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "YteTol2LAek",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949820/1c2380f513643b36582a29f1ceb1fcb11317ab80/ss_1c2380f513643b36582a29f1ceb1fcb11317ab80.1920x1080.jpg?t=1785932615",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949820/4f9760d84b621a285dbc00da8cf8ac337776f240/ss_4f9760d84b621a285dbc00da8cf8ac337776f240.1920x1080.jpg?t=1785932615",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-16T00:39:01Z"
+  "updated_at": "2026-08-19T07:03:37Z"
 }

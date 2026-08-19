@@ -1,8 +1,8 @@
 {
   "id": 4176570,
   "title": "Crazy Coin Poker",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/e85f0080907763f5cecf663abc6f0876c587a432/header.jpg?t=1785656945",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4176570?t=1785656945",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/e85f0080907763f5cecf663abc6f0876c587a432/header.jpg?t=1786970665",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4176570?t=1786970665",
   "description": "Coin Pusher × Auto Poker × Buff BuildingAn arcade coin-pusher score chase where poker hands are resolved automatically.\n\nAim and fire coins onto the moving platform, activate sensors, build stronger Poker Chips, collect Buff Chests, and turn successful poker hands into showers of coins.\n\nPlease note: This is a coin pusher with an automated poker reward system. You do not manually choose cards, hold or discard cards, or make traditional poker betting decisions.\n\nTHE COIN PUSHER IS THE GAMEChoose where and when to fire your coins.\n\nCoins that activate the upper sensors add Poker Chips to the queue. When the queue fills, additional triggers upgrade your chips and increase the multiplier applied to future poker payouts.\n\nPoker hands are dealt and evaluated automatically. Stronger hands produce larger coin payouts, which are released directly back onto the machine.\n\nPush those coins into the collection slots to keep playing and build toward an even bigger payout.\n\nBUILD BUFF CHARGE AND COLLECT CHESTSTrigger the moving lower sensor to fill the Buff Gauge.\n\nOnce enough charge has accumulated, summon a Buff Chest onto the playfield. The chest must still be pushed all the way into a collection slot before its buff is activated.\n\nHigher charge levels produce higher-rarity chests with more extreme effects and greater risk.\n\nBuffs can affect:\n\n• Poker payout multipliers\n\n• Poker Chip capacity and strength\n\n• The chance of receiving additional hole cards\n\n• The chance of adding community cards\n\n• Card suits, sequences, and hand probabilities\n\n• Buff charge generation\n\n• Coin shooting behavior\n\n• Community-card replacement timing\n\nMore than 50 buff variants are available across Normal, Rare, and Epic rarities.\n\nSTACK BUFFS AND CHASE BIG PAYOUTSActive buffs can combine to produce powerful—and sometimes unpredictable—results.\n\nOne buff may add another card. Another may influence its suit or rank. A multiplier buff can then turn the resulting hand into a much larger payout.\n\nHigher-rarity buffs are not always purely beneficial. Their wider value ranges can create strong advantages or dangerous drawbacks, making every combination a gamble.\n\nAN ARCADE SCORE-CHASING EXPERIENCEThe goal is simple:\n\n• Keep your coin supply alive\n\n• Upgrade your Poker Chips\n\n• Collect and combine buffs\n\n• Create stronger poker payouts\n\n• Chase higher scores and larger single drops\n\nLights, sound effects, card animations, camera movement, and stage effects escalate with larger rewards.\n\nSteam achievements and leaderboards track milestones including coins held, biggest payouts, and highest multipliers.\n\nWHO IS THIS GAME FOR?This game is designed for players who enjoy:\n\n• Physics-based coin pushers\n\n• Automated reward systems\n\n• Buff stacking and unpredictable combinations\n\n• Incremental multiplier growth\n\n• Flashy arcade payouts\n\n• High-score chasing\n\nIt is not intended to simulate a traditional, decision-heavy game of poker. Poker is used as the machine’s automatic payout system, while your decisions happen on the coin-pusher playfield.\n\nPush coins. Build buffs. Trigger poker payouts. Keep the machine running.",
   "description_short": "An arcade coin pusher with automatic poker payouts. Aim and launch coins, trigger sensors, upgrade Poker Chips, collect random buffs, and stack multipliers as stronger hands send larger payouts back onto the machine.",
   "genres": [
@@ -11,19 +11,20 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 687,
+  "price_rub": 690,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "fYYz9Vfyb_4",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/14240bd76190e2fce1926e8635d34240f95807e9/ss_14240bd76190e2fce1926e8635d34240f95807e9.1920x1080.jpg?t=1785656945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/20d97fe210825d0b6d89611cd0a582171303078a/ss_20d97fe210825d0b6d89611cd0a582171303078a.1920x1080.jpg?t=1785656945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/d75abf4e63f0dba080c3b85ada3729a681f0b559/ss_d75abf4e63f0dba080c3b85ada3729a681f0b559.1920x1080.jpg?t=1785656945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/9ea3ecc813e26cb21f2d11ad00ff9643dd94132b/ss_9ea3ecc813e26cb21f2d11ad00ff9643dd94132b.1920x1080.jpg?t=1785656945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/8000e5c2ab3e814cfb33f99490f56e35712df5fc/ss_8000e5c2ab3e814cfb33f99490f56e35712df5fc.1920x1080.jpg?t=1785656945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/a695efd25b6f67af9773dfa3fb0320531cc23481/ss_a695efd25b6f67af9773dfa3fb0320531cc23481.1920x1080.jpg?t=1785656945"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/838b48c44123f2e42223e71dbb270a2e41bf92a5/ss_838b48c44123f2e42223e71dbb270a2e41bf92a5.1920x1080.jpg?t=1786970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/5fac130c686bf0ffc65a176905387287782de630/ss_5fac130c686bf0ffc65a176905387287782de630.1920x1080.jpg?t=1786970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/20d97fe210825d0b6d89611cd0a582171303078a/ss_20d97fe210825d0b6d89611cd0a582171303078a.1920x1080.jpg?t=1786970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/d75abf4e63f0dba080c3b85ada3729a681f0b559/ss_d75abf4e63f0dba080c3b85ada3729a681f0b559.1920x1080.jpg?t=1786970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/9ea3ecc813e26cb21f2d11ad00ff9643dd94132b/ss_9ea3ecc813e26cb21f2d11ad00ff9643dd94132b.1920x1080.jpg?t=1786970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/8000e5c2ab3e814cfb33f99490f56e35712df5fc/ss_8000e5c2ab3e814cfb33f99490f56e35712df5fc.1920x1080.jpg?t=1786970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176570/a695efd25b6f67af9773dfa3fb0320531cc23481/ss_a695efd25b6f67af9773dfa3fb0320531cc23481.1920x1080.jpg?t=1786970665"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-16T01:00:28Z"
+  "updated_at": "2026-08-19T07:04:35Z"
 }

@@ -1,8 +1,8 @@
 {
   "id": 4294370,
   "title": "Shroud of the Woods",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/5b4969e90727e4127235f08c0e4fbf3ce6468304/header.jpg?t=1786371640",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/8bfd369e8e94543389b3723215d3d90217ba9e5b/page_bg_raw.jpg?t=1786371640",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/5b4969e90727e4127235f08c0e4fbf3ce6468304/header.jpg?t=1786882357",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/8bfd369e8e94543389b3723215d3d90217ba9e5b/page_bg_raw.jpg?t=1786882357",
   "description": "A psychological horror about searching for your missing dog in a forest where the silence itself listens to your every breath from between the trees.\n\nJust you and your dog, Pablo, far from the noise of the city.\nA quiet weekend getaway. A secluded cabin deep in the woods — the perfect escape from everyday life.\n\nBut the night has other plans.\n\nPablo vanishes without a trace into the suffocating darkness of the forest, and calm turns into a nightmare in an instant.\nNo phone. No signal. No help. Only the woods and the growing, oppressive silence.\n\nYour goal is simple: find him, no matter the cost.\n\n• Darkness is your enemy\nIn this forest, your eyes will fail you. The darkness devours everything, and something watches from between the trees.\n\n• A dangerous call\nWhistle for Pablo to find your way in the dark — but be careful.\nEvery sound you make draws not only him closer, but something else as well.\n\n• Your hearing is your compass\nAs long as you hear his distant barking, you are not alone.\nBut how long can you trust your senses in a place where a single mistimed sound can turn you into prey?",
   "description_short": "A psychological horror about searching for your missing dog in a forest where the silence itself listens to your every breath from between the trees.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 790,
+  "price_rub": 795,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Ys32UvlPGJs",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/59aa5d2a219db6b8bcacc277345096e20455e437/ss_59aa5d2a219db6b8bcacc277345096e20455e437.1920x1080.jpg?t=1786371640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/09131fde4d597976a750bb277ab241155f872195/ss_09131fde4d597976a750bb277ab241155f872195.1920x1080.jpg?t=1786371640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/6f7106c22595402b7e0cc5eb3db5fc721bcf130c/ss_6f7106c22595402b7e0cc5eb3db5fc721bcf130c.1920x1080.jpg?t=1786371640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/09b9a0ad3e8b7525121461f763f90784aef80b3b/ss_09b9a0ad3e8b7525121461f763f90784aef80b3b.1920x1080.jpg?t=1786371640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/89b72d9f4f05ffd8ca142325f2eacc707d4c43f9/ss_89b72d9f4f05ffd8ca142325f2eacc707d4c43f9.1920x1080.jpg?t=1786371640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/080e5a7f76fe0dc07179a2f2c88827831db6b3f0/ss_080e5a7f76fe0dc07179a2f2c88827831db6b3f0.1920x1080.jpg?t=1786371640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/5f50fde93c3c54d88ec9930aef3eaf311f0ea779/ss_5f50fde93c3c54d88ec9930aef3eaf311f0ea779.1920x1080.jpg?t=1786371640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/de6a76915325b37f02d54eed4c53b0bb515e2cff/ss_de6a76915325b37f02d54eed4c53b0bb515e2cff.1920x1080.jpg?t=1786371640"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/59aa5d2a219db6b8bcacc277345096e20455e437/ss_59aa5d2a219db6b8bcacc277345096e20455e437.1920x1080.jpg?t=1786882357",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/09131fde4d597976a750bb277ab241155f872195/ss_09131fde4d597976a750bb277ab241155f872195.1920x1080.jpg?t=1786882357",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/6f7106c22595402b7e0cc5eb3db5fc721bcf130c/ss_6f7106c22595402b7e0cc5eb3db5fc721bcf130c.1920x1080.jpg?t=1786882357",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/09b9a0ad3e8b7525121461f763f90784aef80b3b/ss_09b9a0ad3e8b7525121461f763f90784aef80b3b.1920x1080.jpg?t=1786882357",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/89b72d9f4f05ffd8ca142325f2eacc707d4c43f9/ss_89b72d9f4f05ffd8ca142325f2eacc707d4c43f9.1920x1080.jpg?t=1786882357",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/080e5a7f76fe0dc07179a2f2c88827831db6b3f0/ss_080e5a7f76fe0dc07179a2f2c88827831db6b3f0.1920x1080.jpg?t=1786882357",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/5f50fde93c3c54d88ec9930aef3eaf311f0ea779/ss_5f50fde93c3c54d88ec9930aef3eaf311f0ea779.1920x1080.jpg?t=1786882357",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294370/de6a76915325b37f02d54eed4c53b0bb515e2cff/ss_de6a76915325b37f02d54eed4c53b0bb515e2cff.1920x1080.jpg?t=1786882357"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-16T01:22:28Z"
+  "updated_at": "2026-08-19T07:09:08Z"
 }

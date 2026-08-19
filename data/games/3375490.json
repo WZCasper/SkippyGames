@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 931,
+  "price_rub": 937,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Kat7RIMPD30",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375490/ab63b9330f624712f15b50ae8124ef343bf24553/ss_ab63b9330f624712f15b50ae8124ef343bf24553.1920x1080.jpg?t=1785939216",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375490/ebb982d6246ef23390846a3ee4994ac61d140078/ss_ebb982d6246ef23390846a3ee4994ac61d140078.1920x1080.jpg?t=1785939216",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-16T00:36:54Z"
+  "updated_at": "2026-08-19T07:03:01Z"
 }
