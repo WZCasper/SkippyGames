@@ -1,8 +1,8 @@
 {
   "id": 4943550,
   "title": "NOMSTERS",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/972dca81101b4d8d78ab1f57bf632390f165bb7b/header.jpg?t=1785704633",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/563c9205501cb6ca6b89946839eab3ba3845e123/page_bg_raw.jpg?t=1785704633",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/972dca81101b4d8d78ab1f57bf632390f165bb7b/header.jpg?t=1786981245",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/563c9205501cb6ca6b89946839eab3ba3845e123/page_bg_raw.jpg?t=1786981245",
   "description": "NOMSTERS — физическая потасовка один на один. Одна точка старта, один крошечный город, 45 секунд. (Можно также сразиться с агрессивным ботом) \n\n \n\nВы — Nomster, способный создавать собственное гравитационное поле. Стулья, велосипеды, скамейки... притянуть можно что угодно.\n\n Включите гравитацию и смотрите, как целая улица взмывает в воздух, кружит вокруг вас и врезается в вашу добычу. Всё в этом городе достанется тому, кто заберёт это первым.\n\nОтключите поле, разбегитесь и идите на таран. Что сломается — решит физика.\n\nПеред каждым матчем город заново создаётся процедурной генерацией и остаётся идеально сбалансированным. Так что три раунда должны обеспечить честную борьбу.",
   "description_short": "Физическая игра один на один, где два круглых монстра пытаются за 45 секунд украсть друг у друга целый город. Побеждает тот, кто тяжелее.",
   "genres": [
@@ -11,18 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 687,
+  "price_rub": 690,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/94be6b0cb4d7fe06416298eded5e63dee973bdba/ss_94be6b0cb4d7fe06416298eded5e63dee973bdba.1920x1080.jpg?t=1785704633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/32ddca28d8e97294ce7279e3934db89aaa8e04f5/ss_32ddca28d8e97294ce7279e3934db89aaa8e04f5.1920x1080.jpg?t=1785704633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/e9e4415a5c12da10556dc99d250b2a044051f262/ss_e9e4415a5c12da10556dc99d250b2a044051f262.1920x1080.jpg?t=1785704633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/5e3871f84312c8a13f0298d09ba39418501a4102/ss_5e3871f84312c8a13f0298d09ba39418501a4102.1920x1080.jpg?t=1785704633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/42b305070c9503bcfb653bdfd2ee55fbaefb76e4/ss_42b305070c9503bcfb653bdfd2ee55fbaefb76e4.1920x1080.jpg?t=1785704633"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/68ca7164645d9ca0e169baf79e40d718626dfada/ss_68ca7164645d9ca0e169baf79e40d718626dfada.1920x1080.jpg?t=1786981245",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/94be6b0cb4d7fe06416298eded5e63dee973bdba/ss_94be6b0cb4d7fe06416298eded5e63dee973bdba.1920x1080.jpg?t=1786981245",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/32ddca28d8e97294ce7279e3934db89aaa8e04f5/ss_32ddca28d8e97294ce7279e3934db89aaa8e04f5.1920x1080.jpg?t=1786981245",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/e9e4415a5c12da10556dc99d250b2a044051f262/ss_e9e4415a5c12da10556dc99d250b2a044051f262.1920x1080.jpg?t=1786981245",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/5e3871f84312c8a13f0298d09ba39418501a4102/ss_5e3871f84312c8a13f0298d09ba39418501a4102.1920x1080.jpg?t=1786981245",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/42b305070c9503bcfb653bdfd2ee55fbaefb76e4/ss_42b305070c9503bcfb653bdfd2ee55fbaefb76e4.1920x1080.jpg?t=1786981245"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-15T18:12:29Z"
+  "updated_at": "2026-08-19T01:17:33Z"
 }

@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 594,
+  "price_rub": 595,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,16 +29,16 @@
     {
       "id": 4543160,
       "name": "100 Undersea Cats Soundtrack",
-      "price_rub": 732,
+      "price_rub": 736,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543160/4ee78db81e39a8056dcba0de61f282bfff18302a/header.jpg?t=1785596583"
     },
     {
       "id": 4543190,
       "name": "100 Undersea Cats - Artbook",
-      "price_rub": 732,
+      "price_rub": 736,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543190/08d215a8d5789fd280c197927e8b5c060420a0c2/header.jpg?t=1785596574"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-15T18:11:56Z"
+  "updated_at": "2026-08-19T01:16:30Z"
 }
