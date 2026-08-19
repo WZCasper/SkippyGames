@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "uYHaVrgB-e0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/96bf44aa63d87cd35b2223f4e5bf98af43f1dea0/ss_96bf44aa63d87cd35b2223f4e5bf98af43f1dea0.1920x1080.jpg?t=1786278191",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/057ab5e5bf60597fc1593d6c93a1678ae9eeabc9/ss_057ab5e5bf60597fc1593d6c93a1678ae9eeabc9.1920x1080.jpg?t=1786278191",
@@ -28,10 +28,10 @@
     {
       "id": 4954160,
       "name": "Frame Radar — Pro Upgrade",
-      "price_rub": 743,
+      "price_rub": 747,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954160/8c19b25ae13685dff580ea30b138240cf3455a76/header.jpg?t=1784851323"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-16T06:26:26Z"
+  "updated_at": "2026-08-19T12:22:00Z"
 }
