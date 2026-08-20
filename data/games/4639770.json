@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "AMoAS-6cua4",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639770/efcf4bd02d4402697e81261dd57c651c4a819ec0/ss_efcf4bd02d4402697e81261dd57c651c4a819ec0.1920x1080.jpg?t=1785207688",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639770/ed55804108b14b4aaf1da02e228fd654843f5d2e/ss_ed55804108b14b4aaf1da02e228fd654843f5d2e.1920x1080.jpg?t=1785207688",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-17T07:02:52Z"
+  "updated_at": "2026-08-20T18:45:53Z"
 }

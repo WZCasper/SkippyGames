@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 4070,
+  "price_rub": 4111,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "DfJaUpW_P00",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/26d8ea3f288ffaa1fe9956620cbd920f10b171f4/ss_26d8ea3f288ffaa1fe9956620cbd920f10b171f4.1920x1080.jpg?t=1783025238",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/3c98a7a4d4624f8799d553a58fdb31d33ce1e494/ss_3c98a7a4d4624f8799d553a58fdb31d33ce1e494.1920x1080.jpg?t=1783025238",
@@ -29,10 +29,10 @@
     {
       "id": 4468750,
       "name": "LEGO® Бэтмен™: Наследие Темного рыцаря - Улучшение до Deluxe-издания",
-      "price_rub": 1814,
+      "price_rub": 1829,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468750/569bcc40b2177f66e0d5580cf5d2fd50d79be594/header.jpg?t=1780501986"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-17T07:02:43Z"
+  "updated_at": "2026-08-20T18:43:14Z"
 }
