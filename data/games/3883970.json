@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 874,
+  "price_rub": 878,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "3D230IhVou0",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/fc25f25aba8532a9fb59d2a388907af8e3b1494c/ss_fc25f25aba8532a9fb59d2a388907af8e3b1494c.1920x1080.jpg?t=1785343683",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883970/bbfe48e53ceff52fd698ab61d768c8b09e11ca60/ss_bbfe48e53ceff52fd698ab61d768c8b09e11ca60.1920x1080.jpg?t=1785343683",
@@ -35,10 +35,10 @@
     {
       "id": 4880070,
       "name": "Love at Work - Digital Artbook",
-      "price_rub": 643,
+      "price_rub": 645,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880070/f54a18334afd62d88490a8c8ebbfc6ce373a388c/header.jpg?t=1784653199"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-17T07:01:15Z"
+  "updated_at": "2026-08-20T13:12:16Z"
 }
