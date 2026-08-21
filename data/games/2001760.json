@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 3350,
+  "price_rub": 3302,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "H0r-Kap8kWI",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/f55c103953c70b47025b04f0c121b1723d6c1670/ss_f55c103953c70b47025b04f0c121b1723d6c1670.1920x1080.jpg?t=1786337922",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/f9988d54094c2a099e5dafcdd12f045e4ca35f3b/ss_f9988d54094c2a099e5dafcdd12f045e4ca35f3b.1920x1080.jpg?t=1786337922",
@@ -28,10 +28,10 @@
     {
       "id": 4146830,
       "name": "Beast of Reincarnation Deluxe DLC",
-      "price_rub": 878,
+      "price_rub": 872,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146830/51abc08e21102a96effc1c5758687b7ae8df3bd4/header.jpg?t=1785801564"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-18T00:45:47Z"
+  "updated_at": "2026-08-21T07:04:05Z"
 }

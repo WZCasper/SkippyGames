@@ -1,8 +1,8 @@
 {
   "id": 4594150,
   "title": "Sir, We Have an Orc Problem",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/d8a7b3d55e3a2b42350732db0155fc2a9346c10b/header.jpg?t=1785828320",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/5007aa8d777b74e058e6f45e4dd0710d9ec90d37/page_bg_raw.jpg?t=1785828320",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/d8a7b3d55e3a2b42350732db0155fc2a9346c10b/header.jpg?t=1787152549",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/5007aa8d777b74e058e6f45e4dd0710d9ec90d37/page_bg_raw.jpg?t=1787152549",
   "description": "Sir, We Have an Orc Problem — это небольшая tower defense с элементами инкрементальной метапрогрессии.\n\nНесметные орды орковЗащищайте свою базу от бесчисленных орд орков. Они идут десятками тысяч, чтобы сокрушить вас. Встречайте их еще большим количеством пуль, бомб и лазеров!\n\nОгромное дерево улучшенийИспользуйте ресурсы, полученные в каждом прохождении — независимо от победы или поражения, — чтобы открывать и улучшать мощные башни. Каждое улучшение приближает вас к победе над ордой.\n\nАктивные способностиИспользуйте авианалеты, орбитальные лазеры и даже ядерные бомбы, чтобы уничтожать полчища орков и выжить в самых критических ситуациях.",
   "description_short": "Sir, We Have an Orc Problem — это tower defense с элементами инкрементальных игр, где вам предстоит противостоять бесчисленным ордам орков. Встречайте их еще большим количеством пуль, бомб и лазеров!",
   "genres": [
@@ -11,26 +11,26 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 743,
+  "price_rub": 741,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec/ss_5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec.1920x1080.jpg?t=1785828320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/80052875695670a2056251c5f19bea89ecdb8e5c/ss_80052875695670a2056251c5f19bea89ecdb8e5c.1920x1080.jpg?t=1785828320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/3163e6cf75b226d1599629ec49d8f2f466a3756e/ss_3163e6cf75b226d1599629ec49d8f2f466a3756e.1920x1080.jpg?t=1785828320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/2910f20f7f0a873c3e112d8ae9bd6c5db41850d8/ss_2910f20f7f0a873c3e112d8ae9bd6c5db41850d8.1920x1080.jpg?t=1785828320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/4a6369d287fd474652e14606cdeadd94c526401f/ss_4a6369d287fd474652e14606cdeadd94c526401f.1920x1080.jpg?t=1785828320",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/9cbaf44ffa1d3e7585ba7f2aa698ce2712e6eac9/ss_9cbaf44ffa1d3e7585ba7f2aa698ce2712e6eac9.1920x1080.jpg?t=1785828320"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec/ss_5b8bab5078ed7e86e1fb11e9cfd097b99a79e3ec.1920x1080.jpg?t=1787152549",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/80052875695670a2056251c5f19bea89ecdb8e5c/ss_80052875695670a2056251c5f19bea89ecdb8e5c.1920x1080.jpg?t=1787152549",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/3163e6cf75b226d1599629ec49d8f2f466a3756e/ss_3163e6cf75b226d1599629ec49d8f2f466a3756e.1920x1080.jpg?t=1787152549",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/2910f20f7f0a873c3e112d8ae9bd6c5db41850d8/ss_2910f20f7f0a873c3e112d8ae9bd6c5db41850d8.1920x1080.jpg?t=1787152549",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/4a6369d287fd474652e14606cdeadd94c526401f/ss_4a6369d287fd474652e14606cdeadd94c526401f.1920x1080.jpg?t=1787152549",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594150/9cbaf44ffa1d3e7585ba7f2aa698ce2712e6eac9/ss_9cbaf44ffa1d3e7585ba7f2aa698ce2712e6eac9.1920x1080.jpg?t=1787152549"
   ],
   "upsells": [
     {
       "id": 4981840,
       "name": "Sir, We Have an Orc Problem - Supporter Pack",
-      "price_rub": 643,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981840/2d625daeed58c575f7e30bf81a0ebe3e75e80f48/header.jpg?t=1785828082"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-17T18:51:08Z"
+  "updated_at": "2026-08-21T06:56:35Z"
 }
