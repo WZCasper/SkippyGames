@@ -1,8 +1,8 @@
 {
   "id": 4908520,
   "title": "Circulo",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/052ced648f5644cf91559a054ef7f51906487ec7/header.jpg?t=1786798241",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/290ed01725cf734c446bd702bca3d3056f4cbb7f/page_bg_raw.jpg?t=1786798241",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/052ced648f5644cf91559a054ef7f51906487ec7/header.jpg?t=1787241672",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/290ed01725cf734c446bd702bca3d3056f4cbb7f/page_bg_raw.jpg?t=1787241672",
   "description": "Circulo — это динамичная 2D-игра на выживание на арене, построенная на геометрическом хаосе. Вы управляете маленьким кругом, оказавшимся на постоянно усложняющемся поле боя, где волны враждебных фигур непрерывно наступают со всех сторон. Ваша цель проста: продержаться как можно дольше, уничтожать противников и приспосабливаться к растущей сложности.\n\nКаждый забег основан на развитии персонажа. Побеждённые враги оставляют ресурсы, позволяющие усиливать героя, улучшать основные характеристики и открывать новые боевые возможности. Различные типы снарядов, пассивные улучшения и специализированные способности позволяют создавать собственный стиль игры — делая упор на урон, мобильность, выживаемость или автоматические атаки.\n\nЧем дольше вы выживаете, тем более непредсказуемой становится арена. Усиленные варианты врагов, боссы, контрольные точки и случайные события постоянно меняют темп игры и заставляют быстро реагировать. Circulo сочетает простое управление с постепенно расширяющимися механиками, создавая короткие и напряжённые забеги, которые поощряют эксперименты и новые попытки продвинуться ещё дальше.",
   "description_short": "Динамичная 2D-игра на выживание на арене, построенная на геометрическом хаосе.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 747,
+  "price_rub": 743,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/9052bd47600f7ff2e9efe4848c3eabcbb61368df/ss_9052bd47600f7ff2e9efe4848c3eabcbb61368df.1920x1080.jpg?t=1786798241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/77e007b3d8b4ff415f2627a34199ef5c21d37530/ss_77e007b3d8b4ff415f2627a34199ef5c21d37530.1920x1080.jpg?t=1786798241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/02a45a5bc5309d31726b45649d01bf12bc94e0ca/ss_02a45a5bc5309d31726b45649d01bf12bc94e0ca.1920x1080.jpg?t=1786798241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/8143cda8b242fc9bd4e6812cdbf19ef29d3a7018/ss_8143cda8b242fc9bd4e6812cdbf19ef29d3a7018.1920x1080.jpg?t=1786798241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/1f823932cd974c6446c03e625122ba46d298c0ae/ss_1f823932cd974c6446c03e625122ba46d298c0ae.1920x1080.jpg?t=1786798241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/a96be3736313c1a0c074f9b612ef19e99932fce8/ss_a96be3736313c1a0c074f9b612ef19e99932fce8.1920x1080.jpg?t=1786798241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/944a6b04e0ec138179ee2409f10e0e2e80ad22b5/ss_944a6b04e0ec138179ee2409f10e0e2e80ad22b5.1920x1080.jpg?t=1786798241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/0160350a84b02671b742793417fdba5bf646d663/ss_0160350a84b02671b742793417fdba5bf646d663.1920x1080.jpg?t=1786798241"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/9052bd47600f7ff2e9efe4848c3eabcbb61368df/ss_9052bd47600f7ff2e9efe4848c3eabcbb61368df.1920x1080.jpg?t=1787241672",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/77e007b3d8b4ff415f2627a34199ef5c21d37530/ss_77e007b3d8b4ff415f2627a34199ef5c21d37530.1920x1080.jpg?t=1787241672",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/02a45a5bc5309d31726b45649d01bf12bc94e0ca/ss_02a45a5bc5309d31726b45649d01bf12bc94e0ca.1920x1080.jpg?t=1787241672",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/8143cda8b242fc9bd4e6812cdbf19ef29d3a7018/ss_8143cda8b242fc9bd4e6812cdbf19ef29d3a7018.1920x1080.jpg?t=1787241672",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/1f823932cd974c6446c03e625122ba46d298c0ae/ss_1f823932cd974c6446c03e625122ba46d298c0ae.1920x1080.jpg?t=1787241672",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/a96be3736313c1a0c074f9b612ef19e99932fce8/ss_a96be3736313c1a0c074f9b612ef19e99932fce8.1920x1080.jpg?t=1787241672",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/944a6b04e0ec138179ee2409f10e0e2e80ad22b5/ss_944a6b04e0ec138179ee2409f10e0e2e80ad22b5.1920x1080.jpg?t=1787241672",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908520/0160350a84b02671b742793417fdba5bf646d663/ss_0160350a84b02671b742793417fdba5bf646d663.1920x1080.jpg?t=1787241672"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-18T01:23:26Z"
+  "updated_at": "2026-08-21T12:23:02Z"
 }

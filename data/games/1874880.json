@@ -15,7 +15,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2209,
+  "price_rub": 2180,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,22 +33,22 @@
     {
       "id": 3923950,
       "name": "Arma Reforger - Refrogger Supporter Pack",
-      "price_rub": 669,
+      "price_rub": 666,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3923950/1fcdaaab7bc527abc7c1453b18ef1587041ca5cd/header.jpg?t=1759750088"
     },
     {
       "id": 1982980,
       "name": "Arma Reforger Soundtrack",
-      "price_rub": 916,
+      "price_rub": 909,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1982980/header.jpg?t=1773672676"
     },
     {
       "id": 4631450,
       "name": "RHS Modder Supporter Pack",
-      "price_rub": 669,
+      "price_rub": 666,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631450/6435b1dd9a10094330740b677d9bca5d128d8bc1/header.jpg?t=1781182907"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-18T06:43:33Z"
+  "updated_at": "2026-08-21T12:46:13Z"
 }
