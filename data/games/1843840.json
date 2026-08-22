@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 873,
+  "price_rub": 1230,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "RsO2dO_BpEY",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843840/103072ebdbdf075c544381809b8acf9d0884ab42/ss_103072ebdbdf075c544381809b8acf9d0884ab42.1920x1080.jpg?t=1786608108",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843840/ec90e1edd26dc190ba0d8f0a18bc749e9c4e4920/ss_ec90e1edd26dc190ba0d8f0a18bc749e9c4e4920.1920x1080.jpg?t=1786608108",
@@ -29,16 +29,16 @@
     {
       "id": 3756640,
       "name": "Rogue Point - Supporter DLC",
-      "price_rub": 641,
+      "price_rub": 684,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756640/2d001d6041dadd9ec2b3276fedd7ad89a962699f/header.jpg?t=1771328512"
     },
     {
       "id": 3756630,
       "name": "Rogue Point Soundtrack",
-      "price_rub": 641,
+      "price_rub": 684,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756630/34153a8d92e0898035808f682d47f6052894fb14/header.jpg?t=1770916101"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-18T12:50:24Z"
+  "updated_at": "2026-08-22T01:03:23Z"
 }

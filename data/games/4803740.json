@@ -1,8 +1,8 @@
 {
   "id": 4803740,
   "title": "Hansa Forever",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/6e3817872273de4c8f92ae65b8924a2299d90476/header.jpg?t=1785946986",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/dbf847200a12bc382f28ac25dfc0db2e692bc339/page_bg_raw.jpg?t=1785946986",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/6e3817872273de4c8f92ae65b8924a2299d90476/header.jpg?t=1787345325",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/dbf847200a12bc382f28ac25dfc0db2e692bc339/page_bg_raw.jpg?t=1787345325",
   "description": "Build Your Trading EmpireStart as a small merchant and rise to become one of the most influential traders in medieval Northern Europe.\n\nTrade Across the Hanseatic WorldEstablish profitable trade routes, transport valuable goods, and expand your trade network across cities connected by sea and land.\n\nShape Politics and PowerGain influence over local governments, negotiate with rulers, and use your political influence to gain an advantage over rival merchants.\n\nDevelop CitiesInvest in urban growth, construct new buildings, improve production chains, and transform small settlements into thriving commercial centers.\n\nCompete for Economic DominanceAdapt to changing market conditions, manage your resources efficiently, and outmaneuver your rivals in a living medieval economy.",
   "description_short": "Build a medieval trading empire across Northern Europe. Establish trade routes, influence politics, expand your cities, and compete with rival merchants for wealth and power in a dynamic economic strategy game.",
   "genres": [
@@ -11,18 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 597,
+  "price_rub": 595,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/4ae45b5b044d79b528f21355429d841844e855cd/ss_4ae45b5b044d79b528f21355429d841844e855cd.1920x1080.jpg?t=1785946986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/94143277879f73c622397b0fb92ef3d5e757e2bc/ss_94143277879f73c622397b0fb92ef3d5e757e2bc.1920x1080.jpg?t=1785946986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/9e771e3997d54b122fd25417029fc470415f2d4a/ss_9e771e3997d54b122fd25417029fc470415f2d4a.1920x1080.jpg?t=1785946986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/c9ff74ade43ed64e358962a5ecf3c888acd4949a/ss_c9ff74ade43ed64e358962a5ecf3c888acd4949a.1920x1080.jpg?t=1785946986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/3b43929eb5df33247ead93acf86db6f1b4a99217/ss_3b43929eb5df33247ead93acf86db6f1b4a99217.1920x1080.jpg?t=1785946986"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/6bcda7fff6e7d9d8dc0271d4aa800c380543633b/ss_6bcda7fff6e7d9d8dc0271d4aa800c380543633b.1920x1080.jpg?t=1787345325",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/3b43929eb5df33247ead93acf86db6f1b4a99217/ss_3b43929eb5df33247ead93acf86db6f1b4a99217.1920x1080.jpg?t=1787345325",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/94143277879f73c622397b0fb92ef3d5e757e2bc/ss_94143277879f73c622397b0fb92ef3d5e757e2bc.1920x1080.jpg?t=1787345325",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/82aaf40fcb39e4bbc6df8bee55aaef414bc508c9/ss_82aaf40fcb39e4bbc6df8bee55aaef414bc508c9.1920x1080.jpg?t=1787345325",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/9e771e3997d54b122fd25417029fc470415f2d4a/ss_9e771e3997d54b122fd25417029fc470415f2d4a.1920x1080.jpg?t=1787345325",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/5b7ef9e3720dcb0f958dbede754a318bce500a7e/ss_5b7ef9e3720dcb0f958dbede754a318bce500a7e.1920x1080.jpg?t=1787345325",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/cddf053e2ee378bf4fa4adea30430bf6fd573b87/ss_cddf053e2ee378bf4fa4adea30430bf6fd573b87.1920x1080.jpg?t=1787345325",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803740/c9ff74ade43ed64e358962a5ecf3c888acd4949a/ss_c9ff74ade43ed64e358962a5ecf3c888acd4949a.1920x1080.jpg?t=1787345325"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-18T12:57:16Z"
+  "updated_at": "2026-08-22T01:10:44Z"
 }
