@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 574,
+  "price_rub": 573,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "HQYMBPlPis4",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875420/2f11f594bfc10dad876ca8e507330bd80a8848aa/ss_2f11f594bfc10dad876ca8e507330bd80a8848aa.1920x1080.jpg?t=1785573264",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875420/01fca3930c811258299897113b0a4d5f6d27e496/ss_01fca3930c811258299897113b0a4d5f6d27e496.1920x1080.jpg?t=1785573264",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-19T01:22:49Z"
+  "updated_at": "2026-08-22T12:16:14Z"
 }
