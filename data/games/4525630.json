@@ -1,8 +1,8 @@
 {
   "id": 4525630,
   "title": "Broken Divide",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/3890b9a61b4bbee6c9c01ec2b80b35dab1da92c9/header.jpg?t=1786754592",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4525630?t=1786754592",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/3890b9a61b4bbee6c9c01ec2b80b35dab1da92c9/header.jpg?t=1787101310",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4525630?t=1787101310",
   "description": "Every run is a question of greed.You don't command your heroes in battle. You decide everything before it, and one thing during.\n\nSend your party into a zone and the fighting resolves on its own. But the zone escalates on a clock. Enemies arrive in greater numbers and hit harder. The loot gets richer. A window opens to challenge the boss, and then it closes. Push deeper and you earn more. Push too far and the zone takes the party.\n\nRetreat is not failureKill the boss, walk away, or get wiped out, you keep the gold, the gear and the experience either way. Every run makes the guild stronger. The question is never whether to go in. It's how far.\n\nBuild a guild, not a characterSix classes, each with a role and a resource mechanic nobody else has. A Knight who turns punishment into Valor. A White Mage who banks wasted overhealing instead of losing it. A Rogue who builds Edge only while nobody's looking at them.\n\nRecruit from the tavern, bench who you don't need.\n\n39 passive skill nodes per class across three branches, each independently viable, build the Knight as an immovable wall or a punishing counter-attacker.\n\nPosition is a decision, not a defaultFront, middle and back rows change who gets attacked and how hard. Enemies track threat per hero, so a tank who builds for it genuinely holds attention, until something agile ignores the threat table entirely and goes straight for your back line.\n\nA Threat Overview panel shows exactly why every hero is being targeted. When a run goes wrong, you can find out why.\n\nCombat runs at your pace, speed it up, pause it, or read the log line by line. Every hit, heal and status change is recorded, timestamped and filterable.",
   "description_short": "A party-based autobattler where every run is a question of greed. Recruit your guild, set the formation, and send them in, then decide how deep to push before you pull out. The loot gets better the longer you stay.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 814,
+  "price_rub": 807,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/48e80f19630f4abc2e50dc8041af5856d9e6cb94/ss_48e80f19630f4abc2e50dc8041af5856d9e6cb94.1920x1080.jpg?t=1786754592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/78cb233c603c648f1ad700a3b69d9d117c4d4e1d/ss_78cb233c603c648f1ad700a3b69d9d117c4d4e1d.1920x1080.jpg?t=1786754592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/2b1ca49fe733e55191830acf93684f3e455c1265/ss_2b1ca49fe733e55191830acf93684f3e455c1265.1920x1080.jpg?t=1786754592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/67aa26933b61693990f8e67171a7539a5c16b09f/ss_67aa26933b61693990f8e67171a7539a5c16b09f.1920x1080.jpg?t=1786754592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/021a395c54b9e40f84b7f1c01c248522c691897a/ss_021a395c54b9e40f84b7f1c01c248522c691897a.1920x1080.jpg?t=1786754592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/974a317fffd70c8a1b29e5ed0e2ad9019eae500b/ss_974a317fffd70c8a1b29e5ed0e2ad9019eae500b.1920x1080.jpg?t=1786754592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/c8b1f419ebe914c5e4fe933c468ea08b397e0cbf/ss_c8b1f419ebe914c5e4fe933c468ea08b397e0cbf.1920x1080.jpg?t=1786754592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/9aa2f9660e2d6e09c13837b73edcea76467ca3cb/ss_9aa2f9660e2d6e09c13837b73edcea76467ca3cb.1920x1080.jpg?t=1786754592"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/cad28b103f7e9d9ef956e9d359915ef1700186fc/ss_cad28b103f7e9d9ef956e9d359915ef1700186fc.1920x1080.jpg?t=1787101310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/5ae282b364c04ec3d5f6dd03f1d0242636ff4c09/ss_5ae282b364c04ec3d5f6dd03f1d0242636ff4c09.1920x1080.jpg?t=1787101310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/8131e51d24d393327a922a5a1f063a598ede19b8/ss_8131e51d24d393327a922a5a1f063a598ede19b8.1920x1080.jpg?t=1787101310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/ba2bb0cc3c70623174ba546bcdb0621c99b897e4/ss_ba2bb0cc3c70623174ba546bcdb0621c99b897e4.1920x1080.jpg?t=1787101310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/ed6b1f94d66211454e2179fc9f24bf7ff3b83646/ss_ed6b1f94d66211454e2179fc9f24bf7ff3b83646.1920x1080.jpg?t=1787101310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/b191f7ffdcd0c0c5d115892a12a195a65746f177/ss_b191f7ffdcd0c0c5d115892a12a195a65746f177.1920x1080.jpg?t=1787101310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/9fe83cfceb29642de4ac9341ddd982722d356f9a/ss_9fe83cfceb29642de4ac9341ddd982722d356f9a.1920x1080.jpg?t=1787101310",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525630/905a937bc094305fc3d7369861baeff35b9a5377/ss_905a937bc094305fc3d7369861baeff35b9a5377.1920x1080.jpg?t=1787101310"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-18T18:26:11Z"
+  "updated_at": "2026-08-22T06:29:38Z"
 }
