@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "IVivlapsM4E",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877260/9893ae12bd14f79915f3af76d572efb6d806721b/ss_9893ae12bd14f79915f3af76d572efb6d806721b.1920x1080.jpg?t=1785365469",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877260/18eb52f90a9fd56f0bbd677801fe1bc187fc7ac1/ss_18eb52f90a9fd56f0bbd677801fe1bc187fc7ac1.1920x1080.jpg?t=1785365469",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-19T07:04:47Z"
+  "updated_at": "2026-08-22T18:39:17Z"
 }
