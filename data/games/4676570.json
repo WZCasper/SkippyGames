@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "ms75-pKipYM",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4676570/f070ada67ceabfa63048c7f5f74e2878f23c209d/ss_f070ada67ceabfa63048c7f5f74e2878f23c209d.1920x1080.jpg?t=1787042073",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4676570/cc93663a97dfeb0c63d3714f437417dd1ee6bbd8/ss_cc93663a97dfeb0c63d3714f437417dd1ee6bbd8.1920x1080.jpg?t=1787042073",
@@ -25,5 +25,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-20T07:03:04Z"
+  "updated_at": "2026-08-23T18:30:12Z"
 }
