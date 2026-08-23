@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1557,
+  "price_rub": 1796,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,10 +29,10 @@
     {
       "id": 4306710,
       "name": "灭寇1939:上川往事-额外壁纸相框资源包",
-      "price_rub": 652,
+      "price_rub": 686,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306710/2a073edc3bf141cbf11b54da238e98c3fdb92e96/header.jpg?t=1786069325"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-19T12:57:47Z"
+  "updated_at": "2026-08-23T01:14:25Z"
 }
