@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 823,
+  "price_rub": 817,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "qNb7HEUcI2A",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/15df1a87f42b9fa9c5b9195788fd83a1a9e39a9e/ss_15df1a87f42b9fa9c5b9195788fd83a1a9e39a9e.1920x1080.jpg?t=1784880091",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261870/6227b7c4ad021cd924ca3100ffbcaa194afe4048/ss_6227b7c4ad021cd924ca3100ffbcaa194afe4048.1920x1080.jpg?t=1784880091",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-19T19:04:55Z"
+  "updated_at": "2026-08-23T07:01:30Z"
 }

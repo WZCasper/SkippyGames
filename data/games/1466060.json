@@ -16,7 +16,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2087,
+  "price_rub": 2055,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,16 +34,16 @@
     {
       "id": 4132150,
       "name": "Tainted Grail: The Fall of Avalon - Sanctuary of Sarras DLC",
-      "price_rub": 1118,
+      "price_rub": 1105,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132150/4cc985581f8633f150d40a491d8efc148261828b/header.jpg?t=1769075719"
     },
     {
       "id": 3687050,
       "name": "Tainted Grail: The Fall of Avalon - Supporters Pack",
-      "price_rub": 928,
+      "price_rub": 919,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687050/b1b5bb9493a6bd0294355b5a0f1ed5d74fc86880/header.jpg?t=1747851400"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-19T18:35:47Z"
+  "updated_at": "2026-08-23T06:42:58Z"
 }

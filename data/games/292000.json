@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1241,
+  "price_rub": 1226,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "wNX8EmGqo8c",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/507527f68a4478b6470a4552ffe393d6a9074161/ss_507527f68a4478b6470a4552ffe393d6a9074161.1920x1080.jpg?t=1786638024",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/48026bfe6c8542ed9e763260bfad748fc4b29e43/ss_48026bfe6c8542ed9e763260bfad748fc4b29e43.1920x1080.jpg?t=1786638024",
@@ -34,28 +34,28 @@
     {
       "id": 4250550,
       "name": "No More Room in Hell 2 - Punk is Life Pack",
-      "price_rub": 747,
+      "price_rub": 742,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250550/2d96c4cbdb79722e405fcafe675665c0b2f286a7/header.jpg?t=1786489169"
     },
     {
       "id": 4250540,
       "name": "No More Room in Hell 2 - First Responder Pack",
-      "price_rub": 747,
+      "price_rub": 742,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250540/9f2e7d986b5396dc8b825f3b9f1a93fcc9e3644a/header.jpg?t=1786488921"
     },
     {
       "id": 4250630,
       "name": "No More Room in Hell 2 - Surplus Officer Pack",
-      "price_rub": 747,
+      "price_rub": 742,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250630/ceb231196db5f5efde9837fda17582532f68ad5c/header.jpg?t=1786489036"
     },
     {
       "id": 2089150,
       "name": "No More Room in Hell 2 - Veteran Survivor Pack",
-      "price_rub": 747,
+      "price_rub": 742,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089150/7285dc50f242c7e7030cc224fcfa2db8acc5c29a/header.jpg?t=1786489216"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-19T18:40:06Z"
+  "updated_at": "2026-08-23T06:48:15Z"
 }
