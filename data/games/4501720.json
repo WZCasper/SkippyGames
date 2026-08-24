@@ -1,8 +1,8 @@
 {
   "id": 4501720,
   "title": "Aluminium City",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/11ef2fe3328086bc62eab90f5a52442cde8505a1/header.jpg?t=1787185406",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/0c8b7a1c0b176aacac0f2ff7bbe9822b2df7cda3/page_bg_raw.jpg?t=1787185406",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/11ef2fe3328086bc62eab90f5a52442cde8505a1/header.jpg?t=1787361889",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/0c8b7a1c0b176aacac0f2ff7bbe9822b2df7cda3/page_bg_raw.jpg?t=1787361889",
   "description": "You take on the role of Daniel, a man tired of his life and job, who decides to move to Aluminium City in search of something better. In this story, you must uncover Daniel's past and what happened to his wife and son, all while trying to make a living by crushing and selling aluminum cans. You'll grow your aluminum empire, with your neighbors helping you. Soon, you'll discover that the city is in danger. An evil man is lurking, terrorizing the people. You must redeem yourself in one last attack and save Aluminium City.\n\n• Crush empty cans!\n\n• Sell the buckets for good money!\n\n• Buy various upgrades that will improve your economy!\n\n• Buy automatic can presses and flying robots to automate the process!\n\n• Go faster and faster. Collect all the money you can!\n\n• Simple game loop.\n\n• Multiple upgrades. Buy them at your own pace.\n\n• Automatize your economy.",
   "description_short": "Incremental clicker/idle and narrative game where you crush empty cans, sell the aluminum, upgrade your equipment, and buy factories and automatic presses to automate the process. Discover what happened to your wife and son as you try to save Aluminum City from an evil villain.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 688,
+  "price_rub": 684,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/bfad8aafae472e2ad9f3b4bb26dc4e7b07b56b25/ss_bfad8aafae472e2ad9f3b4bb26dc4e7b07b56b25.1920x1080.jpg?t=1787185406",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/d3eb31e8bf8d10ccd3946fe21d4db96e49ad38a8/ss_d3eb31e8bf8d10ccd3946fe21d4db96e49ad38a8.1920x1080.jpg?t=1787185406",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/47cbd5aa5cd1b3fac4054261b153cdf883ad5d84/ss_47cbd5aa5cd1b3fac4054261b153cdf883ad5d84.1920x1080.jpg?t=1787185406",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/a155efef8c70bcdfd0ddd0dc647f26d43c5bf781/ss_a155efef8c70bcdfd0ddd0dc647f26d43c5bf781.1920x1080.jpg?t=1787185406",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/2c5da0837b8416c4af967dc9e72f623e1b962293/ss_2c5da0837b8416c4af967dc9e72f623e1b962293.1920x1080.jpg?t=1787185406",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/1aaa4bf0ff5b4dbf4a50f5d0ac03935b24aa4617/ss_1aaa4bf0ff5b4dbf4a50f5d0ac03935b24aa4617.1920x1080.jpg?t=1787185406",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/c9710109afdf1d151a1e93fc0e48161824acf956/ss_c9710109afdf1d151a1e93fc0e48161824acf956.1920x1080.jpg?t=1787185406",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/e97b7b616b09136101d7559597971f6b80e4149b/ss_e97b7b616b09136101d7559597971f6b80e4149b.1920x1080.jpg?t=1787185406"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/bfad8aafae472e2ad9f3b4bb26dc4e7b07b56b25/ss_bfad8aafae472e2ad9f3b4bb26dc4e7b07b56b25.1920x1080.jpg?t=1787361889",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/d3eb31e8bf8d10ccd3946fe21d4db96e49ad38a8/ss_d3eb31e8bf8d10ccd3946fe21d4db96e49ad38a8.1920x1080.jpg?t=1787361889",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/47cbd5aa5cd1b3fac4054261b153cdf883ad5d84/ss_47cbd5aa5cd1b3fac4054261b153cdf883ad5d84.1920x1080.jpg?t=1787361889",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/a155efef8c70bcdfd0ddd0dc647f26d43c5bf781/ss_a155efef8c70bcdfd0ddd0dc647f26d43c5bf781.1920x1080.jpg?t=1787361889",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/2c5da0837b8416c4af967dc9e72f623e1b962293/ss_2c5da0837b8416c4af967dc9e72f623e1b962293.1920x1080.jpg?t=1787361889",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/1aaa4bf0ff5b4dbf4a50f5d0ac03935b24aa4617/ss_1aaa4bf0ff5b4dbf4a50f5d0ac03935b24aa4617.1920x1080.jpg?t=1787361889",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/c9710109afdf1d151a1e93fc0e48161824acf956/ss_c9710109afdf1d151a1e93fc0e48161824acf956.1920x1080.jpg?t=1787361889",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501720/e97b7b616b09136101d7559597971f6b80e4149b/ss_e97b7b616b09136101d7559597971f6b80e4149b.1920x1080.jpg?t=1787361889"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-20T07:16:41Z"
+  "updated_at": "2026-08-24T00:35:12Z"
 }

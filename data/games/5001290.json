@@ -1,8 +1,8 @@
 {
   "id": 5001290,
   "title": "Visual Novel Transformer",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/4500ada17d7858bdc194b5c09e5be8b69cd66e27/header.jpg?t=1787191332",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/5001290?t=1787191332",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/4500ada17d7858bdc194b5c09e5be8b69cd66e27/header.jpg?t=1787233020",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/5001290?t=1787233020",
   "description": "Visual Novel Converter is a desktop tool for creators that helps you turn novel text into a playable Ren'Py visual novel project.\n\nWhat you can do• Import txt / docx and quickly organize them into editable story segments\n\n• Edit dialogue, narration, scenes, and presentation settings on a timeline\n\n• Manage cast, sprites/expressions, backgrounds, music, SFX, and other assets\n\n• Set up branch choices, variables, and conditions to build side routes from the main story\n\n• Export a Ren’Py project and playtest in the tool; also package a reader-ready build\n\n• Share or get editable projects / playable builds through the Steam Workshop\n\nSuggested workflow• Import your manuscript and segment it\n\n• Add cast and scene assets\n\n• Adjust presentation and branches on the timeline\n\n• Export and playtest\n\n• Package a reader build or publish to the Workshop\n\nDistinctive features• Custom dark/light themes and background wallpaper\n\n• Inspiration Notes: sticky notes on your desktop for quick ideas; built-in prompts by topic with random draws to spark writing; pin many notes and customize their paper\n\nWho it’s for• Authors who want to turn existing novel text into an interactive visual novel\n\n• Creators who prefer less low-level scripting and want a playable result faster\n\nWho it’s not for• Anyone expecting a full release-ready game from zero assets with one click — you still need your manuscript, sprites, and other materials\n\n• Developers who need deep Ren’Py scripting or complex engine extensions from the first line — better to write Ren’Py by hand directly",
   "description_short": "A visual novel creator for writers: turn your story into a playable Ren'Py project with a visual editor—faster from text to playable, packable builds.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 819,
+  "price_rub": 812,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/5eaee87a30e0647c5481894c9a5d40e0613b84c9/ss_5eaee87a30e0647c5481894c9a5d40e0613b84c9.1920x1080.jpg?t=1787191332",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/9f8ded39e7fac5e178d0435243f6feb54de00549/ss_9f8ded39e7fac5e178d0435243f6feb54de00549.1920x1080.jpg?t=1787191332",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/edca5107a6c2f04b6de5a7cb2ec4e118433ed364/ss_edca5107a6c2f04b6de5a7cb2ec4e118433ed364.1920x1080.jpg?t=1787191332",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/64faab8ccfa76ce83a738369c454c3ba1ffba926/ss_64faab8ccfa76ce83a738369c454c3ba1ffba926.1920x1080.jpg?t=1787191332",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/4e065eb86251ef2b82a86b3c4518b6898b010b99/ss_4e065eb86251ef2b82a86b3c4518b6898b010b99.1920x1080.jpg?t=1787191332"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/5eaee87a30e0647c5481894c9a5d40e0613b84c9/ss_5eaee87a30e0647c5481894c9a5d40e0613b84c9.1920x1080.jpg?t=1787233020",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/9f8ded39e7fac5e178d0435243f6feb54de00549/ss_9f8ded39e7fac5e178d0435243f6feb54de00549.1920x1080.jpg?t=1787233020",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/edca5107a6c2f04b6de5a7cb2ec4e118433ed364/ss_edca5107a6c2f04b6de5a7cb2ec4e118433ed364.1920x1080.jpg?t=1787233020",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/64faab8ccfa76ce83a738369c454c3ba1ffba926/ss_64faab8ccfa76ce83a738369c454c3ba1ffba926.1920x1080.jpg?t=1787233020",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/4e065eb86251ef2b82a86b3c4518b6898b010b99/ss_4e065eb86251ef2b82a86b3c4518b6898b010b99.1920x1080.jpg?t=1787233020"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-20T07:12:59Z"
+  "updated_at": "2026-08-24T00:31:35Z"
 }

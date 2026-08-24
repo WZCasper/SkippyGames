@@ -1,29 +1,29 @@
 {
   "id": 4729360,
   "title": "RefmusePaper",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/088bb135123968b200d23e72b422b59407668d49/header.jpg?t=1787187112",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4729360?t=1787187112",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/088bb135123968b200d23e72b422b59407668d49/header.jpg?t=1787375649",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4729360?t=1787375649",
   "description": "About RefmusePaper\n\nRefmusePaper is a Windows desktop wallpaper companion for the Refmuse creative workbench. It lets users import selected static wallpaper images from the Refmuse workbench into a local wallpaper library and apply them to the Windows desktop.\n\nThe current Steam version supports:\n\n- Opening the Refmuse online workbench\n\n- Using a Steam session to connect to the Refmuse service\n\n- Importing selected static images suitable for desktop wallpaper use\n\n- Managing imported wallpapers in the desktop app\n\n- Applying static image wallpapers to the Windows desktop\n\nAI-assisted wallpaper creation is provided through the online Refmuse workbench. Users can use prompts or reference images to generate wallpaper images, then import selected results into RefmusePaper. These features require an internet connection, account access, available credits, and are subject to safety policies and content restrictions.\n\nAdditional AI credits in the Steam client are purchased through Steam Wallet.\n\nCurrent scope:\n\n- Static image wallpaper import and application are supported\n\n- Video/live wallpaper hosting is not presented as a completed feature in this version\n\n- Steam Workshop publishing is not presented as a completed feature in this version",
-  "description_short": "RefmusePaper is a Windows desktop wallpaper companion for Refmuse. Import AI-generated static images from the online workbench, manage them locally, and apply them to your desktop. AI creation requires login, internet, safety limits, and Steam Wallet credits.",
+  "description_short": "RefmusePaper is a Windows desktop wallpaper companion with an online AI workbench. Create or import static wallpaper images, organize them locally, and apply them to your desktop. AI creation requires internet access, a Refmuse account, and credits. Availability varies by region.",
   "genres": [
     "Экшен"
   ],
   "platforms": [
     "PC"
   ],
-  "price_rub": 652,
+  "price_rub": 648,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/6e6136d1694cb21cc70bfa54a0f0653058150f9d/ss_6e6136d1694cb21cc70bfa54a0f0653058150f9d.1920x1080.jpg?t=1787187112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/0aff32a7e4cde9f2aa93ee9b1fedd7690139f81d/ss_0aff32a7e4cde9f2aa93ee9b1fedd7690139f81d.1920x1080.jpg?t=1787187112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/6368f09451e98f81d05a5022671fdd2c872b5902/ss_6368f09451e98f81d05a5022671fdd2c872b5902.1920x1080.jpg?t=1787187112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/0325f7cb452b39f888f39344a51b4dd9bbb415d5/ss_0325f7cb452b39f888f39344a51b4dd9bbb415d5.1920x1080.jpg?t=1787187112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/8879c1beb628b83b5009351d8e4358af9e03516e/ss_8879c1beb628b83b5009351d8e4358af9e03516e.1920x1080.jpg?t=1787187112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/ca7f6a43f55b9299d355394bd992809431b11a60/ss_ca7f6a43f55b9299d355394bd992809431b11a60.1920x1080.jpg?t=1787187112"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/6e6136d1694cb21cc70bfa54a0f0653058150f9d/ss_6e6136d1694cb21cc70bfa54a0f0653058150f9d.1920x1080.jpg?t=1787375649",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/0aff32a7e4cde9f2aa93ee9b1fedd7690139f81d/ss_0aff32a7e4cde9f2aa93ee9b1fedd7690139f81d.1920x1080.jpg?t=1787375649",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/6368f09451e98f81d05a5022671fdd2c872b5902/ss_6368f09451e98f81d05a5022671fdd2c872b5902.1920x1080.jpg?t=1787375649",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/0325f7cb452b39f888f39344a51b4dd9bbb415d5/ss_0325f7cb452b39f888f39344a51b4dd9bbb415d5.1920x1080.jpg?t=1787375649",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/8879c1beb628b83b5009351d8e4358af9e03516e/ss_8879c1beb628b83b5009351d8e4358af9e03516e.1920x1080.jpg?t=1787375649",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729360/ca7f6a43f55b9299d355394bd992809431b11a60/ss_ca7f6a43f55b9299d355394bd992809431b11a60.1920x1080.jpg?t=1787375649"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-20T07:15:38Z"
+  "updated_at": "2026-08-24T00:34:10Z"
 }
