@@ -1,8 +1,8 @@
 {
   "id": 3428870,
   "title": "Disconnect 2",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/2d7008defe97a0f6f39cf21a40e77e8c8b6d8d1a/header.jpg?t=1787243088",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3428870?t=1787243088",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/2d7008defe97a0f6f39cf21a40e77e8c8b6d8d1a/header.jpg?t=1787476334",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3428870?t=1787476334",
   "description": "Продолжая историю Disconnect, Disconnect 2 исследует различные этапы жизни глазами собаки.В этом трёхмерном платформере-головоломке в реальном времени используйте свою быструю реакцию, чтобы перемещать череп с платформы на платформу, одновременно находя путь к следующей контрольной точке. Обычные платформы уменьшаются при соприкосновении; одно неверное движение — и вы снова окажетесь в начале. Находите усиления на уровнях или собирайте монеты, чтобы приобрести новые.\n\nИспользуйте усиления с умом и не сбивайтесь с пути. Не все платформы одинаковы, и вам придётся приспосабливаться к особенностям каждой из них. Проявите предусмотрительность и точность, чтобы преодолеть динамичные уровни и достичь конечной цели.\n\nПосле прохождения каждого этапа вы будете открывать новый фрагмент истории, который позволит глубже понять испытания и трудности человеческого персонажа, сопровождающего нас на протяжении всего путешествия. Всё это представлено в чёрно-белом художественном стиле, вдохновлённом панк-плакатами.",
   "description_short": "В выразительном чёрно-белом художественном стиле, вдохновлённом классическими панк-плакатами 80-х и 90-х годов, каждый уровень сочетает напряжённый платформинг в реальном времени с атмосферным повествованием.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 743,
+  "price_rub": 741,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "NoyZeHCIf-M",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/1e4fce1388b2a05b0a4f6ff7073573d2ae21a881/ss_1e4fce1388b2a05b0a4f6ff7073573d2ae21a881.1920x1080.jpg?t=1787243088",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/f2f35752559e6478a552987de2c2e8acce88619c/ss_f2f35752559e6478a552987de2c2e8acce88619c.1920x1080.jpg?t=1787243088",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/7950c28b33701d66737e17e8efa5c0131d98be1c/ss_7950c28b33701d66737e17e8efa5c0131d98be1c.1920x1080.jpg?t=1787243088",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/3fb4fbb318886041e02e36a5a188d6e57cb39f45/ss_3fb4fbb318886041e02e36a5a188d6e57cb39f45.1920x1080.jpg?t=1787243088",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/e4adb42b5784ee3bb542aad6e7bb742a9192c5ef/ss_e4adb42b5784ee3bb542aad6e7bb742a9192c5ef.1920x1080.jpg?t=1787243088",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/4ea8d9ab81a0b9bf54bc1ecc988224fd475d86f8/ss_4ea8d9ab81a0b9bf54bc1ecc988224fd475d86f8.1920x1080.jpg?t=1787243088",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/efafcc82fd3db1444f2af584f0f66f0db4511930/ss_efafcc82fd3db1444f2af584f0f66f0db4511930.1920x1080.jpg?t=1787243088",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/56adf8a17cc82580aa9c59fab0584ba5ec699e02/ss_56adf8a17cc82580aa9c59fab0584ba5ec699e02.1920x1080.jpg?t=1787243088"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/4add5e17cc5b605aced3c658d12436900986efa3/ss_4add5e17cc5b605aced3c658d12436900986efa3.1920x1080.jpg?t=1787476334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/ba0432e530139247ea0900deb47bda5000152697/ss_ba0432e530139247ea0900deb47bda5000152697.1920x1080.jpg?t=1787476334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/f2f35752559e6478a552987de2c2e8acce88619c/ss_f2f35752559e6478a552987de2c2e8acce88619c.1920x1080.jpg?t=1787476334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/74e4a645ca641f898dae0687ec1d18c228eac4a7/ss_74e4a645ca641f898dae0687ec1d18c228eac4a7.1920x1080.jpg?t=1787476334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/3fb4fbb318886041e02e36a5a188d6e57cb39f45/ss_3fb4fbb318886041e02e36a5a188d6e57cb39f45.1920x1080.jpg?t=1787476334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/e4adb42b5784ee3bb542aad6e7bb742a9192c5ef/ss_e4adb42b5784ee3bb542aad6e7bb742a9192c5ef.1920x1080.jpg?t=1787476334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/4ea8d9ab81a0b9bf54bc1ecc988224fd475d86f8/ss_4ea8d9ab81a0b9bf54bc1ecc988224fd475d86f8.1920x1080.jpg?t=1787476334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/efafcc82fd3db1444f2af584f0f66f0db4511930/ss_efafcc82fd3db1444f2af584f0f66f0db4511930.1920x1080.jpg?t=1787476334"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-21T00:48:43Z"
+  "updated_at": "2026-08-24T07:03:40Z"
 }

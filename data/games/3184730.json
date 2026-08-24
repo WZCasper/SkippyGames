@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 561,
+  "price_rub": 559,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -28,10 +28,10 @@
     {
       "id": 4410840,
       "name": "Find Us Cats Soundtrack",
-      "price_rub": 549,
+      "price_rub": 548,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4410840/94a44fd209223bb95562075dae96cc0d26657568/header.jpg?t=1784924977"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-20T18:33:40Z"
+  "updated_at": "2026-08-24T06:47:58Z"
 }

@@ -1,29 +1,31 @@
 {
   "id": 4872710,
   "title": "Dollar Desktop Pet",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/5c4ad0e01e67a3b8aba278df0e2ec7869421ba3d/header.jpg?t=1786237383",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872710?t=1786237383",
-  "description": "Dollar is a local desktop safety companion — a friendly cat that lives on your desktop and keeps your code projects safe with a set of local, offline tools.\n\nWorks on its own — no AI, no account, no API key, no Git required:\n\n• Restore Points (Vault) — snapshot a folder and roll back in one click.\n\n• Secret Scan — find exposed keys before you commit or share. Findings are redacted.\n\n• Project Health Check — a quick read-only pre-flight on your project.\n\n• Safety Sandbox — see a command's local risk rating (red / amber / green). Nothing is executed.\n\n• System vitals and a local ledger — handy desktop readouts.\n\n• A desktop pet — drag it, pet it, get gentle notifications.\n\nOptional — connect an AI coding agent you already use:\n\nRun a compatible, locally-installed AI coding agent and Dollar can supervise it live — a prompt before risky actions, automatic restore points, and a cost tally. Optional, and separate from the local tools above.\n\nPrivacy: everything runs locally. No telemetry, no project content uploaded. Dollar contains no AI of its own and needs no API key for its core features.",
-  "description_short": "A local desktop safety companion for code projects. Create restore points, scan for secrets, check project health, and review command risk — no account, API key, or AI required for core tools. Optionally connect a compatible locally installed AI coding agent for live supervision.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/5c4ad0e01e67a3b8aba278df0e2ec7869421ba3d/header.jpg?t=1787472630",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872710?t=1787472630",
+  "description": "Fast is great — until it breaks somethingAI coding tools can edit files, run commands, and automate whole tasks. That speed is real, and so are the blind spots: a recursive delete runs the moment it is generated, with no second look. One bad edit with no snapshot is just gone. What it cost shows up when the bill does.\n\nDollar is the local layer that sits next to all of that.\n\nThree things Dollar doesSeatbelt — risky actions ask first. Dollar holds dangerous commands until you say go. Quiet on the safe stuff, firm on the risky stuff.\n\nDashcam — see what your AI did. A local activity history of flagged actions, approvals and changes, so you can look back instead of guessing.\n\nBlack box — recover when it goes wrong. An encrypted local snapshot is taken before risky changes, so a bad task is one rollback away, not a late-night cleanup.\n\nWorks without AINo account, no API key, no Git required. These work the moment you open it:\n\n• Restore points (the vault) — snapshot a folder, roll it back in one click.\n• Secret scanning — find exposed keys before you commit or share. Results are masked.\n• One-click checkup — one pass over agent connections, secret scan, project checks and recovery coverage. Produces one shareable card, and exports a report. Read-only throughout.\n• Safety range — see a command's local risk rating (red / yellow / green). Nothing is ever run.\n• Machine performance and local spend — the readouts you actually reach for.\n• A desktop pet — draggable, pettable, with gentle notifications. A guardrail you can see is a guardrail you use: Dollar sits on your desktop, not in a background process you forget you installed.\nOptional: connect the AI coding agent you already useIf you have a compatible AI coding agent installed, connect it in one click — no commands to copy — and Dollar supervises it live: a heads-up before risky actions, an automatic restore point, and a running tally of what it spends. This layer is optional and separate from the local tools above.\n\nThe ledger drills down by agent, model and month. Each agent reports activity in its own unit (Claude counts messages, Codex counts sessions), and anything with no records shows \"—\", not 0.\n\nAnd when you switch agents, switch machines, or a service is temporarily down, the Escape Pod exports a continuity pack you review first — redacted, metadata-only, handed over as a local file. No vendor has to be online.\n\nOne-time purchase$2.99, once. Windows and macOS are both included. No subscription, no account, no Pro tier.\n\nPrivacyEverything runs locally. Zero telemetry, and your project contents are never uploaded. Dollar contains no AI of its own, and its core features need no API key.",
+  "description_short": "Let AI code. Let Dollar watch. Risky commands ask first, an encrypted restore point is taken before the change, and spending is counted as it happens — all local. Works without AI too: restore points, secret scanning, project checkup, command risk ratings. No account, no API key.",
   "genres": [
     "Экшен"
   ],
   "platforms": [
     "PC"
   ],
-  "price_rub": 642,
+  "price_rub": 641,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/ab60d427a1f4ae9227d41afc5cea13e851e9c496/ss_ab60d427a1f4ae9227d41afc5cea13e851e9c496.1920x1080.jpg?t=1786237383",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/645c92b1462f000b3ae34ee21c991cf2e6a9f5cb/ss_645c92b1462f000b3ae34ee21c991cf2e6a9f5cb.1920x1080.jpg?t=1786237383",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/1a05f37655421b5c054e8e45a9a309582543032b/ss_1a05f37655421b5c054e8e45a9a309582543032b.1920x1080.jpg?t=1786237383",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/49eae4512b61ecb6806cf95c68bd8a3973c17815/ss_49eae4512b61ecb6806cf95c68bd8a3973c17815.1920x1080.jpg?t=1786237383",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/00b6ffe974f75bb0e977a9a7d3c808f1388b3ba4/ss_00b6ffe974f75bb0e977a9a7d3c808f1388b3ba4.1920x1080.jpg?t=1786237383",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/b202b38d7bb1603107c2b7e588d04a3a76c179d5/ss_b202b38d7bb1603107c2b7e588d04a3a76c179d5.1920x1080.jpg?t=1786237383"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/35830c4207bf1c0505cf710ff07b60fcb9944928/ss_35830c4207bf1c0505cf710ff07b60fcb9944928.1920x1080.jpg?t=1787472630",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/af4a263ecbd603124ecf7167444e735aa67faa22/ss_af4a263ecbd603124ecf7167444e735aa67faa22.1920x1080.jpg?t=1787472630",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/8babab55b9226d2245e8863b78d4e909c961595f/ss_8babab55b9226d2245e8863b78d4e909c961595f.1920x1080.jpg?t=1787472630",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/b8c052ffac04b6efcbc0ddde1992b7a638db2e30/ss_b8c052ffac04b6efcbc0ddde1992b7a638db2e30.1920x1080.jpg?t=1787472630",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/f3211ea5c704f8e2d250af196c2c9a99229c7ad4/ss_f3211ea5c704f8e2d250af196c2c9a99229c7ad4.1920x1080.jpg?t=1787472630",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/24eed225f4b4f465b483c3d559e8d2d3afdb4e30/ss_24eed225f4b4f465b483c3d559e8d2d3afdb4e30.1920x1080.jpg?t=1787472630",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/4f131a74af37e09d78c1dbddba3d3a13f6ae93a6/ss_4f131a74af37e09d78c1dbddba3d3a13f6ae93a6.1920x1080.jpg?t=1787472630",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872710/871ca7bbc86bf44dcb2da249c79291b1840393fd/ss_871ca7bbc86bf44dcb2da249c79291b1840393fd.1920x1080.jpg?t=1787472630"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-21T00:54:29Z"
+  "updated_at": "2026-08-24T07:05:29Z"
 }

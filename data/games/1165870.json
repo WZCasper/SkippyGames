@@ -15,10 +15,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1955,
+  "price_rub": 1919,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "MgLNpq_H17M",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165870/a66327405bb7244081e41ed98388adeef49f77a0/ss_a66327405bb7244081e41ed98388adeef49f77a0.1920x1080.jpg?t=1785327113",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165870/7b3580dbcaffc371f99606aa35bc0c5f583f831a/ss_7b3580dbcaffc371f99606aa35bc0c5f583f831a.1920x1080.jpg?t=1785327113",
@@ -33,10 +33,10 @@
     {
       "id": 1855550,
       "name": "Mahou Arms Original Game Soundtrack",
-      "price_rub": 928,
+      "price_rub": 917,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1855550/header.jpg?t=1640728665"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-20T18:49:03Z"
+  "updated_at": "2026-08-24T07:00:12Z"
 }
