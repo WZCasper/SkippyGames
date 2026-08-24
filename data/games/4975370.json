@@ -14,7 +14,7 @@
   "price_rub": 550,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "E40PBFxyw0s",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975370/9b2eb38d74b88c401ac0b2e1e48b8eb30501ffaf/ss_9b2eb38d74b88c401ac0b2e1e48b8eb30501ffaf.1920x1080.jpg?t=1786400222",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975370/349948b9aa849ddbe823050c0eadab73c6f83db9/ss_349948b9aa849ddbe823050c0eadab73c6f83db9.1920x1080.jpg?t=1786400222",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-21T07:03:56Z"
+  "updated_at": "2026-08-24T18:41:11Z"
 }

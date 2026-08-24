@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2210,
+  "price_rub": 2198,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "6F8L3d_OIE0",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_0ef33c0f230da6ebac94f5959f0e0a8bbc48cf8a.1920x1080.jpg?t=1786633104",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_3f8f4a09fb1d69648a8c20aae19ca2924ba275bd.1920x1080.jpg?t=1786633104",
@@ -34,22 +34,22 @@
     {
       "id": 937890,
       "name": "Assassin's Creed® Odyssey - Season Pass",
-      "price_rub": 1640,
+      "price_rub": 1632,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/937890/header_russian.jpg?t=1567612447"
     },
     {
       "id": 937891,
       "name": "Assassin’s CreedⓇ Odyssey – Legacy of the First Blade",
-      "price_rub": 1208,
+      "price_rub": 1203,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/937891/header_russian.jpg?t=1544632052"
     },
     {
       "id": 937892,
       "name": "Assassin’s CreedⓇ Odyssey - The Fate of Atlantis",
-      "price_rub": 1208,
+      "price_rub": 1203,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/937892/header_russian.jpg?t=1567527628"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-21T07:03:47Z"
+  "updated_at": "2026-08-24T18:38:31Z"
 }
