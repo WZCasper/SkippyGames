@@ -1,7 +1,7 @@
 {
   "id": 4078110,
   "title": "Suncraft",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/512b1a9a23afa111a2016ea17d6c8c6db769d145/header.jpg?t=1787223468",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/512b1a9a23afa111a2016ea17d6c8c6db769d145/header.jpg?t=1787391052",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/4078110/library_hero.jpg",
   "description": "Suncraft — это уютное пиксельное приключение, посвященное развитию и восстановлению. Отправьтесь в безмятежный мир, где каждый созданный вами инструмент вдыхает в деревню новую жизнь. Погрузитесь в расслабляющий ритм развития и наблюдайте, как деревня обретает свое былое величие.\n\nХотите проникнуться атмосферой Suncraft? Добавьте игру в список желаемого прямо сейчас, чтобы получить уведомление о выходе!\n\nОСНОВНОЙ ИГРОВОЙ ПРОЦЕСС\n\n• Исследование и сбор\n\nПутешествуйте по миру, собирайте материалы и открывайте новые биомы.\n\n• Создание и восстановление\n\nПерерабатывайте ресурсы в необходимые детали. Создавайте верстаки, конструируйте механизмы и чините разрушенные постройки, чтобы вернуть этим землям жизнь.\n\n• Улучшения и автоматизация \n\nПовышайте свою эффективность, открывая новые навыки и снаряжение. \n\nЗадания и тайны \n\n• Выполняйте поручения жителей, чтобы раскрыть историю деревни.",
   "description_short": "Еще один залитый солнцем день начинается в этом уютном пиксельном приключении. Собирайте ресурсы, создавайте предметы и улучшайте инструменты, чтобы расширять свои земли. Сможете ли вы восстановить великий Маяк и вернуть деревне ее золотые времена?",
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 696,
+  "price_rub": 695,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "ohGh_I1elVY",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/67d167396d618f951357f8b62a900ff717803a2c/ss_67d167396d618f951357f8b62a900ff717803a2c.1920x1080.jpg?t=1787223468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/7e535ab98554bb03e63dbd14802f74dfe63b04e4/ss_7e535ab98554bb03e63dbd14802f74dfe63b04e4.1920x1080.jpg?t=1787223468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/480d93c270dc345a16cf27cd9222da2704fd1768/ss_480d93c270dc345a16cf27cd9222da2704fd1768.1920x1080.jpg?t=1787223468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/8abab448f56f2d1042a9678921de3db61431c1c7/ss_8abab448f56f2d1042a9678921de3db61431c1c7.1920x1080.jpg?t=1787223468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/7d68533a71a69108164dde8b89af85a1390fbc48/ss_7d68533a71a69108164dde8b89af85a1390fbc48.1920x1080.jpg?t=1787223468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/6a5c93cfd71114f1635e883271e6b329a9de53af/ss_6a5c93cfd71114f1635e883271e6b329a9de53af.1920x1080.jpg?t=1787223468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/8165e1d5f4ea9fb2e9d7e20a114466daf2b0deaf/ss_8165e1d5f4ea9fb2e9d7e20a114466daf2b0deaf.1920x1080.jpg?t=1787223468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/56e4548057c24d1594e6dd74ac29e2384e5bd87d/ss_56e4548057c24d1594e6dd74ac29e2384e5bd87d.1920x1080.jpg?t=1787223468"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/67d167396d618f951357f8b62a900ff717803a2c/ss_67d167396d618f951357f8b62a900ff717803a2c.1920x1080.jpg?t=1787391052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/7e535ab98554bb03e63dbd14802f74dfe63b04e4/ss_7e535ab98554bb03e63dbd14802f74dfe63b04e4.1920x1080.jpg?t=1787391052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/480d93c270dc345a16cf27cd9222da2704fd1768/ss_480d93c270dc345a16cf27cd9222da2704fd1768.1920x1080.jpg?t=1787391052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/8abab448f56f2d1042a9678921de3db61431c1c7/ss_8abab448f56f2d1042a9678921de3db61431c1c7.1920x1080.jpg?t=1787391052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/7d68533a71a69108164dde8b89af85a1390fbc48/ss_7d68533a71a69108164dde8b89af85a1390fbc48.1920x1080.jpg?t=1787391052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/6a5c93cfd71114f1635e883271e6b329a9de53af/ss_6a5c93cfd71114f1635e883271e6b329a9de53af.1920x1080.jpg?t=1787391052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/8165e1d5f4ea9fb2e9d7e20a114466daf2b0deaf/ss_8165e1d5f4ea9fb2e9d7e20a114466daf2b0deaf.1920x1080.jpg?t=1787391052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078110/56e4548057c24d1594e6dd74ac29e2384e5bd87d/ss_56e4548057c24d1594e6dd74ac29e2384e5bd87d.1920x1080.jpg?t=1787391052"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-21T07:00:23Z"
+  "updated_at": "2026-08-24T13:04:46Z"
 }

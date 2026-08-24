@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 642,
+  "price_rub": 641,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -25,7 +25,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530240/5ed40556b17ce4e792a61586613bdf85a34f45f6/ss_5ed40556b17ce4e792a61586613bdf85a34f45f6.1920x1080.jpg?t=1787132725",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530240/4c6d02a75de315a419f3473e3241ecdebe311606/ss_4c6d02a75de315a419f3473e3241ecdebe311606.1920x1080.jpg?t=1787132725"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5049890,
+      "name": "Dissolution of the Silent Union Soundtrack",
+      "price_rub": 741,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049890/84c2cd20f19aa8263b7ccdf8057c00c51ea41060/header.jpg?t=1787555047"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-08-21T06:57:07Z"
+  "updated_at": "2026-08-24T13:00:01Z"
 }
