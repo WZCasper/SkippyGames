@@ -14,7 +14,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1029,
+  "price_rub": 1030,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -32,61 +32,61 @@
     {
       "id": 3589650,
       "name": "Total War: WARHAMMER III - Nagash – Lords of the End Times",
-      "price_rub": 1057,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589650/d3d5be90e8864baeecec7a91b1bb65b795a42258/header.jpg?t=1787134507"
     },
     {
       "id": 3589660,
       "name": "Total War: WARHAMMER III - Thanquol – Lords of the End Times",
-      "price_rub": 1057,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589660/95dc87034de1f057e5a22b45a3dfa6f76fd23a2c/header.jpg?t=1787134730"
     },
     {
       "id": 3589670,
       "name": "Total War: WARHAMMER III - Boris Todbringer – Lords of the End Times",
-      "price_rub": 1057,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589670/032c4616bd29068502a2a1ba88f8f85ebd54ac10/header.jpg?t=1787134855"
     },
     {
       "id": 3589680,
       "name": "Total War: WARHAMMER III - The Glottkin – Lords of the End Times",
-      "price_rub": 1057,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589680/81305c2e2cf9cd8d13ddfe60665a2b821ced516d/header.jpg?t=1787135078"
     },
     {
       "id": 4399460,
       "name": "Total War: WARHAMMER III - Bhashiva – Character Pack",
-      "price_rub": 766,
+      "price_rub": 767,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399460/40f70a747f06b8317959465b18a01f86473beaf1/header.jpg?t=1785122538"
     },
     {
       "id": 4605280,
       "name": "Total War: WARHAMMER III — оригинальный саундтрек",
-      "price_rub": 941,
+      "price_rub": 942,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605280/320ea89aa5aa03b20cba67a09730173348b8f9a7/header.jpg?t=1779374903"
     },
     {
       "id": 3450970,
       "name": "Total War: WARHAMMER III — Сейл — Tides of Torment",
-      "price_rub": 872,
+      "price_rub": 873,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450970/97543c6eea89ff2ea343f0fadb5688d2b77e0ded/header.jpg?t=1764867605"
     },
     {
       "id": 3450960,
       "name": "Total War: WARHAMMER III — Айслинн — Tides of Torment",
-      "price_rub": 872,
+      "price_rub": 873,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450960/12f84d057ba14abf152d1b47013b243092ea88ce/header.jpg?t=1764867540"
     },
     {
       "id": 3450980,
       "name": "Total War: WARHAMMER III — Дехала — Tides of Torment",
-      "price_rub": 872,
+      "price_rub": 873,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450980/e18e6cfb13acede42f1f20ce911679eef0983d62/header.jpg?t=1764867558"
     },
     {
       "id": 3301110,
       "name": "Total War: WARHAMMER III - The Changeling – Shadows of Change",
-      "price_rub": 777,
+      "price_rub": 778,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3301110/9a2dc603babe3cf2ed50255ef483ea0a8a72a70b/header.jpg?t=1763649830"
     },
     {
@@ -98,10 +98,10 @@
     {
       "id": 3301130,
       "name": "Total War: WARHAMMER III - Mother Ostankya – Shadows of Change",
-      "price_rub": 777,
+      "price_rub": 778,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3301130/header.jpg?t=1763649785"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-22T06:24:26Z"
+  "updated_at": "2026-08-25T12:34:18Z"
 }
