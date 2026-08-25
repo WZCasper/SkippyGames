@@ -14,7 +14,7 @@
   "price_rub": 741,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "fx7DEDBUrlM",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910280/f7ae6a15d28929606c978b24d34186c08491989a/ss_f7ae6a15d28929606c978b24d34186c08491989a.1920x1080.jpg?t=1785301014",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910280/87f0bd7cc3e30d3698e7b2957e868040ed749e6f/ss_87f0bd7cc3e30d3698e7b2957e868040ed749e6f.1920x1080.jpg?t=1785301014",
@@ -26,5 +26,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-21T18:50:47Z"
+  "updated_at": "2026-08-25T07:00:28Z"
 }
