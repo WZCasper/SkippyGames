@@ -1,8 +1,8 @@
 {
   "id": 4164110,
   "title": "Closed Circuit: Recursive Idle",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/c9b97672210ce74278362f2196ae8abfae0f9099/header.jpg?t=1786381402",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/54b7e153fae3ef40984b70098af5fca24fbfcfd2/page_bg_raw.jpg?t=1786381402",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/c9b97672210ce74278362f2196ae8abfae0f9099/header.jpg?t=1787348458",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/54b7e153fae3ef40984b70098af5fca24fbfcfd2/page_bg_raw.jpg?t=1787348458",
   "description": "Optimize your loop. Cut, connect, and duplicate complex nodes to build an ever-expanding automated network in this chill incremental idler. Purchase powerful upgrades, unlock permanent skills, and push your system to its absolute limits.\n\nOptimize your loop.Upgrades make your loop faster, your nodes stronger, and add new special outputs. Build a massive node network in order to grow even further.\n\n Unlock Permanent Skills.Loops give you skill points, use these to gain permanent unlocks.\n\nExpand the network.Purchase upgrades that give you new nodes to work with. More nodes = more profit.\n\nMake it your own.Reorganize. duplicate, cut and connect to build your optimal network.",
   "description_short": "Optimize your loop. Cut, connect, and duplicate complex nodes to build an ever-expanding automated network in this chill incremental idler. Purchase powerful upgrades, unlock permanent skills, and push your system to its absolute limits.",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 687,
+  "price_rub": 686,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "IN8zctqKRzQ",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/ccc1c3bba160bf58f2e4fceeed21e60e5482fb79/ss_ccc1c3bba160bf58f2e4fceeed21e60e5482fb79.1920x1080.jpg?t=1786381402",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/4177e5c09148af7e8fa3f075ec44391dc086a098/ss_4177e5c09148af7e8fa3f075ec44391dc086a098.1920x1080.jpg?t=1786381402",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/8c4a850a0e34828bb936d36703cfc7a2595b96e8/ss_8c4a850a0e34828bb936d36703cfc7a2595b96e8.1920x1080.jpg?t=1786381402",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/ace62cebf8066e526ee4f4542e2349638d038183/ss_ace62cebf8066e526ee4f4542e2349638d038183.1920x1080.jpg?t=1786381402",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/8be219f4c61b42b34bb6d34bc39c3965f70decd5/ss_8be219f4c61b42b34bb6d34bc39c3965f70decd5.1920x1080.jpg?t=1786381402",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/3e93c594d679648ba7037fdc4da0ea725451e419/ss_3e93c594d679648ba7037fdc4da0ea725451e419.1920x1080.jpg?t=1786381402"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/ccc1c3bba160bf58f2e4fceeed21e60e5482fb79/ss_ccc1c3bba160bf58f2e4fceeed21e60e5482fb79.1920x1080.jpg?t=1787348458",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/4177e5c09148af7e8fa3f075ec44391dc086a098/ss_4177e5c09148af7e8fa3f075ec44391dc086a098.1920x1080.jpg?t=1787348458",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/8c4a850a0e34828bb936d36703cfc7a2595b96e8/ss_8c4a850a0e34828bb936d36703cfc7a2595b96e8.1920x1080.jpg?t=1787348458",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/ace62cebf8066e526ee4f4542e2349638d038183/ss_ace62cebf8066e526ee4f4542e2349638d038183.1920x1080.jpg?t=1787348458",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/8be219f4c61b42b34bb6d34bc39c3965f70decd5/ss_8be219f4c61b42b34bb6d34bc39c3965f70decd5.1920x1080.jpg?t=1787348458",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164110/3e93c594d679648ba7037fdc4da0ea725451e419/ss_3e93c594d679648ba7037fdc4da0ea725451e419.1920x1080.jpg?t=1787348458"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-21T12:20:19Z"
+  "updated_at": "2026-08-25T00:32:36Z"
 }
