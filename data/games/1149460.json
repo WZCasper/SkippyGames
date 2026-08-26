@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1803,
+  "price_rub": 1823,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "qXoRdSTrR-4",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/ss_71323ca651735d89764fa9e62c5d1756a9b64d4f.1920x1080.jpg?t=1784744651",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/ss_aa5a09717e6432d3bd61e6d7b20ac622c6f27502.1920x1080.jpg?t=1784744651",
@@ -32,76 +32,76 @@
     {
       "id": 1648533,
       "name": "Icarus: Dangerous Horizons Expansion",
-      "price_rub": 1617,
+      "price_rub": 1634,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648533/947b3d84caf5cc320d4f8b65dd298a01f426a8ed/header.jpg?t=1772745213"
     },
     {
       "id": 2791000,
       "name": "Icarus: Homestead Content Pack",
-      "price_rub": 1133,
+      "price_rub": 1142,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2791000/4300dcd1f0f7772e6709bc27e6366ed1e3c8d10d/header.jpg?t=1771555094"
     },
     {
       "id": 3315290,
       "name": "Icarus: кампании «Великие охоты»",
-      "price_rub": 1459,
+      "price_rub": 1473,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3315290/67c4d0ea9d2633cc972c95aa3a9cdaf6fa1b5cef/header.jpg?t=1770779073"
     },
     {
       "id": 1648532,
       "name": "Icarus: Новые рубежи",
-      "price_rub": 1617,
+      "price_rub": 1634,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648532/header_russian.jpg?t=1770264150"
     },
     {
       "id": 1995690,
       "name": "Icarus: Styx Expansion",
-      "price_rub": 1273,
+      "price_rub": 1284,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1995690/3a1f3ca041f590d5974de81f178456f2ac459adc/header.jpg?t=1770263237"
     },
     {
       "id": 2923820,
       "name": "Icarus: Pet Companions Pack",
-      "price_rub": 1133,
+      "price_rub": 1142,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923820/1088710559b32e7133ccbcca68facd06c30e6a0f/header.jpg?t=1772070880"
     },
     {
       "id": 2790990,
       "name": "Icarus: Creature Comforts Pack",
-      "price_rub": 1077,
+      "price_rub": 1086,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790990/5f1bcd57f8177b9295342b5c28eb98380cf9e25f/header.jpg?t=1770264745"
     },
     {
       "id": 2686540,
       "name": "Icarus: Art Deco Furniture Pack",
-      "price_rub": 1077,
+      "price_rub": 1086,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686540/b45ae94e4834a59cc26177eb4c4d3e208de583e7/header.jpg?t=1753750022"
     },
     {
       "id": 2679990,
       "name": "Icarus: Industrial Furniture Pack",
-      "price_rub": 1077,
+      "price_rub": 1086,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679990/7f915441a5a3a3d0086d9ec8eb42bea57f1fa133/header.jpg?t=1770264855"
     },
     {
       "id": 2445280,
       "name": "Icarus: Interior Decorations Pack",
-      "price_rub": 848,
+      "price_rub": 853,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445280/2e8663d4cc4612d6c3076b969300b27d50c1ac9b/header.jpg?t=1770265651"
     },
     {
       "id": 3984230,
       "name": "Icarus: Aquatica Isle Outpost",
-      "price_rub": 777,
+      "price_rub": 782,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984230/97a11dd6f2d39eb6439d466abb8c7dc2e26c9104/header.jpg?t=1770265751"
     },
     {
       "id": 3364360,
       "name": "Icarus: Frostfall Outpost",
-      "price_rub": 731,
+      "price_rub": 734,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3364360/3ccbda4a5f0a7b61b072374b9523bde0974e8958/header.jpg?t=1770265847"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-23T07:03:39Z"
+  "updated_at": "2026-08-26T20:00:43Z"
 }
