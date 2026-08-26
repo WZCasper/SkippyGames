@@ -1,8 +1,8 @@
 {
   "id": 4834490,
   "title": "Техасский холдем Pixel Texas Hold'em",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/59ceaf9d33d32c1eb0fc9010ce5a1d1b64ae4cf0/header.jpg?t=1787289362",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/18a4129b968dea319214576443a7d8bfaa7da1ed/page_bg_raw.jpg?t=1787289362",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/59ceaf9d33d32c1eb0fc9010ce5a1d1b64ae4cf0/header.jpg?t=1787677486",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/18a4129b968dea319214576443a7d8bfaa7da1ed/page_bg_raw.jpg?t=1787677486",
   "description": "About This Game\n\nPixel Hold'em is a pixel-style Texas Hold'em game built around online multiplayer matches. Create your own room or join a public or password-protected table, then take on friends and other players in tense rounds of Texas Hold'em.\n\nFrom pre-flop to river, every call, raise, fold, and all-in can change the outcome of a hand. Read your hole cards, react to the community cards, watch the pot, and respond to your opponents' actions to decide when to push and when to hold back.\n\nThe game uses authoritative server-side settlement and includes a verifiable dealing system. Commitment data is locked before a hand begins, and verification materials are revealed after the hand ends, allowing players to review the result for greater transparency. 【verify site： 】\n\nFeatures\n\n- Online multiplayer room-based matches with public and password-protected tables\n\n- Classic Texas Hold'em gameplay with blinds, betting rounds, community cards, showdown, and hand comparison\n\n- Practice with AI bots while waiting for suitable live rooms\n\n- Friend and invite systems that make it easy to add friends, track status, and send room invites\n\n- In-match chat for table interaction and a more social multiplayer experience\n\n- Customization options including avatars, avatar frames, card backs, and background themes\n\n- Verifiable match data to help players review fairness after each hand\n\nContent\n\nThe game includes online multiplayer, bot practice, friend interaction, invitations, chat features, and collectible cosmetic content.\n\nAll chips and related in-game values are for entertainment purposes only and cannot be exchanged for real-world currency.",
   "description_short": "Online Texas Hold'em with publicly verifiable fair dealing. We never manipulate outcomes to drive spending. Every hand is decided by player judgment, strategy, nerve, and timing. Play with friends, read opponents, manage your chips, and personalize your table with themes and card backs.",
   "genres": [
@@ -14,17 +14,17 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "CFLRQPocE4Q",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/2a9b9a685b9eef649c4bbe9772ba7e16a4c900c8/ss_2a9b9a685b9eef649c4bbe9772ba7e16a4c900c8.1920x1080.jpg?t=1787289362",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/be9305f406f48694ee62c1d0bba5f98f827bc5b1/ss_be9305f406f48694ee62c1d0bba5f98f827bc5b1.1920x1080.jpg?t=1787289362",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/9d69565f0239cf738b121abbe483169bc67e9179/ss_9d69565f0239cf738b121abbe483169bc67e9179.1920x1080.jpg?t=1787289362",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/8ce6a7fa4733fd1c663e13fa56dfc7fe158dcf79/ss_8ce6a7fa4733fd1c663e13fa56dfc7fe158dcf79.1920x1080.jpg?t=1787289362",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/8d46d56176d41999c67dc5a3b4dee2f287de5b32/ss_8d46d56176d41999c67dc5a3b4dee2f287de5b32.1920x1080.jpg?t=1787289362",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/5e3f383d56d102167f13bbb41e313abdf0a805fa/ss_5e3f383d56d102167f13bbb41e313abdf0a805fa.1920x1080.jpg?t=1787289362",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/65811ab69c177ccb270c9f6e8b523bbdb505760a/ss_65811ab69c177ccb270c9f6e8b523bbdb505760a.1920x1080.jpg?t=1787289362"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/2a9b9a685b9eef649c4bbe9772ba7e16a4c900c8/ss_2a9b9a685b9eef649c4bbe9772ba7e16a4c900c8.1920x1080.jpg?t=1787677486",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/be9305f406f48694ee62c1d0bba5f98f827bc5b1/ss_be9305f406f48694ee62c1d0bba5f98f827bc5b1.1920x1080.jpg?t=1787677486",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/9d69565f0239cf738b121abbe483169bc67e9179/ss_9d69565f0239cf738b121abbe483169bc67e9179.1920x1080.jpg?t=1787677486",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/8ce6a7fa4733fd1c663e13fa56dfc7fe158dcf79/ss_8ce6a7fa4733fd1c663e13fa56dfc7fe158dcf79.1920x1080.jpg?t=1787677486",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/8d46d56176d41999c67dc5a3b4dee2f287de5b32/ss_8d46d56176d41999c67dc5a3b4dee2f287de5b32.1920x1080.jpg?t=1787677486",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/5e3f383d56d102167f13bbb41e313abdf0a805fa/ss_5e3f383d56d102167f13bbb41e313abdf0a805fa.1920x1080.jpg?t=1787677486",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/65811ab69c177ccb270c9f6e8b523bbdb505760a/ss_65811ab69c177ccb270c9f6e8b523bbdb505760a.1920x1080.jpg?t=1787677486"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-22T18:52:52Z"
+  "updated_at": "2026-08-26T07:01:55Z"
 }

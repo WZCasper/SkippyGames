@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 891,
+  "price_rub": 897,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "dY5zZp06lvI",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831740/03fdbd31ce48291210b485f8a727c4cdf31b5b80/ss_03fdbd31ce48291210b485f8a727c4cdf31b5b80.1920x1080.jpg?t=1785943022",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831740/e72c947e23006ab2cefb09b44fde9e293b74a0cb/ss_e72c947e23006ab2cefb09b44fde9e293b74a0cb.1920x1080.jpg?t=1785943022",
@@ -26,22 +26,22 @@
     {
       "id": 4860560,
       "name": "FEMBOY HAREM Wallpaper Pack",
-      "price_rub": 686,
+      "price_rub": 689,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860560/a6b62f2233259f14f06c81e0c96b01530bc9c321/header.jpg?t=1785943013"
     },
     {
       "id": 4860570,
       "name": "FEMBOY HAREM Supporter Pack",
-      "price_rub": 686,
+      "price_rub": 689,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860570/248e69528272709694637b0dd82b93a6837f5e4d/header.jpg?t=1785943018"
     },
     {
       "id": 4860580,
       "name": "FEMBOY HAREM Soundtrack",
-      "price_rub": 686,
+      "price_rub": 689,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860580/99427aea1d6b105699b93628ce679cc82d2f9d38/header.jpg?t=1785943008"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-22T19:02:19Z"
+  "updated_at": "2026-08-26T07:02:27Z"
 }
