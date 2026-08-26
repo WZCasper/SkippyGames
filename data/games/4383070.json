@@ -25,7 +25,20 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/edcbfabcab4b0cc2f62e65562cc825a6d8a1971c/ss_edcbfabcab4b0cc2f62e65562cc825a6d8a1971c.1920x1080.jpg?t=1785596572",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/0fbe5699d4e96fc43f13d6c2eb80d773d8d0a974/ss_0fbe5699d4e96fc43f13d6c2eb80d773d8d0a974.1920x1080.jpg?t=1785596572"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4543160,
+      "name": "100 Undersea Cats Soundtrack",
+      "price_rub": 731,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543160/4ee78db81e39a8056dcba0de61f282bfff18302a/header.jpg?t=1785596583"
+    },
+    {
+      "id": 4543190,
+      "name": "100 Undersea Cats - Artbook",
+      "price_rub": 731,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543190/08d215a8d5789fd280c197927e8b5c060420a0c2/header.jpg?t=1785596574"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-08-22T07:11:43Z"
+  "updated_at": "2026-08-26T00:33:39Z"
 }
