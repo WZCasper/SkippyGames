@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 586,
+  "price_rub": 2245,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "XO-DZlXVSPA",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/ss_3587327234fd23ba82aa7c7b0854d536f85f3e02.1920x1080.jpg?t=1786965015",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/ss_4b002f1432e65ad4a6c02afb3af8aaee080214dd.1920x1080.jpg?t=1786965015",
@@ -34,70 +34,70 @@
     {
       "id": 1820340,
       "name": "Zombie Army 4: Ragnarök Campaign & Character Pack",
-      "price_rub": 621,
+      "price_rub": 1113,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820340/header.jpg?t=1651760410"
     },
     {
       "id": 1498320,
       "name": "Zombie Army 4: Ragnarök – Parts I & II",
-      "price_rub": 625,
+      "price_rub": 924,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498320/header.jpg?t=1651760463"
     },
     {
       "id": 1820341,
       "name": "Zombie Army 4: Future Karl Outfit",
-      "price_rub": 541,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820341/header.jpg?t=1651760632"
     },
     {
       "id": 1820343,
       "name": "Zombie Army 4: Josiah Detective Outfit",
-      "price_rub": 541,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820343/header.jpg?t=1651760511"
     },
     {
       "id": 1820342,
       "name": "Zombie Army 4: Marie Lounge Singer Outfit",
-      "price_rub": 541,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820342/header.jpg?t=1651760570"
     },
     {
       "id": 1558885,
       "name": "Zombie Army 4: Season Pass Three",
-      "price_rub": 761,
+      "price_rub": 1821,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558885/header.jpg?t=1620133505"
     },
     {
       "id": 1405830,
       "name": "Zombie Army 4: Season Pass Two",
-      "price_rub": 761,
+      "price_rub": 1821,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1405830/header.jpg?t=1786651124"
     },
     {
       "id": 1569330,
       "name": "Zombie Army 4: Occult Karl Outfit",
-      "price_rub": 541,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569330/header.jpg?t=1635253242"
     },
     {
       "id": 1569332,
       "name": "Zombie Army 4: Blowtorch Weapon Bundle",
-      "price_rub": 554,
+      "price_rub": 687,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569332/header.jpg?t=1635253283"
     },
     {
       "id": 1569331,
       "name": "Zombie Army 4: Strange Brigade Headgear Pack",
-      "price_rub": 541,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569331/header.jpg?t=1635253271"
     },
     {
       "id": 1569333,
       "name": "Zombie Army 4: Bandages Weapon Skins",
-      "price_rub": 541,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569333/header.jpg?t=1635253292"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-23T19:01:06Z"
+  "updated_at": "2026-08-27T16:59:48Z"
 }

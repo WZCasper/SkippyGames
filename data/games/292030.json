@@ -1,9 +1,9 @@
 {
   "id": 292030,
-  "title": "Ведьмак 3: Дикая Охота",
+  "title": "«Ведьмак 3: Дикая Охота — Полное издание»",
   "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_hero.jpg",
-  "description": "УЗНАЙТЕ, ЧТО БЫЛО ДО «ВЕДЬМАКА 4»\n\nОб игре",
+  "description": "ЕЩЁ ОДНА ВЕДЬМАЧЬЯ ИСТОРИЯ, В КОТОРОЙ ВСЯКИЙ ВЫБОР ОБЯЗАТЕЛЬНО ПОВЛЕЧЁТ ЗА СОБОЙ ПОСЛЕДСТВИЯ\n\nУЛУЧШЕННАЯ КЛАССИКА\n\nЛюбимая многими ролевая игра вместе с двумя дополнениями («Каменные сердца» и «Кровь и вино») получила обновление. Оцените многочисленные изменения, улучшающие графику, боевую систему, систему развития персонажа и многое другое. Для тех, у кого уже есть игра, обновление будет бесплатным.\n\nИгра «Ведьмак 3: Дикая Охота» будет бесплатно улучшена до обновлённого издания 29 сентября.\n\nОб игре",
   "description_short": "Вы — Геральт из Ривии, наемный убийца чудовищ. Вы путешествуете по миру, в котором бушует война и на каждом шагу подстерегают чудовища. Вам предстоит выполнить заказ и найти Цири — Дитя Предназначения, живое оружие, способное изменить облик этого мира.",
   "genres": [
     "Песочницы (Sandbox)",
@@ -14,34 +14,40 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2267,
+  "price_rub": 3045,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "OfId5m8Uq_c",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.1920x1080.jpg?t=1768303991",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.1920x1080.jpg?t=1768303991",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_112b1e176c1bd271d8a565eacb6feaf90f240bb2.1920x1080.jpg?t=1768303991",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d1b73b18cbcd5e9e412c7a1dead3c5cd7303d2ad.1920x1080.jpg?t=1768303991",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_107600c1337accc09104f7a8aa7f275f23cad096.1920x1080.jpg?t=1768303991",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_64eb760f9a2b67f6731a71cce3a8fb684b9af267.1920x1080.jpg?t=1768303991",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_eda99e7f705a113d04ab2a7a36068f3e7b343d17.1920x1080.jpg?t=1768303991",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d5b80eb63c12a6484f26796f3e34410651bba068.1920x1080.jpg?t=1768303991"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.1920x1080.jpg?t=1787688132",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.1920x1080.jpg?t=1787688132",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_112b1e176c1bd271d8a565eacb6feaf90f240bb2.1920x1080.jpg?t=1787688132",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d1b73b18cbcd5e9e412c7a1dead3c5cd7303d2ad.1920x1080.jpg?t=1787688132",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_107600c1337accc09104f7a8aa7f275f23cad096.1920x1080.jpg?t=1787688132",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_64eb760f9a2b67f6731a71cce3a8fb684b9af267.1920x1080.jpg?t=1787688132",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_eda99e7f705a113d04ab2a7a36068f3e7b343d17.1920x1080.jpg?t=1787688132",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d5b80eb63c12a6484f26796f3e34410651bba068.1920x1080.jpg?t=1787688132"
   ],
   "upsells": [
     {
-      "id": 355880,
-      "name": "The Witcher 3: Wild Hunt - Expansion Pass",
-      "price_rub": 1802,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355880/header.jpg?t=1659617723"
+      "id": 1229320,
+      "name": "The Witcher 3: Wild Hunt Soundtrack",
+      "price_rub": 838,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229320/header_russian.jpg?t=1659615500"
     },
     {
-      "id": 378649,
-      "name": "Ведьмак 3: Дикая Охота — Каменные сердца",
-      "price_rub": 1094,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378649/a19aa6018ec34148e0e065f2c5ca5a930913da00/header_russian.jpg?t=1768304100"
+      "id": 1233280,
+      "name": "The Witcher 3: Wild Hunt - Hearts of Stone Soundtrack",
+      "price_rub": 800,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233280/header_russian.jpg?t=1659616727"
+    },
+    {
+      "id": 1233340,
+      "name": "The Witcher 3: Wild Hunt - Blood and Wine Soundtrack",
+      "price_rub": 800,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233340/header_russian.jpg?t=1659618129"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-23T18:54:15Z"
+  "updated_at": "2026-08-27T16:58:55Z"
 }

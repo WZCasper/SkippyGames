@@ -1,7 +1,7 @@
 {
   "id": 3952160,
   "title": "Detective Pig",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/99b93e542804dad3d8a68ce99a0b43bf12644850/header.jpg?t=1787192212",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/99b93e542804dad3d8a68ce99a0b43bf12644850/header.jpg?t=1787517922",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3952160/library_hero.jpg",
   "description": "Detective Pig — это не только история, но и напряжённый стелс-геймплей. На каждом уровне вам предстоит скрытно пробираться мимо вражеских свинок, не позволяя им заметить себя. \n\nИгровой процесс выполнен в стиле стелс. Вам придётся просчитывать последствия каждого своего действия и внимательно наблюдать за поведением каждой свинки.\n\nВ Сюжетной кампании вас ждут увлекательная история и стелс-механика прохождения.\n\nПеред началом игры вас ждёт небольшая предыстория, которая познакомит вас с миром Detective Pig. \n\nОбучение проходит постепенно прямо во время прохождения, позволяя естественно освоить все игровые механики.\n\nПроходя игру, вы будете постепенно зарабатывать Пиг Коины и Кексы. Их можно потратить в игровом магазине, чтобы открыть новые скины для своего персонажа.\n\nВ игре представлены четыре уровня редкости скинов: Редкий, Эпический, Легендарный и Эвентный. Чем выше редкость, тем уникальнее внешний вид.\n\nВы оказываетесь во вселенной Хрюнвиль в роли талантливого детектива. Ваше первое дело приводит вас к влиятельной и богатой семье, которая обращается к вам с самой важной просьбой — найти их бесследно исчезнувшего сына.\n\nЧем глубже вы погружаетесь в расследование, тем больше тайн раскрывается перед вами. Собирайте улики, ищите скрытые подсказки и выясните, кто стоит за загадочным исчезновением. Только от вас зависит, удастся ли докопаться до истины.",
   "description_short": "Detective Pig — детективное стелс-приключение в мире Хрюнвиль. Возьмите на себя роль блестящего детектива Шерлока Пига, которому предстоит взяться за своё первое дело. Вам понадобятся остроумие и умение предугадывать будущее!",
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 539,
+  "price_rub": 540,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/8cbc098dfef3cc39a745955a57d9e82c1d2bba3e/ss_8cbc098dfef3cc39a745955a57d9e82c1d2bba3e.1920x1080.jpg?t=1787192212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/872987bdad911f3c0859cf6a6a2d0d7b0d00d2a6/ss_872987bdad911f3c0859cf6a6a2d0d7b0d00d2a6.1920x1080.jpg?t=1787192212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/82e0bb325b89acec391c922b5d2c590212db7e6e/ss_82e0bb325b89acec391c922b5d2c590212db7e6e.1920x1080.jpg?t=1787192212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/182b01bb7de4ee0dc2d0332134c47ab0181eaf3b/ss_182b01bb7de4ee0dc2d0332134c47ab0181eaf3b.1920x1080.jpg?t=1787192212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/bf1aecb3eb39eca106619b15a8cbb92bddbbba0e/ss_bf1aecb3eb39eca106619b15a8cbb92bddbbba0e.1920x1080.jpg?t=1787192212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/539b5d9e746991a989e8e26e682659e781d81708/ss_539b5d9e746991a989e8e26e682659e781d81708.1920x1080.jpg?t=1787192212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/f06d725c46fc9a0d9f6009c45f2e73daa0bb5cd2/ss_f06d725c46fc9a0d9f6009c45f2e73daa0bb5cd2.1920x1080.jpg?t=1787192212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/ff99f6d3194a4d759e1890293dcb327580335116/ss_ff99f6d3194a4d759e1890293dcb327580335116.1920x1080.jpg?t=1787192212"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/8cbc098dfef3cc39a745955a57d9e82c1d2bba3e/ss_8cbc098dfef3cc39a745955a57d9e82c1d2bba3e.1920x1080.jpg?t=1787517922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/872987bdad911f3c0859cf6a6a2d0d7b0d00d2a6/ss_872987bdad911f3c0859cf6a6a2d0d7b0d00d2a6.1920x1080.jpg?t=1787517922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/82e0bb325b89acec391c922b5d2c590212db7e6e/ss_82e0bb325b89acec391c922b5d2c590212db7e6e.1920x1080.jpg?t=1787517922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/182b01bb7de4ee0dc2d0332134c47ab0181eaf3b/ss_182b01bb7de4ee0dc2d0332134c47ab0181eaf3b.1920x1080.jpg?t=1787517922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/bf1aecb3eb39eca106619b15a8cbb92bddbbba0e/ss_bf1aecb3eb39eca106619b15a8cbb92bddbbba0e.1920x1080.jpg?t=1787517922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/539b5d9e746991a989e8e26e682659e781d81708/ss_539b5d9e746991a989e8e26e682659e781d81708.1920x1080.jpg?t=1787517922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/f06d725c46fc9a0d9f6009c45f2e73daa0bb5cd2/ss_f06d725c46fc9a0d9f6009c45f2e73daa0bb5cd2.1920x1080.jpg?t=1787517922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/ff99f6d3194a4d759e1890293dcb327580335116/ss_ff99f6d3194a4d759e1890293dcb327580335116.1920x1080.jpg?t=1787517922"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-23T19:05:15Z"
+  "updated_at": "2026-08-27T17:02:28Z"
 }
