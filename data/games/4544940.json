@@ -25,7 +25,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/abdb6511c6ae75c832e388e4076a99c0aa7556e6/ss_abdb6511c6ae75c832e388e4076a99c0aa7556e6.1920x1080.jpg?t=1784050056",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544940/b8a7f2c8378bfc1f231707bc948ddb1649fdc3a6/ss_b8a7f2c8378bfc1f231707bc948ddb1649fdc3a6.1920x1080.jpg?t=1784050056"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4871490,
+      "name": "The Infinite Grimoire - Apprentice's Cache",
+      "price_rub": 551,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871490/52752a1e94887f10c17b3301d6fb6f5da524968e/header.jpg?t=1784048588"
+    },
+    {
+      "id": 4871500,
+      "name": "The Infinite Grimoire - Archmage's Treasury",
+      "price_rub": 598,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871500/7202c3cc15865458f3162559ba8fa895bf26a1f5/header.jpg?t=1784048564"
+    },
+    {
+      "id": 4871510,
+      "name": "The Infinite Grimoire - Forbidden Vault",
+      "price_rub": 643,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871510/cb53735012f813617ba765f529794ae229c1686b/header.jpg?t=1784049965"
+    },
+    {
+      "id": 4871520,
+      "name": "The Infinite Grimoire - The Distant Lands",
+      "price_rub": 551,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871520/51463033a0c297b4b3b83bb35eda4ced01c281f2/header.jpg?t=1784048609"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-08-23T07:13:43Z"
+  "updated_at": "2026-08-27T05:25:30Z"
 }

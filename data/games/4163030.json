@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 817,
+  "price_rub": 821,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -28,16 +28,16 @@
     {
       "id": 4887870,
       "name": "Cat Chess - Supporter Cat",
-      "price_rub": 642,
+      "price_rub": 643,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4887870/69dcdfe04c22b7f439ba0aaf09607aa7e622a630/header.jpg?t=1784041762"
     },
     {
       "id": 4912310,
       "name": "Cat Chess - Royal Cat (Deluxe Digital Edition)",
-      "price_rub": 742,
+      "price_rub": 745,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912310/69dcdfe04c22b7f439ba0aaf09607aa7e622a630/header.jpg?t=1784041782"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-23T12:23:46Z"
+  "updated_at": "2026-08-27T05:36:02Z"
 }
