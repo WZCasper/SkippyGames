@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1149,
+  "price_rub": 1170,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Z91R-JGOTKk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/d391a52941cbbe9b958c7b86a874dbb487d70424/ss_d391a52941cbbe9b958c7b86a874dbb487d70424.1920x1080.jpg?t=1784206766",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744950/adbbb63c4fe2c6a73863d3e9a52a5662956169ff/ss_adbbb63c4fe2c6a73863d3e9a52a5662956169ff.1920x1080.jpg?t=1784206766",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-24T07:04:56Z"
+  "updated_at": "2026-08-28T17:48:43Z"
 }
