@@ -1,31 +1,31 @@
 {
   "id": 4853110,
   "title": "MiniMate",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/c97b4aa5e7d8abc143a53f9dacdf50b7e2724363/header.jpg?t=1785970164",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4853110?t=1785970164",
-  "description": "An idle chess buddy that sits in the corner of your screenRather than letting your chess skills dull, try MiniMate. You'll be able to hone your chess skills all while still being productive. With countless puzzles, and a wide range of difficulty, you will have an endless amount of practice at your disposal.\n\nGet reminded every 5 minutes to complete a new puzzle. Keeping your puzzle skills fresh\n\nSelect puzzle difficulty and play thousands of puzzles ranging from easy to hard.",
-  "description_short": "Solve puzzles with a chess board that sits in the corner of your screen. Challenge yourself to difficult puzzles, unlock streaks, and customize your board. Idle away and your chess buddy will always be there to help you practice.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/c97b4aa5e7d8abc143a53f9dacdf50b7e2724363/header.jpg?t=1787701109",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4853110?t=1787701109",
+  "description": "Ваш ненавязчивый шахматный компаньон, который всегда под рукойНе дайте своим шахматным навыкам притупиться — попробуйте MiniMate. Вы сможете совершенствовать мастерство, не отвлекаясь от основных дел. Благодаря огромному количеству задач разной сложности в вашем распоряжении окажется практически бесконечный материал для практики.\n\nВыберите желаемый уровень сложности, и система предложит вам тысячи задач для тренировки. Здесь найдутся задания для всех: от новичков до гроссмейстеров — предела вашему обучению нет!\n\nMiniMate закрепляется в углу экрана и каждые 5 минут напоминает о необходимости решить задачу, помогая поддерживать навыки в тонусе.",
+  "description_short": "Решайте шахматные задачи на доске, расположенной в углу экрана. Испытайте себя в сложных головоломках, добивайтесь серий побед и настраивайте внешний вид доски. Отдыхайте и совершенствуйте свои навыки в компании шахматного помощника, который всегда готов прийти на помощь.",
   "genres": [
     "Экшен"
   ],
   "platforms": [
     "PC"
   ],
-  "price_rub": 686,
+  "price_rub": 692,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "qPkqo22jdG4",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/a4ecd2b680b0f27177962714c6e8d3887475b0c4/ss_a4ecd2b680b0f27177962714c6e8d3887475b0c4.1920x1080.jpg?t=1785970164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/5ee19236a64326f407116257d394621cab2b89d8/ss_5ee19236a64326f407116257d394621cab2b89d8.1920x1080.jpg?t=1785970164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/b40606bdb248607c9a8d9176d52d5bdb242c3226/ss_b40606bdb248607c9a8d9176d52d5bdb242c3226.1920x1080.jpg?t=1785970164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/0e4a18c062e29e76140de04c4ed1f3b8595590c4/ss_0e4a18c062e29e76140de04c4ed1f3b8595590c4.1920x1080.jpg?t=1785970164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/39a618fa66a809c28a0e36f35201e4379d8870fe/ss_39a618fa66a809c28a0e36f35201e4379d8870fe.1920x1080.jpg?t=1785970164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/1495a2b1505ea08c4bbd5f57cce9fd10edb9a52c/ss_1495a2b1505ea08c4bbd5f57cce9fd10edb9a52c.1920x1080.jpg?t=1785970164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/426e1e1dfb1374398ee631f96f6d1ccffd46bbc8/ss_426e1e1dfb1374398ee631f96f6d1ccffd46bbc8.1920x1080.jpg?t=1785970164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/0c2d3d449e10339642d3c6c7a6840f9bed3a70da/ss_0c2d3d449e10339642d3c6c7a6840f9bed3a70da.1920x1080.jpg?t=1785970164"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/a4ecd2b680b0f27177962714c6e8d3887475b0c4/ss_a4ecd2b680b0f27177962714c6e8d3887475b0c4.1920x1080.jpg?t=1787701109",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/5ee19236a64326f407116257d394621cab2b89d8/ss_5ee19236a64326f407116257d394621cab2b89d8.1920x1080.jpg?t=1787701109",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/b40606bdb248607c9a8d9176d52d5bdb242c3226/ss_b40606bdb248607c9a8d9176d52d5bdb242c3226.1920x1080.jpg?t=1787701109",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/0e4a18c062e29e76140de04c4ed1f3b8595590c4/ss_0e4a18c062e29e76140de04c4ed1f3b8595590c4.1920x1080.jpg?t=1787701109",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/39a618fa66a809c28a0e36f35201e4379d8870fe/ss_39a618fa66a809c28a0e36f35201e4379d8870fe.1920x1080.jpg?t=1787701109",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/1495a2b1505ea08c4bbd5f57cce9fd10edb9a52c/ss_1495a2b1505ea08c4bbd5f57cce9fd10edb9a52c.1920x1080.jpg?t=1787701109",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/426e1e1dfb1374398ee631f96f6d1ccffd46bbc8/ss_426e1e1dfb1374398ee631f96f6d1ccffd46bbc8.1920x1080.jpg?t=1787701109",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853110/0c2d3d449e10339642d3c6c7a6840f9bed3a70da/ss_0c2d3d449e10339642d3c6c7a6840f9bed3a70da.1920x1080.jpg?t=1787701109"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-24T07:00:53Z"
+  "updated_at": "2026-08-28T02:26:01Z"
 }
