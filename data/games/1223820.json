@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 685,
+  "price_rub": 689,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -23,7 +23,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1223820/165da6c6a101fead9b2aeef1ad45868064099e01/ss_165da6c6a101fead9b2aeef1ad45868064099e01.1920x1080.jpg?t=1785612556",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1223820/27e2e1a29fc545abc61c922da98ba1ca4321e4e7/ss_27e2e1a29fc545abc61c922da98ba1ca4321e4e7.1920x1080.jpg?t=1785612556"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5013080,
+      "name": "Dryad Soundtrack",
+      "price_rub": 643,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013080/f684957d7407017b2f7320b68c1bdb333b88ae28/header.jpg?t=1787851335"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-08-25T06:51:24Z"
+  "updated_at": "2026-08-29T12:18:39Z"
 }

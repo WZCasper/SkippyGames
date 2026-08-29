@@ -1,8 +1,8 @@
 {
   "id": 4806100,
   "title": "Drident",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/599ea831245596218cb7b3987780b3b1afc20511/header.jpg?t=1785786655",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/dd4cc8a698b880e041e08373991bd370141d899e/page_bg_raw.jpg?t=1785786655",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/599ea831245596218cb7b3987780b3b1afc20511/header.jpg?t=1787780010",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/dd4cc8a698b880e041e08373991bd370141d899e/page_bg_raw.jpg?t=1787780010",
   "description": "DRIDENT is a first-person survival horror experience set in a remote, fog-drowned forest in Argentina.\n\nYou play as Gabriel, an agent sent to investigate the disappearance of several young women. What begins as a search through abandoned cabins, old notes, and forgotten paths soon turns into something far more disturbing. The forest is hiding a secret, and the deeper you go, the less human the truth becomes.\n\nExplore dark environments, manage limited resources, solve environmental puzzles, and survive encounters against infected creatures and malformed horrors. Every note, cassette, and clue reveals another piece of a story buried beneath fear, guilt, and experimentation.\n\nThe atmosphere is oppressive, the visibility is low, and danger rarely announces itself twice.\n\nFeatures:\n\n- First-person survival horror gameplay\n\n- Dark forest, cabins, caves, labyrinths, and coastal areas\n\n- Resource management with firearms and melee combat\n\n- Notes, cassettes, and environmental storytelling\n\n- Puzzles, locked doors, keys, and exploration-based progression\n\n- Grotesque enemies and boss encounters\n\n- Optional retro/low-poly visual mode\n\n- A grim story inspired by classic horror pacing and atmosphere\n\nYou came looking for the missing.\n\nNow something is looking back.",
   "description_short": "DRIDENT is a short (30-40 min) first-person survival horror game set in a fog-covered forest in Argentina. Investigate missing girls, uncover forbidden experiments, survive grotesque creatures, and follow the trail of something that should never have escaped.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 686,
+  "price_rub": 643,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "3gURRUWegRk",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/2d3001e2ed10bd1699efd93ce7c5313fd16c9880/ss_2d3001e2ed10bd1699efd93ce7c5313fd16c9880.1920x1080.jpg?t=1785786655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/eaff90598253aa2705acd961162d0eb79b2b0e2b/ss_eaff90598253aa2705acd961162d0eb79b2b0e2b.1920x1080.jpg?t=1785786655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/de49c85047a519104ef6524cd58685c1d3ef4696/ss_de49c85047a519104ef6524cd58685c1d3ef4696.1920x1080.jpg?t=1785786655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/9a945bccbc83d6fc3776c83066d22bad90e5e421/ss_9a945bccbc83d6fc3776c83066d22bad90e5e421.1920x1080.jpg?t=1785786655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/aa6d9b80e1a0e1dee42e23a46aabe74c1aa15784/ss_aa6d9b80e1a0e1dee42e23a46aabe74c1aa15784.1920x1080.jpg?t=1785786655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/84a95bdd3c72704e503208454ad9339fdc92a470/ss_84a95bdd3c72704e503208454ad9339fdc92a470.1920x1080.jpg?t=1785786655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/e5b8c71b7bd05174ace19d34f15775a68fb38c91/ss_e5b8c71b7bd05174ace19d34f15775a68fb38c91.1920x1080.jpg?t=1785786655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/3035d964a357a5586156b53a7433221cec23e38a/ss_3035d964a357a5586156b53a7433221cec23e38a.1920x1080.jpg?t=1785786655"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/2d3001e2ed10bd1699efd93ce7c5313fd16c9880/ss_2d3001e2ed10bd1699efd93ce7c5313fd16c9880.1920x1080.jpg?t=1787780010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/eaff90598253aa2705acd961162d0eb79b2b0e2b/ss_eaff90598253aa2705acd961162d0eb79b2b0e2b.1920x1080.jpg?t=1787780010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/e5b8c71b7bd05174ace19d34f15775a68fb38c91/ss_e5b8c71b7bd05174ace19d34f15775a68fb38c91.1920x1080.jpg?t=1787780010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/3035d964a357a5586156b53a7433221cec23e38a/ss_3035d964a357a5586156b53a7433221cec23e38a.1920x1080.jpg?t=1787780010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/aa6d9b80e1a0e1dee42e23a46aabe74c1aa15784/ss_aa6d9b80e1a0e1dee42e23a46aabe74c1aa15784.1920x1080.jpg?t=1787780010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/de49c85047a519104ef6524cd58685c1d3ef4696/ss_de49c85047a519104ef6524cd58685c1d3ef4696.1920x1080.jpg?t=1787780010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/9a945bccbc83d6fc3776c83066d22bad90e5e421/ss_9a945bccbc83d6fc3776c83066d22bad90e5e421.1920x1080.jpg?t=1787780010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806100/84a95bdd3c72704e503208454ad9339fdc92a470/ss_84a95bdd3c72704e503208454ad9339fdc92a470.1920x1080.jpg?t=1787780010"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-25T06:30:24Z"
+  "updated_at": "2026-08-29T12:00:43Z"
 }
