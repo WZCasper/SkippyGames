@@ -1,9 +1,9 @@
 {
   "id": 4975090,
   "title": "Shadow Princess",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/4bd0d50780ff1ac28270f5a67371f4deac7712fd/header.jpg?t=1786909331",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/5c921bf0e98db88285d8dcba83bb7429d3ae06c5/page_bg_raw.jpg?t=1786909331",
-  "description": "Shadow Princess is a bullet hell precision game where your goal is to reach the end of each stage and collet crowns.\n\nIncludes 25+ single-screen challenges across 5 different environments.\n\nUse your shield to block projectiles\n\nRemixed harder versions\n\nUnlock special levels",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/dfbcac9afb5db1b630970c488cde033a27fe9149/header.jpg?t=1787896948",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/5c921bf0e98db88285d8dcba83bb7429d3ae06c5/page_bg_raw.jpg?t=1787896948",
+  "description": "Shadow Princess is a bullet hell precision game where your goal is to reach the end of each stage and collet crowns.\n\nIncludes 30 single-screen challenges across 5 different environments.\n\nUse your shield to block projectiles\n\nPlay remixed harder versions of each level\n\nUnlock special levels",
   "description_short": "Shadow Princess is a bullet hell precision game where your goal is to reach the end of each stage and collet crowns.",
   "genres": [
     "Экшен"
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 550,
+  "price_rub": 552,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/7ed5d1ab9ce29bb4943d951eebdc86ef656e87be/ss_7ed5d1ab9ce29bb4943d951eebdc86ef656e87be.1920x1080.jpg?t=1786909331",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/0124eab7c72b5cdef143205ba36196607c1e17f4/ss_0124eab7c72b5cdef143205ba36196607c1e17f4.1920x1080.jpg?t=1786909331",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/35d6c111ac7986ab4e525602482e9ec2dcdbc098/ss_35d6c111ac7986ab4e525602482e9ec2dcdbc098.1920x1080.jpg?t=1786909331",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/90653f1459ea0a505c5dadd189765ffc9078c4d9/ss_90653f1459ea0a505c5dadd189765ffc9078c4d9.1920x1080.jpg?t=1786909331",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/07ba0861d2e7999f25c1aaa66ff1858453d62510/ss_07ba0861d2e7999f25c1aaa66ff1858453d62510.1920x1080.jpg?t=1786909331"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/0124eab7c72b5cdef143205ba36196607c1e17f4/ss_0124eab7c72b5cdef143205ba36196607c1e17f4.1920x1080.jpg?t=1787896948",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/35d6c111ac7986ab4e525602482e9ec2dcdbc098/ss_35d6c111ac7986ab4e525602482e9ec2dcdbc098.1920x1080.jpg?t=1787896948",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/90653f1459ea0a505c5dadd189765ffc9078c4d9/ss_90653f1459ea0a505c5dadd189765ffc9078c4d9.1920x1080.jpg?t=1787896948",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/07ba0861d2e7999f25c1aaa66ff1858453d62510/ss_07ba0861d2e7999f25c1aaa66ff1858453d62510.1920x1080.jpg?t=1787896948",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/70c687ac71732c833236037d1e91ac0b754a17da/ss_70c687ac71732c833236037d1e91ac0b754a17da.1920x1080.jpg?t=1787896948"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-24T18:41:43Z"
+  "updated_at": "2026-08-29T01:36:56Z"
 }
