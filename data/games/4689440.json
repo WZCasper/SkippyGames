@@ -1,8 +1,8 @@
 {
   "id": 4689440,
   "title": "Happy Endings",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/d25aa9a79e0182e482f5e3669a21ab85a3b030bf/header.jpg?t=1787577288",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4689440?t=1787577288",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/d25aa9a79e0182e482f5e3669a21ab85a3b030bf/header.jpg?t=1787950550",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4689440?t=1787950550",
   "description": "Ты начал с одной администраторши, одного массажного стола и смутного плана. Преврати это в самый прибыльный пиксельный салон города — и не дай копам закрыть лавочку.\n\nHappy Endings — это гибрид tycoon и аркады, построенный на одном жестком цикле: завлекай клиентов, проходи быстрые мини-игры с точками давления, забирай чаевые и повторяй.\n\n• Нанимай девушек. Настраивай каждую — кожу, волосы, наряд, глаза — под свой вкус.\n\n• Попадай по точкам. Жми на точки давления вовремя. Идеальные цепочки повышают множитель серии и чаевые.\n\n• Открывай 40+ сцен. Новые техники открываются по мере роста уровней салона — каждая сцена платит больше предыдущей.\n\n• Плати значку. Каждый денежный поток создает жар. Дай взятку заранее или переживи облаву.",
   "description_short": "Управляй пиксельным массажным салоном для взрослых в tycoon-arcade симуляторе. Нанимай хостес, обслуживай клиентов в мини-играх с точками давления, открывай более 40 откровенных сцен, улучшай комнаты и контролируй подозрения и облавы, чтобы создать самый горячий салон города.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 817,
+  "price_rub": 776,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "jvZ8BcgWnUo",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/a27d3a92ba7cbacb1ec454fa85f6c8a7b72c6bf2/ss_a27d3a92ba7cbacb1ec454fa85f6c8a7b72c6bf2.1920x1080.jpg?t=1787577288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/22dcab5d291fa0bfb7a654687c439c85086a7103/ss_22dcab5d291fa0bfb7a654687c439c85086a7103.1920x1080.jpg?t=1787577288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/90e70d086426ef4c0ddb64a934c2d1364a49b115/ss_90e70d086426ef4c0ddb64a934c2d1364a49b115.1920x1080.jpg?t=1787577288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/c302bb1641436d171f58c1bac899e0a273908968/ss_c302bb1641436d171f58c1bac899e0a273908968.1920x1080.jpg?t=1787577288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/f44a70ede91178ead1db3da86933f6dea2ef698f/ss_f44a70ede91178ead1db3da86933f6dea2ef698f.1920x1080.jpg?t=1787577288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/2ce89d55fbf407fd3b323744dc2bd50288cd7d6e/ss_2ce89d55fbf407fd3b323744dc2bd50288cd7d6e.1920x1080.jpg?t=1787577288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/3c92a6a37007042df72dcffa8bc25c078092cfce/ss_3c92a6a37007042df72dcffa8bc25c078092cfce.1920x1080.jpg?t=1787577288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/af7c331bcaa43317d8367e0578dd7f3162d009dc/ss_af7c331bcaa43317d8367e0578dd7f3162d009dc.1920x1080.jpg?t=1787577288"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/a27d3a92ba7cbacb1ec454fa85f6c8a7b72c6bf2/ss_a27d3a92ba7cbacb1ec454fa85f6c8a7b72c6bf2.1920x1080.jpg?t=1787950550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/22dcab5d291fa0bfb7a654687c439c85086a7103/ss_22dcab5d291fa0bfb7a654687c439c85086a7103.1920x1080.jpg?t=1787950550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/90e70d086426ef4c0ddb64a934c2d1364a49b115/ss_90e70d086426ef4c0ddb64a934c2d1364a49b115.1920x1080.jpg?t=1787950550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/c302bb1641436d171f58c1bac899e0a273908968/ss_c302bb1641436d171f58c1bac899e0a273908968.1920x1080.jpg?t=1787950550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/f44a70ede91178ead1db3da86933f6dea2ef698f/ss_f44a70ede91178ead1db3da86933f6dea2ef698f.1920x1080.jpg?t=1787950550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/2ce89d55fbf407fd3b323744dc2bd50288cd7d6e/ss_2ce89d55fbf407fd3b323744dc2bd50288cd7d6e.1920x1080.jpg?t=1787950550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/3c92a6a37007042df72dcffa8bc25c078092cfce/ss_3c92a6a37007042df72dcffa8bc25c078092cfce.1920x1080.jpg?t=1787950550",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689440/af7c331bcaa43317d8367e0578dd7f3162d009dc/ss_af7c331bcaa43317d8367e0578dd7f3162d009dc.1920x1080.jpg?t=1787950550"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-26T01:03:17Z"
+  "updated_at": "2026-08-30T10:49:43Z"
 }

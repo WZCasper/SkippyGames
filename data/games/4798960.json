@@ -1,8 +1,8 @@
 {
   "id": 4798960,
   "title": "Demon Protocol",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/cc22b31b06e66c7900336e4c037534fa47d57084/header.jpg?t=1787595679",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4798960?t=1787595679",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/cc22b31b06e66c7900336e4c037534fa47d57084/header.jpg?t=1787749741",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4798960?t=1787749741",
   "description": "Lock On. Light Up. Lay Waste.\n\nThe demons are coming. Are you ready?\n\nDemon Protocol is a fast-paced retro arcade shooter that puts you in the cockpit of humanity's last line of defense. Battle through 25 waves of increasingly deadly enemies, collect power-ups to turn the tide, and face down 4 fearsome bosses that will test everything you've got.\n\nFeatures:\n\n• 25 waves of intense arcade action\n\n• 4 unique boss encounters\n\n• Power-up system to enhance your firepower and survivability\n\n• Multiple difficulty settings — pick your challenge\n\n• Pulsing original soundtrack\n\n• Controller and keyboard support\n\n• Classic arcade feel with modern polish\n\nLock On. Light Up. Lay Waste. How far can you go before Demon Protocol claims you?",
   "description_short": "Lock On. Light Up. Lay Waste. Demon Protocol is a retro arcade space shooter with 25 waves of relentless enemies, 4 brutal bosses, and power-ups to keep you fighting. Choose your difficulty and see how far you can push before the demons win.",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 644,
+  "price_rub": 645,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/6baea5573890ec60ff30bdd45e0de8f9a67ac1b7/ss_6baea5573890ec60ff30bdd45e0de8f9a67ac1b7.1920x1080.jpg?t=1787595679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/0b5b144ff16dd9411db225aedbb8e922a7a6e8a3/ss_0b5b144ff16dd9411db225aedbb8e922a7a6e8a3.1920x1080.jpg?t=1787595679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/de347da2d75fa57203ed8d1d139dfa1ff5ee78cf/ss_de347da2d75fa57203ed8d1d139dfa1ff5ee78cf.1920x1080.jpg?t=1787595679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/ef8a387e90ebaab3bc3527ec4a98aedf0d51ab28/ss_ef8a387e90ebaab3bc3527ec4a98aedf0d51ab28.1920x1080.jpg?t=1787595679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/5aa6c1200efaadc0e05445e11c68bf99751c0f9e/ss_5aa6c1200efaadc0e05445e11c68bf99751c0f9e.1920x1080.jpg?t=1787595679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/34c6692f58bbc447283eaf289c6293bd20249d59/ss_34c6692f58bbc447283eaf289c6293bd20249d59.1920x1080.jpg?t=1787595679"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/6baea5573890ec60ff30bdd45e0de8f9a67ac1b7/ss_6baea5573890ec60ff30bdd45e0de8f9a67ac1b7.1920x1080.jpg?t=1787749741",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/0b5b144ff16dd9411db225aedbb8e922a7a6e8a3/ss_0b5b144ff16dd9411db225aedbb8e922a7a6e8a3.1920x1080.jpg?t=1787749741",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/de347da2d75fa57203ed8d1d139dfa1ff5ee78cf/ss_de347da2d75fa57203ed8d1d139dfa1ff5ee78cf.1920x1080.jpg?t=1787749741",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/ef8a387e90ebaab3bc3527ec4a98aedf0d51ab28/ss_ef8a387e90ebaab3bc3527ec4a98aedf0d51ab28.1920x1080.jpg?t=1787749741",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/5aa6c1200efaadc0e05445e11c68bf99751c0f9e/ss_5aa6c1200efaadc0e05445e11c68bf99751c0f9e.1920x1080.jpg?t=1787749741",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/34c6692f58bbc447283eaf289c6293bd20249d59/ss_34c6692f58bbc447283eaf289c6293bd20249d59.1920x1080.jpg?t=1787749741"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-26T06:39:01Z"
+  "updated_at": "2026-08-30T10:58:28Z"
 }
