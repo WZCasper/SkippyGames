@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 3045,
+  "price_rub": 3099,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "OfId5m8Uq_c",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.1920x1080.jpg?t=1787688132",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.1920x1080.jpg?t=1787688132",
@@ -32,22 +32,22 @@
     {
       "id": 1229320,
       "name": "The Witcher 3: Wild Hunt Soundtrack",
-      "price_rub": 838,
+      "price_rub": 845,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229320/header_russian.jpg?t=1659615500"
     },
     {
       "id": 1233280,
       "name": "The Witcher 3: Wild Hunt - Hearts of Stone Soundtrack",
-      "price_rub": 800,
+      "price_rub": 806,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233280/header_russian.jpg?t=1659616727"
     },
     {
       "id": 1233340,
       "name": "The Witcher 3: Wild Hunt - Blood and Wine Soundtrack",
-      "price_rub": 800,
+      "price_rub": 806,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233340/header_russian.jpg?t=1659618129"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-27T16:58:55Z"
+  "updated_at": "2026-08-31T12:44:17Z"
 }

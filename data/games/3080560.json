@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 889,
+  "price_rub": 897,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "SIBFcArian8",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/492bb707533a5ed968744fe3b5ee0362bda7286d/ss_492bb707533a5ed968744fe3b5ee0362bda7286d.1920x1080.jpg?t=1785767861",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080560/ebb2af6573f867ce29a3a84e237510fdd44874a0/ss_ebb2af6573f867ce29a3a84e237510fdd44874a0.1920x1080.jpg?t=1785767861",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-27T16:56:59Z"
+  "updated_at": "2026-08-31T12:07:35Z"
 }

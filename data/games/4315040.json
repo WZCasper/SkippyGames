@@ -1,8 +1,8 @@
 {
   "id": 4315040,
   "title": "Hearth and Hamlet",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/7afcb87494b3ac1f383592a87ab952c1e1d64b2d/header.jpg?t=1787170538",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4315040?t=1787170538",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/7afcb87494b3ac1f383592a87ab952c1e1d64b2d/header.jpg?t=1787976009",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4315040?t=1787976009",
   "description": "Hearth and Hamlet — уникальная игра, в которой инкрементальный геймплей сочетается с приятным процессом строительства и управления политиками. Заботьтесь о пропитании растущей общины, копите ресурсы для новых построек и попутно открывайте лавки, магические знания, политические возможности и передовые технологии! Грамотно распределяйте рабочих, торгуйте с далекими и таинственными землями и выведите свое королевство на путь к величию!\n\nОСОБЕННОСТИ• Живописный пиксельный мир! Озера и реки, таинственные болота, корабли и далекие земли.\n\n• Расслабляющий геймплей: раздайте задания рабочим и с удовольствием наблюдайте, как прибывают ресурсы. Добывайте еду, древесину и магию, превращая скромный лагерь в оживленный город с замками! \n\n• Стройте улучшения, чтобы накапливать больше ресурсов и нанимать больше рабочих. Набирайте солдат, устанавливайте новые законы и налаживайте торговлю с заморскими странами.\n\n• Проводите исследования и открывайте передовые здания и технологии по мере развития поселения! Церкви, оборонительные укрепления, алхимия, академии магии и новые законы поселения!\n\nОТ СКРОМНЫХ ИСТОКОВ К ВОЛШЕБНОМУ КОРОЛЕВСТВУ!\n\nНачав с простого костра и палатки, постройте сначала небольшую деревню, затем городок, и наконец — огромный оживленный город с высокими башнями, академиями магии и процветающими кварталами! Дикие земли не перестают манить! Прокладывайте дороги, чтобы торговля шла быстрее, а путешествия стали приятнее. Откройте таверну — место, где можно вкусно поесть и весело скоротать вечер. Добывайте золото и другие драгоценные ресурсы. Создавайте пестрые рынки и роскошные виллы. И скоро тот самый костер превратится в легенду — историю, которую жители вашего королевства станут передавать из уст в уста.  \n\nСТРОИТЕЛЬСТВО — ЛИШЬ ПЕРВЫЙ ШАГПо мере того как ваша община обретает форму, на первый план выходит управление. Принимайте законы и выбирайте политику, возводите роскошные резиденции для лидеров, вводите налоги для пополнения доходов и формируйте городскую стражу для защиты поселения от монстров и налетчиков. Заботьтесь о счастье жителей, и они отплатят вам бонусами к производству ресурсов. Запасайтесь провизией, чтобы население росло не по дням, а по часам! Каждое улучшение открывает новые исследования, дающие постоянные преимущества.",
   "description_short": "Hearth and Hamlet — кликер в жанре градостроительного симулятора в уютном стиле пиксель-арт. Назначайте рабочих, открывайте новые здания, политики и магические возможности, торгуйте с далекими странами и создайте поселение своей мечты!",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 868,
+  "price_rub": 876,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "OidnO9knPR8",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9deb163ff5b397ed63af098a85ec560fa7846db0/ss_9deb163ff5b397ed63af098a85ec560fa7846db0.1920x1080.jpg?t=1787170538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1a84967c27432055b44fc130be0d75b9480bcc3f/ss_1a84967c27432055b44fc130be0d75b9480bcc3f.1920x1080.jpg?t=1787170538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/66fd3440db004bbe90041c292eae2c933ce8435f/ss_66fd3440db004bbe90041c292eae2c933ce8435f.1920x1080.jpg?t=1787170538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1d0085de64491697288c56fca712aad8193cdfa6/ss_1d0085de64491697288c56fca712aad8193cdfa6.1920x1080.jpg?t=1787170538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/bcd615b69b17896f3146c10275b3d4724b720ea3/ss_bcd615b69b17896f3146c10275b3d4724b720ea3.1920x1080.jpg?t=1787170538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/77e4f1fe5c7e67bf8657eea1e5e40f375ce4dfd4/ss_77e4f1fe5c7e67bf8657eea1e5e40f375ce4dfd4.1920x1080.jpg?t=1787170538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9d70114f7436508a64b1894cd143bcb08c0fce6a/ss_9d70114f7436508a64b1894cd143bcb08c0fce6a.1920x1080.jpg?t=1787170538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/dbba7f1bc96bf392b156c7223c558129ad5f7f41/ss_dbba7f1bc96bf392b156c7223c558129ad5f7f41.1920x1080.jpg?t=1787170538"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9deb163ff5b397ed63af098a85ec560fa7846db0/ss_9deb163ff5b397ed63af098a85ec560fa7846db0.1920x1080.jpg?t=1787976009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1a84967c27432055b44fc130be0d75b9480bcc3f/ss_1a84967c27432055b44fc130be0d75b9480bcc3f.1920x1080.jpg?t=1787976009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/66fd3440db004bbe90041c292eae2c933ce8435f/ss_66fd3440db004bbe90041c292eae2c933ce8435f.1920x1080.jpg?t=1787976009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1d0085de64491697288c56fca712aad8193cdfa6/ss_1d0085de64491697288c56fca712aad8193cdfa6.1920x1080.jpg?t=1787976009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/bcd615b69b17896f3146c10275b3d4724b720ea3/ss_bcd615b69b17896f3146c10275b3d4724b720ea3.1920x1080.jpg?t=1787976009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/77e4f1fe5c7e67bf8657eea1e5e40f375ce4dfd4/ss_77e4f1fe5c7e67bf8657eea1e5e40f375ce4dfd4.1920x1080.jpg?t=1787976009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9d70114f7436508a64b1894cd143bcb08c0fce6a/ss_9d70114f7436508a64b1894cd143bcb08c0fce6a.1920x1080.jpg?t=1787976009",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/dbba7f1bc96bf392b156c7223c558129ad5f7f41/ss_dbba7f1bc96bf392b156c7223c558129ad5f7f41.1920x1080.jpg?t=1787976009"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-27T16:59:11Z"
+  "updated_at": "2026-08-31T12:50:04Z"
 }
