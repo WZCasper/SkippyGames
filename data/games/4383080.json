@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 596,
+  "price_rub": 597,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,16 +29,16 @@
     {
       "id": 4543220,
       "name": "100 Dragon Cats Soundtrack",
-      "price_rub": 737,
+      "price_rub": 741,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543220/a009cb46c82ee844ac324bc1a49b21e537494306/header.jpg?t=1784991211"
     },
     {
       "id": 4543230,
       "name": "100 Dragon Cats - Artbook",
-      "price_rub": 737,
+      "price_rub": 741,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543230/3bfa4a2d1dc3b3fb95a08ffd2ef68b51d13ecdfb/header.jpg?t=1784991212"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-28T18:25:25Z"
+  "updated_at": "2026-09-01T11:14:54Z"
 }

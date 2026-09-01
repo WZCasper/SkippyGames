@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 747,
+  "price_rub": 750,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -27,10 +27,10 @@
     {
       "id": 4981840,
       "name": "Sir, We Have an Orc Problem - Supporter Pack",
-      "price_rub": 646,
+      "price_rub": 647,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981840/2d625daeed58c575f7e30bf81a0ebe3e75e80f48/header.jpg?t=1785828082"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-28T18:28:04Z"
+  "updated_at": "2026-09-01T11:17:33Z"
 }
