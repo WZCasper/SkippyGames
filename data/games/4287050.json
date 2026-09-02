@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 691,
+  "price_rub": 695,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "ERRKhBEYL-8",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287050/a8578f9b3d9280f1bcf46fb74d5de362405482fb/ss_a8578f9b3d9280f1bcf46fb74d5de362405482fb.1920x1080.jpg?t=1786581702",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287050/4395f27d924e61ebeec93645162ecdd1497c533b/ss_4395f27d924e61ebeec93645162ecdd1497c533b.1920x1080.jpg?t=1786581702",
@@ -24,5 +24,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-29T12:00:46Z"
+  "updated_at": "2026-09-02T01:45:42Z"
 }

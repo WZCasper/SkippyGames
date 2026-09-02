@@ -14,28 +14,28 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 976,
+  "price_rub": 986,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_d0addfc523aec2429aaa25681ada27aa4ec4ba6d.1920x1080.jpg?t=1784191417",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_9644db2a937532429d11e2e022a37dff1012c567.1920x1080.jpg?t=1784191417",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_19aa776fbd9b754ebe6d0b1eafe372630e5afd13.1920x1080.jpg?t=1784191417",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_f135d6ee7b59185e708a86006bced32dc574add0.1920x1080.jpg?t=1784191417",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_3579e5386470c650a1f445b8172bc5ed5ce49be9.1920x1080.jpg?t=1784191417",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_0e875d01c19f5e784241d5336a1192ec8a85c4ed.1920x1080.jpg?t=1784191417",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_a02218c8bea5b529be545a19dfbe1e606c11dda5.1920x1080.jpg?t=1784191417",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_9be16acc6e3881078cde1dc855ac45d6deb95297.1920x1080.jpg?t=1784191417"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_d0addfc523aec2429aaa25681ada27aa4ec4ba6d.1920x1080.jpg?t=1788018196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_9644db2a937532429d11e2e022a37dff1012c567.1920x1080.jpg?t=1788018196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_19aa776fbd9b754ebe6d0b1eafe372630e5afd13.1920x1080.jpg?t=1788018196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_f135d6ee7b59185e708a86006bced32dc574add0.1920x1080.jpg?t=1788018196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_3579e5386470c650a1f445b8172bc5ed5ce49be9.1920x1080.jpg?t=1788018196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_0e875d01c19f5e784241d5336a1192ec8a85c4ed.1920x1080.jpg?t=1788018196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_a02218c8bea5b529be545a19dfbe1e606c11dda5.1920x1080.jpg?t=1788018196",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/ss_9be16acc6e3881078cde1dc855ac45d6deb95297.1920x1080.jpg?t=1788018196"
   ],
   "upsells": [
     {
       "id": 3097700,
       "name": "Farlands Soundtrack",
-      "price_rub": 785,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097700/header.jpg?t=1721832810"
+      "price_rub": 791,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097700/0c1c5b55abf04d323e51112a78b022919d6e8837/header.jpg?t=1788019250"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-29T12:09:43Z"
+  "updated_at": "2026-09-02T01:56:11Z"
 }

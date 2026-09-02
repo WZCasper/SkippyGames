@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 689,
+  "price_rub": 693,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -27,10 +27,10 @@
     {
       "id": 5013080,
       "name": "Dryad Soundtrack",
-      "price_rub": 643,
+      "price_rub": 646,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013080/f684957d7407017b2f7320b68c1bdb333b88ae28/header.jpg?t=1787851335"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-29T12:18:39Z"
+  "updated_at": "2026-09-02T02:06:08Z"
 }
