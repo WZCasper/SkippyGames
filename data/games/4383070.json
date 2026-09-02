@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 596,
+  "price_rub": 598,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "20bFswWbF2U",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/98eaa9c0968a3ed53fbabf43b27093e948a5c9a2/ss_98eaa9c0968a3ed53fbabf43b27093e948a5c9a2.1920x1080.jpg?t=1785596572",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383070/f3b8b53dd1641f30eb0e7d98da534374fe17a638/ss_f3b8b53dd1641f30eb0e7d98da534374fe17a638.1920x1080.jpg?t=1785596572",
@@ -29,16 +29,16 @@
     {
       "id": 4543160,
       "name": "100 Undersea Cats Soundtrack",
-      "price_rub": 737,
+      "price_rub": 742,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543160/4ee78db81e39a8056dcba0de61f282bfff18302a/header.jpg?t=1785596583"
     },
     {
       "id": 4543190,
       "name": "100 Undersea Cats - Artbook",
-      "price_rub": 737,
+      "price_rub": 742,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543190/08d215a8d5789fd280c197927e8b5c060420a0c2/header.jpg?t=1785596574"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-30T10:48:20Z"
+  "updated_at": "2026-09-02T20:15:19Z"
 }

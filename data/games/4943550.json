@@ -1,8 +1,8 @@
 {
   "id": 4943550,
   "title": "NOMSTERS",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/b38a0e64526a7ce90750e1dc3e103c095080e28c/header.jpg?t=1787470576",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/b941fa5138d1fcf32fcdb8955ad80fc768b05b6c/page_bg_raw.jpg?t=1787470576",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/b38a0e64526a7ce90750e1dc3e103c095080e28c/header.jpg?t=1788274134",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/b941fa5138d1fcf32fcdb8955ad80fc768b05b6c/page_bg_raw.jpg?t=1788274134",
   "description": "NOMSTERS — физический шутер один на один. Одна точка появления, один крошечный город, разбросанное оружие и 45 секунд, чтобы остаться последним на колёсах. Играйте по сети, локально с разделённым экраном или против бота, который и правда стреляет в ответ.\n\nВы — Nomster. Круглый, злой и вооружённый монстр.\n\nХватайте любое найденное оружие: пистолет, дробовик, uzi, AK. Где-то здесь лежит M249, и он всего один. Катайтесь, цельтесь курсором и застрелите соперника раньше, чем он застрелит вас. Отдача от каждого выстрела отбрасывает ваш шар назад. Научитесь ею пользоваться — или научитесь есть стены.\n\nПустой магазин — мёртвый Nomster. Перезаряжайтесь за укрытием. Как именно вы упадёте, решит физика.\n\nДля каждого матча город заново строится процедурной генерацией и идеально балансируется. Одинаковое оружие, одинаковые точки появления, одинаковые шансы добраться до M249 с обеих сторон. Три раунда, до двух побед — пусть победит самый смешной Nomster.",
   "description_short": "NOMSTERS — физический шутер один на один. 45 секунд, чтобы убить соперника.",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 691,
+  "price_rub": 695,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "ZSdOwt-G49w",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/42b305070c9503bcfb653bdfd2ee55fbaefb76e4/ss_42b305070c9503bcfb653bdfd2ee55fbaefb76e4.1920x1080.jpg?t=1787470576",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/0db195a825dab11d8eda9481335214cb85c1f115/ss_0db195a825dab11d8eda9481335214cb85c1f115.1920x1080.jpg?t=1787470576",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/51158b8b4ddaab86ddc1fb61ddeee34faf54a247/ss_51158b8b4ddaab86ddc1fb61ddeee34faf54a247.1920x1080.jpg?t=1787470576",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/208873aa8a887f7e3d18fdb79d28a1bd86ea233b/ss_208873aa8a887f7e3d18fdb79d28a1bd86ea233b.1920x1080.jpg?t=1787470576",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/8eb4731ec23f12d50bd90dff409a95f649b801e1/ss_8eb4731ec23f12d50bd90dff409a95f649b801e1.1920x1080.jpg?t=1787470576",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/6a097734579385de1d7e4303411a0640bc2b0d73/ss_6a097734579385de1d7e4303411a0640bc2b0d73.1920x1080.jpg?t=1787470576"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/42b305070c9503bcfb653bdfd2ee55fbaefb76e4/ss_42b305070c9503bcfb653bdfd2ee55fbaefb76e4.1920x1080.jpg?t=1788274134",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/0db195a825dab11d8eda9481335214cb85c1f115/ss_0db195a825dab11d8eda9481335214cb85c1f115.1920x1080.jpg?t=1788274134",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/51158b8b4ddaab86ddc1fb61ddeee34faf54a247/ss_51158b8b4ddaab86ddc1fb61ddeee34faf54a247.1920x1080.jpg?t=1788274134",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/208873aa8a887f7e3d18fdb79d28a1bd86ea233b/ss_208873aa8a887f7e3d18fdb79d28a1bd86ea233b.1920x1080.jpg?t=1788274134",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/8eb4731ec23f12d50bd90dff409a95f649b801e1/ss_8eb4731ec23f12d50bd90dff409a95f649b801e1.1920x1080.jpg?t=1788274134",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943550/6a097734579385de1d7e4303411a0640bc2b0d73/ss_6a097734579385de1d7e4303411a0640bc2b0d73.1920x1080.jpg?t=1788274134"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-30T10:48:24Z"
+  "updated_at": "2026-09-02T20:16:26Z"
 }
