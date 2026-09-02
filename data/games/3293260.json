@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 969,
+  "price_rub": 978,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -25,14 +25,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/3416f1cb421fe5e228a4a5299a48903fba15e9b1/ss_3416f1cb421fe5e228a4a5299a48903fba15e9b1.1920x1080.jpg?t=1787323953",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/8ca9c7fb98a99ed56636118592bc6761a9cff66d/ss_8ca9c7fb98a99ed56636118592bc6761a9cff66d.1920x1080.jpg?t=1787323953"
   ],
-  "upsells": [
-    {
-      "id": 4811280,
-      "name": "Waterpark Simulator Soundtrack",
-      "price_rub": 599,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811280/8d38e0b0b20200438cef48592565ba2326a9b4f3/header.jpg?t=1783111099"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-30T02:03:32Z"
+  "updated_at": "2026-09-02T10:55:30Z"
 }

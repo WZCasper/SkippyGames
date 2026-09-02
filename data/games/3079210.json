@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2049,
+  "price_rub": 2080,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "tkNdpNP-wWI",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/e1d146573b2c021d304470e86546dae48d39e7fb/ss_e1d146573b2c021d304470e86546dae48d39e7fb.1920x1080.jpg?t=1787663962",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/fb21816a2c0ca32baad5ed87638ba524062ca128/ss_fb21816a2c0ca32baad5ed87638ba524062ca128.1920x1080.jpg?t=1787663962",
@@ -28,22 +28,22 @@
     {
       "id": 4448010,
       "name": "Hell Let Loose: Vietnam - 2026 Field Supplies",
-      "price_rub": 1546,
+      "price_rub": 1567,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448010/bd3856e19c227ad28b11b9f360161acbcdaa5a4d/header.jpg?t=1786637534"
     },
     {
       "id": 4447980,
       "name": "Field Supply: NVA Boat Crew Uniform",
-      "price_rub": 582,
+      "price_rub": 584,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447980/dbcbb15218556aa891651a7516954e88bbf13671/header.jpg?t=1786636848"
     },
     {
       "id": 4447970,
       "name": "Field Supply: US Army Boat Crew Uniform",
-      "price_rub": 582,
+      "price_rub": 584,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447970/426efdae97cc2cb2a721811f94f69a3cfe684c80/header.jpg?t=1786636887"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-29T20:12:00Z"
+  "updated_at": "2026-09-02T10:09:18Z"
 }

@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 940,
+  "price_rub": 949,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "FOrAIYgaMTY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547970/c592ffc492425638510bd601371eb1c6df184e92/ss_c592ffc492425638510bd601371eb1c6df184e92.1920x1080.jpg?t=1785873328",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547970/5adb47de0d4654c55945f8917a1dea14a52ec37b/ss_5adb47de0d4654c55945f8917a1dea14a52ec37b.1920x1080.jpg?t=1785873328",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-08-29T16:26:39Z"
+  "updated_at": "2026-09-02T10:04:48Z"
 }
