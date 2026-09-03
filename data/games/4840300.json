@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 589,
+  "price_rub": 802,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -26,10 +26,10 @@
     {
       "id": 4848380,
       "name": "The Pawn Broker Soundtrack",
-      "price_rub": 600,
+      "price_rub": 601,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848380/706624983a2991d5d166216522323daaccbc9adf/header.jpg?t=1783214886"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-31T02:11:24Z"
+  "updated_at": "2026-09-03T15:49:42Z"
 }
