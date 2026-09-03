@@ -15,28 +15,28 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1112,
+  "price_rub": 1123,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/31ba963148d2a1464c45ead1322046c8aa0d58a7/ss_31ba963148d2a1464c45ead1322046c8aa0d58a7.1920x1080.jpg?t=1787326241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/3bdda4a655bcb3f6a7510c1b005ee04629430435/ss_3bdda4a655bcb3f6a7510c1b005ee04629430435.1920x1080.jpg?t=1787326241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_dac0d5998e84f56dfaed05886aef0cac1e902151.1920x1080.jpg?t=1787326241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/62ae727d96b9955ac63112db309982c3a0c12cd1/ss_62ae727d96b9955ac63112db309982c3a0c12cd1.1920x1080.jpg?t=1787326241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_1ea60f98489d81c05a9dd3d5c362a472a96c99c4.1920x1080.jpg?t=1787326241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_4fa7e92c15ef7457a68faef874b0ea8571f2548e.1920x1080.jpg?t=1787326241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_2af90ce3e6b41620f41eb33a72238da762dfdf00.1920x1080.jpg?t=1787326241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_03bb18fe8b060a1a833c62af408665c35ec838ec.1920x1080.jpg?t=1787326241"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/31ba963148d2a1464c45ead1322046c8aa0d58a7/ss_31ba963148d2a1464c45ead1322046c8aa0d58a7.1920x1080.jpg?t=1788275643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/3bdda4a655bcb3f6a7510c1b005ee04629430435/ss_3bdda4a655bcb3f6a7510c1b005ee04629430435.1920x1080.jpg?t=1788275643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_dac0d5998e84f56dfaed05886aef0cac1e902151.1920x1080.jpg?t=1788275643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/62ae727d96b9955ac63112db309982c3a0c12cd1/ss_62ae727d96b9955ac63112db309982c3a0c12cd1.1920x1080.jpg?t=1788275643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_1ea60f98489d81c05a9dd3d5c362a472a96c99c4.1920x1080.jpg?t=1788275643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_4fa7e92c15ef7457a68faef874b0ea8571f2548e.1920x1080.jpg?t=1788275643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_2af90ce3e6b41620f41eb33a72238da762dfdf00.1920x1080.jpg?t=1788275643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309730/ss_03bb18fe8b060a1a833c62af408665c35ec838ec.1920x1080.jpg?t=1788275643"
   ],
   "upsells": [
     {
       "id": 5112080,
       "name": "ドラマチックロード 風の発端 Soundtrack",
-      "price_rub": 873,
+      "price_rub": 879,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5112080/437ff59f9c590f91c4f7a8a8db7f7d0079499fa7/header.jpg?t=1787367699"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-30T11:12:30Z"
+  "updated_at": "2026-09-03T02:18:12Z"
 }
