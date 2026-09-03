@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 689,
+  "price_rub": 654,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "0jvRfLOVfeY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272270/a278cffceb8c9d49a4771b6483db853194a35918/ss_a278cffceb8c9d49a4771b6483db853194a35918.1920x1080.jpg?t=1787761890",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272270/66b70f9e8a388f2f82d1939aea686a0ec001738a/ss_66b70f9e8a388f2f82d1939aea686a0ec001738a.1920x1080.jpg?t=1787761890",
@@ -29,10 +29,10 @@
     {
       "id": 4649980,
       "name": "It's Chopping Time! - Gold Edition",
-      "price_rub": 575,
+      "price_rub": 560,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4649980/35ababe7b06b313ad3acffb3815761dfe7edc8d9/header.jpg?t=1784279490"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-30T15:54:21Z"
+  "updated_at": "2026-09-03T10:15:01Z"
 }
