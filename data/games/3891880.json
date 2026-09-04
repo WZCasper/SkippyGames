@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 644,
+  "price_rub": 646,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -28,9 +28,9 @@
   "upsells": [
     {
       "id": 5015140,
-      "name": "Orbital - Planetary Pilot Supporter",
+      "name": "Orbital Supporter",
       "price_rub": 552,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015140/cf044edd2b16a2c0cc916bf490bbb8cf5e57300a/header.jpg?t=1787743587"
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015140/cf044edd2b16a2c0cc916bf490bbb8cf5e57300a/header.jpg?t=1788382288"
     },
     {
       "id": 4553670,
@@ -40,5 +40,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-31T12:09:46Z"
+  "updated_at": "2026-09-04T01:55:34Z"
 }
