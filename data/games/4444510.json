@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 752,
+  "price_rub": 753,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -22,7 +22,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/326c7c38e0ee82e2a9346d4829710715f50d8eb9/ss_326c7c38e0ee82e2a9346d4829710715f50d8eb9.1920x1080.jpg?t=1786880329",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444510/c7e39cddbd09864c65b9c92f35b7d4f325cbfbce/ss_c7e39cddbd09864c65b9c92f35b7d4f325cbfbce.1920x1080.jpg?t=1786880329"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5042280,
+      "name": "Seeding The Wasteland Soundtrack",
+      "price_rub": 605,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042280/edf2181fb538ac660f6a88c032fc83468a595eb7/header.jpg?t=1788506000"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-09-01T03:01:45Z"
+  "updated_at": "2026-09-04T15:19:24Z"
 }
