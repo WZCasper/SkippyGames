@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 750,
+  "price_rub": 753,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "cDSSxpm-6hk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751340/8dad416ce518c2af0a1eb7800c1cf80d19651e84/ss_8dad416ce518c2af0a1eb7800c1cf80d19651e84.1920x1080.jpg?t=1787818552",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751340/d3eb716ab46a024f55655267ecd5bda2875aafd1/ss_d3eb716ab46a024f55655267ecd5bda2875aafd1.1920x1080.jpg?t=1787818552",
@@ -29,16 +29,16 @@
     {
       "id": 4958830,
       "name": "Organize my Shop: Chaos",
-      "price_rub": 575,
+      "price_rub": 576,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4958830/221644046c67265e2c8f0496d28c1ba25148280b/header.jpg?t=1784912759"
     },
     {
       "id": 4864930,
       "name": "Organize my Shop: Nightshift",
-      "price_rub": 575,
+      "price_rub": 576,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864930/9b9cfaa0a5a45d60c175565fa1583d482e6ac6f4/header.jpg?t=1785152799"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-31T18:45:33Z"
+  "updated_at": "2026-09-04T10:04:15Z"
 }

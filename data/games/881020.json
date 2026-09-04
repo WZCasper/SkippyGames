@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2617,
+  "price_rub": 2635,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "L00Cc_pdOrk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_cdda0cdcd1f5aec78bb9edea1fa7d80feaf46d77.1920x1080.jpg?t=1787889010",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_26d3bbdddbf5f1b2c21c59bd0a1fe1fdd109cce4.1920x1080.jpg?t=1787889010",
@@ -32,76 +32,76 @@
     {
       "id": 3839790,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
-      "price_rub": 2039,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/b503541d57a9cb8f2b4af8b11f2d458a4e601e7e/header.jpg?t=1784178909"
+      "price_rub": 2052,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/b503541d57a9cb8f2b4af8b11f2d458a4e601e7e/header.jpg?t=1788311021"
     },
     {
       "id": 4306890,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)",
-      "price_rub": 3388,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306890/a558cc704e2fedc385785e8a65c98a7845c29b1e/header.jpg?t=1784178911"
+      "price_rub": 3412,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306890/a558cc704e2fedc385785e8a65c98a7845c29b1e/header.jpg?t=1788311054"
     },
     {
       "id": 4579020,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Character Expansion Set: Fediel",
-      "price_rub": 623,
+      "price_rub": 624,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579020/18c3fd8e064e8ac8a8c922ece402e06908912a4d/header.jpg?t=1783522841"
     },
     {
       "id": 4579010,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Character Expansion Set: Fraux",
-      "price_rub": 623,
+      "price_rub": 624,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579010/d7a6239eee1db97c6d846b927b577ed7d8a14b92/header.jpg?t=1783522837"
     },
     {
       "id": 4528540,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Special Pack",
-      "price_rub": 1107,
+      "price_rub": 1112,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528540/f34657b4b3e7b38fd937980e1838a3e7b99dbd03/header.jpg?t=1783522912"
     },
     {
       "id": 4528200,
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Extra Items Pack",
-      "price_rub": 565,
+      "price_rub": 566,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528200/c7e9644dc038abfac4056ab6adc03be187653a67/header.jpg?t=1783522828"
     },
     {
       "id": 2799850,
       "name": "Granblue Fantasy: Relink - Upgrade pack",
-      "price_rub": 1107,
+      "price_rub": 1112,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799850/header.jpg?t=1778737215"
     },
     {
       "id": 2944840,
       "name": "Granblue Fantasy: Relink - Character Expansion Set: Sandalphon",
-      "price_rub": 623,
+      "price_rub": 624,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944840/header.jpg?t=1784093260"
     },
     {
       "id": 2944850,
       "name": "Granblue Fantasy: Relink - Color Pack 5",
-      "price_rub": 999,
+      "price_rub": 1003,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944850/header.jpg?t=1727673321"
     },
     {
       "id": 2944860,
       "name": "Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag",
-      "price_rub": 565,
+      "price_rub": 566,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944860/header.jpg?t=1779177710"
     },
     {
       "id": 2944870,
       "name": "Granblue Fantasy: Relink - Self-Improvement Pack 3",
-      "price_rub": 623,
+      "price_rub": 624,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944870/header.jpg?t=1727673323"
     },
     {
       "id": 2944880,
       "name": "Granblue Fantasy: Relink - Weapon Uncap Items Pack 3",
-      "price_rub": 623,
+      "price_rub": 624,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944880/header.jpg?t=1727673325"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-31T19:11:25Z"
+  "updated_at": "2026-09-04T10:05:46Z"
 }

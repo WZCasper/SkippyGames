@@ -13,10 +13,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 3965,
+  "price_rub": 3995,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "E3Huy2cdih0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_943bf6fe62352757d9070c1d33e50b92fe8539f1.1920x1080.jpg?t=1787868578",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.1920x1080.jpg?t=1787868578",
@@ -31,22 +31,22 @@
     {
       "id": 3655690,
       "name": "ELDEN RING Tarnished Pack",
-      "price_rub": 806,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655690/8ecd71d85e597e7616e5b36e697c0c018fb65f5e/header.jpg?t=1787867987"
+      "price_rub": 809,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655690/e3eddb7821b5023e7dfb7231b46fb722e300680d/header_alt_assets_0.jpg?t=1788321529"
     },
     {
       "id": 2778590,
       "name": "ELDEN RING Shadow of the Erdtree Premium Bundle",
-      "price_rub": 3388,
+      "price_rub": 3412,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778590/header.jpg?t=1787676353"
     },
     {
       "id": 2778580,
       "name": "ELDEN RING Shadow of the Erdtree",
-      "price_rub": 2810,
+      "price_rub": 2829,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778580/header.jpg?t=1787586064"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-31T12:43:13Z"
+  "updated_at": "2026-09-04T10:03:04Z"
 }
