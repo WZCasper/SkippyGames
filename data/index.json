@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:09:36Z",
+  "generated_at": "2026-09-04T20:51:43Z",
   "uah_to_rub_rate": 1.942574,
   "markup_rub": 500,
   "target_catalog_size": 10000,
@@ -249,7 +249,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1150,
+      "price_rub": 1151,
       "is_free": false
     },
     {
@@ -1429,7 +1429,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 550,
+      "price_rub": 551,
       "is_free": false
     },
     {
@@ -1746,7 +1746,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1334,
+      "price_rub": 1335,
       "is_free": false
     },
     {
@@ -2129,7 +2129,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -2441,7 +2441,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 626,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -2675,7 +2675,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 907,
+      "price_rub": 908,
       "is_free": false
     },
     {
@@ -4151,7 +4151,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 779,
+      "price_rub": 780,
       "is_free": false
     },
     {
@@ -4190,7 +4190,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -4601,7 +4601,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -4614,7 +4614,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -4888,14 +4888,14 @@
     {
       "id": 4745780,
       "title": "Desk Kanojo",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745780/225a84bd01e93ac48d53db4e490ee2dc0ecfd217/header.jpg?t=1787739051",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745780/225a84bd01e93ac48d53db4e490ee2dc0ecfd217/header.jpg?t=1788331882",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 946,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -5168,7 +5168,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -5776,7 +5776,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -6944,7 +6944,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -7166,7 +7166,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 886,
+      "price_rub": 887,
       "is_free": false
     },
     {
@@ -7724,13 +7724,13 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1150,
+      "price_rub": 1151,
       "is_free": false
     },
     {
       "id": 4843580,
       "title": "Gone Exploring",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843580/18832549bb085e88832680bdfe360b76e10273d3/header.jpg?t=1786375235",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843580/18832549bb085e88832680bdfe360b76e10273d3/header.jpg?t=1788516496",
       "genres": [
         "Экшен"
       ],
@@ -9099,15 +9099,15 @@
     {
       "id": 4849920,
       "title": "Hyper Hitmans",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849920/f5b01e7b7159192c9dd4ccf6278470fb4004aad5/header.jpg?t=1786130749",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849920/f5b01e7b7159192c9dd4ccf6278470fb4004aad5/header.jpg?t=1788442261",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 0,
-      "is_free": true
+      "price_rub": 648,
+      "is_free": false
     },
     {
       "id": 4683090,
@@ -9442,7 +9442,7 @@
     {
       "id": 4613170,
       "title": "InTheLake",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613170/0d8801689471586643343053863a2e9077b9e1a0/header.jpg?t=1788022026",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613170/0d8801689471586643343053863a2e9077b9e1a0/header.jpg?t=1788341679",
       "genres": [
         "Экшен"
       ],
@@ -9566,7 +9566,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 889,
       "is_free": false
     },
     {
@@ -9605,7 +9605,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 946,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -9700,7 +9700,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1072,
+      "price_rub": 1073,
       "is_free": false
     },
     {
@@ -9878,7 +9878,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 907,
+      "price_rub": 908,
       "is_free": false
     },
     {
@@ -9891,7 +9891,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3699,
+      "price_rub": 3703,
       "is_free": false
     },
     {
@@ -10155,7 +10155,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -10664,7 +10664,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1020,
+      "price_rub": 1021,
       "is_free": false
     },
     {
@@ -10742,7 +10742,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 878,
+      "price_rub": 879,
       "is_free": false
     },
     {
@@ -10969,14 +10969,14 @@
     {
       "id": 4919520,
       "title": "MPE Insight",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919520/39c386f47af90bbabb7b8d159961a3000f6a0cc2/header.jpg?t=1787470281",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919520/39c386f47af90bbabb7b8d159961a3000f6a0cc2/header.jpg?t=1788449642",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1897,
+      "price_rub": 1899,
       "is_free": false
     },
     {
@@ -11507,7 +11507,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 946,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -11572,7 +11572,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 907,
+      "price_rub": 908,
       "is_free": false
     },
     {
@@ -12019,7 +12019,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -12939,7 +12939,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -13049,14 +13049,14 @@
     {
       "id": 4145130,
       "title": "ORPHEUS: TO HELL AND BACK",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145130/043637bdbe3adb2aa03f12b9b902dcf8a1fd6bc7/header.jpg?t=1783900772",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145130/043637bdbe3adb2aa03f12b9b902dcf8a1fd6bc7/header.jpg?t=1788449164",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 647,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -13838,7 +13838,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 801,
+      "price_rub": 741,
       "is_free": false
     },
     {
@@ -14362,7 +14362,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 537,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -14945,7 +14945,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1080,
+      "price_rub": 964,
       "is_free": false
     },
     {
@@ -15440,7 +15440,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 878,
+      "price_rub": 879,
       "is_free": false
     },
     {
@@ -15749,7 +15749,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1121,
+      "price_rub": 1122,
       "is_free": false
     },
     {
@@ -16067,7 +16067,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 946,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -16543,7 +16543,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 750,
+      "price_rub": 751,
       "is_free": false
     },
     {
@@ -16643,7 +16643,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -16799,7 +16799,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -17280,7 +17280,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 946,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -17670,7 +17670,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 587,
+      "price_rub": 648,
       "is_free": false
     },
     {
@@ -18440,7 +18440,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -19938,7 +19938,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1072,
+      "price_rub": 1073,
       "is_free": false
     },
     {
@@ -20058,7 +20058,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1010,
+      "price_rub": 1011,
       "is_free": false
     },
     {
@@ -20188,7 +20188,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
@@ -21454,14 +21454,14 @@
     {
       "id": 4864450,
       "title": "ΠΟΛΙΣ — Athens",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864450/c9191003435c442b714b6a0d8683f80f9edbcffb/header.jpg?t=1787643582",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864450/c9191003435c442b714b6a0d8683f80f9edbcffb/header.jpg?t=1788304857",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 878,
+      "price_rub": 879,
       "is_free": false
     },
     {
@@ -21942,7 +21942,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 752,
+      "price_rub": 753,
       "is_free": false
     },
     {
