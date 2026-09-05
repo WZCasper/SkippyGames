@@ -1,7 +1,7 @@
 {
   "id": 3982830,
   "title": "Bottle Cracks",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/459fd9bc0f177fb8d04d76a0e1939492c9c76957/header.jpg?t=1787245761",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/459fd9bc0f177fb8d04d76a0e1939492c9c76957/header.jpg?t=1788308587",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3982830/library_hero.jpg",
   "description": "Доберитесь до котла, не разбив свою бутылку!Для игры нужна всего одна кнопка. Зажмите её, рассчитайте силу и запустите свою бутылку! Только не переусердствуйте, иначе бутылка разобьётся!\n\nДо 12 игроков онлайнСоздайте публичное или приватное лобби для игры до 12 игроков.\n\nНеограниченное количество игроков на одном устройстве!Каждому игроку нужна всего одна кнопка, поэтому вы можете играть с таким количеством людей, с каким захотите! (Или с таким, сколько поместится на вашем диване.)\n\nЗакончились свободные клавиши на клавиатуре? Подключите контроллер. Потом ещё один. И ещё один. И ещё один…\n\n \n\nИграйте как хотите!Играйте в кооперативе или соревнуйтесь друг с другом! Попробуйте Режим барьера, Огненную стену и Гоночный режим. Отключайте контрольные точки, обратный отсчёт, столкновения и многое другое!\n\nНастройте свою бутылкуВыполняйте достижения и открывайте новые цвета, бутылки и следы!\n\nПогрузитесь в хаос, бросьте вызов друзьям и не разбейте свою бутылку!",
   "description_short": "Bottle Cracks — party-игра, где каждый — бутылка. Прыгай по хаотичным уровням, не разбивая свою бутылку! Одиночная игра, онлайн до 12 игроков и локальный без ограничений.",
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 863,
+  "price_rub": 864,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "_wN3wl473M0",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/87eab4206ded4a50aed8102de19c0fb979b70d31/ss_87eab4206ded4a50aed8102de19c0fb979b70d31.1920x1080.jpg?t=1787245761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/1ef8e1193da6bd9fab254c3f299d664406739250/ss_1ef8e1193da6bd9fab254c3f299d664406739250.1920x1080.jpg?t=1787245761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/a2eb3d1b2da83e2ef8a32b1df60a374505566a89/ss_a2eb3d1b2da83e2ef8a32b1df60a374505566a89.1920x1080.jpg?t=1787245761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/b6a9459657e11c341fbd990632a75eebfe561a86/ss_b6a9459657e11c341fbd990632a75eebfe561a86.1920x1080.jpg?t=1787245761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/3872f51eb72257ee7fae439a0b307ebaa2b7192f/ss_3872f51eb72257ee7fae439a0b307ebaa2b7192f.1920x1080.jpg?t=1787245761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/f3ef5833879fe24a9d1d1f2dbf13532dd0973a1b/ss_f3ef5833879fe24a9d1d1f2dbf13532dd0973a1b.1920x1080.jpg?t=1787245761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/e9a5eb4ba0d9dbaa1ed980f08b9b56a43da63120/ss_e9a5eb4ba0d9dbaa1ed980f08b9b56a43da63120.1920x1080.jpg?t=1787245761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/4e54ebaea43121bd7e40751e0729bfb6f06989df/ss_4e54ebaea43121bd7e40751e0729bfb6f06989df.1920x1080.jpg?t=1787245761"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/87eab4206ded4a50aed8102de19c0fb979b70d31/ss_87eab4206ded4a50aed8102de19c0fb979b70d31.1920x1080.jpg?t=1788308587",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/1ef8e1193da6bd9fab254c3f299d664406739250/ss_1ef8e1193da6bd9fab254c3f299d664406739250.1920x1080.jpg?t=1788308587",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/a2eb3d1b2da83e2ef8a32b1df60a374505566a89/ss_a2eb3d1b2da83e2ef8a32b1df60a374505566a89.1920x1080.jpg?t=1788308587",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/b6a9459657e11c341fbd990632a75eebfe561a86/ss_b6a9459657e11c341fbd990632a75eebfe561a86.1920x1080.jpg?t=1788308587",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/3872f51eb72257ee7fae439a0b307ebaa2b7192f/ss_3872f51eb72257ee7fae439a0b307ebaa2b7192f.1920x1080.jpg?t=1788308587",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/f3ef5833879fe24a9d1d1f2dbf13532dd0973a1b/ss_f3ef5833879fe24a9d1d1f2dbf13532dd0973a1b.1920x1080.jpg?t=1788308587",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/e9a5eb4ba0d9dbaa1ed980f08b9b56a43da63120/ss_e9a5eb4ba0d9dbaa1ed980f08b9b56a43da63120.1920x1080.jpg?t=1788308587",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982830/4e54ebaea43121bd7e40751e0729bfb6f06989df/ss_4e54ebaea43121bd7e40751e0729bfb6f06989df.1920x1080.jpg?t=1788308587"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-01T20:13:52Z"
+  "updated_at": "2026-09-05T09:32:54Z"
 }

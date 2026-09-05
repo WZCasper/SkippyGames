@@ -15,19 +15,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1720,
+  "price_rub": 1723,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "vAY9i2RG5Fc",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_70d3b4416f7c191d01b96253957bee9b6cab47be.1920x1080.jpg?t=1779966148",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_e89540e53a4969f3de49ad6238fe29ff859ecfd2.1920x1080.jpg?t=1779966148",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_c09c59c3d65086cc4020fd55659cc5ffaaa79333.1920x1080.jpg?t=1779966148",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_3f3ff3f68acb3194931fb6cffd4565325c98d833.1920x1080.jpg?t=1779966148",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_f7ea90e5ffd1c59453b358fa446eb0b1759ba9c7.1920x1080.jpg?t=1779966148",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_a05d4a7f125269a9e990b97b0dfac4e1e0ba8965.1920x1080.jpg?t=1779966148",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_50c23791527e3a8c0aa0b95fcf6aefed5f80cec4.1920x1080.jpg?t=1779966148",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_e14eba1ed73ddce4c95c12877eb93e33090bcc55.1920x1080.jpg?t=1779966148"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_70d3b4416f7c191d01b96253957bee9b6cab47be.1920x1080.jpg?t=1788538292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_e89540e53a4969f3de49ad6238fe29ff859ecfd2.1920x1080.jpg?t=1788538292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_c09c59c3d65086cc4020fd55659cc5ffaaa79333.1920x1080.jpg?t=1788538292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_3f3ff3f68acb3194931fb6cffd4565325c98d833.1920x1080.jpg?t=1788538292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_f7ea90e5ffd1c59453b358fa446eb0b1759ba9c7.1920x1080.jpg?t=1788538292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_a05d4a7f125269a9e990b97b0dfac4e1e0ba8965.1920x1080.jpg?t=1788538292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_50c23791527e3a8c0aa0b95fcf6aefed5f80cec4.1920x1080.jpg?t=1788538292",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/ss_e14eba1ed73ddce4c95c12877eb93e33090bcc55.1920x1080.jpg?t=1788538292"
   ],
   "upsells": [
     {
@@ -39,7 +39,7 @@
     {
       "id": 1982980,
       "name": "Arma Reforger Soundtrack",
-      "price_rub": 818,
+      "price_rub": 819,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1982980/header.jpg?t=1773672676"
     },
     {
@@ -50,5 +50,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-01T20:43:40Z"
+  "updated_at": "2026-09-05T09:34:12Z"
 }
