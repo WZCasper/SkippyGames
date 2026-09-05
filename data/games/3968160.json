@@ -1,7 +1,7 @@
 {
   "id": 3968160,
   "title": "Island Beekeeper",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/21139e70c7c86072c1541bfb50a943f7b432820c/header.jpg?t=1785267972",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/21139e70c7c86072c1541bfb50a943f7b432820c/header.jpg?t=1788515749",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3968160/library_hero.jpg",
   "description": "Земля погибает от болезней, голода и разрухи. Один из немногих ресурсов, который ещё помогает людям выживать, - мёд с парящих островов. \n\nТы отправляешься в небесный мир, чтобы построить пасеку, разводить пчёл и наладить поставки мёда вниз. До тебя туда уже отправляли других пасечников, но никто из них не вернулся. Чем больше островов ты открываешь, тем ближе становишься к ответу на главный вопрос: что случилось с теми, кто был здесь до тебя?\n\n🐝 Пчёлы и гибриды \n\nРазводи пчёл, ухаживай за ульями и собирай мёд. Каждый вид пчёл обладает своими особенностями. Скрещивай разные виды, чтобы получать гибриды с новыми свойствами. Со временем пчёлы станут важной частью хозяйства и помогут автоматизировать часть работы на пасеке.\n\n🍯🏠 Строительство\n\nСоздавай собственный остров: расширяй территорию, ставь ульи, размещай грядки и выстраивай пасеку так, как тебе удобно. Построй ферму, небольшой дом с ульями или большую пасеку, которая постепенно разрастается вместе с твоим хозяйством.\n\n🌼 Садоводство\n\nВыращивай цветы для пчёл, а также овощи, фрукты и другие растения для себя. Одни культуры помогут привлекать нужные виды пчёл и влиять на качество мёда, другие пригодятся в готовке, крафте и повседневной жизни на острове. Подбирай растения под свою пасеку и постепенно расширяй хозяйство новыми культурами.\n\n🐝🏍️ Медоцикл\n\nМедоцикл - уникальный вид транспорта для передвижения между островами. С его помощью ты сможешь исследовать новые острова, находить редкие места и быстро возвращаться к своей пасеке. Улучшай медоцикл, чтобы добираться туда, куда раньше было не попасть.\n\n🌤️ Исследование мира\n\nПутешествуй между островами с разными биомами, растениями, ресурсами и видами пчёл. Каждый новый остров может дать что-то полезное для пасеки: редкую пчелу, нужный материал или новую культуру для выращивания. Исследуя острова, ты будешь находить следы прежних пасечников и постепенно узнавать, что с ними произошло.\n\n👥 Мультиплеер\n\nИграй в одиночку или вместе с друзьями: развивайте пасеку, выращивайте растения, стройте и исследуйте острова в общем мире. Распределяйте задачи или занимайтесь всем вместе - один ухаживает за пчёлами, другой обустраивает остров, третий отправляется искать новые острова и виды пчёл.",
   "description_short": "Обустрой пасеку на островах над облаками, путешествуй на медоцикле, скрещивай пчёл с уникальными свойствами и строй уютный дом среди небес. Выращивай растения, исследуй острова и отправляй целебный мёд на Землю, где люди всё ещё надеются на твою помощь.",
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1034,
+  "price_rub": 900,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/f76e9c1d2c814dc5185b174e1e7b2cc570650ad0/ss_f76e9c1d2c814dc5185b174e1e7b2cc570650ad0.1920x1080.jpg?t=1785267972",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/1c1e1f1dfefc6145662c39d0bb986cf05d78968e/ss_1c1e1f1dfefc6145662c39d0bb986cf05d78968e.1920x1080.jpg?t=1785267972",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/4cced31d76e2dc96c529da96cfe27ca34ca25b9c/ss_4cced31d76e2dc96c529da96cfe27ca34ca25b9c.1920x1080.jpg?t=1785267972",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/11714e96c8aa8eb0b2e49056fce0558d18130193/ss_11714e96c8aa8eb0b2e49056fce0558d18130193.1920x1080.jpg?t=1785267972",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/850a9895e17bf91dc0760c400b20cd9c72d5d06f/ss_850a9895e17bf91dc0760c400b20cd9c72d5d06f.1920x1080.jpg?t=1785267972",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/cee891ac2749a04caa1efcdc21ed44c6bf9e748d/ss_cee891ac2749a04caa1efcdc21ed44c6bf9e748d.1920x1080.jpg?t=1785267972",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/aa5faef791199e018901c1f089e6b7bceb4c3c97/ss_aa5faef791199e018901c1f089e6b7bceb4c3c97.1920x1080.jpg?t=1785267972",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/11728e530ec8c0065e7bd30e149f84f6b8abfee9/ss_11728e530ec8c0065e7bd30e149f84f6b8abfee9.1920x1080.jpg?t=1785267972"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/1b550b1e03c56047799eed059dc6afe9b1f51a26/ss_1b550b1e03c56047799eed059dc6afe9b1f51a26.1920x1080.jpg?t=1788515749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/db1c78ce66143afa4f5a44b6c4f83fb2b860e7cb/ss_db1c78ce66143afa4f5a44b6c4f83fb2b860e7cb.1920x1080.jpg?t=1788515749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/b4b87c911061467760bf96193f233bcad36428d3/ss_b4b87c911061467760bf96193f233bcad36428d3.1920x1080.jpg?t=1788515749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/d1bd1744957d5c36d2d760d06f0df12ae59a1bb3/ss_d1bd1744957d5c36d2d760d06f0df12ae59a1bb3.1920x1080.jpg?t=1788515749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/850a9895e17bf91dc0760c400b20cd9c72d5d06f/ss_850a9895e17bf91dc0760c400b20cd9c72d5d06f.1920x1080.jpg?t=1788515749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/4cced31d76e2dc96c529da96cfe27ca34ca25b9c/ss_4cced31d76e2dc96c529da96cfe27ca34ca25b9c.1920x1080.jpg?t=1788515749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/1c1e1f1dfefc6145662c39d0bb986cf05d78968e/ss_1c1e1f1dfefc6145662c39d0bb986cf05d78968e.1920x1080.jpg?t=1788515749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968160/aa5faef791199e018901c1f089e6b7bceb4c3c97/ss_aa5faef791199e018901c1f089e6b7bceb4c3c97.1920x1080.jpg?t=1788515749"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-01T11:27:05Z"
+  "updated_at": "2026-09-05T01:45:14Z"
 }
