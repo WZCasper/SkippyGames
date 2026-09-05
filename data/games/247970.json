@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 4967,
+  "price_rub": 4952,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "RB0s6I4wM8o",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/81060e40471780e8304b5ec9b50c46c28d9771f6/ss_81060e40471780e8304b5ec9b50c46c28d9771f6.1920x1080.jpg?t=1787344656",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/a118ddcc2fb0c228c6746afc78920a7d71d20047/ss_a118ddcc2fb0c228c6746afc78920a7d71d20047.1920x1080.jpg?t=1787344656",
@@ -29,28 +29,28 @@
     {
       "id": 5026020,
       "name": "Корея. Серия Ил-2: Коллекционный самолёт F-84E Thunderjet",
-      "price_rub": 1612,
+      "price_rub": 1608,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026020/e8007683fb01f2dee81b394b7df755128d3208d3/header_russian.jpg?t=1787221417"
     },
     {
       "id": 5026030,
       "name": "Корея. Серия Ил-2: Коллекционный самолёт Ла-11",
-      "price_rub": 1612,
+      "price_rub": 1608,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026030/071138d7de1fecf52f1af6b17f376e4480a7222d/header_russian.jpg?t=1787225210"
     },
     {
       "id": 5026460,
       "name": "Корея. Серия Ил-2: Уникальные схемы окраски «Пилотажные группы»",
-      "price_rub": 1339,
+      "price_rub": 1336,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026460/90e1e4545dfe25fa05e4cdfbd6f843b3df3e90f9/header_russian.jpg?t=1787221241"
     },
     {
       "id": 5026800,
       "name": "Корея. Серия Ил-2: Официальный саундтрек",
-      "price_rub": 754,
+      "price_rub": 753,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026800/b46a47638120b1d905095f99d4e1a30f5386d755/header_russian.jpg?t=1787221204"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-02T10:04:53Z"
+  "updated_at": "2026-09-05T14:54:11Z"
 }
