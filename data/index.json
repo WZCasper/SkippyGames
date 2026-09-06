@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:40:57Z",
+  "generated_at": "2026-09-06T15:23:41Z",
   "uah_to_rub_rate": 1.944378,
   "markup_rub": 500,
   "target_catalog_size": 10000,
@@ -733,7 +733,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1047,
+      "price_rub": 1046,
       "is_free": false
     },
     {
@@ -759,7 +759,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1016,
+      "price_rub": 912,
       "is_free": false
     },
     {
@@ -811,7 +811,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1152,
+      "price_rub": 761,
       "is_free": false
     },
     {
@@ -1969,7 +1969,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 695,
+      "price_rub": 694,
       "is_free": false
     },
     {
@@ -2597,7 +2597,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 648,
+      "price_rub": 558,
       "is_free": false
     },
     {
@@ -2714,7 +2714,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 769,
+      "price_rub": 768,
       "is_free": false
     },
     {
@@ -2876,14 +2876,14 @@
     {
       "id": 4435490,
       "title": "Call of Duty®: Modern Warfare® 4",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1788369400",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1788540247",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 5265,
+      "price_rub": 5262,
       "is_free": false
     },
     {
@@ -2974,7 +2974,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 909,
+      "price_rub": 908,
       "is_free": false
     },
     {
@@ -3247,7 +3247,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1893,
+      "price_rub": 1892,
       "is_free": false
     },
     {
@@ -3494,7 +3494,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1337,
+      "price_rub": 1336,
       "is_free": false
     },
     {
@@ -3637,7 +3637,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 695,
+      "price_rub": 694,
       "is_free": false
     },
     {
@@ -4474,7 +4474,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -4653,7 +4653,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1152,
+      "price_rub": 1151,
       "is_free": false
     },
     {
@@ -5384,7 +5384,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -6283,7 +6283,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 909,
+      "price_rub": 908,
       "is_free": false
     },
     {
@@ -7426,7 +7426,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 695,
+      "price_rub": 694,
       "is_free": false
     },
     {
@@ -7595,7 +7595,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 553,
+      "price_rub": 525,
       "is_free": false
     },
     {
@@ -10259,7 +10259,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -11123,7 +11123,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 804,
+      "price_rub": 803,
       "is_free": false
     },
     {
@@ -11689,7 +11689,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 728,
+      "price_rub": 727,
       "is_free": false
     },
     {
@@ -12136,7 +12136,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3319,
+      "price_rub": 3317,
       "is_free": false
     },
     {
@@ -14141,7 +14141,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 553,
+      "price_rub": 552,
       "is_free": false
     },
     {
@@ -14336,7 +14336,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1230,
+      "price_rub": 1229,
       "is_free": false
     },
     {
@@ -14613,7 +14613,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -14708,7 +14708,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1337,
+      "price_rub": 1336,
       "is_free": false
     },
     {
@@ -14721,7 +14721,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 909,
+      "price_rub": 908,
       "is_free": false
     },
     {
@@ -15710,7 +15710,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 695,
+      "price_rub": 694,
       "is_free": false
     },
     {
@@ -16015,7 +16015,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -16413,7 +16413,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 802,
+      "price_rub": 801,
       "is_free": false
     },
     {
@@ -17631,7 +17631,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 802,
+      "price_rub": 801,
       "is_free": false
     },
     {
@@ -17857,7 +17857,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -18570,7 +18570,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1337,
+      "price_rub": 1336,
       "is_free": false
     },
     {
@@ -19230,7 +19230,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -19663,7 +19663,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1218,
+      "price_rub": 1217,
       "is_free": false
     },
     {
@@ -20409,7 +20409,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3804,
+      "price_rub": 3802,
       "is_free": false
     },
     {
@@ -20832,7 +20832,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 623,
+      "price_rub": 622,
       "is_free": false
     },
     {
@@ -20966,7 +20966,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 948,
+      "price_rub": 947,
       "is_free": false
     },
     {
@@ -21584,14 +21584,14 @@
     {
       "id": 4661640,
       "title": "Дорога Сердца",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661640/e3c05596eed357a328da80db681aa7fbaad6ccc1/header.jpg?t=1788023666",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661640/34c4f6f8ab7e4baedad722d6df33a9a97af49f53/header_russian.jpg?t=1788445165",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 802,
+      "price_rub": 801,
       "is_free": false
     },
     {
@@ -22245,7 +22245,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1152,
+      "price_rub": 1151,
       "is_free": false
     },
     {
@@ -22271,7 +22271,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1016,
+      "price_rub": 1015,
       "is_free": false
     },
     {
@@ -22414,7 +22414,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 695,
+      "price_rub": 694,
       "is_free": false
     },
     {
