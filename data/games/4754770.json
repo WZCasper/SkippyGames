@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1219,
+  "price_rub": 1145,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "dYNJuK2phok",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754770/c5ff3a8efba609088958aed40c37177c0b665498/ss_c5ff3a8efba609088958aed40c37177c0b665498.1920x1080.jpg?t=1785262533",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754770/2870ba4e3d12984432d0568804d0435eda366566/ss_2870ba4e3d12984432d0568804d0435eda366566.1920x1080.jpg?t=1785262533",
@@ -29,34 +29,34 @@
     {
       "id": 4819950,
       "name": "​Hands Off the Priest! My Creditor is a Telepathic Pervert Soundtrack",
-      "price_rub": 753,
+      "price_rub": 727,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819950/9abca395fbe6c444a907746b3e49b00dec65f493/header.jpg?t=1784745162"
     },
     {
       "id": 4819970,
       "name": "​Hands Off the Priest! My Creditor is a Telepathic Pervert - Chibi Stickers",
-      "price_rub": 694,
+      "price_rub": 674,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819970/46c8289f81b266a3509643173d3960f5629cc28b/header.jpg?t=1784745228"
     },
     {
       "id": 4819980,
       "name": "​Hands Off the Priest! My Creditor is a Telepathic Pervert - Artbook",
-      "price_rub": 753,
+      "price_rub": 727,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819980/8f8176813bf515b91af87fc3cdd49aaf99a15c5f/header.jpg?t=1784745291"
     },
     {
       "id": 4819990,
       "name": "​Hands Off the Priest! My Creditor is a Telepathic Pervert - ASMR",
-      "price_rub": 879,
+      "price_rub": 839,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819990/03adec01888db4e87179deb29225d346455a6fa8/header.jpg?t=1784747085"
     },
     {
       "id": 4820000,
       "name": "​Hands Off the Priest! My Creditor is a Telepathic Pervert - Morning Call",
-      "price_rub": 694,
+      "price_rub": 674,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820000/2892d649799db1a43ccc3e4a16da842b0abeb33a/header.jpg?t=1784745145"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-05T09:33:34Z"
+  "updated_at": "2026-09-08T16:01:45Z"
 }
