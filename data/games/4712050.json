@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "CyCE3d4EOFs",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/e0f5498a93b90358ca33c11aff8f6dd09c914107/ss_e0f5498a93b90358ca33c11aff8f6dd09c914107.1920x1080.jpg?t=1786806196",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/164743c2aa5d6fe7e6abf9b332d891d49050e0ce/ss_164743c2aa5d6fe7e6abf9b332d891d49050e0ce.1920x1080.jpg?t=1786806196",
@@ -28,10 +28,10 @@
     {
       "id": 4712400,
       "name": "VN Engine 2D — Indie License",
-      "price_rub": 1900,
+      "price_rub": 1880,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712400/70593a80bb263c3c50d9a3aa12bb9b50bebf393a/header.jpg?t=1785555436"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-06T20:32:48Z"
+  "updated_at": "2026-09-10T10:12:27Z"
 }
