@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1894,
+  "price_rub": 1862,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "LWHN1_rQ0tk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/f48693cb21dc49754514718d37ee3a85f8e60a96/ss_f48693cb21dc49754514718d37ee3a85f8e60a96.1920x1080.jpg?t=1788530496",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cb42e74d6b846cdbb8ba632f844adf54cabc5de5/ss_cb42e74d6b846cdbb8ba632f844adf54cabc5de5.1920x1080.jpg?t=1788530496",
@@ -22,7 +22,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/39df081534c2bcf4a5de92c21a95cf438481138e/ss_39df081534c2bcf4a5de92c21a95cf438481138e.1920x1080.jpg?t=1788530496",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/c5969e5dbb6c052545140038d3eebd77cf00418a/ss_c5969e5dbb6c052545140038d3eebd77cf00418a.1920x1080.jpg?t=1788530496"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4630450,
+      "name": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack",
+      "price_rub": 746,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630450/8a73f1c23566bed776b54e4eade74ee90b47915f/header.jpg?t=1784109673"
+    },
+    {
+      "id": 4630440,
+      "name": "The Mound: Omen of Cthulhu - Original Soundtrack ",
+      "price_rub": 869,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630440/3046fe2c674b05921e2f8d4a5257372f76895bc4/header.jpg?t=1784109929"
+    },
+    {
+      "id": 4630460,
+      "name": "The Mound: Omen of Cthulhu - Characters & Items Pack",
+      "price_rub": 746,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630460/85db3585ebdbae1a3603d3a1f4c56e94bbf59493/header.jpg?t=1784819161"
+    },
+    {
+      "id": 4925780,
+      "name": "The Mound: Omen of Cthulhu - Temple of Yig Exclusive Mission",
+      "price_rub": 1938,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925780/237f0fa0800ab389f5e095042ccca5dc4e6b96eb/header.jpg?t=1784109819"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-09-07T17:38:02Z"
+  "updated_at": "2026-09-11T10:05:36Z"
 }
