@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 947,
+  "price_rub": 937,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "0uyJblZyU2Y",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860990/50561dcfcc1d8e278f20cddf398647093b5c1903/ss_50561dcfcc1d8e278f20cddf398647093b5c1903.1920x1080.jpg?t=1788870652",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860990/e728745276a5352336ba42e79dbcc7ef8525e47e/ss_e728745276a5352336ba42e79dbcc7ef8525e47e.1920x1080.jpg?t=1788870652",
@@ -29,16 +29,22 @@
     {
       "id": 4865780,
       "name": "Desire on Tap - Adventures on Tap",
-      "price_rub": 947,
+      "price_rub": 937,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865780/eb82544fce3acbe1d61bacd0e6640c1a5d9ff00c/header.jpg?t=1786568525"
     },
     {
       "id": 4865790,
       "name": "Desire on Tap - Besties on Tap",
-      "price_rub": 753,
+      "price_rub": 747,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865790/c4abd2ed55002e54ae2ce0ba43b4a1a70221a502/header.jpg?t=1787827765"
+    },
+    {
+      "id": 4865820,
+      "name": "Desire on Tap - Moody on Tap",
+      "price_rub": 937,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865820/0b7fd3116a738e84cc73292f9b2b91b0dded7c8e/header.jpg?t=1788957374"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-09T10:14:23Z"
+  "updated_at": "2026-09-12T14:37:48Z"
 }
