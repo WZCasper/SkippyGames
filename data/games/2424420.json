@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1663,
+  "price_rub": 1639,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "5qlEuCfb8Qk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/de620fdbbbf38383b7d92a15f4196bcbd9d6415d/ss_de620fdbbbf38383b7d92a15f4196bcbd9d6415d.1920x1080.jpg?t=1787869853",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/73df71821c558325ab5fa1eceb9f94c76c059e7e/ss_73df71821c558325ab5fa1eceb9f94c76c059e7e.1920x1080.jpg?t=1787869853",
@@ -25,7 +25,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/f8df5767a5609499c2f74d7e0aaa7d24de311e82/ss_f8df5767a5609499c2f74d7e0aaa7d24de311e82.1920x1080.jpg?t=1787869853",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/16f5e7f6d8e7a01ba816971071b2f31793ada202/ss_16f5e7f6d8e7a01ba816971071b2f31793ada202.1920x1080.jpg?t=1787869853"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5017890,
+      "name": "Avatar Legends: The Fighting Game - Deluxe Edition Upgrade",
+      "price_rub": 1117,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017890/16770b60ffc05dada04999d5a06e63408569a770/header.jpg?t=1789083175"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-09-08T21:05:41Z"
+  "updated_at": "2026-09-12T09:43:19Z"
 }
