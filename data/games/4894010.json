@@ -25,7 +25,38 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894010/06c4cb8890e821ae6a72125f90770916da7a4066/ss_06c4cb8890e821ae6a72125f90770916da7a4066.1920x1080.jpg?t=1788137669",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894010/e88a3ecd4e2530ace0e8d367fd9f9b65acd01eac/ss_e88a3ecd4e2530ace0e8d367fd9f9b65acd01eac.1920x1080.jpg?t=1788137669"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5136550,
+      "name": "PHANTOM TAG: MANIFEST - NO MORE EIGADOROBO Collaboration Costume（Markus）",
+      "price_rub": 936,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136550/5d971153c9e3d21cd49258c0bf7073909bdfc5de/header.jpg?t=1789099822"
+    },
+    {
+      "id": 5136560,
+      "name": "PHANTOM TAG: MANIFEST - NO MORE EIGADOROBO Collaboration Costume（Torchie）",
+      "price_rub": 936,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136560/2139ce7c3358955cc0aa588a9e011d198efc1774/header.jpg?t=1789100001"
+    },
+    {
+      "id": 5136570,
+      "name": "PHANTOM TAG: MANIFEST - NO MORE EIGADOROBO Collaboration T-Shirt（Hank）",
+      "price_rub": 551,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136570/ca53756cda83441aba899124398d6ae51c1d9ae8/header.jpg?t=1789100065"
+    },
+    {
+      "id": 5136580,
+      "name": "PHANTOM TAG: MANIFEST - NO MORE EIGADOROBO Collaboration T-Shirt（Lilia）",
+      "price_rub": 551,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136580/898c537d3cc7d88aa4cea4535fa3fdfc971ab404/header.jpg?t=1789099732"
+    },
+    {
+      "id": 5136590,
+      "name": "PHANTOM TAG: MANIFEST - NO MORE EIGADOROBO Collaboration T-Shirt（Tao）",
+      "price_rub": 551,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136590/ee4cd1a31779587a3e8b58027e3778de5e28b6a2/header.jpg?t=1789100045"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-09-11T02:04:37Z"
+  "updated_at": "2026-09-14T11:25:00Z"
 }

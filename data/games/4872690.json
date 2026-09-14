@@ -1,8 +1,8 @@
 {
   "id": 4872690,
   "title": "Love Train",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1783648511",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872690?t=1783648511",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1789190603",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4872690?t=1789190603",
   "description": "[Project Information]Game Project Practicum, Fall 2025\n\nTeam: Love Train\n\n• Joo-Young Lee (2021 Cohort): Team Lead, Game Design\n\n• Sang-Hyeon Lee (2021 Cohort): Game Design\n\n• Jun-Mo Lee (2021 Cohort): Programming\n\n• Sang-Hyeop Lee (2021 Cohort): Programming\n\n• Chan-Woo Kim (2021 Cohort): 2D Art\n\nThis game was developed as a student project through the Game Project Practicum course offered by the Department of Game Software at Hoseo University.\n\n[About This Game]Monsters have devoured the world.\n\nBut the tracks still hold, and the train can still run.\n\nLove Train is a side-view bullet-heaven roguelite set in a ruined world overrun by Lovecraftian abominations. Keep the train moving, aim its turrets, and gun down the hordes closing in around you.\n\nSurvive the journey for 15 minutes.\n\nAs time passes, enemies grow stronger, bosses block the tracks, and strange events await at unsettling stations. Your choices are brief, and their consequences are rarely kind.\n\nSlay monsters, collect experience, and acquire new items. These items do more than strengthen your train—they transform its very appearance.\n\nGun barrels sprout from the chassis.\nLaser turrets rise from its roof.\nFlesh clings to its steel.\nA colossal maw devours whatever dares stand in its path.\n\nBegin as an ordinary train.\n\nBecome something incomprehensible.\n\n[Game Features]• Side-view bullet-heaven roguelite shooting\n\n• Fifteen minutes of survival combat against relentless hordes and bosses\n\n• A monstrous train whose appearance and abilities change with every item acquired\n\n• Strange station events and unsettling choices\n\n• Lovecraftian creatures with B-movie pulp-horror flair\n\n• Retro arcade-style pixel art\n\nLove. Steam. Bullets. Tentacles.",
   "description_short": "Love Train is a side-view roguelike shooter where you race through a ruined world swarming with monstrous creatures. Defeat enemies, collect items, survive strange events at each station, and upgrade your ordinary train into a powerful, grotesque monster train.",
   "genres": [
@@ -16,13 +16,13 @@
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/2127a909ae9285d465e31315d2f1bf1d2802bca6/ss_2127a909ae9285d465e31315d2f1bf1d2802bca6.1920x1080.jpg?t=1783648511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/7919519ccc47d9ad18423e0e0bd51513411a2c91/ss_7919519ccc47d9ad18423e0e0bd51513411a2c91.1920x1080.jpg?t=1783648511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/d094b7b6165bc26d594528f46a3099def6e9eba8/ss_d094b7b6165bc26d594528f46a3099def6e9eba8.1920x1080.jpg?t=1783648511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/bd9ece5ac1495f545d6d39220c1d5f9e3e045470/ss_bd9ece5ac1495f545d6d39220c1d5f9e3e045470.1920x1080.jpg?t=1783648511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/4607743b1e881f61646ca53341dc0dd9e3b51215/ss_4607743b1e881f61646ca53341dc0dd9e3b51215.1920x1080.jpg?t=1783648511"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/2127a909ae9285d465e31315d2f1bf1d2802bca6/ss_2127a909ae9285d465e31315d2f1bf1d2802bca6.1920x1080.jpg?t=1789190603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/7919519ccc47d9ad18423e0e0bd51513411a2c91/ss_7919519ccc47d9ad18423e0e0bd51513411a2c91.1920x1080.jpg?t=1789190603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/d094b7b6165bc26d594528f46a3099def6e9eba8/ss_d094b7b6165bc26d594528f46a3099def6e9eba8.1920x1080.jpg?t=1789190603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/bd9ece5ac1495f545d6d39220c1d5f9e3e045470/ss_bd9ece5ac1495f545d6d39220c1d5f9e3e045470.1920x1080.jpg?t=1789190603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/4607743b1e881f61646ca53341dc0dd9e3b51215/ss_4607743b1e881f61646ca53341dc0dd9e3b51215.1920x1080.jpg?t=1789190603"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-11T02:32:37Z"
+  "updated_at": "2026-09-14T11:52:27Z"
 }
