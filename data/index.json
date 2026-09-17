@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:39:09Z",
+  "generated_at": "2026-09-17T21:32:21Z",
   "uah_to_rub_rate": 1.889993,
   "markup_rub": 500,
   "target_catalog_size": 10000,
@@ -333,14 +333,14 @@
     {
       "id": 4695530,
       "title": "A Game About Getting Bigger",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/a168fdf4fafdbaa2a32e6eba1eb1491c866c12e1/header.jpg?t=1789050847",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695530/a168fdf4fafdbaa2a32e6eba1eb1491c866c12e1/header.jpg?t=1789529834",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 642,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -720,7 +720,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 926,
+      "price_rub": 925,
       "is_free": false
     },
     {
@@ -837,7 +837,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 735,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -1121,7 +1121,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -1173,7 +1173,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1067,
+      "price_rub": 1065,
       "is_free": false
     },
     {
@@ -1242,7 +1242,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -2060,7 +2060,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 687,
       "is_free": false
     },
     {
@@ -2103,7 +2103,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 870,
+      "price_rub": 869,
       "is_free": false
     },
     {
@@ -2389,7 +2389,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 687,
       "is_free": false
     },
     {
@@ -2532,7 +2532,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1135,
+      "price_rub": 1133,
       "is_free": false
     },
     {
@@ -2922,7 +2922,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1040,
+      "price_rub": 1039,
       "is_free": false
     },
     {
@@ -3403,7 +3403,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 687,
       "is_free": false
     },
     {
@@ -3474,14 +3474,14 @@
     {
       "id": 4066390,
       "title": "City States: Medieval",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066390/f2e33ad9e7aae16005e1e73d798bed90b0d08bdf/header.jpg?t=1789228150",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066390/f2e33ad9e7aae16005e1e73d798bed90b0d08bdf/header.jpg?t=1789573306",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1286,
+      "price_rub": 1284,
       "is_free": false
     },
     {
@@ -4221,7 +4221,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3151,
+      "price_rub": 3144,
       "is_free": false
     },
     {
@@ -4313,7 +4313,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1315,
+      "price_rub": 1313,
       "is_free": false
     },
     {
@@ -5724,7 +5724,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3909,
+      "price_rub": 3900,
       "is_free": false
     },
     {
@@ -6374,7 +6374,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 892,
+      "price_rub": 1284,
       "is_free": false
     },
     {
@@ -7543,7 +7543,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 854,
+      "price_rub": 853,
       "is_free": false
     },
     {
@@ -7621,7 +7621,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 758,
+      "price_rub": 757,
       "is_free": false
     },
     {
@@ -7776,7 +7776,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 940,
+      "price_rub": 608,
       "is_free": false
     },
     {
@@ -7927,7 +7927,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1230,
+      "price_rub": 1228,
       "is_free": false
     },
     {
@@ -7992,7 +7992,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1303,
+      "price_rub": 1301,
       "is_free": false
     },
     {
@@ -8044,7 +8044,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -8284,7 +8284,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 822,
+      "price_rub": 821,
       "is_free": false
     },
     {
@@ -8388,7 +8388,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 870,
+      "price_rub": 869,
       "is_free": false
     },
     {
@@ -9284,14 +9284,14 @@
     {
       "id": 2950790,
       "title": "IRON NEST: Heavy Turret Simulator",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1788882545",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1789499918",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1067,
+      "price_rub": 1065,
       "is_free": false
     },
     {
@@ -9540,7 +9540,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 854,
+      "price_rub": 972,
       "is_free": false
     },
     {
@@ -10181,7 +10181,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1476,
+      "price_rub": 1473,
       "is_free": false
     },
     {
@@ -10259,7 +10259,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 735,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -10833,7 +10833,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 687,
       "is_free": false
     },
     {
@@ -11002,7 +11002,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 870,
+      "price_rub": 869,
       "is_free": false
     },
     {
@@ -11429,7 +11429,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 625,
+      "price_rub": 640,
       "is_free": false
     },
     {
@@ -12608,7 +12608,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -13264,7 +13264,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1116,
+      "price_rub": 1114,
       "is_free": false
     },
     {
@@ -13582,7 +13582,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1466,
+      "price_rub": 1464,
       "is_free": false
     },
     {
@@ -14072,7 +14072,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1059,
+      "price_rub": 1058,
       "is_free": false
     },
     {
@@ -14466,7 +14466,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -14691,7 +14691,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -14708,7 +14708,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 739,
+      "price_rub": 738,
       "is_free": false
     },
     {
@@ -14883,14 +14883,14 @@
     {
       "id": 3812600,
       "title": "ReStory: Chill Electronics Repairs",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/766d7fcf140c43ff462fd19403c6845e434e1624/header_alt_assets_3_russian.jpg?t=1787245453",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/766d7fcf140c43ff462fd19403c6845e434e1624/header_alt_assets_3_russian.jpg?t=1789419445",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1067,
+      "price_rub": 1065,
       "is_free": false
     },
     {
@@ -14932,7 +14932,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1315,
+      "price_rub": 1313,
       "is_free": false
     },
     {
@@ -15914,7 +15914,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1286,
+      "price_rub": 1284,
       "is_free": false
     },
     {
@@ -15989,7 +15989,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1675,
+      "price_rub": 1672,
       "is_free": false
     },
     {
@@ -16218,7 +16218,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -16296,7 +16296,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1135,
+      "price_rub": 1133,
       "is_free": false
     },
     {
@@ -16890,7 +16890,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1315,
+      "price_rub": 1313,
       "is_free": false
     },
     {
@@ -20253,7 +20253,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 898,
+      "price_rub": 897,
       "is_free": false
     },
     {
@@ -20324,14 +20324,14 @@
     {
       "id": 1867240,
       "title": "WARDOGS",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789503126",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 2071,
+      "price_rub": 2067,
       "is_free": false
     },
     {
@@ -20780,7 +20780,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1201,
+      "price_rub": 1199,
       "is_free": false
     },
     {
@@ -20793,7 +20793,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 684,
+      "price_rub": 572,
       "is_free": false
     },
     {
@@ -21155,7 +21155,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2253,
+      "price_rub": 2248,
       "is_free": false
     },
     {
@@ -21393,7 +21393,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 599,
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -21539,7 +21539,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3056,
+      "price_rub": 3050,
       "is_free": false
     },
     {
@@ -21929,7 +21929,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 898,
+      "price_rub": 897,
       "is_free": false
     },
     {
@@ -22232,7 +22232,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 968,
+      "price_rub": 1020,
       "is_free": false
     },
     {
@@ -22342,7 +22342,7 @@
     {
       "id": 4829980,
       "title": "仙途放置：无尽天梯和完美装备",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1784045451",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1789664476",
       "genres": [
         "Экшен"
       ],
@@ -22713,7 +22713,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -22973,7 +22973,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 599,
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -23194,7 +23194,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 595,
+      "price_rub": 594,
       "is_free": false
     },
     {
@@ -23519,7 +23519,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 599,
+      "price_rub": 598,
       "is_free": false
     },
     {

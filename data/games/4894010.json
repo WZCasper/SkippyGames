@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1466,
+  "price_rub": 1464,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,13 +29,13 @@
     {
       "id": 5136550,
       "name": "PHANTOM TAG: MANIFEST - NO MORE EIGADOROBO Collaboration Costume（Markus）",
-      "price_rub": 936,
+      "price_rub": 935,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136550/5d971153c9e3d21cd49258c0bf7073909bdfc5de/header.jpg?t=1789099822"
     },
     {
       "id": 5136560,
       "name": "PHANTOM TAG: MANIFEST - NO MORE EIGADOROBO Collaboration Costume（Torchie）",
-      "price_rub": 936,
+      "price_rub": 935,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136560/2139ce7c3358955cc0aa588a9e011d198efc1774/header.jpg?t=1789100001"
     },
     {
@@ -58,5 +58,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-14T11:25:00Z"
+  "updated_at": "2026-09-17T21:03:19Z"
 }
