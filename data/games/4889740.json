@@ -35,13 +35,13 @@
     {
       "id": 4897090,
       "name": "Mow My World - Neighborhood Builder Pack",
-      "price_rub": 870,
+      "price_rub": 869,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897090/9b8708dbe66f1e6cd0651ac6bfb06ceaec541c1d/header.jpg?t=1784310765"
     },
     {
       "id": 4897100,
       "name": "Mow My World - Landmark Pack 1",
-      "price_rub": 937,
+      "price_rub": 935,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4897100/a812e6c8b446675eeda8d1914c4fddb32d01ad60/header.jpg?t=1784310679"
     },
     {
@@ -64,5 +64,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-13T15:46:24Z"
+  "updated_at": "2026-09-17T02:38:58Z"
 }
