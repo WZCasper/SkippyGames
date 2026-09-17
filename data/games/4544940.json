@@ -35,7 +35,7 @@
     {
       "id": 4871500,
       "name": "The Infinite Grimoire - Archmage's Treasury",
-      "price_rub": 599,
+      "price_rub": 598,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871500/7202c3cc15865458f3162559ba8fa895bf26a1f5/header.jpg?t=1784048564"
     },
     {
@@ -52,5 +52,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-14T02:19:30Z"
+  "updated_at": "2026-09-17T10:55:29Z"
 }
