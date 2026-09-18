@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "MSdtPWXUCIk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/e4ca763e81689de4f1dd504fa9d3387785f7bf89/ss_e4ca763e81689de4f1dd504fa9d3387785f7bf89.1920x1080.jpg?t=1785908787",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/1ef79c727c360842697f86e4c29f1f400dbb4150/ss_1ef79c727c360842697f86e4c29f1f400dbb4150.1920x1080.jpg?t=1785908787",
@@ -22,7 +22,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/1bfd1a848591e6d5c1163314dbfdab317690f57c/ss_1bfd1a848591e6d5c1163314dbfdab317690f57c.1920x1080.jpg?t=1785908787",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/abad202c9099a94122f280d8490064c0f3424197/ss_abad202c9099a94122f280d8490064c0f3424197.1920x1080.jpg?t=1785908787"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4320410,
+      "name": "Early Purchase Bonus - Unlock SAMURAI JAPAN 2026 \"Shohei Ohtani\" (for GLOBAL)",
+      "price_rub": 4471,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320410/1bb36ed9ec6009ce8da7bbbb9edbe241340ee4c0/header.jpg?t=1789576253"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-09-14T21:37:56Z"
+  "updated_at": "2026-09-18T10:10:21Z"
 }
