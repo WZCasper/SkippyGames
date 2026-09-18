@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T21:32:21Z",
-  "uah_to_rub_rate": 1.889993,
+  "generated_at": "2026-09-18T02:42:51Z",
+  "uah_to_rub_rate": 1.891888,
   "markup_rub": 500,
   "target_catalog_size": 10000,
   "count": 1785,
@@ -483,7 +483,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1303,
+      "price_rub": 1302,
       "is_free": false
     },
     {
@@ -1307,7 +1307,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1106,
+      "price_rub": 1105,
       "is_free": false
     },
     {
@@ -1359,7 +1359,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -1576,7 +1576,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 898,
+      "price_rub": 897,
       "is_free": false
     },
     {
@@ -1813,7 +1813,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -3585,7 +3585,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 652,
+      "price_rub": 651,
       "is_free": false
     },
     {
@@ -3780,7 +3780,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1135,
+      "price_rub": 1134,
       "is_free": false
     },
     {
@@ -3897,7 +3897,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1135,
+      "price_rub": 1134,
       "is_free": false
     },
     {
@@ -4339,7 +4339,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1182,
+      "price_rub": 1181,
       "is_free": false
     },
     {
@@ -4705,7 +4705,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 635,
+      "price_rub": 634,
       "is_free": false
     },
     {
@@ -5051,7 +5051,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -5650,14 +5650,14 @@
     {
       "id": 4249850,
       "title": "E-Shop Tycoon",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249850/89c708329b69dfa7b088e8e90857ac252459848b/header.jpg?t=1789375482",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249850/89c708329b69dfa7b088e8e90857ac252459848b/header.jpg?t=1789547179",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1106,
+      "price_rub": 1105,
       "is_free": false
     },
     {
@@ -5997,7 +5997,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 687,
       "is_free": false
     },
     {
@@ -7028,14 +7028,14 @@
     {
       "id": 4790650,
       "title": "Forge Maiden",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790650/813dba12dcacb5b61879b626e9b51750d4db34d3/header.jpg?t=1789052007",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790650/813dba12dcacb5b61879b626e9b51750d4db34d3/header.jpg?t=1789529886",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 574,
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -7152,7 +7152,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 726,
+      "price_rub": 725,
       "is_free": false
     },
     {
@@ -7698,7 +7698,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1286,
+      "price_rub": 1285,
       "is_free": false
     },
     {
@@ -7805,7 +7805,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2583,
+      "price_rub": 2579,
       "is_free": false
     },
     {
@@ -8180,7 +8180,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1372,
+      "price_rub": 1370,
       "is_free": false
     },
     {
@@ -9106,7 +9106,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -10200,14 +10200,14 @@
     {
       "id": 2215200,
       "title": "LEGO® Бэтмен™: Наследие Темного рыцаря",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1787760153",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1789599673",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 4099,
+      "price_rub": 4093,
       "is_free": false
     },
     {
@@ -10246,7 +10246,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 870,
+      "price_rub": 869,
       "is_free": false
     },
     {
@@ -10690,7 +10690,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 870,
+      "price_rub": 869,
       "is_free": false
     },
     {
@@ -10742,7 +10742,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 877,
+      "price_rub": 876,
       "is_free": false
     },
     {
@@ -10807,7 +10807,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 722,
+      "price_rub": 721,
       "is_free": false
     },
     {
@@ -11819,7 +11819,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 746,
+      "price_rub": 684,
       "is_free": false
     },
     {
@@ -12071,7 +12071,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 898,
+      "price_rub": 897,
       "is_free": false
     },
     {
@@ -12322,7 +12322,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1002,
+      "price_rub": 1001,
       "is_free": false
     },
     {
@@ -12465,7 +12465,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 735,
       "is_free": false
     },
     {
@@ -12491,7 +12491,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 983,
+      "price_rub": 982,
       "is_free": false
     },
     {
@@ -13303,7 +13303,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -14362,7 +14362,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1059,
+      "price_rub": 1058,
       "is_free": false
     },
     {
@@ -14388,7 +14388,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 902,
+      "price_rub": 901,
       "is_free": false
     },
     {
@@ -14561,7 +14561,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 972,
+      "price_rub": 971,
       "is_free": false
     },
     {
@@ -15883,7 +15883,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1315,
+      "price_rub": 1314,
       "is_free": false
     },
     {
@@ -17530,7 +17530,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 599,
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -18635,7 +18635,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1184,
+      "price_rub": 1304,
       "is_free": false
     },
     {
@@ -18778,7 +18778,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2204,
+      "price_rub": 2201,
       "is_free": false
     },
     {
@@ -19035,7 +19035,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 983,
+      "price_rub": 982,
       "is_free": false
     },
     {
@@ -19481,7 +19481,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -19864,14 +19864,14 @@
     {
       "id": 4863520,
       "title": "Urban Rangers Arcade 2",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863520/92c22c9e598b3041c9aca119d1868d718dc7692a/header.jpg?t=1787839076",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863520/92c22c9e598b3041c9aca119d1868d718dc7692a/header.jpg?t=1789459817",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 936,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -20149,7 +20149,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1201,
+      "price_rub": 1200,
       "is_free": false
     },
     {
@@ -20468,7 +20468,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 746,
+      "price_rub": 697,
       "is_free": false
     },
     {
@@ -20585,7 +20585,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 934,
+      "price_rub": 933,
       "is_free": false
     },
     {
@@ -21419,7 +21419,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 599,
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -22284,7 +22284,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1110,
+      "price_rub": 1109,
       "is_free": false
     },
     {
@@ -23220,7 +23220,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 955,
+      "price_rub": 954,
       "is_free": false
     },
     {
@@ -23311,7 +23311,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -23376,7 +23376,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 599,
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -23584,7 +23584,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 898,
+      "price_rub": 897,
       "is_free": false
     }
   ]
