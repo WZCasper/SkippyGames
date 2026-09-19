@@ -25,7 +25,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/f3c2831aa6c62d9544b0b6932cc95b6d3bc27b5d/ss_f3c2831aa6c62d9544b0b6932cc95b6d3bc27b5d.1920x1080.jpg?t=1789127109",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/4c6a5d77abdad4dee0df97df2fd2d3211d311486/ss_4c6a5d77abdad4dee0df97df2fd2d3211d311486.1920x1080.jpg?t=1789127109"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5020040,
+      "name": "Bills Must Be Paid - Supporter Pack",
+      "price_rub": 643,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020040/919f6dade88fca6714720cfbabf8188805c097f1/header.jpg?t=1786870323"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-09-16T02:50:46Z"
+  "updated_at": "2026-09-19T15:05:45Z"
 }

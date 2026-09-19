@@ -1,9 +1,9 @@
 {
   "id": 4917740,
   "title": "Wizard Tournament",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/da3ae5a11382853bcb2147507050716622403e2f/header.jpg?t=1789525619",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/3b95e15ca92aaf428d47384a2a720387ab857322/page_bg_raw.jpg?t=1789525619",
-  "description": "Wizard Tournament is an asynchronous PvP tower-building autobattler where every run is a puzzle of placement, economy, and magical item synergies.\n\nBuild your tower from blocks, fill it with strange weapons, spells, creatures, relics, and support items, then send it into battle against rival wizard towers. \n\nChoose a direction for your build: stack Burn, Poison, Bleed, Shatter, Shock, Thorns, Ward, Crit, Creatures, or mix elements together into something stranger. Powerful combinations can carry a run, but the shop, your economy, and event choices will constantly push you to adapt.\n\nFeatures:\n\n- Rearrange your tower to create endless synergies\n\n- Draft items from a rerolling shop and manage your gold carefully.\n\n- Discover item synergies through elements, tags, and positional bonuses.\n\n- Fight with weapons, spells, creatures, relics, defenses, and support pieces.\n\n- Play solo or team up in online co-op.\n\nEvery tournament is a new chance to assemble something ridiculous, clever, and just barely stable enough to win.   \n\nCompete: \n \nRanked mode uses MMR to match and measure player progress. Everyone starts at 500 MMR, and your rating changes after each ranked match based on the result. Co-op ranked is calculated individually, so teammates can gain or lose different amounts depending on their own rating and outcome. You can team up with any friend, regardless of rank.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/da3ae5a11382853bcb2147507050716622403e2f/header.jpg?t=1789622269",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/3b95e15ca92aaf428d47384a2a720387ab857322/page_bg_raw.jpg?t=1789622269",
+  "description": "Wizard Tournament is an asynchronous PvP tower-building autobattler where every run is a puzzle of placement, economy, and magical item synergies.\n\nBuild your tower from blocks, fill it with strange weapons, spells, creatures, relics, and support items, then send it into battle against rival wizard towers. \n\nChoose a direction for your build: stack Burn, Poison, Bleed, Shatter, Shock, Thorns, Ward, Crit, Creatures, or mix elements together into something stranger. Powerful combinations can carry a run, but the shop, your economy, and event choices will constantly push you to adapt.\n\nFeatures:\n\n- Play solo or team up in online co-op.\n- Asynchronous PvP allows you to play at your own pace\n- Over 165 items and 17 tags\n- Rearrange your tower into strange shapes to find the perfect setup.\n- Draft items from a rerolling shop and manage your gold carefully.\n- Discover item synergies through elements, tags, and positional bonuses.\n- Fight with weapons, spells, creatures, relics, defenses, and support pieces.\n- 6 different events that will shake up your build\n\nEvery tournament is a new chance to assemble something ridiculous, clever, or just barely stable enough to win.   \n\nCompete: \n \nRanked mode uses Fame to match and measure player progress. Everyone starts at 500 Fame, and your rating changes after each ranked match based on the result. Co-op ranked is calculated individually, so teammates can gain or lose different amounts depending on their own rating and outcome. You can team up with any friend, regardless of rank. \n \n                                                              \nKing Of The Hill\n\nCompete in an endless mode to achieve more wins than anybody else to become the King of the Hill and sit atop your throne on the main menu for all to see.",
   "description_short": "Build and rearrange a tower packed with spells, creatures, relics and defenses. Chain positional bonuses, adapt to every shop, then battle real player-made towers in ranked asynchronous PvP solo or with a friend in online CO-OP.",
   "genres": [
     "Экшен"
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 897,
+  "price_rub": 896,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/006e4e244c98819dc4b1ea8c8360c84a8163398c/ss_006e4e244c98819dc4b1ea8c8360c84a8163398c.1920x1080.jpg?t=1789525619",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/5d3615738c8e9f179ac76d30aef03384edb31581/ss_5d3615738c8e9f179ac76d30aef03384edb31581.1920x1080.jpg?t=1789525619",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/d6df4467062c5db11ba646d54141e450442da420/ss_d6df4467062c5db11ba646d54141e450442da420.1920x1080.jpg?t=1789525619",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/4650d4a0799f6090f9dc12be8fc1891b95da3d3e/ss_4650d4a0799f6090f9dc12be8fc1891b95da3d3e.1920x1080.jpg?t=1789525619",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/e46c12b26d4163b235a5eb3e150b0a830bb8f1fa/ss_e46c12b26d4163b235a5eb3e150b0a830bb8f1fa.1920x1080.jpg?t=1789525619",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/66f7ddf9e789d1c6b86da0725e128ef92d54599a/ss_66f7ddf9e789d1c6b86da0725e128ef92d54599a.1920x1080.jpg?t=1789525619"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/006e4e244c98819dc4b1ea8c8360c84a8163398c/ss_006e4e244c98819dc4b1ea8c8360c84a8163398c.1920x1080.jpg?t=1789622269",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/5d3615738c8e9f179ac76d30aef03384edb31581/ss_5d3615738c8e9f179ac76d30aef03384edb31581.1920x1080.jpg?t=1789622269",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/d6df4467062c5db11ba646d54141e450442da420/ss_d6df4467062c5db11ba646d54141e450442da420.1920x1080.jpg?t=1789622269",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/4650d4a0799f6090f9dc12be8fc1891b95da3d3e/ss_4650d4a0799f6090f9dc12be8fc1891b95da3d3e.1920x1080.jpg?t=1789622269",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/e46c12b26d4163b235a5eb3e150b0a830bb8f1fa/ss_e46c12b26d4163b235a5eb3e150b0a830bb8f1fa.1920x1080.jpg?t=1789622269",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917740/66f7ddf9e789d1c6b86da0725e128ef92d54599a/ss_66f7ddf9e789d1c6b86da0725e128ef92d54599a.1920x1080.jpg?t=1789622269"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-16T02:48:41Z"
+  "updated_at": "2026-09-19T15:03:39Z"
 }
