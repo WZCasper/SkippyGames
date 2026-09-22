@@ -2,7 +2,7 @@
   "id": 2932480,
   "title": "OrbitalCrash",
   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932480/2e54a8bc1e9913642f03da95e85adee60723180e/header.jpg?t=1787173219",
-  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2932480/library_hero.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2932480?t=1787173219",
   "description": "Сражайтесь с другими игроками в динамичной среде с гравитацией, которая ведет себя по-разному на различных картах.\n\nХватайте любимое оружие и доминируйте в лобби с помощью своих навыков! Пинайте, хватайте, цепляйте крюком и расстреливайте других игроков, обрекая их на гибель.\n\nРазличные карты, отличающиеся огромным разнообразием, позволят вам применять свои способности уникальными способами.\n\nМножество настроек игрового процесса для каждого лобби позволит вам получить море новых впечатлений.\n\nРаскачивайтесь по карте, как йо-йо, и используйте препятствия, чтобы запускать себя в полет по всему миру.\n\nТолкайте врагов на верную смерть!\n\nБудьте на шаг впереди соперников! Зарабатывайте очки в каждой битве и улучшайте свои способности, чтобы доминировать на арене. \n\nСейте хаос, управляя внутриигровыми транспортными средствами!",
   "description_short": "Сражайтесь с другими игроками на этой динамичной арене! Перемещайтесь с помощью крюка по картам с меняющейся гравитацией, отбрасывая врагов в черные дыры или в холодную пустоту космоса. Овладейте разнообразным арсеналом и доминируйте над соперниками благодаря своим навыкам и хитрости.",
   "genres": [
@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "e9AYR12uzpI",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932480/e0174edea803526fb3be0dbf4e2314ade5913e62/ss_e0174edea803526fb3be0dbf4e2314ade5913e62.1920x1080.jpg?t=1787173219",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932480/b0941f4369d721ea57c948437f4e01f3ee52c7f6/ss_b0941f4369d721ea57c948437f4e01f3ee52c7f6.1920x1080.jpg?t=1787173219",
@@ -29,10 +29,10 @@
     {
       "id": 4954650,
       "name": "OrbitalCrash - Supporter Edition",
-      "price_rub": 746,
+      "price_rub": 744,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954650/33eb92a3e4c561be5c2135428e10aadfac4ec038/header.jpg?t=1785521502"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-18T15:53:53Z"
+  "updated_at": "2026-09-22T10:26:54Z"
 }
