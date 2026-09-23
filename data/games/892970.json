@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1632,
+  "price_rub": 1625,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "S1muaDEANkg",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.1920x1080.jpg?t=1789470462",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/bc7c361dab1780543a3ceca50c8fba831e5bc8db/ss_bc7c361dab1780543a3ceca50c8fba831e5bc8db.1920x1080.jpg?t=1789470462",
@@ -32,10 +32,10 @@
     {
       "id": 1620250,
       "name": "Valheim Soundtrack",
-      "price_rub": 913,
+      "price_rub": 911,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620250/header.jpg?t=1716460804"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-19T15:27:48Z"
+  "updated_at": "2026-09-23T10:22:17Z"
 }
