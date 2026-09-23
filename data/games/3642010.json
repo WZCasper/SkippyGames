@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1283,
+  "price_rub": 1278,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -28,16 +28,16 @@
     {
       "id": 5149210,
       "name": "Truck-kun is Supporting Me From Another World?! - Supporter Pack DLC",
-      "price_rub": 721,
+      "price_rub": 719,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5149210/4a39e9cc1c47a2667e0200f82f7706fed4cdcd13/header.jpg?t=1789765043"
     },
     {
       "id": 4959920,
       "name": "Truck-kun is Supporting Me from Another World?! Soundtrack",
-      "price_rub": 745,
+      "price_rub": 744,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4959920/7808a856b0537f320703a39a892672bcb19261de/header.jpg?t=1786065200"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-19T10:10:50Z"
+  "updated_at": "2026-09-23T02:07:44Z"
 }

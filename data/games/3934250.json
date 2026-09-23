@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2622,
+  "price_rub": 2610,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,16 +29,16 @@
     {
       "id": 5217100,
       "name": "Village in the Shade Original Soundtrack - Sounds from the Shade",
-      "price_rub": 934,
+      "price_rub": 931,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217100/aa3d7764306ab193184ab1868942d7b77290eb1c/header.jpg?t=1789437448"
     },
     {
       "id": 5217160,
       "name": "Village in the Shade - Touring Kagatsu Artbook",
-      "price_rub": 934,
+      "price_rub": 931,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217160/3b5aa01aec61859fcc4884ba068e6ec4c77e435d/header.jpg?t=1789437496"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-19T15:09:57Z"
+  "updated_at": "2026-09-23T02:55:19Z"
 }
