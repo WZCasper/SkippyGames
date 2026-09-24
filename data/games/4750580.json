@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2123,
+  "price_rub": 2114,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,40 +29,40 @@
     {
       "id": 4800070,
       "name": "Figryne Cast Studio Engine - Cinematic LUT Pack",
-      "price_rub": 821,
+      "price_rub": 819,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800070/4328a39e27215fb5ba65ce106eeecc2ca430110a/header.jpg?t=1789018472"
     },
     {
       "id": 4800080,
       "name": "Figryne Cast Studio Engine - Stage Lighting Pack",
-      "price_rub": 1104,
+      "price_rub": 1101,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800080/343c0f2197dbd9906b3b347c5890b755f4e765ed/header.jpg?t=1789018655"
     },
     {
       "id": 4800090,
       "name": "Figryne Cast Studio Engine - Scene Object Pack",
-      "price_rub": 1104,
+      "price_rub": 1101,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800090/dd0e06b1f2360c928f4802cb79f1fff99f886c57/header.jpg?t=1789018720"
     },
     {
       "id": 4800100,
       "name": "Figryne Cast Studio Engine - Auto Director Pack",
-      "price_rub": 1019,
+      "price_rub": 1016,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800100/9bd73863185d8c5d6733e39080f64ef164a6fe4c/header.jpg?t=1789018567"
     },
     {
       "id": 4955200,
       "name": "Figryne Cast Studio Engine - Atmosphere & Diffusion Pack",
-      "price_rub": 1019,
+      "price_rub": 1016,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4955200/90cb08cc4c333b767338862ce511dcf0ec73661c/header.jpg?t=1788733420"
     },
     {
       "id": 5015260,
       "name": "Figryne Cast Studio Engine - Live2D Addon",
-      "price_rub": 1311,
+      "price_rub": 1307,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015260/0796a973c5f919f5129a4dcec4688130a7742352/header.jpg?t=1788563830"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-20T10:53:58Z"
+  "updated_at": "2026-09-24T02:15:55Z"
 }
