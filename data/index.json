@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T16:53:05Z",
+  "generated_at": "2026-09-25T21:36:17Z",
   "uah_to_rub_rate": 1.890597,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1830,
+  "count": 1843,
   "games": [
     {
       "id": 3767620,
@@ -1014,6 +1014,19 @@
       "is_free": false
     },
     {
+      "id": 4375800,
+      "title": "Anna - Chapter 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375800/f90152ded631c48a2089d3804f6a6c40e23537bd/header.jpg?t=1790367425",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1131,
+      "is_free": false
+    },
+    {
       "id": 4872780,
       "title": "Anomaly Control Division",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/d9d66936454fde48ac72e8393b8f115c34edc138/header.jpg?t=1783669401",
@@ -1995,7 +2008,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 742,
+      "price_rub": 744,
       "is_free": false
     },
     {
@@ -2874,6 +2887,19 @@
       "is_free": false
     },
     {
+      "id": 4323690,
+      "title": "CTRL+ESC",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323690/e7050a294d869461aba861a9b564ebb3e99a1984/header.jpg?t=1790358665",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 629,
+      "is_free": false
+    },
+    {
       "id": 2002420,
       "title": "Caddywack",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2002420/capsule_616x353.jpg",
@@ -2987,7 +3013,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -3741,7 +3767,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1261,
+      "price_rub": 1266,
       "is_free": false
     },
     {
@@ -4203,7 +4229,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -4608,7 +4634,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -4802,6 +4828,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 3715790,
+      "title": "Decklings",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715790/a580a7de83481e2d2c117786dfe86dc8473ed391/header.jpg?t=1790357691",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 973,
+      "is_free": false
     },
     {
       "id": 4749870,
@@ -5635,7 +5674,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -6654,7 +6693,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -6680,7 +6719,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 739,
+      "price_rub": 821,
       "is_free": false
     },
     {
@@ -6773,7 +6812,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -7404,7 +7443,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -8561,7 +8600,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 594,
+      "price_rub": 595,
       "is_free": false
     },
     {
@@ -8721,6 +8760,19 @@
       "is_free": false
     },
     {
+      "id": 5207580,
+      "title": "Hentai Femboy Secretary",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5207580/35b16105349f1527a0584204ccbc004edaa605cc/header.jpg?t=1790357322",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 596,
+      "is_free": false
+    },
+    {
       "id": 4660300,
       "title": "Hentai Flesh",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660300/89953f9356d78ccb46a15d6bea1d2693edca59d7/header.jpg?t=1788694448",
@@ -8873,7 +8925,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1626,
+      "price_rub": 1632,
       "is_free": false
     },
     {
@@ -9029,7 +9081,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1278,
+      "price_rub": 1283,
       "is_free": false
     },
     {
@@ -9081,7 +9133,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2474,
+      "price_rub": 2485,
       "is_free": false
     },
     {
@@ -9188,7 +9240,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -9361,6 +9413,19 @@
       "is_free": false
     },
     {
+      "id": 4173620,
+      "title": "I Know a Guy: Shady Life Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173620/40f0d33c6acce88b1eaa63939a53d1068ed7d848/header_alt_assets_2.jpg?t=1790355614",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 918,
+      "is_free": false
+    },
+    {
       "id": 4207100,
       "title": "I Know a Spot",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207100/6cfaad727815396ae5ac3694bfc9d536e6afe100/header.jpg?t=1787633636",
@@ -9438,7 +9503,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -9587,7 +9652,7 @@
     {
       "id": 1915430,
       "title": "Idylls of the Lunar Maria",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915430/header.jpg?t=1785045686",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1915430/capsule_616x353.jpg",
       "genres": [
         "Казуальные игры",
         "Головоломки",
@@ -9596,7 +9661,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 887,
+      "price_rub": 889,
       "is_free": false
     },
     {
@@ -9778,7 +9843,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1054,
+      "price_rub": 1058,
       "is_free": false
     },
     {
@@ -9817,7 +9882,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -10718,7 +10783,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 524,
+      "price_rub": 551,
       "is_free": false
     },
     {
@@ -11292,7 +11357,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 618,
+      "price_rub": 619,
       "is_free": false
     },
     {
@@ -11758,7 +11823,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -11875,7 +11940,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -12929,7 +12994,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 756,
+      "price_rub": 757,
       "is_free": false
     },
     {
@@ -13033,7 +13098,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -13060,6 +13125,19 @@
         "PC"
       ],
       "price_rub": 1496,
+      "is_free": false
+    },
+    {
+      "id": 5215920,
+      "title": "Nightmare Horror Investigation",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5215920/9fc11967fdcf9bf81428b37f7d5c00734887d073/header.jpg?t=1790357751",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -13476,7 +13554,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -13824,6 +13902,19 @@
       "is_free": false
     },
     {
+      "id": 3321770,
+      "title": "Overdeveloped: Requiem",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321770/ba8c974ebfecaa2e99eaaa48073bb4e2fbd5ee76/header.jpg?t=1790367395",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 551,
+      "is_free": false
+    },
+    {
       "id": 4858520,
       "title": "Overlab",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
@@ -13859,7 +13950,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 806,
+      "price_rub": 808,
       "is_free": false
     },
     {
@@ -13872,7 +13963,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -14076,7 +14167,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 887,
+      "price_rub": 889,
       "is_free": false
     },
     {
@@ -14867,7 +14958,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1130,
+      "price_rub": 1133,
       "is_free": false
     },
     {
@@ -15359,6 +15450,19 @@
       "is_free": false
     },
     {
+      "id": 3354130,
+      "title": "Recurrence",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354130/header.jpg?t=1790354178",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 941,
+      "is_free": false
+    },
+    {
       "id": 1174180,
       "title": "Red Dead Redemption 2",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg",
@@ -15535,7 +15639,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 633,
+      "price_rub": 634,
       "is_free": false
     },
     {
@@ -15998,7 +16102,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -16202,7 +16306,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -16621,14 +16725,14 @@
     {
       "id": 4923890,
       "title": "Shadow Boxing",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4923890/27ada547cd1b3397b18276d453607e3b9b57250d/header.jpg?t=1789614455",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4923890/27ada547cd1b3397b18276d453607e3b9b57250d/header.jpg?t=1790212153",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 641,
+      "price_rub": 642,
       "is_free": false
     },
     {
@@ -16746,6 +16850,19 @@
         "PC"
       ],
       "price_rub": 860,
+      "is_free": false
+    },
+    {
+      "id": 5052050,
+      "title": "Shrine Train",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052050/0757a9b8402536c7071896c445ce8244ff74e457/header.jpg?t=1790352137",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 587,
       "is_free": false
     },
     {
@@ -17122,6 +17239,19 @@
       "is_free": true
     },
     {
+      "id": 5115860,
+      "title": "Smoke Keeper",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115860/609b920421f848d4c4a9b12c1153c757f5f5415f/header.jpg?t=1790359856",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 763,
+      "is_free": false
+    },
+    {
       "id": 4624100,
       "title": "Smoke Town",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624100/44fcfe752e7cb189b87ed1f5119e93a3386569b3/header.jpg?t=1783668615",
@@ -17222,7 +17352,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -17448,7 +17578,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 895,
+      "price_rub": 897,
       "is_free": false
     },
     {
@@ -18083,7 +18213,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 643,
+      "price_rub": 644,
       "is_free": false
     },
     {
@@ -18123,6 +18253,19 @@
         "PC"
       ],
       "price_rub": 598,
+      "is_free": false
+    },
+    {
+      "id": 4357300,
+      "title": "Sumo Fumble: Physics Party",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4357300/c7511a520f3a9de38059ae0eb81f5144ddfad3ad/header.jpg?t=1790358127",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 697,
       "is_free": false
     },
     {
@@ -18603,7 +18746,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 643,
+      "price_rub": 644,
       "is_free": false
     },
     {
@@ -18944,7 +19087,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -19296,6 +19439,19 @@
         "PC"
       ],
       "price_rub": 551,
+      "is_free": false
+    },
+    {
+      "id": 4393370,
+      "title": "The Only Droid",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4393370/fc0ee5609770dad7d7c4705356b7b35113d61e72/header.jpg?t=1790356100",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 848,
       "is_free": false
     },
     {
@@ -20128,7 +20284,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -20601,7 +20757,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -20718,7 +20874,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 558,
+      "price_rub": 598,
       "is_free": false
     },
     {
@@ -20809,7 +20965,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 742,
+      "price_rub": 744,
       "is_free": false
     },
     {
@@ -20960,6 +21116,19 @@
         "PC"
       ],
       "price_rub": 3423,
+      "is_free": false
+    },
+    {
+      "id": 4823240,
+      "title": "WashMate",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823240/6ddfd04faff0069b578be7025d742ff777cc09b1/header.jpg?t=1790355650",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 651,
       "is_free": false
     },
     {
@@ -21431,7 +21600,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -22040,7 +22209,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 820,
+      "price_rub": 821,
       "is_free": false
     },
     {
@@ -22347,7 +22516,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 697,
+      "price_rub": 699,
       "is_free": false
     },
     {
@@ -23391,7 +23560,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 643,
+      "price_rub": 644,
       "is_free": false
     },
     {
@@ -23417,7 +23586,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -23534,7 +23703,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1224,
+      "price_rub": 1228,
       "is_free": false
     },
     {
@@ -23547,7 +23716,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
