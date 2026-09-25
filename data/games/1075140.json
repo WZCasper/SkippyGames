@@ -1,7 +1,7 @@
 {
   "id": 1075140,
   "title": "Super Friends Party",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/header.jpg?t=1785816459",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1075140/capsule_616x353.jpg",
   "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/page_bg_raw.jpg?t=1785816459",
   "description": "Play minigames with up to 6 players in this online minigame multiplayer game!\nConnect up with your friends or strangers as you battle it out to find a champion!\nAll minigames are free to play, so get a friend or 5, what are you waiting for?\n\nUnique Gameplay – With minigames spanning across dozens of genres, there is a minigame for every taste for those friend groups who just can't decide!\n\nClassic Feel – Designed with the spirit of old school gaming, these minigames will feel familiar to gamers who have played similar titles.\n\nPlay who you want! – Change your name and appearance as often as you want! With over 100 playable characters you will never get bored.\n\nCustomization Galore – Hundreds of unlocks allow virtually endless customization of your characters!\n\nSolo Queue or Custom Lobby – Decide between playing with your friends, or competing in solo queue for fantastic unlocks!\n\nEarn Tickets - Earn Tickets for playing! Use tickets to buy hats, taunts, characters and much more!\n\nWeekly Content Updates – More minigames are coming all the time! As well as content updates, new characters, hats and taunts.\n\nAn internet connection is required to play.",
   "description_short": "Play minigames with up to 6 players in this online minigame multiplayer game! Connect up with your friends or strangers as you battle it out to find a champion! All minigames are free to play, so get a friend or 5, what are you waiting for?",
@@ -32,5 +32,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-22T10:28:47Z"
+  "updated_at": "2026-09-25T10:47:45Z"
 }

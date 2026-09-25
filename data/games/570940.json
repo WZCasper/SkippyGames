@@ -1,0 +1,31 @@
+{
+  "id": 570940,
+  "title": "DARK SOULS™: REMASTERED",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/library_hero.jpg",
+  "description": "…Затем появился огонь.\n\r\nЗаново переживите события легендарной игры, с которой всё началось. Издание содержит основную игру и дополнение «Арториас из Бездны».\n\r\n\n\r\nОсобенности:\n\r\n• Мрачная вселенная с богатой историей\n\r\n• Каждая смерть — это лишь новое начало\n\r\n• Разнообразие и богатство игровых возможностей\n\r\n• Залог успеха — обучаемость и мастерство\n\r\n• Уникальный сетевой режим (до 6 игроков и выделенные серверы)",
+  "description_short": "…Затем появился огонь. Заново переживите события легендарной игры, с которой всё началось. В новом воплощении вас ждёт возвращение в Лордран, представленный в HD-графике с поддержкой 60 кадров/с.",
+  "genres": [
+    "Экшен",
+    "Экшен-РПГ (Action-RPG)",
+    "Приключения"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "price_rub": 1254,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_3a71463e4ccaf28c5c27f6cf8d32a3a125f45404.1920x1080.jpg?t=1778518110",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_92b2ba470cbfdb8839b649b3f478e5531dd81a17.1920x1080.jpg?t=1778518110",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_626cc310dc9ac7fb146011582c864a35e5f3e381.1920x1080.jpg?t=1778518110",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_f1617a419eb3b0cd877ec71230c59aa2672b62dc.1920x1080.jpg?t=1778518110",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_f60f54e58b13d0744853672ccd35810397e3fa26.1920x1080.jpg?t=1778518110",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_b4a80bd6e828a81db09ecbef5694e5d0cddb2caf.1920x1080.jpg?t=1778518110"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-09-25T11:08:12Z"
+}
