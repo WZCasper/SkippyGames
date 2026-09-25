@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T11:20:50Z",
+  "generated_at": "2026-09-25T16:53:05Z",
   "uah_to_rub_rate": 1.890597,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1811,
+  "count": 1830,
   "games": [
     {
       "id": 3767620,
@@ -236,7 +236,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -288,7 +288,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -353,7 +353,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -419,6 +419,19 @@
         "PC"
       ],
       "price_rub": 851,
+      "is_free": false
+    },
+    {
+      "id": 5223690,
+      "title": "A Needle In A Haystack: Sorting Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5223690/7103e172f1b7d575aa8b5b94de2da61fe6cf0a72/header.jpg?t=1790344166",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 697,
       "is_free": false
     },
     {
@@ -535,7 +548,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -1645,6 +1658,19 @@
       "is_free": false
     },
     {
+      "id": 3116730,
+      "title": "BIG LOOT",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3116730/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1141,
+      "is_free": false
+    },
+    {
       "id": 4741530,
       "title": "BIOTONE.",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741530/ad32a2d962e540cfa1166ca9a5d9bb348c099a2d/header.jpg?t=1784022678",
@@ -2389,7 +2415,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 780,
+      "price_rub": 782,
       "is_free": false
     },
     {
@@ -3026,7 +3052,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -3235,6 +3261,19 @@
         "PC"
       ],
       "price_rub": 922,
+      "is_free": false
+    },
+    {
+      "id": 5100030,
+      "title": "Center Ice Hockey",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100030/0c84b41f94a62505ac5d82a1c243028a62173caf/header.jpg?t=1790340928",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1133,
       "is_free": false
     },
     {
@@ -3858,7 +3897,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -3949,7 +3988,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -5217,14 +5256,14 @@
     {
       "id": 4324480,
       "title": "Dirty Business",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324480/0bf41369aa9d8f70fd5b1dfcf9b71b0a5b1074f3/header.jpg?t=1790072081",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324480/0bf41369aa9d8f70fd5b1dfcf9b71b0a5b1074f3/header.jpg?t=1790157234",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1130,
+      "price_rub": 1133,
       "is_free": false
     },
     {
@@ -5830,7 +5869,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 851,
+      "price_rub": 854,
       "is_free": false
     },
     {
@@ -6235,7 +6274,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1374,
+      "price_rub": 1379,
       "is_free": false
     },
     {
@@ -6313,7 +6352,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 848,
+      "price_rub": 850,
       "is_free": false
     },
     {
@@ -6512,6 +6551,19 @@
       "is_free": false
     },
     {
+      "id": 2235400,
+      "title": "Fairy Tale Academy",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2235400/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 861,
+      "is_free": false
+    },
+    {
       "id": 4823970,
       "title": "FairyLand",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823970/066b034d72af050c6b4d7a5c3d45cce19260f01e/header.jpg?t=1786752203",
@@ -6589,7 +6641,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 643,
+      "price_rub": 644,
       "is_free": false
     },
     {
@@ -7612,7 +7664,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1308,
+      "price_rub": 1313,
       "is_free": false
     },
     {
@@ -7845,7 +7897,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 573,
+      "price_rub": 574,
       "is_free": false
     },
     {
@@ -8665,7 +8717,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 643,
+      "price_rub": 644,
       "is_free": false
     },
     {
@@ -8886,7 +8938,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 867,
+      "price_rub": 869,
       "is_free": false
     },
     {
@@ -8964,7 +9016,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 686,
+      "price_rub": 687,
       "is_free": false
     },
     {
@@ -9412,7 +9464,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -9477,7 +9529,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -9687,7 +9739,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 867,
+      "price_rub": 869,
       "is_free": false
     },
     {
@@ -9780,6 +9832,19 @@
       ],
       "price_rub": 935,
       "is_free": false
+    },
+    {
+      "id": 3850550,
+      "title": "Isekai: Waifu Overlord",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850550/74947f5e14256d2b9c3a8da5276290274668666b/header_alt_assets_3.jpg?t=1790346016",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 3968160,
@@ -10077,7 +10142,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -10306,6 +10371,19 @@
       "is_free": false
     },
     {
+      "id": 4959570,
+      "title": "Knode: Untangle & Connect",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4959570/ca9e7cdcdb3e0602588a9825c6c0381fb1e1814a/header.jpg?t=1790353088",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 835,
+      "is_free": false
+    },
+    {
       "id": 4951190,
       "title": "Konbini Cleanup",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4951190/e70decc7e5d214c014de79ef98e9b4b2b2f43cdb/header.jpg?t=1787737570",
@@ -10446,6 +10524,19 @@
         "PC"
       ],
       "price_rub": 931,
+      "is_free": false
+    },
+    {
+      "id": 4345390,
+      "title": "Las 5 Celdas",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345390/d8765cb24b627b758b20c2acd46dc4bdb3fff0df/header.jpg?t=1790350063",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 629,
       "is_free": false
     },
     {
@@ -10942,6 +11033,19 @@
         "PC"
       ],
       "price_rub": 866,
+      "is_free": false
+    },
+    {
+      "id": 3115490,
+      "title": "Lunar Drifter",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115490/18dddce0e530739a362124d08dba19f2b4466fec/header.jpg?t=1790348432",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1069,
       "is_free": false
     },
     {
@@ -12283,7 +12387,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -12417,6 +12521,19 @@
         "PC"
       ],
       "price_rub": 598,
+      "is_free": false
+    },
+    {
+      "id": 4964580,
+      "title": "Museologist: Tidy Up the Museum!",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964580/987d8641136eb6096f04a68c8bda9224a61db993/header.jpg?t=1790352225",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 763,
       "is_free": false
     },
     {
@@ -13298,6 +13415,19 @@
       "is_free": false
     },
     {
+      "id": 4728140,
+      "title": "Observation Protocol",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4728140/2dbcf23e3e7e4d8c07b87c8def1104158be860ad/header.jpg?t=1790348420",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 670,
+      "is_free": false
+    },
+    {
       "id": 4885620,
       "title": "Ocean Rush",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885620/89b9bc9dac6bb1aaf44cf27804d34e9c5e2d5766/header.jpg?t=1783842386",
@@ -13476,7 +13606,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -13991,14 +14121,14 @@
     {
       "id": 4915590,
       "title": "Pebble For A Queen",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915590/05661db4368b54cc4a90f6686fe5dc05d1235043/header.jpg?t=1784736154",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915590/05661db4368b54cc4a90f6686fe5dc05d1235043/header.jpg?t=1790351945",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 818,
+      "price_rub": 755,
       "is_free": false
     },
     {
@@ -14131,7 +14261,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -14460,7 +14590,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 686,
+      "price_rub": 687,
       "is_free": false
     },
     {
@@ -15027,7 +15157,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1130,
+      "price_rub": 1133,
       "is_free": false
     },
     {
@@ -15067,6 +15197,19 @@
         "PC"
       ],
       "price_rub": 999,
+      "is_free": false
+    },
+    {
+      "id": 5228300,
+      "title": "Raw Egg Peeling",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228300/7330f9644709fffe9a448da0d7fa229c92611cd6/header.jpg?t=1790341091",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 670,
       "is_free": false
     },
     {
@@ -15186,7 +15329,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -15212,7 +15355,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 784,
+      "price_rub": 785,
       "is_free": false
     },
     {
@@ -16381,7 +16524,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -16576,7 +16719,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 935,
       "is_free": false
     },
     {
@@ -16732,7 +16875,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 782,
+      "price_rub": 784,
       "is_free": false
     },
     {
@@ -17001,7 +17144,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -17028,6 +17171,19 @@
         "PC"
       ],
       "price_rub": 744,
+      "is_free": false
+    },
+    {
+      "id": 5157620,
+      "title": "Sneaky Squad",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5157620/87e6da3ce166fb7ef36aa54550bf66e854d33566/header_russian.jpg?t=1790350972",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 704,
       "is_free": false
     },
     {
@@ -17093,6 +17249,19 @@
         "PC"
       ],
       "price_rub": 806,
+      "is_free": false
+    },
+    {
+      "id": 1552060,
+      "title": "Sockpuppet Noir",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1552060/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 778,
       "is_free": false
     },
     {
@@ -17244,6 +17413,19 @@
       "is_free": true
     },
     {
+      "id": 4451740,
+      "title": "Soul Reaper: Endless Harvest",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451740/063003234296be682fd5e92b701cfc91799e006d/header.jpg?t=1790345268",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 613,
+      "is_free": false
+    },
+    {
       "id": 4369490,
       "title": "Soulbound: Online",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/5a10fdedfe10b71a87b0a7a0600c0c048a93de41/header_alt_assets_2.jpg?t=1789210036",
@@ -17279,7 +17461,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -17307,6 +17489,22 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 1731170,
+      "title": "Space Defender: Frontier Squadron",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1731170/capsule_616x353.jpg",
+      "genres": [
+        "Аркадные гонки",
+        "Песочницы (Sandbox)",
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 935,
+      "is_free": false
     },
     {
       "id": 4641620,
@@ -17534,7 +17732,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1423,
+      "price_rub": 1555,
       "is_free": false
     },
     {
@@ -18037,6 +18235,19 @@
       "is_free": false
     },
     {
+      "id": 5146110,
+      "title": "SweatyPanzer",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5146110/69eadd3d17dbab8dcb710e08434c06de53654ee2/header.jpg?t=1790341481",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "is_free": true
+    },
+    {
       "id": 4596770,
       "title": "Sweet Hentai",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596770/c9faa8f8a530afc8c95f9a440bb6bc5155bf26f8/header.jpg?t=1784221210",
@@ -18333,14 +18544,27 @@
     {
       "id": 1913120,
       "title": "Tears of Metal",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1913120/capsule_616x353.jpg",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1786394122",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1496,
+      "price_rub": 1502,
+      "is_free": false
+    },
+    {
+      "id": 3184640,
+      "title": "Tears of Vanfell",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184640/header.jpg?t=1790346062",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1007,
       "is_free": false
     },
     {
@@ -18432,6 +18656,19 @@
         "PC"
       ],
       "price_rub": 744,
+      "is_free": false
+    },
+    {
+      "id": 5200580,
+      "title": "The Affair Ryokan: My Son's Friend's Mom",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200580/917ace08165e90ff7684a5ee1f28f1f7e6d5f353/header.jpg?t=1790344834",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 670,
       "is_free": false
     },
     {
@@ -18811,7 +19048,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 793,
       "is_free": false
     },
     {
@@ -18980,7 +19217,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 780,
+      "price_rub": 782,
       "is_free": false
     },
     {
@@ -19432,7 +19669,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 746,
       "is_free": false
     },
     {
@@ -19644,7 +19881,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 867,
+      "price_rub": 869,
       "is_free": false
     },
     {
@@ -20663,7 +20900,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 643,
+      "price_rub": 644,
       "is_free": false
     },
     {
@@ -21087,6 +21324,19 @@
         "PC"
       ],
       "price_rub": 894,
+      "is_free": false
+    },
+    {
+      "id": 4072240,
+      "title": "Woman Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072240/311f1edcd287af7732bfeb5dfe1a048d2aa3a641/header.jpg?t=1790341225",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 801,
       "is_free": false
     },
     {
