@@ -2,7 +2,7 @@
   "id": 3886130,
   "title": "Metamancer",
   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886130/136d5dec11f20832b8d5b1f0e26eb5e7208905b0/header.jpg?t=1784388939",
-  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3886130/library_hero.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3886130?t=1784388939",
   "description": "You are a METAMANCER, a self-engineered combatant in a deep-future, unstable world. Every run reshapes the game from the ground up, with procedurally generated sprites, items and maps ensuring no two playthroughs unfold the same way.\n\nEvery fight rewards preparation, experimentation and adaptability as you carve your way through a constantly evolving world.\n\nEngage enemies up close with a full melee combat system featuring procedurally generated weapons, armor and shields that support distinct playstyles.\n\nCOMBAT:Combat in Metamancer blends build-driven ability design with fast, reactive action. Your core abilities are still created through the Motherboard system, where CPUs, GPUs, RAM, and rare boards define your skills and modifiers. But combat now extends far beyond abilities alone.\n\nArmor comes in multiple tiers with powerful modifiers. Shields regenerate out of combat, encouraging aggressive repositioning and smart timing. Enemies wear the same gear they drop, turning every fight into a meaningful loot opportunity.\n\nTHE WORLDThe world of Metamancer is fully procedural and constantly shifting.\n\nYou’ll explore over ten distinct biomes, from neon-lit city ruins and industrial scrapyards to mutated swamps, data centers, and the wreckage of a fallen orbital station. Each region has its own threats, visuals, and opportunities.\n\nNothing is static. The map evolves as you play.\n\nThe FactionsMetamancer has four factions that are constantly battling for territory on the world map. The factions are split into two alliance blocks that the player can align themselves with.\n\nAs faction territories change, the maps change too. Factions leave a physical mark on the map with strongholds at the centers of their territory. Sometimes you'll see the alliances fighting against each other on world tiles!\n\nFEATURES:• Fully procedural world where every sprite is unique!\n\n• Procedural weapons, armor, upgrades and more!\n\n• A dynamic questing system!\n\n• Trading with world-simulation and market dynamics!\n\n• Procedural dialogue!\n\n• Tetris-Meets-RPG character building!\n\n• ARPG style loot!\n\n• Faction territory combat system!\n\n• Custom character creator!\n\n• Player reputation system!\n\n• Wild skill combinations!",
   "description_short": "Metamancer is a Roguelike video game that uses procedural generation for every sprite, item, map and faction making for a unique playing experience each time!",
   "genres": [
@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1109,
+  "price_rub": 1113,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "w8wlCayLFng",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886130/f31853f12617dfd7015e4e7788d4f3a20a96bb87/ss_f31853f12617dfd7015e4e7788d4f3a20a96bb87.1920x1080.jpg?t=1784388939",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886130/2cafb2b1af5e4bbc46ba4164ad98c2cddc4e3fab/ss_2cafb2b1af5e4bbc46ba4164ad98c2cddc4e3fab.1920x1080.jpg?t=1784388939",
@@ -26,5 +26,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-23T11:01:04Z"
+  "updated_at": "2026-09-26T15:53:54Z"
 }
