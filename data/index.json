@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-27T11:43:49Z",
+  "generated_at": "2026-09-27T16:39:13Z",
   "uah_to_rub_rate": 1.885962,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 1880,
+  "count": 1887,
   "games": [
     {
       "id": 3767620,
@@ -223,7 +223,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1260,
+      "price_rub": 1264,
       "is_free": false
     },
     {
@@ -613,7 +613,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -747,6 +747,19 @@
         "PC"
       ],
       "price_rub": 792,
+      "is_free": false
+    },
+    {
+      "id": 5097340,
+      "title": "Aika Was Supposed to Die",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097340/2fd46da97239e0a9174cd6c5519ed30287bd2388/header.jpg?t=1790516815",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -1576,6 +1589,19 @@
       "is_free": false
     },
     {
+      "id": 5110280,
+      "title": "Autonom land Multiverse",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5110280/3b1642e8e5de15640456b504dd4890f84ed0ffe9/header.jpg?t=1790513035",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1132,
+      "is_free": false
+    },
+    {
       "id": 2424420,
       "title": "Avatar Legends: The Fighting Game",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1789506930",
@@ -2337,7 +2363,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 866,
+      "price_rub": 868,
       "is_free": false
     },
     {
@@ -2558,7 +2584,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -2792,7 +2818,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 934,
       "is_free": false
     },
     {
@@ -3390,7 +3416,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 866,
+      "price_rub": 868,
       "is_free": false
     },
     {
@@ -3728,7 +3754,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -4228,7 +4254,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1110,
+      "price_rub": 1113,
       "is_free": false
     },
     {
@@ -4904,7 +4930,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 866,
+      "price_rub": 868,
       "is_free": false
     },
     {
@@ -4946,7 +4972,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1091,
+      "price_rub": 1094,
       "is_free": false
     },
     {
@@ -5367,7 +5393,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 934,
       "is_free": false
     },
     {
@@ -5674,7 +5700,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -7573,7 +7599,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 734,
       "is_free": false
     },
     {
@@ -8442,7 +8468,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 556,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -9165,14 +9191,14 @@
     {
       "id": 4864280,
       "title": "Hollow Orbit",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864280/e669100c41f84c1a43a84245a1cff8b5dbae0e33/header.jpg?t=1784048483",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864280/693a1ec7f4c485c59b0a0edede78649ba4c9e128/header_alt_assets_0.jpg?t=1790357760",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 866,
+      "price_rub": 775,
       "is_free": false
     },
     {
@@ -9185,7 +9211,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 819,
+      "price_rub": 821,
       "is_free": false
     },
     {
@@ -9316,6 +9342,19 @@
         "PC"
       ],
       "price_rub": 1019,
+      "is_free": false
+    },
+    {
+      "id": 5242170,
+      "title": "Horror Golf",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5242170/56afe57fe03c2cfe12075540909a3ff3df104d11/header.jpg?t=1790494058",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 530,
       "is_free": false
     },
     {
@@ -9802,7 +9841,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -10408,14 +10447,14 @@
     {
       "id": 4617640,
       "title": "Keeb Quest: Typing Battles",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617640/5943dff28c02994e77155b72158c7173ab50d253/header.jpg?t=1787860728",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617640/5943dff28c02994e77155b72158c7173ab50d253/header.jpg?t=1790471454",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -10887,7 +10926,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 639,
+      "price_rub": 640,
       "is_free": false
     },
     {
@@ -12031,7 +12070,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 792,
       "is_free": false
     },
     {
@@ -12252,7 +12291,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 934,
       "is_free": false
     },
     {
@@ -13319,7 +13358,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1035,
+      "price_rub": 1037,
       "is_free": false
     },
     {
@@ -13944,7 +13983,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 922,
+      "price_rub": 924,
       "is_free": false
     },
     {
@@ -14401,7 +14440,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -14839,6 +14878,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 5170400,
+      "title": "Platform Chess",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5170400/98c97f588837881fce92bbd6dbac5ee4227e92c0/header.jpg?t=1790513717",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 647,
+      "is_free": false
     },
     {
       "id": 4729310,
@@ -15456,7 +15508,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 742,
+      "price_rub": 743,
       "is_free": false
     },
     {
@@ -16336,7 +16388,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -16631,7 +16683,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -17150,6 +17202,19 @@
       ],
       "price_rub": 0,
       "is_free": true
+    },
+    {
+      "id": 4038570,
+      "title": "Shopping Cart Pusher",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038570/4d20295985dfdbb215e06e8b2cd7711fc780bdff/header.jpg?t=1790517508",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 792,
+      "is_free": false
     },
     {
       "id": 3922610,
@@ -17755,7 +17820,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 934,
       "is_free": false
     },
     {
@@ -18268,7 +18333,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -18372,7 +18437,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -18777,7 +18842,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -19334,7 +19399,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 744,
+      "price_rub": 745,
       "is_free": false
     },
     {
@@ -19494,7 +19559,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1307,
+      "price_rub": 1311,
       "is_free": false
     },
     {
@@ -21034,7 +21099,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 932,
+      "price_rub": 934,
       "is_free": false
     },
     {
@@ -21047,7 +21112,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1129,
+      "price_rub": 1132,
       "is_free": false
     },
     {
@@ -21964,7 +22029,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1176,
+      "price_rub": 1179,
       "is_free": false
     },
     {
@@ -22430,7 +22495,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2471,
+      "price_rub": 2480,
       "is_free": false
     },
     {
@@ -22616,7 +22681,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 688,
+      "price_rub": 689,
       "is_free": false
     },
     {
@@ -22688,6 +22753,21 @@
       "is_free": false
     },
     {
+      "id": 3557370,
+      "title": "Гламурный бунт",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3557370/72b36eaa7f8512e9c8530ac948a228bae4b47c82/header_russian.jpg?t=1790485147",
+      "genres": [
+        "Экшен",
+        "Экшен-адвенчуры",
+        "Экшен-РПГ (Action-RPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 924,
+      "is_free": false
+    },
+    {
       "id": 4817530,
       "title": "Грибная ферма",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4817530/6b38bc90114a2de9fef6007d37002b056fca4262/header.jpg?t=1784640225",
@@ -22711,6 +22791,19 @@
         "PC"
       ],
       "price_rub": 792,
+      "is_free": false
+    },
+    {
+      "id": 3409390,
+      "title": "Зен Красота",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3409390/header_russian.jpg?t=1790485224",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 807,
       "is_free": false
     },
     {
@@ -23928,7 +24021,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 819,
+      "price_rub": 821,
       "is_free": false
     },
     {
