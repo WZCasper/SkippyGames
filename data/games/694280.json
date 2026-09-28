@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2241,
+  "price_rub": 2238,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "XO-DZlXVSPA",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/ss_3587327234fd23ba82aa7c7b0854d536f85f3e02.1920x1080.jpg?t=1786965015",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/ss_4b002f1432e65ad4a6c02afb3af8aaee080214dd.1920x1080.jpg?t=1786965015",
@@ -34,7 +34,7 @@
     {
       "id": 1820340,
       "name": "Zombie Army 4: Ragnarök Campaign & Character Pack",
-      "price_rub": 1112,
+      "price_rub": 1111,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820340/header.jpg?t=1651760410"
     },
     {
@@ -64,13 +64,13 @@
     {
       "id": 1558885,
       "name": "Zombie Army 4: Season Pass Three",
-      "price_rub": 1817,
+      "price_rub": 1815,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558885/header.jpg?t=1620133505"
     },
     {
       "id": 1405830,
       "name": "Zombie Army 4: Season Pass Two",
-      "price_rub": 1817,
+      "price_rub": 1815,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1405830/header.jpg?t=1786651124"
     },
     {
@@ -99,5 +99,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-21T11:16:06Z"
+  "updated_at": "2026-09-28T02:36:20Z"
 }

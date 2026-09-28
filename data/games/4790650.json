@@ -23,14 +23,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790650/f89420273fd15cb9bd54786257bb50c1f128fb50/ss_f89420273fd15cb9bd54786257bb50c1f128fb50.1920x1080.jpg?t=1789529886",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790650/832f2f301d01b105d89dd6ceb283108ccff6ae94/ss_832f2f301d01b105d89dd6ceb283108ccff6ae94.1920x1080.jpg?t=1789529886"
   ],
-  "upsells": [
-    {
-      "id": 4807330,
-      "name": "Forge Maiden: Supporter Pack",
-      "price_rub": 551,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4807330/8faafea134de866a343a7356f4910ffa20328bc7/header.jpg?t=1789533287"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-21T17:24:41Z"
+  "updated_at": "2026-09-28T03:05:09Z"
 }
