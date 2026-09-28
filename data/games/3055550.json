@@ -2,7 +2,7 @@
   "id": 3055550,
   "title": "Security Simulator: Nightshift",
   "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3055550/capsule_616x353.jpg",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3055550?t=1785522521",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3055550/library_hero.jpg",
   "description": "Security Simulator: Nightshift is a game in the \"spot-the-difference\"-horror sort of mold. You use a camera system to spot \"disturbances\" throughout the map you're on, and report them. This game's twist is that you're in the building with the disturbances, and you can't just cozy up in your office. Your goal is to keep these disturbances at bay by reporting them. As a security guard, you also have to keep an eye on the entrances to the place you're guarding. Let a picked lock or suspicious ladder go unnoticed and you may have extra visitors. Thieves can break in throughout the night if an entrance is vulnerable, you'll have to report them too before heading over and arresting. Too many disturbances, or getting caught too close to one, may lead to a short night and not much pay. Manage everything for your whole 9-5 (PM to AM) and you'll make it out with plenty to spend. Next to the security building is a store that you can buy items from. These items help you in various ways, from flashlights that improve visibility, to snacks that give you a stamina boost! This game contains mild psychological horror, requiring the player to pay close attention to several systems, having some disturbances lock the door, and some with very humanoid appearance.",
   "description_short": "A spot-the-difference-horror game; you use a camera system to locate and report disturbances and thieves, but you can't stay in the cameras the whole night. Getting up from your office to patrol is necessary to keep thieves at bay.",
   "genres": [
@@ -28,5 +28,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-22T10:26:38Z"
+  "updated_at": "2026-09-28T12:14:46Z"
 }
