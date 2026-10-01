@@ -1,8 +1,8 @@
 {
   "id": 4888600,
   "title": "Souls Runner",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/f96fc53b110308f20e03380db567425130204498/header.jpg?t=1790462486",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/69e0d4eee7968d9d806d3094744aa0a39493a9e2/page_bg_raw.jpg?t=1790462486",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/f96fc53b110308f20e03380db567425130204498/header.jpg?t=1790728401",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/69e0d4eee7968d9d806d3094744aa0a39493a9e2/page_bg_raw.jpg?t=1790728401",
   "description": "Souls Runner is a 3D cooperative escape and platformer game set in Hell. Trapped souls must venture together through treacherous environments as they search for a way back to the surface. To survive, players will need to coordinate, utilize their special abilities, and evade a dark entity known as The Pursuer.\n\nDuring each run, The Pursuer will target one of the souls, forcing all players to react quickly, assist each other, and keep moving before they get caught.\n\nKey Features:\n\n• Cooperative Multiplayer (Local & Online): Play in local split-screen on the same monitor or connect online with friends to escape Hell together.\n\n• Dynamic Movement Mechanics: Ditch traditional movement—use the Ground Pound to crush obstacles or create shockwaves, and transform into a Rolling Ball to gain momentum at top speed.\n\n• Direct Player Interaction: Use the grappling hook to pull your teammates closer, or grab and launch other players across hazards to help them clear obstacles or save them from danger.\n\n• Real-Time Threats & Interactions: Face roaming imps, dodge ghosts, and maintain your distance from The Pursuer.\n\n• 3D Low-Poly Visual Style: An infernal setting featuring stylized art, revamped animations, and unique character designs.\n\n• High-Tension Gameplay: Fully focused on coordination, survival, and teamwork under constant pressure.\n\n• Good luck.",
   "description_short": "Run, jump, throw your friends, and escape the Pursuer! Work together, dodge traps, and survive the chaos to escape Hell in Souls Runner.",
   "genres": [
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 743,
+  "price_rub": 742,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/62d183e00813dae5d18b75cab254994b616dbb5e/ss_62d183e00813dae5d18b75cab254994b616dbb5e.1920x1080.jpg?t=1790462486",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/0e19e759bb96ddd891077a93c88aeac82a3ec583/ss_0e19e759bb96ddd891077a93c88aeac82a3ec583.1920x1080.jpg?t=1790462486",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/fd4373772123ac547cfdf5d68657ebd8a68d99e3/ss_fd4373772123ac547cfdf5d68657ebd8a68d99e3.1920x1080.jpg?t=1790462486",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/f1381d107ccb7d5dd9abcc05d6c35130747c70d6/ss_f1381d107ccb7d5dd9abcc05d6c35130747c70d6.1920x1080.jpg?t=1790462486",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/8958dad8901d31b77e9de40837d5beda23a892ea/ss_8958dad8901d31b77e9de40837d5beda23a892ea.1920x1080.jpg?t=1790462486"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/0e19e759bb96ddd891077a93c88aeac82a3ec583/ss_0e19e759bb96ddd891077a93c88aeac82a3ec583.1920x1080.jpg?t=1790728401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/a37000b1c2e73a84207d396e3f9aa5fdebc88c89/ss_a37000b1c2e73a84207d396e3f9aa5fdebc88c89.1920x1080.jpg?t=1790728401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/f4feb70c5835f536a01663ed66e27e624a351c81/ss_f4feb70c5835f536a01663ed66e27e624a351c81.1920x1080.jpg?t=1790728401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/02bde84ff593cdebcb8bf86c066af13ac735dc2f/ss_02bde84ff593cdebcb8bf86c066af13ac735dc2f.1920x1080.jpg?t=1790728401",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888600/62d183e00813dae5d18b75cab254994b616dbb5e/ss_62d183e00813dae5d18b75cab254994b616dbb5e.1920x1080.jpg?t=1790728401"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-27T11:43:15Z"
+  "updated_at": "2026-10-01T12:39:32Z"
 }
