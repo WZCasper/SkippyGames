@@ -1,10 +1,10 @@
 {
   "id": 292030,
-  "title": "Ведьмак 3: Дикая Охота — Полное издание",
+  "title": "Ведьмак 3: Дикая Охота — Обновлённое издание",
   "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_hero.jpg",
-  "description": "ЕЩЁ ОДНА ВЕДЬМАЧЬЯ ИСТОРИЯ, В КОТОРОЙ ВСЯКИЙ ВЫБОР ОБЯЗАТЕЛЬНО ПОВЛЕЧЁТ ЗА СОБОЙ ПОСЛЕДСТВИЯ\n\nУЛУЧШЕННАЯ КЛАССИКА\n\nЛюбимая многими ролевая игра вместе с двумя дополнениями («Каменные сердца» и «Кровь и вино») получила обновление. Оцените многочисленные изменения, улучшающие графику, боевую систему, систему развития персонажа и многое другое. Для тех, у кого уже есть игра, обновление будет бесплатным.\n\nИгра «Ведьмак 3: Дикая Охота» будет бесплатно улучшена до обновлённого издания 29 сентября.\n\nОб игре",
-  "description_short": "Вы — Геральт из Ривии, наемный убийца чудовищ. Вы путешествуете по миру, в котором бушует война и на каждом шагу подстерегают чудовища. Вам предстоит выполнить заказ и найти Цири — Дитя Предназначения, живое оружие, способное изменить облик этого мира.",
+  "description": "ЕЩЁ ОДНА ВЕДЬМАЧЬЯ ИСТОРИЯ, В КОТОРОЙ ВСЯКИЙ ВЫБОР ОБЯЗАТЕЛЬНО ПОВЛЕЧЁТ ЗА СОБОЙ ПОСЛЕДСТВИЯ\n\nОб игре",
+  "description_short": "Обновлённое издание игры «Ведьмак 3: Дикая Охота» — всё та же любимая многими ролевая игра с открытым миром, но теперь со множеством улучшений. Вместе с охотником на чудовищ Геральтом из Ривии отправьтесь по разорённым войной королевствам Севера на поиски Цири, приёмной дочери ведьмака.",
   "genres": [
     "Песочницы (Sandbox)",
     "Приключения",
@@ -14,40 +14,40 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1767,
+  "price_rub": 1764,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.1920x1080.jpg?t=1788333513",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.1920x1080.jpg?t=1788333513",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_112b1e176c1bd271d8a565eacb6feaf90f240bb2.1920x1080.jpg?t=1788333513",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d1b73b18cbcd5e9e412c7a1dead3c5cd7303d2ad.1920x1080.jpg?t=1788333513",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_107600c1337accc09104f7a8aa7f275f23cad096.1920x1080.jpg?t=1788333513",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_64eb760f9a2b67f6731a71cce3a8fb684b9af267.1920x1080.jpg?t=1788333513",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_eda99e7f705a113d04ab2a7a36068f3e7b343d17.1920x1080.jpg?t=1788333513",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d5b80eb63c12a6484f26796f3e34410651bba068.1920x1080.jpg?t=1788333513"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.1920x1080.jpg?t=1790845156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.1920x1080.jpg?t=1790845156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.1920x1080.jpg?t=1790845156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.1920x1080.jpg?t=1790845156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0/ss_78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0.1920x1080.jpg?t=1790845156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/203487f667e4ac00baf482b1c93c87a2b830a6fc/ss_203487f667e4ac00baf482b1c93c87a2b830a6fc.1920x1080.jpg?t=1790845156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/bd815be52023e2632855e01d3d7ba813a0b8d1a3/ss_bd815be52023e2632855e01d3d7ba813a0b8d1a3.1920x1080.jpg?t=1790845156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/a8bb0ff704918927e07002cf0901d7195bb6a13e/ss_a8bb0ff704918927e07002cf0901d7195bb6a13e.1920x1080.jpg?t=1790845156"
   ],
   "upsells": [
     {
       "id": 1229320,
-      "name": "The Witcher 3: Wild Hunt Soundtrack",
+      "name": "The Witcher 3: Wild Hunt — Remastered Soundtrack",
       "price_rub": 633,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229320/header_russian.jpg?t=1659615500"
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229320/2a2514c8a64b0d884af219794ad9ef8d22f5ae5e/header_russian.jpg?t=1790770556"
     },
     {
       "id": 1233280,
       "name": "The Witcher 3: Wild Hunt - Hearts of Stone Soundtrack",
-      "price_rub": 799,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233280/header_russian.jpg?t=1659616727"
+      "price_rub": 798,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233280/681240ddbca1371771368f3064a2ed22c93b7106/header_russian.jpg?t=1790775747"
     },
     {
       "id": 1233340,
       "name": "The Witcher 3: Wild Hunt - Blood and Wine Soundtrack",
-      "price_rub": 799,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233340/header_russian.jpg?t=1659618129"
+      "price_rub": 798,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233340/b0be9c7b7c0e1c1a359df331cf44cdbf8f288434/header_russian.jpg?t=1790774200"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-28T02:30:30Z"
+  "updated_at": "2026-10-01T22:25:44Z"
 }
