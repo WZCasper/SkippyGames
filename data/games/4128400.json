@@ -14,7 +14,7 @@
   "price_rub": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "MSdtPWXUCIk",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/e4ca763e81689de4f1dd504fa9d3387785f7bf89/ss_e4ca763e81689de4f1dd504fa9d3387785f7bf89.1920x1080.jpg?t=1785908787",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128400/1ef79c727c360842697f86e4c29f1f400dbb4150/ss_1ef79c727c360842697f86e4c29f1f400dbb4150.1920x1080.jpg?t=1785908787",
@@ -26,16 +26,16 @@
     {
       "id": 4150530,
       "name": "eBaseball™: PRO SPIRIT 2026",
-      "price_rub": 4444,
+      "price_rub": 2840,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150530/0fbe10d5048b4675e1e0a1758221d2df1c9b66ab/header.jpg?t=1790283093"
     },
     {
       "id": 4320410,
       "name": "Early Purchase Bonus - Unlock SAMURAI JAPAN 2026 \"Shohei Ohtani\" (for GLOBAL)",
-      "price_rub": 4444,
+      "price_rub": 2840,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320410/1bb36ed9ec6009ce8da7bbbb9edbe241340ee4c0/header.jpg?t=1789576253"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-09-28T12:09:41Z"
+  "updated_at": "2026-10-02T03:02:13Z"
 }
