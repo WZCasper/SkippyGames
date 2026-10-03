@@ -1,7 +1,7 @@
 {
   "id": 4016570,
   "title": "Lythium",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/5d9a9794b0296675aa054944b1191ce86f9aae9d/header.jpg?t=1783089258",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/3f622b3b69c8d32075297c9d0f98a6fa47ea4a5c/header.jpg?t=1791021544",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/4016570/library_hero.jpg",
   "description": "Stuck in a perpetual reality with memories of his past lost, Denis Lythium must fight for his life against a sinister horde of zombie soldiers. With no convenient health or ammo drops he must use anything at his disposal including his cold bare fists to defend himself. \n\nFeatures:\n\nVisceral Combat:\n\nEngage in brutal combat using various weapons including ranged, melee, and throwable items to shatter your enemies to bits. Each weapon has limited uses with different power levels. Weapon swapping is essential for survival.\n\nSlow Motion Madness:\n\nActivate slow motion ability to catch a breath or line up your next deadly shot. Kicking doors into enemies will also activate slow motion for a short period of time.\n\nSatisfyingly Addictive Replayabilty: \n\nLocations big and small are shuffled around using algorithms that randomize starter weapons keeping the gameplay feeling fresh and exciting every step of the way. Either get armed with the most powerful gun or brawl with traditional hand to hand combat.",
   "description_short": "Take on a task force from the gravestones! Your memories may be lost but the horde still remains. Slash, shoot, punch, and unleash your inner beast on your enemies in this action packed rogue-like FPS.",
@@ -11,18 +11,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1110,
+  "price_rub": 801,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/bd949e6152d3a9a2eb935be1788749a4934e0de2/ss_bd949e6152d3a9a2eb935be1788749a4934e0de2.1920x1080.jpg?t=1783089258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/d463bbf04464a345036f2a16fdd1ae993dfb08a5/ss_d463bbf04464a345036f2a16fdd1ae993dfb08a5.1920x1080.jpg?t=1783089258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/5abea6f44bd0c960df08bd8ac0f58f60c3b50620/ss_5abea6f44bd0c960df08bd8ac0f58f60c3b50620.1920x1080.jpg?t=1783089258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/e605a9264bfb1940b18136f67f502e2bd25fcf20/ss_e605a9264bfb1940b18136f67f502e2bd25fcf20.1920x1080.jpg?t=1783089258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/536ca64c39ce86c92a9027471335df952686e571/ss_536ca64c39ce86c92a9027471335df952686e571.1920x1080.jpg?t=1783089258"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/bd949e6152d3a9a2eb935be1788749a4934e0de2/ss_bd949e6152d3a9a2eb935be1788749a4934e0de2.1920x1080.jpg?t=1791021544",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/d463bbf04464a345036f2a16fdd1ae993dfb08a5/ss_d463bbf04464a345036f2a16fdd1ae993dfb08a5.1920x1080.jpg?t=1791021544",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/5abea6f44bd0c960df08bd8ac0f58f60c3b50620/ss_5abea6f44bd0c960df08bd8ac0f58f60c3b50620.1920x1080.jpg?t=1791021544",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/e605a9264bfb1940b18136f67f502e2bd25fcf20/ss_e605a9264bfb1940b18136f67f502e2bd25fcf20.1920x1080.jpg?t=1791021544",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016570/536ca64c39ce86c92a9027471335df952686e571/ss_536ca64c39ce86c92a9027471335df952686e571.1920x1080.jpg?t=1791021544"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-30T02:44:03Z"
+  "updated_at": "2026-10-03T15:27:15Z"
 }
