@@ -1,8 +1,8 @@
 {
   "id": 4668560,
   "title": "The Hollow Road: Prologue",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/01bf2a215a6ea4ebe68df01943ff5e0c0176d807/header.jpg?t=1788483233",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/ebd05bcb07c9e9f1a4c334f29242b8dc7a01b563/page_bg_raw.jpg?t=1788483233",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/01bf2a215a6ea4ebe68df01943ff5e0c0176d807/header.jpg?t=1790864311",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/ebd05bcb07c9e9f1a4c334f29242b8dc7a01b563/page_bg_raw.jpg?t=1790864311",
   "description": "Developed for modern PC hardware: The game supports current upscaling technologies such as NVIDIA DLSS 4.5, AMD FSR 4.1, and Frame Generation AMD & Nvidia to enable scalable performance across different systems.\n\nFor the best visual quality and the full graphical potential, powerful hardware is recommended.\n\nABOUT THE GAMEOn the way to a church, you discover a strange house by the roadside. What begins as a brief stop soon turns into a dark descent into fear, guilt, and unsettling secrets. In this psychological horror prologue, reality and nightmare become increasingly blurred.\n\nWHAT AWAITS YOUExplore an ominous environment filled with oppressive atmosphere, disturbing events, and dark hints. With every step, you move closer to a truth that should have remained buried.\n\nFEATURES• Atmospheric psychological horror\n\n• A dark, story-driven experience\n\n• Unsettling locations and intense atmosphere\n\n• Secrets, ominous hints, and disturbing encounters\n\n• Gameplay 20-30 min\n\n•",
   "description_short": "A psychological horror prologue where a strange house, a silent church, and something lurking in the dark pull you into a waking nightmare. Explore, uncover hidden truths, and survive what waits beyond the last door.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 688,
+  "price_rub": 630,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "5lNUTRI1VI4",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/9db0679eb343410918bc7f25262ad14b6fe8ddf2/ss_9db0679eb343410918bc7f25262ad14b6fe8ddf2.1920x1080.jpg?t=1788483233",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/213195a91e6f3cbe7d24429eae3c3a3773819c2a/ss_213195a91e6f3cbe7d24429eae3c3a3773819c2a.1920x1080.jpg?t=1788483233",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/755f0397c8603aa0f52ecb38ec72c06f8a26d925/ss_755f0397c8603aa0f52ecb38ec72c06f8a26d925.1920x1080.jpg?t=1788483233",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/db554a5dab1071a9a7c167855dbb4f91b040f43c/ss_db554a5dab1071a9a7c167855dbb4f91b040f43c.1920x1080.jpg?t=1788483233",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/24cac4b5c024a311f45adfe52dcb2023db566966/ss_24cac4b5c024a311f45adfe52dcb2023db566966.1920x1080.jpg?t=1788483233",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/67d3964f671b19ec44b7335f613740f64efe9ba7/ss_67d3964f671b19ec44b7335f613740f64efe9ba7.1920x1080.jpg?t=1788483233",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/8676b667bbdf4e2415eeb62a9164749999047eea/ss_8676b667bbdf4e2415eeb62a9164749999047eea.1920x1080.jpg?t=1788483233",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/a07ec0ce536fcf33d53be8cecf8e680936331363/ss_a07ec0ce536fcf33d53be8cecf8e680936331363.1920x1080.jpg?t=1788483233"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/7e47fc0979a92c38f979ee0920a5851da0364b0e/ss_7e47fc0979a92c38f979ee0920a5851da0364b0e.1920x1080.jpg?t=1790864311",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/9db0679eb343410918bc7f25262ad14b6fe8ddf2/ss_9db0679eb343410918bc7f25262ad14b6fe8ddf2.1920x1080.jpg?t=1790864311",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/c2afa666d1381134372a1e34d0320277e209c82d/ss_c2afa666d1381134372a1e34d0320277e209c82d.1920x1080.jpg?t=1790864311",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/02115dac8a4022c47776c9ad1e79fb0a54b988ed/ss_02115dac8a4022c47776c9ad1e79fb0a54b988ed.1920x1080.jpg?t=1790864311",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/af8ae372a6474bc2ce062d28edb0f97e0f4c7130/ss_af8ae372a6474bc2ce062d28edb0f97e0f4c7130.1920x1080.jpg?t=1790864311",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/0ffebd35128776b542cd7ae17baf40b40f676124/ss_0ffebd35128776b542cd7ae17baf40b40f676124.1920x1080.jpg?t=1790864311",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/db554a5dab1071a9a7c167855dbb4f91b040f43c/ss_db554a5dab1071a9a7c167855dbb4f91b040f43c.1920x1080.jpg?t=1790864311",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668560/2d92b67a341079812fdb9e1cfad9e15c185e9127/ss_2d92b67a341079812fdb9e1cfad9e15c185e9127.1920x1080.jpg?t=1790864311"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-09-30T11:31:36Z"
+  "updated_at": "2026-10-03T21:08:44Z"
 }
