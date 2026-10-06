@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 4215,
+  "price_rub": 4257,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -25,7 +25,26 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/47d19210a3b60ef03cd24bfa5c33b16429598384/ss_47d19210a3b60ef03cd24bfa5c33b16429598384.1920x1080.jpg?t=1788520309",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/53c006b5fd5bf3d8ea62dd6d411ddeac4a624502/ss_53c006b5fd5bf3d8ea62dd6d411ddeac4a624502.1920x1080.jpg?t=1788520309"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5030920,
+      "name": "Улучшение издания MARVEL Tōkon: Fighting Souls Standard до Ultimate",
+      "price_rub": 2003,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030920/d6dc9fa506995e4a5584588633fa0a1fbc27f197/header_russian.jpg?t=1786028498"
+    },
+    {
+      "id": 4848500,
+      "name": "MARVEL Tōkon: Fighting Souls: пропуск «Арена и персонажи первого года»",
+      "price_rub": 2584,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848500/658f06fd95d181e3567803787b813047879b55e2/header.jpg?t=1787551063"
+    },
+    {
+      "id": 5030930,
+      "name": "Улучшение издания MARVEL Tōkon: Fighting Souls Deluxe до Ultimate",
+      "price_rub": 1064,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030930/d6dc9fa506995e4a5584588633fa0a1fbc27f197/header_russian.jpg?t=1786028709"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-10-02T17:48:10Z"
+  "updated_at": "2026-10-06T13:10:34Z"
 }
