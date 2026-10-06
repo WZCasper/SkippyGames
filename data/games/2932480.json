@@ -25,14 +25,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932480/134dcc3985eb2c464eba060fad69ead3feb2f781/ss_134dcc3985eb2c464eba060fad69ead3feb2f781.1920x1080.jpg?t=1787173219",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932480/735cda807f7e6e5c131c2c6ee7939b4976234ff3/ss_735cda807f7e6e5c131c2c6ee7939b4976234ff3.1920x1080.jpg?t=1787173219"
   ],
-  "upsells": [
-    {
-      "id": 4954650,
-      "name": "OrbitalCrash - Supporter Edition",
-      "price_rub": 742,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954650/33eb92a3e4c561be5c2135428e10aadfac4ec038/header.jpg?t=1785521502"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-10-02T03:38:00Z"
+  "updated_at": "2026-10-06T00:18:35Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:43:20Z",
+  "generated_at": "2026-10-06T00:18:36Z",
   "uah_to_rub_rate": 1.858465,
   "markup_rub": 500,
   "target_catalog_size": 10000,
@@ -366,7 +366,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 611,
+      "price_rub": 612,
       "is_free": false
     },
     {
@@ -418,7 +418,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 673,
+      "price_rub": 621,
       "is_free": false
     },
     {
@@ -5399,7 +5399,7 @@
     {
       "id": 3428870,
       "title": "Disconnect 2",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/61da44fe1fd92362649a3f57331a056d327a4c64/header.jpg?t=1790592254",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3428870/61da44fe1fd92362649a3f57331a056d327a4c64/header.jpg?t=1791031306",
       "genres": [
         "Экшен"
       ],
@@ -5412,14 +5412,14 @@
     {
       "id": 4530240,
       "title": "Dissolution of the Silent Union",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530240/84c2cd20f19aa8263b7ccdf8057c00c51ea41060/header.jpg?t=1790232631",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530240/84c2cd20f19aa8263b7ccdf8057c00c51ea41060/header.jpg?t=1791026969",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 611,
+      "price_rub": 612,
       "is_free": false
     },
     {
@@ -6955,7 +6955,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 547,
+      "price_rub": 546,
       "is_free": false
     },
     {
@@ -10601,7 +10601,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1687,
+      "price_rub": 1688,
       "is_free": false
     },
     {
@@ -18153,7 +18153,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 860,
+      "price_rub": 861,
       "is_free": false
     },
     {
@@ -18346,7 +18346,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 622,
+      "price_rub": 621,
       "is_free": false
     },
     {
@@ -22809,7 +22809,7 @@
     {
       "id": 3892270,
       "title": "Казино с друзьями",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1790878645",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1791186560",
       "genres": [
         "Экшен"
       ],
