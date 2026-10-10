@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 690,
+  "price_rub": 855,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -25,7 +25,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4388810/ac7f2f21831891398a6f9de06e48028e27d4b553/ss_ac7f2f21831891398a6f9de06e48028e27d4b553.1920x1080.jpg?t=1784653630",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4388810/73541d85388bb8f8ef7646557c0d7178a3532520/ss_73541d85388bb8f8ef7646557c0d7178a3532520.1920x1080.jpg?t=1784653630"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4506250,
+      "name": "Reptilarium Soundtrack",
+      "price_rub": 688,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506250/4a99b0fcbd4b631723c5dd4351ecd0136c6cbe32/header.jpg?t=1784654602"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-10-05T13:43:19Z"
+  "updated_at": "2026-10-10T03:46:10Z"
 }
