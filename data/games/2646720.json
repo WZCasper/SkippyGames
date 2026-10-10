@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 821,
+  "price_rub": 965,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,16 +29,16 @@
     {
       "id": 4943840,
       "name": "Dead Weight Soundtrack",
-      "price_rub": 643,
+      "price_rub": 644,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943840/c15b7edb132fcb298d9c6707477dfee55163cd28/header.jpg?t=1789653988"
     },
     {
       "id": 4961270,
       "name": "Dead Weight - Digitall ArtBook",
-      "price_rub": 643,
+      "price_rub": 644,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961270/ff31d7cf17311723dbc4b31ea89d1eed5f2d9e20/header.jpg?t=1789654002"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-06T12:27:01Z"
+  "updated_at": "2026-10-10T17:20:08Z"
 }
