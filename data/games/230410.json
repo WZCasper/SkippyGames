@@ -31,64 +31,64 @@
     {
       "id": 5126960,
       "name": "Warframe: Комплект «Нарин»",
-      "price_rub": 1626,
+      "price_rub": 1638,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5126960/d6427c8ea73287ed786c5ab37601d0d83e164661/header.jpg?t=1790175806"
     },
     {
       "id": 5131900,
       "name": "Warframe: Доступ Цитрины Прайм — Оружейный набор",
-      "price_rub": 2285,
+      "price_rub": 2304,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131900/b66a2de9049838bf642e2250f954d3c6f9b43956/header.jpg?t=1790175995"
     },
     {
       "id": 5131910,
       "name": "Warframe: Доступ Цитрины Прайм — Набор аксессуаров",
-      "price_rub": 2285,
+      "price_rub": 2304,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131910/e5881126066fdfcc5b0b9a05c4a0ca4586e32825/header.jpg?t=1790175969"
     },
     {
       "id": 5127010,
       "name": "Warframe: Боевой набор «Глаксион»",
-      "price_rub": 609,
+      "price_rub": 610,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127010/e11faa1ef6af4b4dede340b1bcfa7f5f4c00993f/header.jpg?t=1790175694"
     },
     {
       "id": 2803600,
       "name": "Warframe: Стартовый оружейный набор",
-      "price_rub": 686,
+      "price_rub": 688,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2803600/header.jpg?t=1764950837"
     },
     {
       "id": 4157990,
       "name": "Warframe: Полная коллекция «Стародавний мир»",
-      "price_rub": 2097,
+      "price_rub": 2114,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157990/1c2146827fae4887186ff642dc3d6a721393f30c/header.jpg?t=1765382640"
     },
     {
       "id": 4157970,
       "name": "Warframe: Комплект «Стародавний мир: Уриэль»",
-      "price_rub": 1233,
+      "price_rub": 1241,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157970/ee411134d4c7be41eb413b3d72eb384c1a254f29/header.jpg?t=1765382574"
     },
     {
       "id": 4157980,
       "name": "Warframe: Коллекция «Стародавний мир: Близнецы»",
-      "price_rub": 1421,
+      "price_rub": 1431,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157980/cec29b03c45ba63499a0d24f30cae4f98508c26e/header.jpg?t=1765382614"
     },
     {
       "id": 4735410,
       "name": "Warframe: Коллекция Мисы «Наследие»",
-      "price_rub": 1438,
+      "price_rub": 1448,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735410/873b7960ba00e060784eff7f6b4ac885ffb95812/header.jpg?t=1783782016"
     },
     {
       "id": 4735390,
       "name": "Warframe: Полная коллекция «Созвездия»",
-      "price_rub": 1814,
+      "price_rub": 1827,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735390/a698499c0760f3f1b4af902d84a6b713ffaa66bf/header.jpg?t=1781708712"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-06T04:22:22Z"
+  "updated_at": "2026-10-10T12:17:54Z"
 }
