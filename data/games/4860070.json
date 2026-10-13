@@ -1,8 +1,8 @@
 {
   "id": 4860070,
   "title": "SusDoku: Clues & Suspects",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/d724e2a0194978c90e6a4f81b30c43e4b984dd15/header.jpg?t=1785185987",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4860070?t=1785185987",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/d724e2a0194978c90e6a4f81b30c43e4b984dd15/header.jpg?t=1791571869",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4860070?t=1791571869",
   "description": "Совершено убийство. Сможете ли вы его раскрыть?\n\nSusDoku сочетает в себе увлекательную логику судоку и классическую дедукцию детективных загадок. Найдена жертва — ваша задача распределить подозреваемых по комнатам с помощью улик, найти орудие убийства, отбросить невозможное и назвать имя убийцы до того, как у вас закончатся попытки. \n\nКак это работаетКаждое дело процедурно генерирует сетку комнат и группу подозреваемых. Подсказки ограничивают возможное местонахождение каждого из них. Разместите их правильно, найдите оружие, допросите подозреваемых и выдвиньте обвинение. Каждое решение зависит только от вас — никаких догадок, исключительно чистая логика. \n\nДва варианта дел• Быстрое — Жертва находится в одной комнате с подозреваемым. Найдите орудие преступления, вычислите комнату, раскройте личность убийцы и жертвы. Классическая логика судоку с механиками, вдохновленными знаменитой Загадкой Эйнштейна (загадкой о зебре).\n\n• Расследование — Несколько видов оружия спрятаны по всей карте. Обыскивайте мебель и заблокированные ячейки, чтобы их обнаружить. Вы сможете раскрыть дело только после того, как найдете всё оружие и допросите подозреваемых. \n\nИграйте как вам нравится• Одиночная игра — Раскрывайте дела в собственном темпе без ограничений по времени (или включите таймер для настоящего испытания).\n\n• Локальный кооператив (передавай и играй) — От 2 до 4 детективов ходят по очереди на одном устройстве. Каждый детектив хранит свои улики в тайне в личном досье, а затем делится своими выводами с командой. Размещение начинается с предложений, выделенных цветом; второй детектив должен подтвердить каждую отметку.\n\n• Сетевой кооператив — Играйте с друзьями откуда угодно через лобби Steam. Просто поделитесь кодом комнаты и разгадывайте тайны вместе. \n\nОсобенности• Процедурно генерируемые дела с возможностью выбора темы (космическая станция, особняк, круизный лайнер, кафе, казино) и тремя уровнями сложности (7×7 легко, 9×9 средне, 11×11 сложно). \n\n• Таймер расследования с настраиваемыми лимитами.\n\n• Режим ручной дедукции: вычеркивайте любые ячейки самостоятельно.\n\n• Полная поддержка контроллера: перемещайтесь по меню и раскрывайте дела с помощью геймпада. \n\n• Панель мебели, отображающая каждый объект, его ориентацию и занимаемое место в текущем деле.\n\n• История прогресса и возможность перепройти любимые дела по сиду.\n\n• Интерфейс на английском, испанском, немецком, русском, португальском и французском языках.",
   "description_short": "Детективная загадка с логикой в стиле судоку и оружием. Обыскивайте подозрительные комнаты, анализируйте улики и используйте дедукцию, чтобы вычислить преступника. Играйте в одиночку или объединяйтесь по сети в команду до 4 детективов для раскрытия дела.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 748,
+  "price_rub": 743,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/ef5ae3a687c73c27188100a79f52a9a5c9c9a784/ss_ef5ae3a687c73c27188100a79f52a9a5c9c9a784.1920x1080.jpg?t=1785185987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/a3d8cbfc7e5a661623c83c15fffb49dd12545c04/ss_a3d8cbfc7e5a661623c83c15fffb49dd12545c04.1920x1080.jpg?t=1785185987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/b144fad94ee715039464eaf384180215d88842d3/ss_b144fad94ee715039464eaf384180215d88842d3.1920x1080.jpg?t=1785185987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/60a321fb59e18e7228c1e5c1256849648e599665/ss_60a321fb59e18e7228c1e5c1256849648e599665.1920x1080.jpg?t=1785185987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/10f7f904d956494428f755cee23e5148444a7316/ss_10f7f904d956494428f755cee23e5148444a7316.1920x1080.jpg?t=1785185987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/2c6edde8c4e05a9e74bc3e35d7f1b9d62ee1dbd5/ss_2c6edde8c4e05a9e74bc3e35d7f1b9d62ee1dbd5.1920x1080.jpg?t=1785185987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/2a27a50176fc5093a8d1c4a2ef22135b6cc9a630/ss_2a27a50176fc5093a8d1c4a2ef22135b6cc9a630.1920x1080.jpg?t=1785185987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/7499c0ad25df346561d49f650965e883d5f15d88/ss_7499c0ad25df346561d49f650965e883d5f15d88.1920x1080.jpg?t=1785185987"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/b88753713e1bfeef233942841ce4124f5731d374/ss_b88753713e1bfeef233942841ce4124f5731d374.1920x1080.jpg?t=1791571869",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/1a0029d3cc484bbff06cf7e290bf613abc309aa1/ss_1a0029d3cc484bbff06cf7e290bf613abc309aa1.1920x1080.jpg?t=1791571869",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/b95c7dc912ae903bade74d45657a2a6c5422ec15/ss_b95c7dc912ae903bade74d45657a2a6c5422ec15.1920x1080.jpg?t=1791571869",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/1d6101a0146740441a9a05e48dd02b80f96d61d2/ss_1d6101a0146740441a9a05e48dd02b80f96d61d2.1920x1080.jpg?t=1791571869",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/6a94129c1304a7d3bb70df1e9ff279f4905378b5/ss_6a94129c1304a7d3bb70df1e9ff279f4905378b5.1920x1080.jpg?t=1791571869",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/4aad1e25b98dd557b139477c688fb2b6c96091db/ss_4aad1e25b98dd557b139477c688fb2b6c96091db.1920x1080.jpg?t=1791571869",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/75f274522de5759457bb6fb1cd885e5ec395252e/ss_75f274522de5759457bb6fb1cd885e5ec395252e.1920x1080.jpg?t=1791571869",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860070/87838c487455c7c77d91ea694916712e2138c96f/ss_87838c487455c7c77d91ea694916712e2138c96f.1920x1080.jpg?t=1791571869"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-10-09T12:39:01Z"
+  "updated_at": "2026-10-13T13:32:19Z"
 }
