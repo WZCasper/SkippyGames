@@ -22,7 +22,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/4eaf2618d0a2185fb94858dfc4daa86def0ab738/ss_4eaf2618d0a2185fb94858dfc4daa86def0ab738.1920x1080.jpg?t=1787593915",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819770/651527c41976a557bbd400bbe45bf981d39da27c/ss_651527c41976a557bbd400bbe45bf981d39da27c.1920x1080.jpg?t=1787593915"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3819780,
+      "name": "Dragon Ruins II: Aftermath Soundtrack",
+      "price_rub": 694,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819780/cd344b9f792fe742066df0e2cb9cdb1471793bd0/header.jpg?t=1784599065"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-10-13T22:54:16Z"
+  "updated_at": "2026-10-17T10:24:30Z"
 }
