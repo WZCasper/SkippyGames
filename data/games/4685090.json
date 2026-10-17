@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 641,
+  "price_rub": 663,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,20 +29,26 @@
     {
       "id": 4772550,
       "name": "Hold'em Fold'em Poker - Deluxe Card Finishes",
-      "price_rub": 619,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772550/14b4e361879b28dcdee6baf9a9dccc9979d03630/header.jpg?t=1791662976"
     },
     {
       "id": 5165030,
       "name": "Hold'em Fold'em Poker - Cheat Pack!",
-      "price_rub": 595,
+      "price_rub": 608,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165030/697ad1ddb3129e2ddd787b3196603cfa4ad96e16/header.jpg?t=1790787787"
     },
     {
       "id": 5230150,
       "name": "Hold'em Fold'em Poker - Shithead Pack!",
-      "price_rub": 595,
+      "price_rub": 608,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230150/9cb5fc1e94f5bbf161f7ad31642de7e97061b826/header.jpg?t=1790796314"
+    },
+    {
+      "id": 5361960,
+      "name": "Hold'em Fold'em Poker - Deep Freeze",
+      "price_rub": 612,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5361960/7d3f0f9cbee2cf11dc1392b47fd773d3c273daad/header.jpg?t=1792048740"
     },
     {
       "id": 5370720,
@@ -52,5 +58,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-14T02:50:55Z"
+  "updated_at": "2026-10-17T14:44:27Z"
 }
