@@ -1,8 +1,8 @@
 {
   "id": 5124550,
   "title": "NucleoSynthetica",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/c47b8c3526a914db22eba96f5ef2637e386055ea/header.jpg?t=1792072304",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/ce60d8018e0ff51fd3b8a7da6f19d05cd8554aa6/page_bg_raw.jpg?t=1792072304",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/c47b8c3526a914db22eba96f5ef2637e386055ea/header.jpg?t=1792480079",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/ce60d8018e0ff51fd3b8a7da6f19d05cd8554aa6/page_bg_raw.jpg?t=1792480079",
   "description": "🌌 ВСЕЛЕННАЯ ПРИНАДЛЕЖИТ ВАМ. ЧТО ВЫ СОЗДАДИТЕ?NucleoSynthetica — космическая idle-песочница о химии, в которой вы развиваете вселенную из атомов. Начните с водорода, перетаскивайте атомы, чтобы открывать реакции, и следуйте целям игры на пути к автоматизации, планетам и защите ядра.\n\nВ NucleoSynthetica вы обладаете чистой силой созидания. Свободно экспериментируйте, открывайте скрытые формулы и наблюдайте, как ваша вселенная разрастается удивительным образом!🔍 ТАЙНЫ, ЖДУЩИЕ СВОЕГО ОТКРЫТИЯ\n⚗️ 1. Химия и скрытые сочетания\n• Сталкивайте частицы и смотрите, что получится. Каждое соединение может привести к новому веществу, цепной реакции или великому открытию.\n\n• Откройте 30 секретных рецептов, экспериментируя с разными сочетаниями.\n\n🪐 2. Рождение таинственных живых миров\n• По мере аккреции материи под вашим руководством будут формироваться первые протопланеты.\n\n• Используемые ингредиенты и условия определяют, какая планета сформируется.\n\n🏛️ 3. Строительство великих космических мегаструктур\n• Развертывайте автоматические экстракторы и сборщики для поддержания растущей галактики.\n\n• Стройте величественные орбитальные мегаструктуры по мере перехода вашей цивилизации в высшие технологические эпохи.\n\n⚔️ 4. Опасности, таящиеся в глубинах пустоты\n• Созидание не остается незамеченным. Рост вашей звездной системы неизбежно привлечет внимание из космической тьмы.\n\n• Древние сущности и межзвездные аномалии испытают вашу оборону. Вооружите ядро и дайте отпор неизведанному!\n\n✨ 5. Пробуждение божественных космических сил\n• Открывайте мощные ветви в древе навыков и призывайте небесные благословения для защиты ваших творений.\n\n• Когда ваша галактика достигнет зенита, решитесь ли вы на космическое перерождение, чтобы вознестись еще выше?\n🚀 ВАШЕ ПУТЕШЕСТВИЕ СОЗИДАНИЯ НАЧИНАЕТСЯ ЗДЕСЬИгра уже вышла. Начните с первых атомов и постройте свою вселенную.",
   "description_short": "Космическая idle-песочница о химии. Перетаскивайте и соединяйте атомы, открывайте реакции, создавайте и терраформируйте планеты. Стройте автоматические сооружения и защищайте ядро турелями. Проходите эпохи, затем перерождайтесь, чтобы развивать новую вселенную.",
   "genres": [
@@ -11,19 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 687,
+  "price_rub": 684,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "hC1zXH2ZDHY",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/9400a4a9e559a07ead369e735dff047b939cde23/ss_9400a4a9e559a07ead369e735dff047b939cde23.1920x1080.jpg?t=1792072304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/1a4e6edee0dce56f7dba5b5c133359303a7c2439/ss_1a4e6edee0dce56f7dba5b5c133359303a7c2439.1920x1080.jpg?t=1792072304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/55acef5f97e0709ef2a9a1998acfb04272f7c372/ss_55acef5f97e0709ef2a9a1998acfb04272f7c372.1920x1080.jpg?t=1792072304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/ce9c9a8acc18f25878e73ad80bf2dde355be6a56/ss_ce9c9a8acc18f25878e73ad80bf2dde355be6a56.1920x1080.jpg?t=1792072304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/a9ebdaff7d0e5276913f7a8f9c16471310cb5c16/ss_a9ebdaff7d0e5276913f7a8f9c16471310cb5c16.1920x1080.jpg?t=1792072304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/5d68b0f6ed4c236f124fb1778d04dfb7c232b7b1/ss_5d68b0f6ed4c236f124fb1778d04dfb7c232b7b1.1920x1080.jpg?t=1792072304"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/9400a4a9e559a07ead369e735dff047b939cde23/ss_9400a4a9e559a07ead369e735dff047b939cde23.1920x1080.jpg?t=1792480079",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/1a4e6edee0dce56f7dba5b5c133359303a7c2439/ss_1a4e6edee0dce56f7dba5b5c133359303a7c2439.1920x1080.jpg?t=1792480079",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/55acef5f97e0709ef2a9a1998acfb04272f7c372/ss_55acef5f97e0709ef2a9a1998acfb04272f7c372.1920x1080.jpg?t=1792480079",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/ce9c9a8acc18f25878e73ad80bf2dde355be6a56/ss_ce9c9a8acc18f25878e73ad80bf2dde355be6a56.1920x1080.jpg?t=1792480079",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/a9ebdaff7d0e5276913f7a8f9c16471310cb5c16/ss_a9ebdaff7d0e5276913f7a8f9c16471310cb5c16.1920x1080.jpg?t=1792480079",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/5d68b0f6ed4c236f124fb1778d04dfb7c232b7b1/ss_5d68b0f6ed4c236f124fb1778d04dfb7c232b7b1.1920x1080.jpg?t=1792480079",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/0afdd43552292335c945da5bd46271095ed69f42/ss_0afdd43552292335c945da5bd46271095ed69f42.1920x1080.jpg?t=1792480079",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/889711e514c7c5b176b6864c68b1eb7270629231/ss_889711e514c7c5b176b6864c68b1eb7270629231.1920x1080.jpg?t=1792480079"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-10-17T09:48:52Z"
+  "updated_at": "2026-10-20T21:13:42Z"
 }
