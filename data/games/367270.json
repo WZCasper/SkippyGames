@@ -15,7 +15,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 975,
+  "price_rub": 964,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,14 +29,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/ss_1d19463d8f0097538e56eb7eff9b1eb6d8b04a04.1920x1080.jpg?t=1783807186",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/ss_df9900ad5ccf59f64979e7fcc951f8acad1bd8d4.1920x1080.jpg?t=1783807186"
   ],
-  "upsells": [
-    {
-      "id": 786890,
-      "name": "Angels Fall First - Soundtrack",
-      "price_rub": 718,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/786890/header.jpg?t=1581548015"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-10-21T02:55:34Z"
+  "updated_at": "2026-10-24T15:51:48Z"
 }
