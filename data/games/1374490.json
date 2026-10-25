@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1527,
+  "price_rub": 1503,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "fwhFJUP-dPY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/8f802b85a8f1002967f4943f76e1d645d1ffb061/ss_8f802b85a8f1002967f4943f76e1d645d1ffb061.1920x1080.jpg?t=1791278745",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/ae64662c060ee16121ab3783bd39efb21f8827a1/ss_ae64662c060ee16121ab3783bd39efb21f8827a1.1920x1080.jpg?t=1791278745",
@@ -32,10 +32,10 @@
     {
       "id": 4908050,
       "name": "RuneScape: Dragonwilds - Deluxe Edition Upgrade",
-      "price_rub": 986,
+      "price_rub": 975,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908050/388802372e3832d98950b62287d77783715c5488/header.jpg?t=1789567516"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-21T16:28:53Z"
+  "updated_at": "2026-10-25T10:17:41Z"
 }

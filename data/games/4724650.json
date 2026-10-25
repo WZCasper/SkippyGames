@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 639,
+  "price_rub": 636,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "oosx9T7C74w",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724650/9b032f6dd7aaa74af13d85594a6d44249cddde65/ss_9b032f6dd7aaa74af13d85594a6d44249cddde65.1920x1080.jpg?t=1792110317",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724650/bd1f7251e10a56d7cb1520f45374eb8b32bae228/ss_bd1f7251e10a56d7cb1520f45374eb8b32bae228.1920x1080.jpg?t=1792110317",
@@ -28,10 +28,10 @@
     {
       "id": 5257720,
       "name": "KILLAMITY: Demon Siege Soundtrack",
-      "price_rub": 550,
+      "price_rub": 548,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5257720/0b30b942dc4139cd9e35689cef4927590dd68bae/header.jpg?t=1791508673"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-21T16:49:59Z"
+  "updated_at": "2026-10-25T10:21:31Z"
 }
