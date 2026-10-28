@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:38:00Z",
+  "generated_at": "2026-10-28T18:24:12Z",
   "uah_to_rub_rate": 1.766291,
   "markup_rub": 500,
   "target_catalog_size": 10000,
@@ -327,7 +327,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 849,
+      "price_rub": 844,
       "is_free": false
     },
     {
@@ -366,7 +366,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 634,
       "is_free": false
     },
     {
@@ -639,7 +639,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1028,
+      "price_rub": 1021,
       "is_free": false
     },
     {
@@ -954,7 +954,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -2112,7 +2112,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 778,
+      "price_rub": 774,
       "is_free": false
     },
     {
@@ -2220,7 +2220,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 849,
+      "price_rub": 844,
       "is_free": false
     },
     {
@@ -2844,7 +2844,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 804,
+      "price_rub": 800,
       "is_free": false
     },
     {
@@ -2909,7 +2909,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1342,
+      "price_rub": 1330,
       "is_free": false
     },
     {
@@ -3279,14 +3279,14 @@
     {
       "id": 4380490,
       "title": "Cat Mail Co.",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1790596384",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1792997815",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1048,
+      "price_rub": 1040,
       "is_free": false
     },
     {
@@ -3390,7 +3390,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 912,
+      "price_rub": 703,
       "is_free": false
     },
     {
@@ -3741,7 +3741,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 624,
       "is_free": false
     },
     {
@@ -3812,7 +3812,7 @@
     {
       "id": 2810210,
       "title": "Codename CURE II",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810210/8cf17864930ab82ba20d536c79901bcb4af67830/header.jpg?t=1788456153",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810210/8cf17864930ab82ba20d536c79901bcb4af67830/header.jpg?t=1793110693",
       "genres": [
         "Экшен"
       ],
@@ -3975,7 +3975,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 677,
       "is_free": false
     },
     {
@@ -4120,7 +4120,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1270,
+      "price_rub": 1260,
       "is_free": false
     },
     {
@@ -4146,7 +4146,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 677,
       "is_free": false
     },
     {
@@ -4307,7 +4307,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 731,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -4943,7 +4943,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 625,
       "is_free": false
     },
     {
@@ -5050,7 +5050,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1394,
+      "price_rub": 1381,
       "is_free": false
     },
     {
@@ -5289,7 +5289,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 777,
+      "price_rub": 774,
       "is_free": false
     },
     {
@@ -5302,7 +5302,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -5406,7 +5406,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -5940,14 +5940,14 @@
     {
       "id": 4249850,
       "title": "E-Shop Tycoon",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249850/89c708329b69dfa7b088e8e90857ac252459848b/header.jpg?t=1791861393",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249850/89c708329b69dfa7b088e8e90857ac252459848b/header.jpg?t=1793015855",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1073,
+      "price_rub": 1065,
       "is_free": false
     },
     {
@@ -6066,7 +6066,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -6092,7 +6092,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 805,
+      "price_rub": 800,
       "is_free": false
     },
     {
@@ -6287,7 +6287,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 677,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -6339,7 +6339,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 597,
+      "price_rub": 595,
       "is_free": false
     },
     {
@@ -7364,7 +7364,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 620,
+      "price_rub": 618,
       "is_free": false
     },
     {
@@ -8027,7 +8027,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1243,
+      "price_rub": 1233,
       "is_free": false
     },
     {
@@ -8118,7 +8118,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -8147,7 +8147,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1680,
+      "price_rub": 1664,
       "is_free": false
     },
     {
@@ -8520,7 +8520,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -8535,7 +8535,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1323,
+      "price_rub": 1312,
       "is_free": false
     },
     {
@@ -8548,7 +8548,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 912,
+      "price_rub": 906,
       "is_free": false
     },
     {
@@ -9055,7 +9055,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 633,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -9178,15 +9178,15 @@
     {
       "id": 4685090,
       "title": "Hold'em Fold'em Poker",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/fc612e660be555bae7a6403c39186dcdd2e6f9ef/header.jpg?t=1791662394",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/fc612e660be555bae7a6403c39186dcdd2e6f9ef/header.jpg?t=1793187491",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 656,
-      "is_free": false
+      "price_rub": 0,
+      "is_free": true
     },
     {
       "id": 4864280,
@@ -9448,7 +9448,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 695,
+      "price_rub": 624,
       "is_free": false
     },
     {
@@ -9461,7 +9461,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1100,
+      "price_rub": 1092,
       "is_free": false
     },
     {
@@ -9539,7 +9539,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 912,
+      "price_rub": 906,
       "is_free": false
     },
     {
@@ -9656,7 +9656,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 849,
+      "price_rub": 776,
       "is_free": false
     },
     {
@@ -9750,7 +9750,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1035,
+      "price_rub": 1028,
       "is_free": false
     },
     {
@@ -9986,7 +9986,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 804,
+      "price_rub": 800,
       "is_free": false
     },
     {
@@ -10159,7 +10159,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2288,
+      "price_rub": 2265,
       "is_free": false
     },
     {
@@ -10415,7 +10415,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3454,
+      "price_rub": 3413,
       "is_free": false
     },
     {
@@ -10614,7 +10614,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3364,
+      "price_rub": 3324,
       "is_free": false
     },
     {
@@ -10770,7 +10770,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3900,
+      "price_rub": 3854,
       "is_free": false
     },
     {
@@ -11292,7 +11292,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 849,
+      "price_rub": 844,
       "is_free": false
     },
     {
@@ -11344,7 +11344,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 856,
+      "price_rub": 851,
       "is_free": false
     },
     {
@@ -11448,7 +11448,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 677,
+      "price_rub": 675,
       "is_free": false
     },
     {
@@ -11500,7 +11500,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 804,
+      "price_rub": 724,
       "is_free": false
     },
     {
@@ -11712,7 +11712,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1869,
+      "price_rub": 1715,
       "is_free": false
     },
     {
@@ -11738,7 +11738,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 777,
+      "price_rub": 664,
       "is_free": false
     },
     {
@@ -11961,7 +11961,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3004,
+      "price_rub": 2971,
       "is_free": false
     },
     {
@@ -11979,7 +11979,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3183,
+      "price_rub": 3148,
       "is_free": false
     },
     {
@@ -12226,7 +12226,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 876,
+      "price_rub": 871,
       "is_free": false
     },
     {
@@ -13567,7 +13567,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 767,
+      "price_rub": 763,
       "is_free": false
     },
     {
@@ -13970,7 +13970,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1082,
+      "price_rub": 1074,
       "is_free": false
     },
     {
@@ -14154,7 +14154,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -14850,7 +14850,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1987,
+      "price_rub": 1966,
       "is_free": false
     },
     {
@@ -14928,7 +14928,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -15136,7 +15136,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -15657,14 +15657,14 @@
     {
       "id": 3812600,
       "title": "ReStory: Chill Electronics Repairs",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/e99dc0e496e4e39fc6f80053ddfd4d5e38fc0125/header.jpg?t=1790169325",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/a0e671f412783ac7fc153376fd0a7aaa52643f18/header_alt_assets_1.jpg?t=1793202338",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1035,
+      "price_rub": 922,
       "is_free": false
     },
     {
@@ -15866,7 +15866,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 835,
+      "price_rub": 830,
       "is_free": false
     },
     {
@@ -16094,7 +16094,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -16670,7 +16670,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1270,
+      "price_rub": 1260,
       "is_free": false
     },
     {
@@ -16776,7 +16776,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1610,
+      "price_rub": 1595,
       "is_free": false
     },
     {
@@ -16893,7 +16893,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -16948,7 +16948,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 640,
+      "price_rub": 638,
       "is_free": false
     },
     {
@@ -17135,7 +17135,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1449,
+      "price_rub": 1436,
       "is_free": false
     },
     {
@@ -17174,7 +17174,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 633,
+      "price_rub": 631,
       "is_free": false
     },
     {
@@ -17942,7 +17942,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1100,
+      "price_rub": 1092,
       "is_free": false
     },
     {
@@ -18153,7 +18153,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1036,
+      "price_rub": 1028,
       "is_free": false
     },
     {
@@ -18346,7 +18346,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -18533,7 +18533,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1537,
+      "price_rub": 1523,
       "is_free": false
     },
     {
@@ -19149,7 +19149,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 937,
+      "price_rub": 1116,
       "is_free": false
     },
     {
@@ -19360,7 +19360,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 805,
+      "price_rub": 740,
       "is_free": false
     },
     {
@@ -19451,7 +19451,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -19819,7 +19819,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2109,
+      "price_rub": 1588,
       "is_free": false
     },
     {
@@ -20613,7 +20613,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 885,
+      "price_rub": 880,
       "is_free": false
     },
     {
@@ -20782,7 +20782,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 634,
       "is_free": false
     },
     {
@@ -21307,7 +21307,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -21639,7 +21639,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 730,
       "is_free": false
     },
     {
@@ -22072,7 +22072,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 677,
       "is_free": false
     },
     {
@@ -22111,7 +22111,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1270,
+      "price_rub": 1260,
       "is_free": false
     },
     {
@@ -22629,7 +22629,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 849,
+      "price_rub": 844,
       "is_free": false
     },
     {
@@ -22642,7 +22642,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 805,
+      "price_rub": 800,
       "is_free": false
     },
     {
@@ -22809,14 +22809,14 @@
     {
       "id": 3892270,
       "title": "Казино с друзьями",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1792427976",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1793026661",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 706,
+      "price_rub": 830,
       "is_free": false
     },
     {
@@ -22868,7 +22868,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 805,
+      "price_rub": 800,
       "is_free": false
     },
     {
@@ -23159,7 +23159,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 805,
+      "price_rub": 800,
       "is_free": false
     },
     {
@@ -23605,7 +23605,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 733,
+      "price_rub": 618,
       "is_free": false
     },
     {
@@ -23618,7 +23618,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 677,
       "is_free": false
     },
     {
@@ -23709,7 +23709,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 581,
+      "price_rub": 634,
       "is_free": false
     },
     {
@@ -23982,7 +23982,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 912,
+      "price_rub": 906,
       "is_free": false
     },
     {
@@ -24879,7 +24879,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 679,
+      "price_rub": 677,
       "is_free": false
     },
     {

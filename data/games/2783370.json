@@ -11,28 +11,28 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 937,
+  "price_rub": 1116,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/3b52bf27f032c388550ac9517265d7f2f799c677/ss_3b52bf27f032c388550ac9517265d7f2f799c677.1920x1080.jpg?t=1784279922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/351817fef345f960e0e450d460ac8a0efef14974/ss_351817fef345f960e0e450d460ac8a0efef14974.1920x1080.jpg?t=1784279922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/bc34da677506b5d24293f9d145541d247883ca30/ss_bc34da677506b5d24293f9d145541d247883ca30.1920x1080.jpg?t=1784279922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/304779d28e658ee909775be9c137ef0d89bb3033/ss_304779d28e658ee909775be9c137ef0d89bb3033.1920x1080.jpg?t=1784279922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/5ff83538ec52ec04d31c1de7e052c673f9d2c9f1/ss_5ff83538ec52ec04d31c1de7e052c673f9d2c9f1.1920x1080.jpg?t=1784279922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/9d6a120c9e77b69c83e61feae9c9e3ee0be36277/ss_9d6a120c9e77b69c83e61feae9c9e3ee0be36277.1920x1080.jpg?t=1784279922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/fe535390e87344cd0342e6bfb084334b64a4065b/ss_fe535390e87344cd0342e6bfb084334b64a4065b.1920x1080.jpg?t=1784279922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/97c0b37ed6dd062eb2152016e09243f5bf690998/ss_97c0b37ed6dd062eb2152016e09243f5bf690998.1920x1080.jpg?t=1784279922"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/3b52bf27f032c388550ac9517265d7f2f799c677/ss_3b52bf27f032c388550ac9517265d7f2f799c677.1920x1080.jpg?t=1793104306",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/351817fef345f960e0e450d460ac8a0efef14974/ss_351817fef345f960e0e450d460ac8a0efef14974.1920x1080.jpg?t=1793104306",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/bc34da677506b5d24293f9d145541d247883ca30/ss_bc34da677506b5d24293f9d145541d247883ca30.1920x1080.jpg?t=1793104306",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/304779d28e658ee909775be9c137ef0d89bb3033/ss_304779d28e658ee909775be9c137ef0d89bb3033.1920x1080.jpg?t=1793104306",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/5ff83538ec52ec04d31c1de7e052c673f9d2c9f1/ss_5ff83538ec52ec04d31c1de7e052c673f9d2c9f1.1920x1080.jpg?t=1793104306",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/9d6a120c9e77b69c83e61feae9c9e3ee0be36277/ss_9d6a120c9e77b69c83e61feae9c9e3ee0be36277.1920x1080.jpg?t=1793104306",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/fe535390e87344cd0342e6bfb084334b64a4065b/ss_fe535390e87344cd0342e6bfb084334b64a4065b.1920x1080.jpg?t=1793104306",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2783370/97c0b37ed6dd062eb2152016e09243f5bf690998/ss_97c0b37ed6dd062eb2152016e09243f5bf690998.1920x1080.jpg?t=1793104306"
   ],
   "upsells": [
     {
       "id": 4439010,
       "name": "Teeto Soundtrack",
-      "price_rub": 681,
+      "price_rub": 756,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439010/136d22658b507cfe582345a1f63e0dbe335b3dc9/header.jpg?t=1784127672"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-25T02:02:11Z"
+  "updated_at": "2026-10-28T18:07:58Z"
 }

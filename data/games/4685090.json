@@ -1,8 +1,8 @@
 {
   "id": 4685090,
   "title": "Hold'em Fold'em Poker",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/fc612e660be555bae7a6403c39186dcdd2e6f9ef/header.jpg?t=1791662394",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4685090?t=1791662394",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/fc612e660be555bae7a6403c39186dcdd2e6f9ef/header.jpg?t=1793187491",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4685090?t=1793187491",
   "description": "Hold'em Fold'em Poker — расслабленный взгляд на техасский холдем без лишних наворотов, созданный, чтобы играть было просто и легко: за вечер с друзьями или в одиночку с ботами, под мягкий лаунж-саундтрек в духе 80-х, который проведёт вас до самого ривера.\n\nНикакого pay-to-win. Никаких лутбоксов с сюрпризами. Никаких таймеров энергии. Никакой премиум-валюты. Только косметика для карт в вашей руке, которая никак не влияет на игровой процесс.\n\nИграйте с друзьями за считанные секундыСоздать игру быстро и просто. Полная интеграция с друзьями Steam: лобби и приглашения в игру работают через Steam. Одноранговая сеть с миграцией хоста — если хост отключился, игра продолжается.\n\nСделайте её своейИгровой стол предлагает широкие возможности настройки — за счёт вашего собственного контента или контента других игроков из Steam Workshop: колоды, рубашки карт, сукно стола, наборы фишек, реакции, курсоры... и даже музыка.\n\nСоздана, чтобы играть, а не фармить• Техасский холдем на 2–8 игроков через Steam P2P\n\n• Со временем добавляются новые карточные игры — у каждой свои особые эффекты\n\n• Одиночная игра против ботов без интернета, пять пресетов характера — Микс, Пассив, Баланс, Агрессия, Задира\n\n• Пресеты «Свободная игра», «Турнир» и «Быстрая игра», которые легко настроить под настроение в простом и понятном меню\n\n• Настройки, чтобы сделать игру настолько эффектной или минималистичной, насколько хотите\n\n• Пять фирменных эффектов нокаута — вылет из игры превращается в событие\n\n• Сохранение и продолжение партии в одиночной игре\n\n• Браузер «Найти публичные игры» для открытых матчей\n\n• Полная поддержка контроллеров: Xbox, DualSense или контроллер Steam\n\n• Оригинальный лаунж-саундтрек в духе 80-х с поддержкой собственных треков\n\n• Авторские 3D-столы (один танцует под вашу музыку) и настраиваемые 2D-столы\n\n• Глубокая косметическая кастомизация и поддержка Steam Workshop\n\n• Необязательное косметическое DLC с анимированными покрытиями карт\n\n• Реакции, чат и подталкивания для игроков\n\n• Полная локализация на 16 языков\n\n• Без рекламы, шкал энергии и внутриигровых валют\n\nКарточные игры в составе• Техасский холдем\n\n• Palace (Sh**head) — одиночная игра включена; для игры онлайн нужно DLC\n\n• Cheat («Верю — не верю») — одиночная игра включена; для игры онлайн нужно DLC\n\nО поддержке Steam Deck\n\nHold'em Fold'em Poker сейчас учитывает особенности Steam Deck. В игру можно играть, но некоторым пользователям шрифты и значки могут показаться мелкими.\n\nПравовое примечание\n\nHold'em Fold'em Poker от Longdog Games не предлагает и никогда не будет предлагать ставки или выплаты на реальные деньги. Это исключительно развлекательный продукт, и он не предназначен для точного воспроизведения реальной обстановки азартных игр (онлайн или офлайн). Longdog Games не одобряет нелегальные азартные игры.",
   "description_short": "Расслабленный техасский холдем без лишней мишуры — играйте с друзьями! Также есть Cheat и Palace, а новые карточные игры уже на подходе.",
   "genres": [
@@ -11,52 +11,52 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 656,
-  "is_free": false,
+  "price_rub": 0,
+  "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "tdZk3AmeGJE",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/adf2aa4fb0c7b2b1c4bd210594a9c11bc8e0a3ce/ss_adf2aa4fb0c7b2b1c4bd210594a9c11bc8e0a3ce.1920x1080.jpg?t=1791662394",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/5310816a63b9a0e649e89cacae1339bda7b8a0bc/ss_5310816a63b9a0e649e89cacae1339bda7b8a0bc.1920x1080.jpg?t=1791662394",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/12d605b3200163fa15cafb6c1771141c43d81851/ss_12d605b3200163fa15cafb6c1771141c43d81851.1920x1080.jpg?t=1791662394",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/79a5d40328f2043b4946e19c3a2058a0e70f422e/ss_79a5d40328f2043b4946e19c3a2058a0e70f422e.1920x1080.jpg?t=1791662394",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/da008cfcbcee712aceb3e7cc68200ededad2643a/ss_da008cfcbcee712aceb3e7cc68200ededad2643a.1920x1080.jpg?t=1791662394",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/41a9c96251b5ab3d4529b9baa7df8c6e6fd9824e/ss_41a9c96251b5ab3d4529b9baa7df8c6e6fd9824e.1920x1080.jpg?t=1791662394",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/9042e233da145e7fad673fc932f24f0a120a7222/ss_9042e233da145e7fad673fc932f24f0a120a7222.1920x1080.jpg?t=1791662394",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/5e26769558edf15dcbc372ca9ce5923bc8c73342/ss_5e26769558edf15dcbc372ca9ce5923bc8c73342.1920x1080.jpg?t=1791662394"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/adf2aa4fb0c7b2b1c4bd210594a9c11bc8e0a3ce/ss_adf2aa4fb0c7b2b1c4bd210594a9c11bc8e0a3ce.1920x1080.jpg?t=1793187491",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/5310816a63b9a0e649e89cacae1339bda7b8a0bc/ss_5310816a63b9a0e649e89cacae1339bda7b8a0bc.1920x1080.jpg?t=1793187491",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/12d605b3200163fa15cafb6c1771141c43d81851/ss_12d605b3200163fa15cafb6c1771141c43d81851.1920x1080.jpg?t=1793187491",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/79a5d40328f2043b4946e19c3a2058a0e70f422e/ss_79a5d40328f2043b4946e19c3a2058a0e70f422e.1920x1080.jpg?t=1793187491",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/da008cfcbcee712aceb3e7cc68200ededad2643a/ss_da008cfcbcee712aceb3e7cc68200ededad2643a.1920x1080.jpg?t=1793187491",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/41a9c96251b5ab3d4529b9baa7df8c6e6fd9824e/ss_41a9c96251b5ab3d4529b9baa7df8c6e6fd9824e.1920x1080.jpg?t=1793187491",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/9042e233da145e7fad673fc932f24f0a120a7222/ss_9042e233da145e7fad673fc932f24f0a120a7222.1920x1080.jpg?t=1793187491",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685090/5e26769558edf15dcbc372ca9ce5923bc8c73342/ss_5e26769558edf15dcbc372ca9ce5923bc8c73342.1920x1080.jpg?t=1793187491"
   ],
   "upsells": [
     {
       "id": 4772550,
       "name": "Hold'em Fold'em Poker - Deluxe Card Finishes",
-      "price_rub": 631,
+      "price_rub": 629,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772550/14b4e361879b28dcdee6baf9a9dccc9979d03630/header.jpg?t=1791662976"
     },
     {
       "id": 5165030,
       "name": "Hold'em Fold'em Poker - Cheat Pack!",
-      "price_rub": 604,
+      "price_rub": 602,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165030/697ad1ddb3129e2ddd787b3196603cfa4ad96e16/header.jpg?t=1790787787"
     },
     {
       "id": 5230150,
       "name": "Hold'em Fold'em Poker - Shithead Pack!",
-      "price_rub": 604,
+      "price_rub": 602,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230150/9cb5fc1e94f5bbf161f7ad31642de7e97061b826/header.jpg?t=1790796314"
     },
     {
       "id": 5361960,
       "name": "Hold'em Fold'em Poker - Deep Freeze",
-      "price_rub": 656,
+      "price_rub": 654,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5361960/7d3f0f9cbee2cf11dc1392b47fd773d3c273daad/header.jpg?t=1792048740"
     },
     {
       "id": 5370720,
       "name": "Hold'em Fold'em Poker - Worlds Away",
-      "price_rub": 636,
+      "price_rub": 634,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370720/8e5cfcf9eb0df0236d2fff84825fe63b535a22a1/header.jpg?t=1791616888"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-24T20:16:29Z"
+  "updated_at": "2026-10-28T17:32:48Z"
 }
