@@ -1,7 +1,7 @@
 {
   "id": 1838600,
   "title": "Moshcave",
-  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1838600/capsule_616x353.jpg",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/f96c29170cf0e87e045b010522c4e58577cdf204/header.jpg?t=1785543379",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1838600/library_hero.jpg",
   "description": "Moshcave — это игра в жанре roguelite с бесконечными процедурно генерируемыми подземельями, где враги становятся все сильнее по мере продвижения в пещеры. Помогите Мёрфи, усилив его, чтобы добраться до самого нижнего этажа Пещеры доктора Моша!\n\r\n\n\r\nОсновные характеристики:\n\r\n> Бесконечные процедурно генерируемые подземелья;\n\r\n> Бонусы;\n\r\n> Различные шляпы, оружие и питомцы с различными характеристиками;\n\r\n> Десятки возможных билдов;\n\r\n> Враги и количество этажей.",
   "description_short": "Усильте Мерфи и уничтожьте сотни врагов, пока вы проползаете вглубь пещеры доктора Моша! Moshcave — это игра-рогалит в ретро-стиле с множеством возможных сборок и странными врагами, которые постепенно становятся сильнее.",
@@ -14,7 +14,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 547,
+  "price_rub": 546,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -28,5 +28,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-10-25T02:36:24Z"
+  "updated_at": "2026-10-28T22:15:48Z"
 }
