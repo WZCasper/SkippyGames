@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 679,
+  "price_rub": 677,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -28,10 +28,10 @@
     {
       "id": 4695700,
       "name": "A Game About Getting Bigger: Supporter Pack",
-      "price_rub": 561,
+      "price_rub": 560,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695700/e3fc0828da47fde32aced1a5de03e03a9333f965/header.jpg?t=1789533246"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-24T19:59:35Z"
+  "updated_at": "2026-10-28T12:25:14Z"
 }
