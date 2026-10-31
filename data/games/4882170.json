@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 776,
+  "price_rub": 775,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "VlD6Rg-aRT0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882170/87ac92f5b38c657affc082cb3b3570845c4483d2/ss_87ac92f5b38c657affc082cb3b3570845c4483d2.1920x1080.jpg?t=1790431263",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882170/cd9b064b8a8f5387c361e3104dddc6a7f7469ea3/ss_cd9b064b8a8f5387c361e3104dddc6a7f7469ea3.1920x1080.jpg?t=1790431263",
@@ -26,5 +26,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-10-27T17:36:31Z"
+  "updated_at": "2026-10-31T11:22:17Z"
 }
