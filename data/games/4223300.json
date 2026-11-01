@@ -1,8 +1,8 @@
 {
   "id": 4223300,
   "title": "Birds of War",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/0701aee0f0e60e4ff1ca897a42feccab22b0cbd1/header.jpg?t=1788101275",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/ce33a68f3f0b84e25a86bd580543fe2877539498/page_bg_raw.jpg?t=1788101275",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/ea2b6a55c76ef5aa3a872592d84eb8fac5fbeac9/header_alt_assets_0.jpg?t=1793332230",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/ce33a68f3f0b84e25a86bd580543fe2877539498/page_bg_raw.jpg?t=1793332230",
   "description": "Китоглав только что боднул вашего союзника прямо в дерево. Крово несёт ваше последнее яйцо домой, а все враги на карте слышат, как вы срываетесь в голосовом чате.\n\nДОБРО ПОЖАЛОВАТЬ В BIRDS OF WARВоздушные бои 3v3v3. Девять птиц, три гнезда, одна цель: побеждает команда с наибольшим числом яиц в гнезде.\n\nНИ ОДНО ЯЙЦО НЕ БРОСАЕМНападайте на вражеские гнезда, вытаскивайте яйца, несите их домой и защищайте свои.\n\nОНИ ВАС СЛЫШАТВ каждой игре включен голосовой чат по расстоянию. Вы услышите врага раньше, чем увидите, и он услышит вас.\n\nВыберите свою птицуНа старте четыре птицы, дальше будет больше: скрытный ворон, быстрый колибри, танк-китоглав и голубь поддержки с UAV-метками.\n\nКаждый удар отправляет в ragdollБой ближний, физический и жесткий. Каждое устранение ощущается заслуженным.\n\nПлати за стиль, а не за победуНикакого pay-to-win. Магазин не делает вашу птицу сильнее или быстрее.\n\nЭТО СДЕЛАЛ ИНТЕРНЕТВ конце 2025 года мы увидели мем о несуществующей игре про птиц. HexNest Games теперь делает ее на Unreal Engine 5 вместе с Discord-сообществом.\n\nЗаходите сейчас. Смотрите, как она растет. Ломайте ее вместе с нами.",
   "description_short": "Вы птица. У вас есть гнездо. Другие птицы хотят ваши яйца. Birds of War — командная воздушная PvP-игра. Нападайте на гнезда, крадите яйца и сражайтесь клюв к клюву в быстрых хаотичных матчах. Ваш микрофон всегда открыт. Враги слышат вас. Действуйте с умом.",
   "genres": [
@@ -11,21 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 730,
+  "price_rub": 638,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/d764554af255c5b563a6e5e6b62dde55273648e9/ss_d764554af255c5b563a6e5e6b62dde55273648e9.1920x1080.jpg?t=1788101275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/f1ee07c9b2b2d6217190573c1745e4a211dcd31a/ss_f1ee07c9b2b2d6217190573c1745e4a211dcd31a.1920x1080.jpg?t=1788101275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/2f4541f8e8420b6d068fa4fb5f106fd06971cdfb/ss_2f4541f8e8420b6d068fa4fb5f106fd06971cdfb.1920x1080.jpg?t=1788101275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/7eaba53267d5e41cb400906f1c5cb1d3d79dfff3/ss_7eaba53267d5e41cb400906f1c5cb1d3d79dfff3.1920x1080.jpg?t=1788101275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/8cbed59b13dae747d0f329eb385b778f8404b0c6/ss_8cbed59b13dae747d0f329eb385b778f8404b0c6.1920x1080.jpg?t=1788101275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/52d65d8cdb1d85a2ce386d101a22c18dc4844da5/ss_52d65d8cdb1d85a2ce386d101a22c18dc4844da5.1920x1080.jpg?t=1788101275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/8b7043369fcf33a659050ed7c21d793fd9ebc489/ss_8b7043369fcf33a659050ed7c21d793fd9ebc489.1920x1080.jpg?t=1788101275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/c92f5ee07f1f1cbca209dea880b24fffd809e997/ss_c92f5ee07f1f1cbca209dea880b24fffd809e997.1920x1080.jpg?t=1788101275"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/67d499cfe86b0d86335ae2fb908dc23641c9cdc4/ss_67d499cfe86b0d86335ae2fb908dc23641c9cdc4.1920x1080.jpg?t=1793332230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/156ca628a279a6615670a5e26c6a09df4a48272b/ss_156ca628a279a6615670a5e26c6a09df4a48272b.1920x1080.jpg?t=1793332230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/8fd81475b6587188184fcc2da72ba5c33ffa7b4e/ss_8fd81475b6587188184fcc2da72ba5c33ffa7b4e.1920x1080.jpg?t=1793332230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/0f8d3c32a308a817bfdcc792460f36113108bf14/ss_0f8d3c32a308a817bfdcc792460f36113108bf14.1920x1080.jpg?t=1793332230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/f2dea29c019e030cc5903a41762aecd2872a91b5/ss_f2dea29c019e030cc5903a41762aecd2872a91b5.1920x1080.jpg?t=1793332230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/ee169e44b85a1b40341e66c7ac8e70fec69ae755/ss_ee169e44b85a1b40341e66c7ac8e70fec69ae755.1920x1080.jpg?t=1793332230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/cdeeaa04ae89d0969d8a2ac2171d10f093ab4d76/ss_cdeeaa04ae89d0969d8a2ac2171d10f093ab4d76.1920x1080.jpg?t=1793332230",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223300/52d65d8cdb1d85a2ce386d101a22c18dc4844da5/ss_52d65d8cdb1d85a2ce386d101a22c18dc4844da5.1920x1080.jpg?t=1793332230"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-10-29T03:24:36Z"
+  "updated_at": "2026-11-01T21:47:21Z"
 }
