@@ -35,13 +35,13 @@
     {
       "id": 5165030,
       "name": "Hold'em Fold'em Poker - Cheat Pack!",
-      "price_rub": 602,
+      "price_rub": 603,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165030/697ad1ddb3129e2ddd787b3196603cfa4ad96e16/header.jpg?t=1790787787"
     },
     {
       "id": 5230150,
       "name": "Hold'em Fold'em Poker - Shithead Pack!",
-      "price_rub": 602,
+      "price_rub": 603,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230150/9cb5fc1e94f5bbf161f7ad31642de7e97061b826/header.jpg?t=1790796314"
     },
     {
@@ -53,10 +53,10 @@
     {
       "id": 5370720,
       "name": "Hold'em Fold'em Poker - Worlds Away",
-      "price_rub": 634,
+      "price_rub": 635,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370720/8e5cfcf9eb0df0236d2fff84825fe63b535a22a1/header.jpg?t=1791616888"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-10-28T17:32:48Z"
+  "updated_at": "2026-11-01T12:09:30Z"
 }
