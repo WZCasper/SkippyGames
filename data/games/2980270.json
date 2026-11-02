@@ -11,21 +11,34 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1154,
+  "price_rub": 959,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "uUmi0bmL6Ik",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_024a43948e65db4dc6e7b77010f21a3df2e287f1.1920x1080.jpg?t=1792674511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_fabf0b8f0f780c20779d1662955f027eaf09f0c3.1920x1080.jpg?t=1792674511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_a18eaf3a0c919a3de5981994e652dcb2b95b5360.1920x1080.jpg?t=1792674511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_af9b91211799dd1dfe8c6029d0d8410debbddba2.1920x1080.jpg?t=1792674511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_4bafee5c80ee9386f3c2474793fb44bf17894ac4.1920x1080.jpg?t=1792674511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_33e5be857fd04b0416dced5b7735d97338998723.1920x1080.jpg?t=1792674511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_291310132c7c4d2d957db0a1d772befb49aeb4b9.1920x1080.jpg?t=1792674511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_4f9fe13aae1cfe2a7b08b2209dd53c9f82823c70.1920x1080.jpg?t=1792674511"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_024a43948e65db4dc6e7b77010f21a3df2e287f1.1920x1080.jpg?t=1793375804",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_fabf0b8f0f780c20779d1662955f027eaf09f0c3.1920x1080.jpg?t=1793375804",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_a18eaf3a0c919a3de5981994e652dcb2b95b5360.1920x1080.jpg?t=1793375804",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_af9b91211799dd1dfe8c6029d0d8410debbddba2.1920x1080.jpg?t=1793375804",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_4bafee5c80ee9386f3c2474793fb44bf17894ac4.1920x1080.jpg?t=1793375804",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_33e5be857fd04b0416dced5b7735d97338998723.1920x1080.jpg?t=1793375804",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_291310132c7c4d2d957db0a1d772befb49aeb4b9.1920x1080.jpg?t=1793375804",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980270/ss_4f9fe13aae1cfe2a7b08b2209dd53c9f82823c70.1920x1080.jpg?t=1793375804"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 5207480,
+      "name": "Hackhub: Bug Bounty",
+      "price_rub": 785,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5207480/54b769feb630eb5977bdab05ab3d378db31bfdb9/header.jpg?t=1793375334"
+    },
+    {
+      "id": 5346250,
+      "name": "Hackhub: Supporter Pack",
+      "price_rub": 730,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5346250/0c24fb2fcda1787b6c5703f6894a3b0a3e2dd115/header.jpg?t=1793359061"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-10-29T11:54:24Z"
+  "updated_at": "2026-11-02T03:36:27Z"
 }
