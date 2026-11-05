@@ -1,7 +1,7 @@
 {
   "id": 2672840,
   "title": "Gambetto",
-  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2672840/capsule_616x353.jpg",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672840/3b4f203018d98b2a8643650a6f2c2a8daed73909/header.jpg?t=1784991672",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2672840/library_hero.jpg",
   "description": "Gambetto blends traditional CCG with the logic and elegance of chess, creating a mind-bending PvP strategy game. Build your deck, command your pieces on a 5×5 board, and out-smart your opponent in fast, high-impact duels.\n\nBig-Brain Battles!Battle another player on a compact chess-inspired battlefield where every move matters. Reposition your pieces with movement cards, unleash powerful abilities, and create devastating synergies. Outsmart your opponent, capture their king, and prove your mastery of tactical planning.\n\nBuild Your Winning StrategyEach of the many factions comes with its own themed card pool and signature mechanics. Mix movement cards, piece abilities, and combo-enabling spells to craft your ultimate deck. Whether you enjoy tempo, control, or explosive high-risk plays, Gambetto rewards creativity and clever deck construction.\n\nCustom Game ModesNot in the mood for ranked play? Jump into Custom Games and tailor the rules however you like.\n\nChoose from pre-built modes such as Standard and Turbo, or experiment by creating your own rule set—adjust turn timers, deck-building restriction, starting draws, card pools, and more.\n\nChallenge your friends with your personalized format and discover new, chaotic, or deeply strategic ways to play.\n\nClimb and ConquerTest your skills in competitive matchmaking, or challenge friends in custom lobbies. Every match is a battle of wits, improvisation, and calculated risks.\n\n…And there’s much more to come!Gambetto is still in development. Upcoming features include:\n\n• New factions, each with their own playstyle, lore, and card pool.\n\n• Puzzling challenge modes with unique board modifiers and special rules.\n\n• Modding support, letting creative players design cards, factions, and even custom encounters.",
   "description_short": "Gambetto is a fast-paced PvP card game that fuses chess tactics with deep deck-building. Command pieces on a 5×5 board, create clever combos, and outsmart opponents. Play competitively or craft custom game modes for endless strategic variety.",
@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 730,
+  "price_rub": 733,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -26,5 +26,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-10-31T20:49:06Z"
+  "updated_at": "2026-11-05T14:01:10Z"
 }
