@@ -1,28 +1,28 @@
 {
   "id": 4912850,
   "title": "Eyedle",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/396ad32b2708a56bf63d42b3ae65cb598b1b29b9/header.jpg?t=1785388567",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/33fcb02f8b427c70a1aceea426d615ebd86b4941/page_bg_raw.jpg?t=1785388567",
-  "description": "Skippy is an average monster trying to escape the clutches of the evil VVBA (his bank) by getting a job on a show where his only purpose is to have people click on his eye. \n\nThis is a clicker and nothing more.",
-  "description_short": "Skippy is an average monster trying to escape the clutches of the evil VVBA (his bank). This is a clicker and nothing more—click! Then click one more time! Until you don't have to click anymore because the clicks will happen on their own. Get upgrades and keep clicking until you have them all!",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/01b0c46f2211b07680307cc5d96f0f5f7ba40398/header.jpg?t=1793926006",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/22e06332b31a9e988e9853e39ca210f8b84708bb/page_bg_raw.jpg?t=1793926006",
+  "description": "Click the giant eye, buy absurd upgrades and climb a leaderboard ruled by a one-eyed god. Eyedle is a colorful idle clicker with boss cinematics, deep prestige progression, tons of cosmetics and a screen layout you arrange yourself.",
+  "description_short": "Click the giant eye, buy absurd upgrades and climb a leaderboard ruled by a one-eyed god. Eyedle is a colorful idle clicker with boss cinematics, deep prestige progression, tons of cosmetics and a screen layout you arrange yourself.",
   "genres": [
     "Экшен"
   ],
   "platforms": [
     "PC"
   ],
-  "price_rub": 635,
+  "price_rub": 636,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/e7dfc20bdcd27d29440fac1a4f1a35edb81e6470/ss_e7dfc20bdcd27d29440fac1a4f1a35edb81e6470.1920x1080.jpg?t=1785388567",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/53881ff2818837c432ae17e17629621812c5ea34/ss_53881ff2818837c432ae17e17629621812c5ea34.1920x1080.jpg?t=1785388567",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/473c249841526afae0e355e157b510bacbff554d/ss_473c249841526afae0e355e157b510bacbff554d.1920x1080.jpg?t=1785388567",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/3c16cc8eb89916e3a25d87285b0b20fb3b3fd4b5/ss_3c16cc8eb89916e3a25d87285b0b20fb3b3fd4b5.1920x1080.jpg?t=1785388567",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/14f8cae6151cdd54aeef5f51f154e88a60aa5f81/ss_14f8cae6151cdd54aeef5f51f154e88a60aa5f81.1920x1080.jpg?t=1785388567"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/f63299254abe48447dab1ae145a6c393bc43b5ff/ss_f63299254abe48447dab1ae145a6c393bc43b5ff.1920x1080.jpg?t=1793926006",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/cbfa6661ab2513d797a0a88630c3ff7b2ff7efcf/ss_cbfa6661ab2513d797a0a88630c3ff7b2ff7efcf.1920x1080.jpg?t=1793926006",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/b6dd4a76fa5bf2720a5e0ec34ba6b2f40ffca9bd/ss_b6dd4a76fa5bf2720a5e0ec34ba6b2f40ffca9bd.1920x1080.jpg?t=1793926006",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/6f5502b3f66bd8f950ff57352183c010f76ae882/ss_6f5502b3f66bd8f950ff57352183c010f76ae882.1920x1080.jpg?t=1793926006",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912850/b6fc2d993ab685bd9f6c24b9f75cff6d1d88a743/ss_b6fc2d993ab685bd9f6c24b9f75cff6d1d88a743.1920x1080.jpg?t=1793926006"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-01T03:24:18Z"
+  "updated_at": "2026-11-06T03:58:09Z"
 }
