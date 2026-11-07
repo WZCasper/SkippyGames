@@ -1,7 +1,7 @@
 {
   "id": 2527300,
   "title": "Lily Fantasia",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527300/header.jpg?t=1790307877",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527300/capsule_616x353.jpg",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527300/library_hero.jpg",
   "description": "Lily Fantasia Welcome to Lily Fantasia, a brand-new rhythm adventure!\n\nTake up your magical piano and face your destiny!\n\nBlack and white notes dance across dynamic charts.\n\nAmid the ever-shifting visuals, listen closely to the rhythm, seize the beat, and strive for a flawless performance!\n\nA Fantastical Musical Journey in Story Mode!In the story, you play as Hiano Kenji, a talented but overlooked young pianist.\n\nTo care for your seriously ill mother, you gave up your dream of becoming a concert pianist…\n\nBut after meeting Lily, a mysterious vampire girl, you are drawn into a fateful journey to obtain the mythical panacea known as the Golden Apple.\n\nPlay the magical piano and save your mother from the brink of death!\n\nDuring the journey to obtain the Golden Apple, a variety of enemies will stand in your way. Don’t panic!\n\nThrough the magical piano, you can hear the heartbeat rhythm of enemies just before they strike.\n\nListen closely to their tempo and time your input—\n\npress the Deflect key at the perfect moment to block incoming attacks and counter your foes.\n\nTurn every clash into a performance, and fight with precision in a battle that flows like music.\n\nBeyond its touching story and unique gameplay, the game features seven original story songs composed by renowned artists including 3R2、Cansol、DDD-Dice、PYKAMIA and Sakuzyo.\n\nYou won’t be disappointed—face a wide variety of enemies and fulfill your vow!\n\nFreely enjoy Lily’s Practice Room!Want to play at your own pace? Head to “Lily’s Practice Room,” a Free Play mode packed with 20 handpicked songs from across the globe.\n\nFrom intense electronic music to emotional Artcore, a wide range of genres awaits you!\n\nWorried you’re new to rhythm games and can’t handle high difficulty? No worries!\n\nEvery song offers at least three difficulty levels, suitable for both beginners and seasoned players.\n\nGlobal LeaderboardsThink your piano skills are top-tier? Compete against players worldwide on the global leaderboards!\n\nEach song also has its own friends leaderboard so you can challenge your friends.\n\nAdditionally, Lily keeps track of your local records, so you can monitor your improvement over time!\n\nFeatures• Play songs in Free Play to collect Lily Power and unlock new original stories!\n\n• 20 handpicked Free Play songs from around the world\n\n• 7 original story songs by renowned composers\n\n• Online leaderboards: Global / Friends / Local\n\n• Full controller support\n\n• Customizable button configuration to suit your play style",
   "description_short": "Welcome to the fantastical, rhythm-filled world of Lily Fantasia! Join the mysterious vampire Lily in a race against time to save your mother! Overcome fierce enemies, wield the magical piano, and claim your destiny as a Rhythm Master!",
@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1094,
+  "price_rub": 1103,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "K2GFtY9ck9w",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527300/8cc8821d6374b0efc8d28012972e2eafb66d0994/ss_8cc8821d6374b0efc8d28012972e2eafb66d0994.1920x1080.jpg?t=1790307877",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527300/0ba79c2cdc3d42b3805357fcf089aa9f9124b8d7/ss_0ba79c2cdc3d42b3805357fcf089aa9f9124b8d7.1920x1080.jpg?t=1790307877",
@@ -27,10 +27,10 @@
     {
       "id": 5075480,
       "name": "Lily Fantasia - FAR BEYOND Expansion Pack",
-      "price_rub": 730,
+      "price_rub": 734,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075480/2276cb469de13b95ee37d7c03938a40e84eeca39/header.jpg?t=1790320027"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-11-02T14:00:06Z"
+  "updated_at": "2026-11-07T04:02:27Z"
 }
