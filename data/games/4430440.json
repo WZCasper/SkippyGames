@@ -1,31 +1,28 @@
 {
   "id": 4430440,
   "title": "Grid Grind",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/a9002173e44305d03a47d6236717e0b1a8ae4e0f/header.jpg?t=1790105414",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/b3c3510b24c97ead5ede65fd2a824635ab8c17b0/page_bg_raw.jpg?t=1790105414",
-  "description": "Get ready to push your reflexes to the edge!  Grid Grind is a high-velocity, retro-futuristic aesthetic themed arcade high-score chaser, where greed could be your ultimate end.\n\nCore Mechanics• Risk & Reward Extraction: Collect glowing gold cubes and deliver them to the extraction point to rake in massive points. Warning: The more gold cubes you carry, the faster you accelerate — testing your reflexes with unlimited speed.\n\n• Proximity Grazing: Live on the edge. Graze past hazards and enclose them to clear them out to increase multipliers.\n\nFeatures & Modes• Intense Challenges: Push your survival limits across varied Rush, Containment, and Boss challenges designed to keep pressure locked at all times.\n\n• Twisted Game Modes: Unlock game-changing alternate ways to play:\n\n• Turn Left Mode: A brutal restriction forcing you to navigate entirely without right turns.\n\n• 3P Mode: A complete perspective shift that fundamentally changes how you play through the game.\n\n• Deep Progression: Build broken, high-scoring runs by unlocking permanent upgrades between runs and stacking program hacks mid-game for insane scoring boosts.\n\n• Synth-Fueled Audio: Plug into a heavy, pulse-pounding retro-digital soundtrack composed by Yaroslav Ozhogin / SoftLightStudio / OISS.\n\nGameplay FeaturesGrazing/Circling hazards to score fragments and clear them out\n\nExtract gold cubes at the extraction point to earn even more fragments\n\nUnlock Program Hacks and Permanent Upgrades",
-  "description_short": "Grid Grind is a retro-futuristic cyberpunk aesthetic themed arcade extraction game. Earn massive points by hording gold cubes and extracting them!! The more gold cubes == more speed!! A thrilling high risk reward gameplay setup where precision and timing is the key to maximizing your score.",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/a9002173e44305d03a47d6236717e0b1a8ae4e0f/header.jpg?t=1794010158",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/b3c3510b24c97ead5ede65fd2a824635ab8c17b0/page_bg_raw.jpg?t=1794010158",
+  "description": "Get ready to push your reflexes to the edge! Grid Grind is a high-velocity, retro-futuristic arcade high-score chaser, where greed could be your ultimate end.\n\nLoop to ClearDraw your trail around hazards to wipe them out. Bigger loops, bigger payouts: Double Loop, Triple Loop and beyond. Live on the edge and graze past hazards to boost your multipliers.\n\nGreed Is the GameCollect glowing gold cubes and deliver them to the extraction point to rake in massive points. Warning: the more gold cubes you carry, the faster you accelerate, testing your reflexes with unlimited speed.\n\nRush, Containment & Boss ChallengesPush your survival limits across varied Rush, Containment, and Boss challenges designed to keep the pressure locked on at all times.\n\nTwisted Game Modes• Turn Left Mode: A brutal restriction forcing you to navigate entirely without right turns.\n\n• 3P Mode: A complete perspective shift that fundamentally changes how you play through the game.\n\nDeep ProgressionBuild broken, high-scoring runs by unlocking permanent upgrades between runs and stacking program hacks mid-game for insane scoring boosts.\n\nSynth-Fueled AudioPlug into a heavy, pulse-pounding retro-digital soundtrack composed by Yaroslav Ozhogin / SoftLightStudio / OISS.",
+  "description_short": "Grid Grind is a retro-futuristic cyberpunk aesthetic themed arcade extraction game. Earn massive points by hoarding gold cubes and extracting them!! The more gold cubes == more speed!! A thrilling high risk reward gameplay setup where precision and timing is the key to maximizing your score.",
   "genres": [
     "Экшен"
   ],
   "platforms": [
     "PC"
   ],
-  "price_rub": 732,
+  "price_rub": 617,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/41572ee0d05a14bfdaf69bfbc45c46549ba8dc2f/ss_41572ee0d05a14bfdaf69bfbc45c46549ba8dc2f.1920x1080.jpg?t=1790105414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/aa01265a8d2537f97d9f304e70ad0d3d36600dd1/ss_aa01265a8d2537f97d9f304e70ad0d3d36600dd1.1920x1080.jpg?t=1790105414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/100a55979241af1816dc1a23554d1260b78096c1/ss_100a55979241af1816dc1a23554d1260b78096c1.1920x1080.jpg?t=1790105414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/4ff3468bdf18b635ada161e5701d7c2193450c5b/ss_4ff3468bdf18b635ada161e5701d7c2193450c5b.1920x1080.jpg?t=1790105414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/6a9a470503cbd63792be4aa0d21997af406caf68/ss_6a9a470503cbd63792be4aa0d21997af406caf68.1920x1080.jpg?t=1790105414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/d78a2323f06b7ff28b745a6b12897b3fe9d4e51f/ss_d78a2323f06b7ff28b745a6b12897b3fe9d4e51f.1920x1080.jpg?t=1790105414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/24580d043e400c7fe38b5aaa7830f5362b44b23f/ss_24580d043e400c7fe38b5aaa7830f5362b44b23f.1920x1080.jpg?t=1790105414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/0a186d3313de7676ae356dc0a390bc1497b08c20/ss_0a186d3313de7676ae356dc0a390bc1497b08c20.1920x1080.jpg?t=1790105414"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/a084704f92473f2bbc0edc084a3a5691a3d09558/ss_a084704f92473f2bbc0edc084a3a5691a3d09558.1920x1080.jpg?t=1794010158",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/1e3e41019ef758d10a99c7c38e263ee000285e46/ss_1e3e41019ef758d10a99c7c38e263ee000285e46.1920x1080.jpg?t=1794010158",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/f94464203199934018fb8916cda335c5f1ff908d/ss_f94464203199934018fb8916cda335c5f1ff908d.1920x1080.jpg?t=1794010158",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/07b0a18edff3961a5e354aed9817025bbae3405f/ss_07b0a18edff3961a5e354aed9817025bbae3405f.1920x1080.jpg?t=1794010158",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430440/6dd3b5b82a6becc75294116c0a53f49542e333d2/ss_6dd3b5b82a6becc75294116c0a53f49542e333d2.1920x1080.jpg?t=1794010158"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-04T13:30:55Z"
+  "updated_at": "2026-11-08T21:38:41Z"
 }
