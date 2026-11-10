@@ -1,8 +1,8 @@
 {
   "id": 5191570,
   "title": "Section 80",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/1383b7ec0bbd85ec472db69f3f0a039fa20fb17e/header.jpg?t=1790411566",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/e9530c1b17f4ebe78f65ca68dee1030fe37e1b96/page_bg_raw.jpg?t=1790411566",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/1383b7ec0bbd85ec472db69f3f0a039fa20fb17e/header.jpg?t=1793973904",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/e9530c1b17f4ebe78f65ca68dee1030fe37e1b96/page_bg_raw.jpg?t=1793973904",
   "description": "Seal the Sector\n\nIt's your job to contain the unpredictable Electro-Blob that has returned from Laser Ball (2018).  This angry massive blob of ten-billion watts of raw electricity has escaped once again and it's raw power and completely random direction, speed, and size make no two games the same!\n\nTo beat each progressively more difficult level, you must contain the Electro-Blob in a 20% or less area of the arena but cutting lines across the sector.  Section it off at 80% or more and you advance to the next level and score any bonus points based on true 'risk vs reward' scoring mechanics.  It's really simple really as the less section or boxes you make to get hit your 80% goal, the more points you score.  The smaller section you pin the Electro-Blob in, the more bonus points you score.  \n\nThe Electro-Blob is the featured foe, but hunters also will ensure that you aren't sitting idle to plan your next move for more than a few seconds at any given time.  They patrol the arena, moving along the border and along any new lines you've made.  Touching one of these hunters doesn't end your life, but will instead make things even harder by spawning a brand new golden Electro-Blob into the unsealed arena near you!\n\nSection 80 is a retro action game inspired by classics I've played as a child on my classic Commodore 64.  There simple aren't enough games like this on Steam, and this was created and developed to bring back this kind of electric fun to a whole new population of gamers today!",
   "description_short": "The unpredictable ten-billion watt Electro-Blob is back in a whole new action game, and this time your mission is to try and contain it in less than a 20% section of the arena! Hunters will keep you on your toes, because if they touch you, it will spark yet another golden Electro-Blob to conquer!",
   "genres": [
@@ -11,19 +11,21 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 687,
+  "price_rub": 735,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/452c1aa411b02461b07b51c56dd44f6ecea8a290/ss_452c1aa411b02461b07b51c56dd44f6ecea8a290.1920x1080.jpg?t=1790411566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/6c7b38bac33c08398a73f36e657c24af4a8499c7/ss_6c7b38bac33c08398a73f36e657c24af4a8499c7.1920x1080.jpg?t=1790411566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/92eb2649547a2d3327bba357b7a074665021f938/ss_92eb2649547a2d3327bba357b7a074665021f938.1920x1080.jpg?t=1790411566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/d552994798933a26a812fb4c2c33d0eb1fab611c/ss_d552994798933a26a812fb4c2c33d0eb1fab611c.1920x1080.jpg?t=1790411566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/c64cea145cca3a75dada77bc16ab47d062e57b8a/ss_c64cea145cca3a75dada77bc16ab47d062e57b8a.1920x1080.jpg?t=1790411566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/bffc6644858a025b1c4ba998b38a8bf4bc9e738a/ss_bffc6644858a025b1c4ba998b38a8bf4bc9e738a.1920x1080.jpg?t=1790411566"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/147509d05eddbf62590c1a8db1026ddeed455974/ss_147509d05eddbf62590c1a8db1026ddeed455974.1920x1080.jpg?t=1793973904",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/7b346747c7cc6f4d19ed297327859f7726b674fa/ss_7b346747c7cc6f4d19ed297327859f7726b674fa.1920x1080.jpg?t=1793973904",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/7bde51af9d45fe45695302635996983aac85415a/ss_7bde51af9d45fe45695302635996983aac85415a.1920x1080.jpg?t=1793973904",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/40d4e62b7ed5a9d2f389bc7fe2baaf654e78b64e/ss_40d4e62b7ed5a9d2f389bc7fe2baaf654e78b64e.1920x1080.jpg?t=1793973904",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/89f48e81c63ddd67c22ec7cc00ecb13b3359a872/ss_89f48e81c63ddd67c22ec7cc00ecb13b3359a872.1920x1080.jpg?t=1793973904",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/55e2ea9028261c55b21d69fe9072ba8fedbd56a3/ss_55e2ea9028261c55b21d69fe9072ba8fedbd56a3.1920x1080.jpg?t=1793973904",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/3e08b3d18b7e5469f069c641bc91fc98078ef91e/ss_3e08b3d18b7e5469f069c641bc91fc98078ef91e.1920x1080.jpg?t=1793973904",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/50bb615364191eb7bb337d2c4bed1e33d4191e1e/ss_50bb615364191eb7bb337d2c4bed1e33d4191e1e.1920x1080.jpg?t=1793973904"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-05T14:12:41Z"
+  "updated_at": "2026-11-10T01:43:22Z"
 }
