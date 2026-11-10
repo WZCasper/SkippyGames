@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 778,
+  "price_rub": 781,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -25,14 +25,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414210/e4ba52ad18b91feebaaa6b01ba741b22e524b1a9/ss_e4ba52ad18b91feebaaa6b01ba741b22e524b1a9.1920x1080.jpg?t=1792264530",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414210/5df4f269dce62dd43a5a7b98884f373752a20c66/ss_5df4f269dce62dd43a5a7b98884f373752a20c66.1920x1080.jpg?t=1792264530"
   ],
-  "upsells": [
-    {
-      "id": 4927160,
-      "name": "Dice Carnival - Supporter Pack",
-      "price_rub": 593,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4927160/34199441d34e8b899e11114e22e4fcfd8b48c9f1/header.jpg?t=1784166753"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-06T04:35:27Z"
+  "updated_at": "2026-11-10T14:44:54Z"
 }

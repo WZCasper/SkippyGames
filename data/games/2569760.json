@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1605,
+  "price_rub": 1557,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -26,34 +26,34 @@
     {
       "id": 5346050,
       "name": "The Mound: Omen of Cthulhu - Tsathoggua Cultist Skin Pack",
-      "price_rub": 656,
+      "price_rub": 657,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5346050/41b2369368a5f2a9db289aa62e3674392455df8d/header.jpg?t=1793358913"
     },
     {
       "id": 4630450,
       "name": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack",
-      "price_rub": 733,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630450/8a73f1c23566bed776b54e4eade74ee90b47915f/header.jpg?t=1784109673"
     },
     {
       "id": 4630440,
       "name": "The Mound: Omen of Cthulhu - Original Soundtrack ",
-      "price_rub": 850,
+      "price_rub": 817,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630440/3046fe2c674b05921e2f8d4a5257372f76895bc4/header.jpg?t=1784109929"
     },
     {
       "id": 4630460,
       "name": "The Mound: Omen of Cthulhu - Characters & Items Pack",
-      "price_rub": 733,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630460/85db3585ebdbae1a3603d3a1f4c56e94bbf59493/header.jpg?t=1784819161"
     },
     {
       "id": 4925780,
       "name": "The Mound: Omen of Cthulhu - Temple of Yig Exclusive Mission",
-      "price_rub": 1605,
+      "price_rub": 2218,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925780/237f0fa0800ab389f5e095042ccca5dc4e6b96eb/header.jpg?t=1784109819"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-11-06T04:33:22Z"
+  "updated_at": "2026-11-10T14:42:48Z"
 }
