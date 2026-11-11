@@ -24,14 +24,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/d63aecbc65b39cc43c719765d3fed5a6e1756451/ss_d63aecbc65b39cc43c719765d3fed5a6e1756451.1920x1080.jpg?t=1786278191",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954120/604d5e20cf5fb373626a822ee3645f70a7efa5da/ss_604d5e20cf5fb373626a822ee3645f70a7efa5da.1920x1080.jpg?t=1786278191"
   ],
-  "upsells": [
-    {
-      "id": 4954160,
-      "name": "Frame Radar — Pro Upgrade",
-      "price_rub": 734,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954160/8c19b25ae13685dff580ea30b138240cf3455a76/header.jpg?t=1784851323"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-07T04:13:26Z"
+  "updated_at": "2026-11-11T13:57:34Z"
 }

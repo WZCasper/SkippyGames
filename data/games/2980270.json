@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1167,
+  "price_rub": 1172,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,16 +29,16 @@
     {
       "id": 5207480,
       "name": "Hackhub: Bug Bounty",
-      "price_rub": 790,
+      "price_rub": 792,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5207480/54b769feb630eb5977bdab05ab3d378db31bfdb9/header.jpg?t=1793375334"
     },
     {
       "id": 5346250,
       "name": "Hackhub: Supporter Pack",
-      "price_rub": 734,
+      "price_rub": 736,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5346250/0c24fb2fcda1787b6c5703f6894a3b0a3e2dd115/header.jpg?t=1793359061"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-11-07T03:37:54Z"
+  "updated_at": "2026-11-11T13:23:31Z"
 }
