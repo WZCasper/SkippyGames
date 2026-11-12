@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 4101,
+  "price_rub": 4132,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "hzoWfRb2ZYI",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/10c0fc19577ce7b7d5ea0fbcb257a1744d320f91/ss_10c0fc19577ce7b7d5ea0fbcb257a1744d320f91.1920x1080.jpg?t=1793610312",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/695493c0bcb6f662019b22d148092b60e7de6167/ss_695493c0bcb6f662019b22d148092b60e7de6167.1920x1080.jpg?t=1793610312",
@@ -29,40 +29,40 @@
     {
       "id": 4848500,
       "name": "MARVEL Tōkon: Fighting Souls: пропуск «Арена и персонажи первого года»",
-      "price_rub": 2498,
+      "price_rub": 2515,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848500/658f06fd95d181e3567803787b813047879b55e2/header.jpg?t=1793611299"
     },
     {
       "id": 5185300,
       "name": "MARVEL Tōkon: Fighting Souls — Циклоп-феникс",
-      "price_rub": 1237,
+      "price_rub": 1243,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185300/3aa27e62e846299ff75cff0b9dcd4545f0137af4/header.jpg?t=1793610157"
     },
     {
       "id": 5246710,
       "name": "MARVEL Tōkon: Fighting Souls — набор «Классический костюм» для Циклопа-феникса",
-      "price_rub": 967,
+      "price_rub": 971,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246710/2def2947a998ea7c781cbecbf9e243f26eed1010/header.jpg?t=1793610184"
     },
     {
       "id": 5246750,
       "name": "MARVEL Tōkon: Fighting Souls — набор костюмов для Халка «Джо Фиксит»",
-      "price_rub": 967,
+      "price_rub": 971,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246750/d312defd9844e2d1dcb3111ce0d86ae47d24db78/header.jpg?t=1793610204"
     },
     {
       "id": 5030920,
       "name": "Улучшение издания MARVEL Tōkon: Fighting Souls Standard до Ultimate",
-      "price_rub": 1941,
+      "price_rub": 1953,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030920/d6dc9fa506995e4a5584588633fa0a1fbc27f197/header_russian.jpg?t=1786028498"
     },
     {
       "id": 5030930,
       "name": "Улучшение издания MARVEL Tōkon: Fighting Souls Deluxe до Ultimate",
-      "price_rub": 1040,
+      "price_rub": 1045,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030930/d6dc9fa506995e4a5584588633fa0a1fbc27f197/header_russian.jpg?t=1786028709"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-11-07T11:59:22Z"
+  "updated_at": "2026-11-11T23:53:57Z"
 }
