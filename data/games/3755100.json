@@ -2,7 +2,7 @@
   "id": 3755100,
   "title": "PorBor",
   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3755100/40b5133d8abe04bccccd6aa3936dd5ea38841cda/header.jpg?t=1785923477",
-  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3755100/library_hero.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3755100?t=1785923477",
   "description": "PorBor is a VERY difficult and VERY fast Metroidvania where you explore a civilization mutated by nature and gods alike, all stemming from one destructive event. You are \"Bor\" and need to wander around while finding different items, abilities, colorful yet haunting locations, and importantly... Bugs.\n\nFeatures • Combat is quick and reactionary. Bosses and enemies alike will force to you act fast and take risks. Supported by the movement which is snappy and untethered\n\n• \"Kilt\" appears when you draw blood from foes. Giving you health and strength. Kilt is pushed away from you when created, meaning if you want it you have to remain close.\n\n• Tons of different bosses to defeat\n\n• Find countless characters throughout this land... Who vary in sanity\n\n• Over a dozen different areas to find, each with their own unique colors, strange flora, lore, and cute/creepy creatures. Explorable in many different orders\n\n• Precise platforming to do between all the exploring and fighting you're about to do",
   "description_short": "PorBor is a metroidvania set in a mutated civilization. Slash through enemies to form a collectable substance, forcing you to engage with close and quick combat. Explore this varied overgrown world as Bor to learn about the mind of a god...",
   "genres": [
@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 734,
+  "price_rub": 737,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -26,5 +26,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-07T17:30:15Z"
+  "updated_at": "2026-11-12T14:07:14Z"
 }

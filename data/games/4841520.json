@@ -1,8 +1,8 @@
 {
   "id": 4841520,
   "title": "Cutesor - Cursor Studio",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/bfeccfa71e2859a2ae5fd1bfb16b0f277f8231d9/header.jpg?t=1791813712",
-  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4841520?t=1791813712",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/bfeccfa71e2859a2ae5fd1bfb16b0f277f8231d9/header.jpg?t=1794242612",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4841520?t=1794242612",
   "description": "Ваш курсор оживает.Cutesor превращает указатель мыши в то, что вы рисуете, анимируете и показываете другим, - с эффектами частиц, звуками и целым сообществом Мастерской Steam.\n\nНастоящая студия пиксель-артаРисуйте, анимируйте и затеняйте курсоры в редакторе, созданном для пиксель-арта: шкала анимации, «луковая кожа», симметрия, цветовые градиенты, умные трансформации и импорт спрайт-листов. Ваш курсор 32×32 остаётся идеально чётким в любом размере, вплоть до 256 px.\n\nКурсоры, которые реагируютЗадайте каждому курсору свою анимацию для левого клика, правого клика и направления движения. Ведите мышь на восток - и стрелка наклонится вместе с вами.\n\nЭффекты и звукиДобавьте искры, шлейфы, ленты и волны от кликов, которые следуют за указателем по всем экранам. А сверху - звуки: мягкий «поп» при клике, свист, который нарастает вместе со скоростью. Создавайте свои во встроенных редакторах эффектов и звуков.\n\nFuse - смешивайте что угодноОбъедините стрелку одного автора, блестящий шлейф другого и звук клика третьего в одну сборку. Каждый тип курсора вы выбираете и комбинируете сами.\n\nПерекрашивайте что угодноНравится курсор, но не его цвет? Сдвиньте оттенок - и весь рисунок перекрасится, а светотень автора останется нетронутой.\n\nМастерская SteamПросматривайте, фильтруйте, подписывайтесь и делитесь курсорами, эффектами и звуками. Обновления приходят автоматически, когда авторы выпускают новые версии.\n\nВсегда включён, никогда не мешаетCutesor запускается вместе с Windows и тихо работает в фоне - реактивные курсоры, эффекты и звуки остаются активными, не накручивая ваше игровое время. В полноэкранных играх эффекты и звуки автоматически отходят в сторону.",
   "description_short": "Создавайте, находите и меняйте любые свои курсоры! Этот инструмент содержит всё необходимое для настройки ваших курсоров. Рисуйте, экспериментируйте и попробуйте сами! Не умеете работать с пиксель-артом? Найдите понравившийся курсор в мастерской, созданной сообществом!",
   "genres": [
@@ -11,19 +11,19 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 734,
+  "price_rub": 737,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/dc4bafcb4115b0a2f6d4519e4215a52c5b0adfc0/ss_dc4bafcb4115b0a2f6d4519e4215a52c5b0adfc0.1920x1080.jpg?t=1791813712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/cac28d52c9cf775f858a831b7a956c29d54ee85a/ss_cac28d52c9cf775f858a831b7a956c29d54ee85a.1920x1080.jpg?t=1791813712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/8eb6efbfa151b49423522bfd02f637d4d198a832/ss_8eb6efbfa151b49423522bfd02f637d4d198a832.1920x1080.jpg?t=1791813712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/26b260564345c02a6f8c7fbde9005d82bc4dc0c1/ss_26b260564345c02a6f8c7fbde9005d82bc4dc0c1.1920x1080.jpg?t=1791813712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/4a5940d736f2839b2e9fe52ac23915dc3f5ed671/ss_4a5940d736f2839b2e9fe52ac23915dc3f5ed671.1920x1080.jpg?t=1791813712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/32dc3c4358effd94fc69b9e12be16ca1f3933e6f/ss_32dc3c4358effd94fc69b9e12be16ca1f3933e6f.1920x1080.jpg?t=1791813712"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/dc4bafcb4115b0a2f6d4519e4215a52c5b0adfc0/ss_dc4bafcb4115b0a2f6d4519e4215a52c5b0adfc0.1920x1080.jpg?t=1794242612",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/cac28d52c9cf775f858a831b7a956c29d54ee85a/ss_cac28d52c9cf775f858a831b7a956c29d54ee85a.1920x1080.jpg?t=1794242612",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/8eb6efbfa151b49423522bfd02f637d4d198a832/ss_8eb6efbfa151b49423522bfd02f637d4d198a832.1920x1080.jpg?t=1794242612",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/26b260564345c02a6f8c7fbde9005d82bc4dc0c1/ss_26b260564345c02a6f8c7fbde9005d82bc4dc0c1.1920x1080.jpg?t=1794242612",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/4a5940d736f2839b2e9fe52ac23915dc3f5ed671/ss_4a5940d736f2839b2e9fe52ac23915dc3f5ed671.1920x1080.jpg?t=1794242612",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841520/32dc3c4358effd94fc69b9e12be16ca1f3933e6f/ss_32dc3c4358effd94fc69b9e12be16ca1f3933e6f.1920x1080.jpg?t=1794242612"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-07T21:15:22Z"
+  "updated_at": "2026-11-12T14:32:34Z"
 }
