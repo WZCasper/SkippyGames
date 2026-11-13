@@ -2,7 +2,7 @@
   "id": 2371060,
   "title": "It Consumes",
   "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2371060/capsule_616x353.jpg",
-  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2371060/library_hero.jpg",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2371060/d8981f2b26380103a3548d4f6116157791d03c3d/page_bg_raw.jpg?t=1793768256",
   "description": "SURVIVE IN THE DARKNESSIt Consumes is a hectic first-person arena shooter, but with an additional twist: to see you must use your pulse to temporarily reveal your surroundings. Every moment is a fight to survive as you climb your way to the top of the leaderboards.\n\n \n\nCOMBAT WITH DEPTHThe game is designed so there is no single correct way to play, and different players will discover different strategies. The core set of mechanics (shooting, dashing, casting spells, and pulsing) are tuned to feel great from the start, but their true potential is unlocked as you customize your build with various perks and modifiers. The game rewards your understanding of its mechanics and is always letting you find new ways to exploit them.\n\n \n\nFeatures:• Multiple ways to play. Can be played as a roguelite with randomized upgrades during your run, or as a classic arena shooter where your FPS skills are all that matter.\n\n• Customize your build. Equip your preferred weapons and abilities, and unlock dozens of perks. Mix and match them to create your perfect playstyle.\n\n• Unique difficulty system. Higher difficulties are more than just simple stat increases. Unlock modifiers that actually change the game and force you to think and play differently.\n\n• Leaderboards. Each game mode has its own leaderboard where you can compare your score with your friends, or fight for the global top rank.\n\n• Custom games. Break the game entirely by designing your own custom game mode. Adjust almost any value (damage, movement speed, etc.), toggle on or off any combination of player upgrades, and design your own enemy waves. You can even make your own custom modifiers that trigger actions when specific conditions are met.",
   "description_short": "It Consumes is a frantic arena shooter that takes place in the dark. See by beating your heart to reveal your foes. Choose your preferred playstyle with both roguelite and classic modes, or use the extensive custom games editor to create your own game modes with unique rules and modifiers.",
   "genres": [
@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 714,
+  "price_rub": 717,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-08T12:52:37Z"
+  "updated_at": "2026-11-13T13:55:52Z"
 }
