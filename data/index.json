@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:55:43Z",
+  "generated_at": "2026-11-15T23:04:43Z",
   "uah_to_rub_rate": 1.814972,
   "markup_rub": 500,
   "target_catalog_size": 10000,
@@ -915,7 +915,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3585,
+      "price_rub": 3582,
       "is_free": false
     },
     {
@@ -1298,15 +1298,15 @@
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1874880/capsule_616x353.jpg",
       "genres": [
         "Технические симуляторы",
-        "Экшен",
         "Шутеры от первого лица (FPS)",
+        "Экшен",
         "Песочницы (Sandbox)",
         "Тактические шутеры"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 2133,
+      "price_rub": 2132,
       "is_free": false
     },
     {
@@ -1358,7 +1358,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1000,
+      "price_rub": 874,
       "is_free": false
     },
     {
@@ -1492,7 +1492,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2162,
+      "price_rub": 2161,
       "is_free": false
     },
     {
@@ -1531,7 +1531,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 736,
+      "price_rub": 681,
       "is_free": false
     },
     {
@@ -1609,7 +1609,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1590,
+      "price_rub": 1589,
       "is_free": false
     },
     {
@@ -1822,7 +1822,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2133,
+      "price_rub": 2132,
       "is_free": false
     },
     {
@@ -1967,7 +1967,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 3223,
+      "price_rub": 3221,
       "is_free": false
     },
     {
@@ -2149,7 +2149,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 734,
+      "price_rub": 623,
       "is_free": false
     },
     {
@@ -2162,7 +2162,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 642,
+      "price_rub": 736,
       "is_free": false
     },
     {
@@ -2188,7 +2188,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 681,
       "is_free": false
     },
     {
@@ -3929,7 +3929,7 @@
     {
       "id": 4084160,
       "title": "Conqueror's Stage",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/dddf6f89c43e9e21e61e99cdea3d361964be39e0/header.jpg?t=1793129421",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084160/dddf6f89c43e9e21e61e99cdea3d361964be39e0/header.jpg?t=1794743318",
       "genres": [
         "Экшен"
       ],
@@ -4339,14 +4339,14 @@
     {
       "id": 4797490,
       "title": "CutBench: Local VOD Scrubber & Clip Maker",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797490/9eb60f2aad9e26f34e02257cdf47ac0249930f63/header.jpg?t=1794041044",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797490/9eb60f2aad9e26f34e02257cdf47ac0249930f63/header.jpg?t=1794693290",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1554,
+      "price_rub": 1553,
       "is_free": false
     },
     {
@@ -4499,7 +4499,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1407,
+      "price_rub": 1406,
       "is_free": false
     },
     {
@@ -4647,7 +4647,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 960,
+      "price_rub": 959,
       "is_free": false
     },
     {
@@ -4998,7 +4998,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 681,
       "is_free": false
     },
     {
@@ -5355,7 +5355,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4132,
+      "price_rub": 4128,
       "is_free": false
     },
     {
@@ -5974,7 +5974,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4495,
+      "price_rub": 4491,
       "is_free": false
     },
     {
@@ -6132,7 +6132,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4132,
+      "price_rub": 4128,
       "is_free": false
     },
     {
@@ -6392,7 +6392,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1136,
+      "price_rub": 1135,
       "is_free": false
     },
     {
@@ -6431,7 +6431,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1254,
+      "price_rub": 1253,
       "is_free": false
     },
     {
@@ -6665,7 +6665,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 918,
+      "price_rub": 917,
       "is_free": false
     },
     {
@@ -7417,7 +7417,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4677,
+      "price_rub": 4673,
       "is_free": false
     },
     {
@@ -8232,7 +8232,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 681,
       "is_free": false
     },
     {
@@ -9405,14 +9405,14 @@
     {
       "id": 3413800,
       "title": "Hotel Tales",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3413800/4402ae5d305a262d89943ad0843647ce680d2ddf/header.jpg?t=1790258829",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3413800/4402ae5d305a262d89943ad0843647ce680d2ddf/header.jpg?t=1794388425",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1001,
+      "price_rub": 1090,
       "is_free": false
     },
     {
@@ -9766,7 +9766,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1109,
+      "price_rub": 1108,
       "is_free": false
     },
     {
@@ -10188,7 +10188,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 604,
+      "price_rub": 603,
       "is_free": false
     },
     {
@@ -10483,7 +10483,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 882,
+      "price_rub": 881,
       "is_free": false
     },
     {
@@ -11924,7 +11924,8 @@
         "Шутеры от третьего лица (TPS)",
         "Экшен",
         "Шутеры от первого лица (FPS)",
-        "MOBA"
+        "Казуальные игры",
+        "Приключения"
       ],
       "platforms": [
         "PC"
@@ -12151,7 +12152,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1000,
+      "price_rub": 899,
       "is_free": false
     },
     {
@@ -12190,7 +12191,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 918,
+      "price_rub": 917,
       "is_free": false
     },
     {
@@ -12663,7 +12664,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2224,
+      "price_rub": 2222,
       "is_free": false
     },
     {
@@ -13283,7 +13284,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4132,
+      "price_rub": 4128,
       "is_free": false
     },
     {
@@ -13413,7 +13414,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1463,
+      "price_rub": 1462,
       "is_free": false
     },
     {
@@ -13693,14 +13694,14 @@
     {
       "id": 4468030,
       "title": "OFFBEAT",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/478220c3465ee8f46a81669134b6bccb710bcaf0/header_alt_assets_0.jpg?t=1793831550",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468030/4e5b3aea6bc0e4d8c764a6dfd00e231f1f8ee858/header.jpg?t=1793831550",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1000,
+      "price_rub": 999,
       "is_free": false
     },
     {
@@ -14025,7 +14026,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 882,
+      "price_rub": 881,
       "is_free": false
     },
     {
@@ -14124,14 +14125,14 @@
     {
       "id": 4210580,
       "title": "Ore Factory Squad ⛏️",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1792070188",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1794496199",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1036,
+      "price_rub": 1035,
       "is_free": false
     },
     {
@@ -14187,7 +14188,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1281,
+      "price_rub": 1280,
       "is_free": false
     },
     {
@@ -14469,7 +14470,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 918,
+      "price_rub": 917,
       "is_free": false
     },
     {
@@ -15698,7 +15699,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2680,
+      "price_rub": 2678,
       "is_free": false
     },
     {
@@ -16190,13 +16191,13 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1281,
+      "price_rub": 1280,
       "is_free": false
     },
     {
       "id": 1374490,
       "title": "RuneScape: Dragonwilds",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1793974714",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1794565381",
       "genres": [
         "Песочницы (Sandbox)",
         "Выживание (Survival)",
@@ -16206,7 +16207,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1953,
+      "price_rub": 1952,
       "is_free": false
     },
     {
@@ -16515,7 +16516,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1036,
+      "price_rub": 1035,
       "is_free": false
     },
     {
@@ -16970,7 +16971,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 4197,
+      "price_rub": 4193,
       "is_free": false
     },
     {
@@ -17113,7 +17114,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 658,
+      "price_rub": 618,
       "is_free": false
     },
     {
@@ -18554,7 +18555,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2678,
+      "price_rub": 2676,
       "is_free": false
     },
     {
@@ -22050,7 +22051,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1915,
+      "price_rub": 1914,
       "is_free": false
     },
     {
@@ -23466,7 +23467,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1463,
+      "price_rub": 1462,
       "is_free": false
     },
     {
@@ -23921,7 +23922,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 782,
+      "price_rub": 781,
       "is_free": false
     },
     {
@@ -23960,7 +23961,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 681,
       "is_free": false
     },
     {
@@ -24064,7 +24065,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1059,
       "is_free": false
     },
     {
