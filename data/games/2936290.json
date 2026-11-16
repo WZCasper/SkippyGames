@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1390,
+  "price_rub": 1389,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -29,13 +29,13 @@
     {
       "id": 4873870,
       "name": "The Life and Suffering of Prince Jerian — Original Soundtrack",
-      "price_rub": 862,
+      "price_rub": 861,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873870/801b7751ec4564349a03df0c94ac381ff82dca41/header.jpg?t=1784556422"
     },
     {
       "id": 4892150,
       "name": "The Life and Suffering of Prince Jerian — Official Artbook & Wallpapers",
-      "price_rub": 862,
+      "price_rub": 861,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892150/6afe86e72abea837cdc566d198bc8e7b8ef6ed50/header.jpg?t=1788825731"
     },
     {
@@ -46,5 +46,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-11-12T00:05:37Z"
+  "updated_at": "2026-11-16T14:19:23Z"
 }

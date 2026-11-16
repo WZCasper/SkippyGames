@@ -25,7 +25,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178020/ec2b265fbd948dee7f482522434ad280ec8814af/ss_ec2b265fbd948dee7f482522434ad280ec8814af.1920x1080.jpg?t=1793250339",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178020/a8141a29d949f74b1dbfbc67f36d13061dce1003/ss_a8141a29d949f74b1dbfbc67f36d13061dce1003.1920x1080.jpg?t=1793250339"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4914020,
+      "name": "Lured In Soundtrack",
+      "price_rub": 638,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914020/ccbed6142b7749032d5d9cf308acab0f4fb75425/header.jpg?t=1784319597"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-11-12T00:39:20Z"
+  "updated_at": "2026-11-16T14:52:34Z"
 }
