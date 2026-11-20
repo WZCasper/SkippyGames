@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 4128,
+  "price_rub": 4136,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "YoFXs6Ifna8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/08af4e9398b8e45152bfbedce3bc24d22e2c0990/ss_08af4e9398b8e45152bfbedce3bc24d22e2c0990.1920x1080.jpg?t=1779840172",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/4921eb5fb45f6b7a3b62195e47c6d7b4175935a8/ss_4921eb5fb45f6b7a3b62195e47c6d7b4175935a8.1920x1080.jpg?t=1779840172",
@@ -25,7 +25,26 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/e4508c17151714d5d4f80cd31bdcacf0caf5559c/ss_e4508c17151714d5d4f80cd31bdcacf0caf5559c.1920x1080.jpg?t=1779840172",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/b61e78a244aef7a12cf08f9dc7e7fc7ead6eeddb/ss_b61e78a244aef7a12cf08f9dc7e7fc7ead6eeddb.1920x1080.jpg?t=1779840172"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3990820,
+      "name": "Resident Evil Requiem — набор Deluxe Kit",
+      "price_rub": 1389,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990820/4553312fa87839e8aeb481e6a157b3f9fcf02c3c/header.jpg?t=1772585199"
+    },
+    {
+      "id": 3990800,
+      "name": "Resident Evil Requiem — Костюм «Апокалипсис» для Грейс",
+      "price_rub": 680,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990800/9f05c4af67da067bfa4b0ccbceef1e20613a616e/header.jpg?t=1779864138"
+    },
+    {
+      "id": 4460240,
+      "name": "Resident Evil Requiem Original Soundtrack",
+      "price_rub": 1018,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460240/d0ac8e930c123a16e1bc313e389df0ebd862e97e/header.jpg?t=1785387070"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-11-15T04:19:55Z"
+  "updated_at": "2026-11-20T14:29:09Z"
 }
