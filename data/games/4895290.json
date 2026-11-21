@@ -1,8 +1,8 @@
 {
   "id": 4895290,
   "title": "Hex Clash - The Fractured Combs",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/3fa117381798b30536bff4236e31e2e6027a085b/header.jpg?t=1794658794",
-  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/ee70d149d6156dcee9a462b06ba0b00e0dec9f2e/page_bg_raw.jpg?t=1794658794",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/32850ad5189e61aeff76430bfb726526566c74dc/header.jpg?t=1795032190",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/ce338ac457669734f869cbc1c24b70fd9a9bc2d4/page_bg_raw.jpg?t=1795032190",
   "description": "Найди брешь в обороне соперника, начни цепочку взятий и захвати контроль над полем! Hex Clash: The Fractured Combs — пошаговая стратегия, в которой ходы в шести направлениях и знакомые по шашкам механики сочетаются с магическими способностями. Научиться играть легко, но находить верные ходы, срывать планы соперника и вовремя проводить комбо придётся учиться на практике. Возглавь свою колонию в войнах ульев Хексанора и проложи путь к вражеской королеве.\n\n🍯 Собирай, превращай и забирай добычу!Превращай нектар в пыльцу, а пыльцу — в мёд. Копи звёзды, чтобы открывать сундуки колонии. Трать ресурсы на новые способности и придавай своей колонии особый стиль с помощью обликов пешек, расцветок и анимаций из сундуков. Открывай новые темы игрового поля и покажи свой стиль в бою!\n\n⚡ Магические способности и стратегияПродолжай цепочку взятий, наращивай комбо и разрушай строй противника. Собери колоду из шести карт и используй способности с руки в нужный момент: защити пешку щитом, поставь ловушку или измени ход боя способностью по области.\n\nСильная карта — лишь часть плана. Не менее важно, где и когда ты её разыграешь. Продумай последовательность ходов и найди слабое место в позиции, которую соперник считал надёжной!\n\n⭐ Основные особенности• Движение в шести направлениях: Атакуй с разных сторон, открывай пути отхода и окружай соперника на поле из шестиугольных клеток.\n\n• Цепочки взятий и комбо: Связывай ходы, используй возможности и сохраняй давление.\n\n• Собственная колода: Выбери шесть карт способностей и управляй рукой размером до четырёх карт во время боя.\n\n• Испытания Хексанора: Меняй тактику в сражениях с боссами, у каждого из которых свои способности.\n\n• Твоя колония — твой стиль: Выбирай темы поля, облики пешек, расцветки и анимации.\n\nКомандир, готовь рой. Следующий ход на Хексаноре — за тобой!",
   "description_short": "Маленькие ульи — большие планы! Возглавь колонию в битве за Хексанор. Здесь пошаговая тактика в духе шашек встречается с магией: атакуй в шести направлениях, связывай взятия в комбо и собирай колоду, способную разрушить планы вражеских королев. Подготовь ход, которого они не ждут!",
   "genres": [
@@ -11,18 +11,25 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 623,
+  "price_rub": 624,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/0ccdbb9b0de178defa4cf6b9c34f460b2fe7bacb/ss_0ccdbb9b0de178defa4cf6b9c34f460b2fe7bacb.1920x1080.jpg?t=1794658794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/48f6872dfe07dc78e1ed0cc5ed6202d39b50b130/ss_48f6872dfe07dc78e1ed0cc5ed6202d39b50b130.1920x1080.jpg?t=1794658794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/61c2193ae38174a33c9db1c97f5061c4075518b9/ss_61c2193ae38174a33c9db1c97f5061c4075518b9.1920x1080.jpg?t=1794658794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/8ab5d1dbb791e13f2e84e6f3a7856c40f58a7992/ss_8ab5d1dbb791e13f2e84e6f3a7856c40f58a7992.1920x1080.jpg?t=1794658794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/0c57b8eff918de3edf8035fa13e995495fd8e9a5/ss_0c57b8eff918de3edf8035fa13e995495fd8e9a5.1920x1080.jpg?t=1794658794"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/0ccdbb9b0de178defa4cf6b9c34f460b2fe7bacb/ss_0ccdbb9b0de178defa4cf6b9c34f460b2fe7bacb.1920x1080.jpg?t=1795032190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/61c2193ae38174a33c9db1c97f5061c4075518b9/ss_61c2193ae38174a33c9db1c97f5061c4075518b9.1920x1080.jpg?t=1795032190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/8ab5d1dbb791e13f2e84e6f3a7856c40f58a7992/ss_8ab5d1dbb791e13f2e84e6f3a7856c40f58a7992.1920x1080.jpg?t=1795032190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/0c57b8eff918de3edf8035fa13e995495fd8e9a5/ss_0c57b8eff918de3edf8035fa13e995495fd8e9a5.1920x1080.jpg?t=1795032190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895290/48f6872dfe07dc78e1ed0cc5ed6202d39b50b130/ss_48f6872dfe07dc78e1ed0cc5ed6202d39b50b130.1920x1080.jpg?t=1795032190"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4898200,
+      "name": "Hex Clash - The Verdant Conquest",
+      "price_rub": 655,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898200/f9f1f511de8289fd22ab96525127110575f6d314/header.jpg?t=1795098571"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-11-16T14:40:28Z"
+  "updated_at": "2026-11-21T14:33:44Z"
 }

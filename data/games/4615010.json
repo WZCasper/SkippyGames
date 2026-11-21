@@ -25,14 +25,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/1f164db07d83dc306cb54612a8230d434a01484f/ss_1f164db07d83dc306cb54612a8230d434a01484f.1920x1080.jpg?t=1794797788",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615010/5eb469e2a4b9b8aa7ad3542c89e2b952d0e7d8a9/ss_5eb469e2a4b9b8aa7ad3542c89e2b952d0e7d8a9.1920x1080.jpg?t=1794797788"
   ],
-  "upsells": [
-    {
-      "id": 4687130,
-      "name": "Kibble Cats - Supporter Pack",
-      "price_rub": 594,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687130/19a690fe1089c387516700bcea8bc9a94255f7ef/header.jpg?t=1794797766"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-16T14:47:46Z"
+  "updated_at": "2026-11-21T14:41:22Z"
 }
