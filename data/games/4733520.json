@@ -22,14 +22,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733520/66cd9fa7109977556ea806b5f25cb1809b993ced/ss_66cd9fa7109977556ea806b5f25cb1809b993ced.1920x1080.jpg?t=1790662641",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733520/0ec1a73cd1219c42d91a96b39799df99a25f131a/ss_0ec1a73cd1219c42d91a96b39799df99a25f131a.1920x1080.jpg?t=1790662641"
   ],
-  "upsells": [
-    {
-      "id": 4766920,
-      "name": "TRUE LOVE'S CURSE Soundtrack",
-      "price_rub": 638,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766920/b4c6745a3ec77f16b799ad1e74ff017b99cae409/header.jpg?t=1788268567"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-16T04:10:58Z"
+  "updated_at": "2026-11-21T05:23:07Z"
 }
