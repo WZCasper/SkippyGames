@@ -16,7 +16,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 2222,
+  "price_rub": 2226,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,13 +34,13 @@
     {
       "id": 1118010,
       "name": "Monster Hunter World: Iceborne",
-      "price_rub": 3039,
+      "price_rub": 3044,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118010/header.jpg?t=1727684185"
     },
     {
       "id": 912540,
       "name": "Monster Hunter: World Original Soundtrack",
-      "price_rub": 1714,
+      "price_rub": 1717,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/912540/header.jpg?t=1697529537"
     },
     {
@@ -52,7 +52,7 @@
     {
       "id": 891730,
       "name": "Monster Hunter: World - Особый набор",
-      "price_rub": 1099,
+      "price_rub": 1100,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/891730/header.jpg?t=1702367427"
     },
     {
@@ -69,5 +69,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-11-15T22:19:47Z"
+  "updated_at": "2026-11-20T23:46:30Z"
 }
