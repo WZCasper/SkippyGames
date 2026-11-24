@@ -1,7 +1,7 @@
 {
   "id": 3346740,
   "title": "Retro Soccer",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/header.jpg?t=1792909672",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/header.jpg?t=1795523734",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3346740/library_hero.jpg",
   "description": "Retro Arcade Football. Your Teams. Your Competitions.Relive the golden age of arcade football with fast, accessible gameplay inspired by the classics of the 1990s.\n\nPlay historic international tournaments, recreate your favourite teams, build your own squads and create competitions of your own. Whether you want to revisit legendary football eras or invent a whole new football universe, Retro Soccer lets you decide how you play.\n\nFEATURES\n\n• Classic arcade football: Fast-paced matches inspired by the great football games of the 90s.\n\n• Create your own teams: Build new teams and edit existing ones.\n\n• Create your own competitions: Set up your own leagues and cup tournaments.\n\n• Relive football history: Play through classic international tournaments from 86 WC to Euro 96.\n\n• Play your way: Choose formations and staring line ups for your teams.\n\n• Challenge a friend: Enjoy local multiplayer and Steam Remote Play Together.\n\nPlay Modes:\n\n• Friendly Match\n\n• Cup Tournaments\n\n• League Tournaments\n\n• Classic Tournaments\n\n• Single or local multiplayer\n\nCurrent features include:\n\n• Simple controls for easy to pickup casual players\n\n• Retro style gameplay with a fun visual style\n\n• Slick passing, Slide tackles, diving headers and rasping shots\n\n• Challenging AI with team skill based on FIFA World Rankings\n\n• Change your formations and tactics\n\n• Steam Workshop Support: Share your custom teams and discover teams created by other players.",
   "description_short": "Relive the golden age of arcade football! Play classic international tournaments in this fast-paced, 90s-inspired football game. Compete in classic tournaments from the 86 World Cup to Euro 96 or create and edit your own teams, and build your own competitions.",
@@ -13,18 +13,18 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 797,
+  "price_rub": 936,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "8o2TFrJhJ8c",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/ss_ac4417a3238147b003714e8c0e3216f989b9f0db.1920x1080.jpg?t=1792909672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/ss_540b73816a96c44c44c4b443da90d2540e2adfbc.1920x1080.jpg?t=1792909672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/ss_05fb65dde87d72ce57608be723953afea2239830.1920x1080.jpg?t=1792909672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/ss_b559f825f466df415af41cfd4e2088c54b2052e0.1920x1080.jpg?t=1792909672",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/ss_7d8cdc3468d417f0f48602bb5a2fa58f3613bf96.1920x1080.jpg?t=1792909672"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/e3e0c903149e92a11824a2437e97aca8aef3004c/ss_e3e0c903149e92a11824a2437e97aca8aef3004c.1920x1080.jpg?t=1795523734",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/ss_ac4417a3238147b003714e8c0e3216f989b9f0db.1920x1080.jpg?t=1795523734",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/b559f825f466df415af41cfd4e2088c54b2052e0/ss_b559f825f466df415af41cfd4e2088c54b2052e0.1920x1080.jpg?t=1795523734",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/b2ff8f829e0a2f955f4e4b39700505afdffa5f73/ss_b2ff8f829e0a2f955f4e4b39700505afdffa5f73.1920x1080.jpg?t=1795523734",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3346740/a7b4fd199e8e400b43359506fc70c635f40083b9/ss_a7b4fd199e8e400b43359506fc70c635f40083b9.1920x1080.jpg?t=1795523734"
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-19T14:55:00Z"
+  "updated_at": "2026-11-24T16:35:36Z"
 }
