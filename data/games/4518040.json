@@ -11,7 +11,7 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 895,
+  "price_rub": 1105,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -25,7 +25,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518040/a85f97c85134afd940f891107c437d192dbc41aa/ss_a85f97c85134afd940f891107c437d192dbc41aa.1920x1080.jpg?t=1794829739",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518040/13709c54b435f6419c0b60ce506ab71b2b610247/ss_13709c54b435f6419c0b60ce506ab71b2b610247.1920x1080.jpg?t=1794829739"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4918130,
+      "name": "Goblins Stole My Panties 👙 - Wallpapers 18+",
+      "price_rub": 637,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4918130/c6db24813e8dc40a50e8d8a9e9dd234085d22b70/header.jpg?t=1784988613"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-11-20T15:21:44Z"
+  "updated_at": "2026-11-25T17:09:20Z"
 }
