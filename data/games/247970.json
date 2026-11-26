@@ -13,10 +13,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 4665,
+  "price_rub": 4661,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "OZD5x_F0ArU",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/81060e40471780e8304b5ec9b50c46c28d9771f6/ss_81060e40471780e8304b5ec9b50c46c28d9771f6.1920x1080.jpg?t=1795017110",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247970/a118ddcc2fb0c228c6746afc78920a7d71d20047/ss_a118ddcc2fb0c228c6746afc78920a7d71d20047.1920x1080.jpg?t=1795017110",
@@ -31,19 +31,19 @@
     {
       "id": 5026020,
       "name": "Корея. Серия Ил-2: Коллекционный самолёт F-84E Thunderjet",
-      "price_rub": 1537,
+      "price_rub": 1536,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026020/e8007683fb01f2dee81b394b7df755128d3208d3/header_russian.jpg?t=1787221417"
     },
     {
       "id": 5026030,
       "name": "Корея. Серия Ил-2: Коллекционный самолёт Ла-11",
-      "price_rub": 1537,
+      "price_rub": 1536,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026030/071138d7de1fecf52f1af6b17f376e4480a7222d/header_russian.jpg?t=1787225210"
     },
     {
       "id": 5026460,
       "name": "Корея. Серия Ил-2: Уникальные схемы окраски «Пилотажные группы»",
-      "price_rub": 1282,
+      "price_rub": 1281,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026460/a726f33ec10c6edbc20e8eefd23492f2d2c2d4cd/header_russian.jpg?t=1795011764"
     },
     {
@@ -54,5 +54,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-11-21T04:48:37Z"
+  "updated_at": "2026-11-26T15:55:34Z"
 }
