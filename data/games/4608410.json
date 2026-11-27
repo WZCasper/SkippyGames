@@ -25,14 +25,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608410/4693481ff65475809fe8c287ecea0c8a0e63517a/ss_4693481ff65475809fe8c287ecea0c8a0e63517a.1920x1080.jpg?t=1789631645",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608410/6a4316a4a6ac31d75b38922cc7bb0e251dcaeea0/ss_6a4316a4a6ac31d75b38922cc7bb0e251dcaeea0.1920x1080.jpg?t=1789631645"
   ],
-  "upsells": [
-    {
-      "id": 4635830,
-      "name": "Huntervania Soundtrack",
-      "price_rub": 549,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635830/6e319372ccad982453f1216191a0458d7332da44/header.jpg?t=1786438742"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-21T22:42:24Z"
+  "updated_at": "2026-11-27T02:05:24Z"
 }

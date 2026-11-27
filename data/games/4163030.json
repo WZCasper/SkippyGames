@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 809,
+  "price_rub": 810,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "9vJ3qvqo-uU",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163030/b9a54ab80f5b2a8b828fa940cd1599c34e6ce4c0/ss_b9a54ab80f5b2a8b828fa940cd1599c34e6ce4c0.1920x1080.jpg?t=1792499672",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163030/31822c2b14bfdd17302ad54907cfdd9676bcaf3a/ss_31822c2b14bfdd17302ad54907cfdd9676bcaf3a.1920x1080.jpg?t=1792499672",
@@ -34,7 +34,7 @@
     {
       "id": 4912310,
       "name": "Cat Chess - Royal Cat (Deluxe Digital Edition)",
-      "price_rub": 736,
+      "price_rub": 737,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912310/69dcdfe04c22b7f439ba0aaf09607aa7e622a630/header.jpg?t=1784041782"
     },
     {
@@ -45,5 +45,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-11-21T22:30:53Z"
+  "updated_at": "2026-11-27T01:52:32Z"
 }
