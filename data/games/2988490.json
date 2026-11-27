@@ -2,7 +2,7 @@
   "id": 2988490,
   "title": "神殺しの蒼銀",
   "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2988490/capsule_616x353.jpg",
-  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2988490/library_hero.jpg",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988490/page_bg_raw.jpg?t=1791990711",
   "description": "■ABOUT THIS GAME\n\nA tactical RPG where strategic decisions, fast-paced battles, and bonds with your allies shape the fate of a nation.\n\nExpand your territory, exploit enemy weaknesses, develop your characters, and build powerful platoons. Every battle and every choice brings you closer to uncovering the truth behind the fate decreed by the gods.\n\n■BATTLE SYSTEM — Fast-Paced Tactical Combat\n\nEngage in turn-based tactical battles designed to keep combat moving without unnecessary delays.\n\nChain Attack System: Exploit enemy weaknesses to trigger additional actions and turn the tide of battle.\n\nPlatoon System: Defeat an enemy leader to break through their formation and gain a strategic advantage.\n\nTurn Limit System: Make every move count as you work toward victory within the battle's limits.\n\nMaster the battle mechanics, adapt to your enemies, and find the most effective path to victory.\n\n■MAP MODE — Conquer Territories and Shape the War\n\nAdvance through a strategic map where you expand your territory and seize regions controlled by your enemies.\n\nYour decisions determine where you strike next, and the route you choose can change how the story unfolds.\n\nPlan your campaign carefully. Every territory you capture brings you one step closer to your goal.\n\n■CHARACTER GROWTH — Prepare for the Battles Ahead\n\n Victory depends on more than your tactics on the battlefield. Prepare your team and make the most of your allies' strengths.\n\n• Seven Classes and Class Changes: Develop your characters to suit your preferred strategy.\n\n• Stroll Events: Spend time with your companions and deepen your bonds.\n\n• Platoon Dispatch Quests: Send platoons on missions beyond the main battlefield.\n\n• Trial Cave: Take on additional challenges to strengthen your characters.\n\n• Platoon Bonuses: Combine specific characters to unlock bonuses that enhance your team's performance.\n\nExperiment with different combinations, strengthen your forces, and prepare for the challenges ahead.\n\n■Special Battles\n\nUnder certain conditions, massive robot battles, Colossus Battles will occur.\n\nThese encounters bring a level of tension unlike standard battles.\n\nRendered in late-90s-style pixel animation,\n\nthis is a story of branching paths and trust.\n\n■A STORY SHAPED BY YOUR CHOICES\n\nThe bonds you forge and the battles you fight will influence the course of the story.\n\nA battle that seemed destined to end in defeat. A nation that was meant to fall. Companions who were never supposed to meet.\n\nYour actions can change their fate.\n\nFollow the paths that unfold before you, uncover the secrets behind the gods' designs, and discover the truth at the end of Silver Blade of Gods' End.",
   "description_short": "A tactical RPG combining fast-paced turn-based battles, strategic territory conquest, and character growth. Master class changes, exploit enemy weaknesses, and build platoons as you fight to shape the fate of a nation.",
   "genres": [
@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "price_rub": 1084,
+  "price_rub": 1083,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "45R42LzS84U",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988490/ss_92f6e9ed9f9d0b9cdb75642b5ffb292674e5faa8.1920x1080.jpg?t=1791990711",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988490/ss_28099f95cc1a46453d67ee8e78c8ca661b6df62d.1920x1080.jpg?t=1791990711",
@@ -27,5 +27,5 @@
   ],
   "upsells": [],
   "source": "steam",
-  "updated_at": "2026-11-22T03:45:30Z"
+  "updated_at": "2026-11-27T15:52:31Z"
 }
