@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T16:36:37Z",
-  "uah_to_rub_rate": 1.821559,
+  "generated_at": "2026-11-28T01:39:57Z",
+  "uah_to_rub_rate": 1.825553,
   "markup_rub": 500,
   "target_catalog_size": 10000,
   "count": 1886,
@@ -249,7 +249,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1111,
+      "price_rub": 1112,
       "is_free": false
     },
     {
@@ -1157,7 +1157,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -2557,7 +2557,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 920,
+      "price_rub": 710,
       "is_free": false
     },
     {
@@ -3105,7 +3105,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -4041,7 +4041,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -4334,7 +4334,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -4373,7 +4373,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -5134,7 +5134,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 920,
+      "price_rub": 836,
       "is_free": false
     },
     {
@@ -5447,7 +5447,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -6523,7 +6523,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -7601,7 +7601,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -7627,7 +7627,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 670,
+      "price_rub": 728,
       "is_free": false
     },
     {
@@ -9938,7 +9938,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 748,
+      "price_rub": 883,
       "is_free": false
     },
     {
@@ -10215,7 +10215,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1038,
+      "price_rub": 1039,
       "is_free": false
     },
     {
@@ -10735,7 +10735,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -10930,7 +10930,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1038,
+      "price_rub": 1039,
       "is_free": false
     },
     {
@@ -11283,7 +11283,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1111,
+      "price_rub": 1112,
       "is_free": false
     },
     {
@@ -11833,7 +11833,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -12782,7 +12782,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 562,
+      "price_rub": 540,
       "is_free": false
     },
     {
@@ -12987,14 +12987,14 @@
     {
       "id": 3136320,
       "title": "My Infamous Dungeon",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136320/header.jpg?t=1785258831",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3136320/header.jpg?t=1795543443",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 1111,
+      "price_rub": 989,
       "is_free": false
     },
     {
@@ -13007,7 +13007,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 901,
+      "price_rub": 902,
       "is_free": false
     },
     {
@@ -13020,7 +13020,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -13215,7 +13215,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1111,
+      "price_rub": 1112,
       "is_free": false
     },
     {
@@ -13591,7 +13591,7 @@
     {
       "id": 3894850,
       "title": "Nothing To Declare",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/cc1972873f77525f2aaaf84c6ccb88ac66521771/header.jpg?t=1794299596",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/cc1972873f77525f2aaaf84c6ccb88ac66521771/header.jpg?t=1795368678",
       "genres": [
         "Экшен"
       ],
@@ -14057,7 +14057,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 651,
+      "price_rub": 652,
       "is_free": false
     },
     {
@@ -14705,14 +14705,14 @@
     {
       "id": 4275920,
       "title": "Pickochet",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/de4c4221d98426f33db1cb89131bba28a9a4a5a2/header.jpg?t=1794780268",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275920/de4c4221d98426f33db1cb89131bba28a9a4a5a2/header.jpg?t=1795815851",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 783,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -16875,7 +16875,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 794,
+      "price_rub": 920,
       "is_free": false
     },
     {
@@ -21830,7 +21830,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
@@ -23317,7 +23317,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 682,
+      "price_rub": 683,
       "is_free": false
     },
     {
